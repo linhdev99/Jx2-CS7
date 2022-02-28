@@ -1,8 +1,9 @@
-1/ Server
-+ chinh IP cua 2 file: servercfg.ini (gs) .......... bishop.ini (gw/Bishop)
----> Dong 192.168.1.8
-2/ Client
-+ sua file server_list.INI (<thu muc game>/settings)
+Download Server: https://drive.google.com/drive/folders/1LtoTsewDE17Faw6V1AnOXzQml3CFzUDQ?usp=sharing
+ 1/ Server
+ + chinh IP cua 2 file: servercfg.ini (gs) .......... bishop.ini (gw/Bishop)
+ ---> Dong 192.168.1.8
+ 2/ Client
+ + sua file server_list.INI (<thu muc game>/settings)
  3/ Server
  + vao VMware --> vzopaysys.exe
  4/ Server

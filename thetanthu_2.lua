@@ -129,7 +129,7 @@ end
 function Get_HoTroDauGame()
     local tSay = {
         "NhÀn 4000 vµng/Get_Money", --- Vang
-        "NhÀn 100.000 kim phi’uGet_Kimphieu", -- kim phieu
+        "NhÀn 100.000 kim phi’u/Get_Kimphieu", -- kim phieu
         "NhÀn 10.000 vÀt ph»m xu/Get_VPXu", -- VP Xu
         "NhÀn 1.000.000.000 kinh nghi÷m/Get_exp", -- kim nghiem
         "NhÀn DV + SM/Get_SMDV", -- su mon, danh vong
@@ -3083,3 +3083,5 @@ end
 function go_exit()
     ExitGame()
 end
+
+

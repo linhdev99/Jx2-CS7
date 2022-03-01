@@ -143,7 +143,7 @@ end
 --- VÃ‹t phÈm ----------------------------------------------------------------------------------------------------
 function Get_VP()
     local tSay = {
-        "NhËn Thµnh hµnh b¶o ®iÓn/Get_Thanhanh", -- than hanh 
+        "NhËn ThÇn hµnh b¶o ®iÓn/Get_Thanhanh", -- than hanh 
         "NhËn D­îc phÈm th­êng/Get_DuocPham", -- duoc pham  
         "NhËn D­îc phÈm xŞn/Get_DuocPham2", -- duoc pham xÃn 
         "NhËn QCVD/Get_QCVD", -- QCVD
@@ -346,7 +346,7 @@ end
 function Pet_OP()
     local tSay = {}
     if GetSkillLevel(30149) == 0 then
-        tinsert(tSay, format("%s/activePet", "Phôc sinh Phôc sinh Thó C­ng"))
+        tinsert(tSay, format("%s/activePet", "Phôc sinh Thó C­ng"))
     end
     tinsert(tSay, format("%s/getPetEgg", "NhËn Trøng Thó C­ng"))
     tinsert(tSay, format("%s/getLingLi", "NhËn ®iÓm linh lùc"))

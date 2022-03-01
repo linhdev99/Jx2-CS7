@@ -15,7 +15,7 @@ IsTBPHP = 0;
 nTBCT_ATT_A = 0;
 nTBCT_ATT_TP = 0;
 nTBCT_ATT_NB = 0;
-nTBCT_ATT_VK = 0;
+nTBCT_ATT_VK = 0; 
 
 outfitSzSay = {
         g_szTitle.."H·y lùa chän thuéc tÝnh:",

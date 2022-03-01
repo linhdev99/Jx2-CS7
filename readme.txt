@@ -17,3 +17,4 @@ Download Server: https://drive.google.com/drive/folders/1LtoTsewDE17Faw6V1AnOXzQ
  + gs/settings/item/
  6/ chinh skill
   + gs/settings/
+ 7/ kinh mach gs/settings/player/....

@@ -6,6 +6,7 @@ Include("\\script\\system_switch_config.lua")
 Include("\\settings\\static_script\\cheat\\gm_item_tifuzhiyin.lua");
 Include("\\settings\\static_script\\cheat\\task\\list.lua");
 Include("\\script\\lib\\globalfunctions.lua");
+Include("\\script\\equip_shop\\equip_shop_head.lua") -- mo shop
 
 g_szTitle = "<color=green>Peter Meow:<color>"
 
@@ -32,15 +33,16 @@ function OnUse(nItem)
             "\nNhËn MËt tÞch vµ yÕu quyÕt/Get_Book",
             ----------------------------------------
             format("%s/Get_TB", "NhËn trang bÞ"), -- trang bi
+            format("%s/Get_QuanHam", "NhËn Qu©n hµm"), -- Qu©n hµm
             format("%s/Get_HoTroDauGame", "NhËn hç trî ®Çu game"), -- ho tro nhan vat
-            format("%s/GetJingMai", "Thao t¸c kinh m¹ch"), -- kinh mach
             format("%s/Get_VP", "NhËn vËt phÈm"), -- vat pham
             format("%s/Get_NL", "NhËn nguyªn liÖu"), -- nguyen lieu 
-            format("%s/Get_VPNV", "NhËn vËt phÈm nhiÖm vô"), -- vat pham nhiem vu   
-            format("%s/Get_QuanHam", "NhËn Qu©n hµm"), -- Qu©n hµm
             format("%s/Get_Danh_Hieu", "NhËn danh hiÖu"), -- danh hieu
+            format("%s/GetJingMai", "Thao t¸c kinh m¹ch"), -- kinh mach
             format("%s/TongOperation", "Bang héi"), -- bang hoi
-            format("%s/Pet_OP", "Phôc sinh Thó C­ng") -- thu nuoi
+            format("%s/Pet_OP", "Phôc sinh Thó C­ng"), -- thu nuoi
+            format("%s/Get_VPNV", "NhËn vËt phÈm nhiÖm vô"), -- vat pham nhiem vu   
+            format("%s/Mo_Shop_ByID","Më shop theo ID"), -- mo shop
         }
         if 3 == nRoute then
             tinsert(tSay,
@@ -87,21 +89,29 @@ function CODECHECK1(nVar)
         SetTask(3005, 1)
     elseif nVar == "maxtp" then
         Maxtranphai()
+    elseif nVar == "1" then  
+        Get_Giftcode_1()
     else
         Talk(1, "", "Giftcode sai!")
     end
-
-    -- elseif danhan == 1 then
-    --     Talk(1, "",
-    --         "BÂ¹n ï¿½ï¿½ nhÃ‹n GiftCode nÂµy rÃ¥i. Vui lÃŸng khÂ«ng nhÃ‹n lÂ¹i")
-    -- else
-    --     Talk(1, "",
-    --         "BÂ¹n ï¿½ï¿½ nhÃ‹n GiftCode nÂµy rÃ¥i hoÃ†c GiftCode khÂ«ng tÃ¥n tÂ¹i trÂªn hÃ– thÃ¨ng")
-    -- end
 end
 function UpdateLevel_55()
     SetLevel(55, 0)
     Say("Tèng cÊp thµnh c«ng, ®¨ng nhËp l¹i!", 1, "Exit!/go_exit")
+end
+function Get_Giftcode_1()
+    AddItem(2,1,30669,1000) -- manh mat tich 
+    AddItem(2,1,30728,100) -- trung linh thu cao      
+
+    Say("Successful", 1, "Exit!/nothing")
+end
+function Mo_Shop_ByID()
+    AskClientForString("SHOPCODE1", "", 1, 9999, "NhËp Shop code")
+end
+function SHOPCODE1(nVar)
+    local strID = nVar
+    local numID = tonumber(strID)
+    show_equip_shop(numID)
 end
 -- ChuyÓn sinh ----------------------------------------------------------------------------------------------------
 function player_chuyen_sinh()
@@ -1668,10 +1678,10 @@ function Get_Thanhanh()
     Msg2SubWorld("NhËn 1 than hanh bao dien")
 end
 function Get_DuocPham()
-    AddItem(1, 0, 32, 100) -- cuu chuyen 
-    AddItem(1, 0, 6, 100) -- red 
-    AddItem(1, 0, 11, 100) -- blue 
-    AddItem(1, 0, 16, 100) -- yellow
+    AddItem(1, 0, 32, 200) -- cuu chuyen 
+    AddItem(1, 0, 30009, 100) -- red 
+    AddItem(1, 0, 30010, 100) -- blue 
+    AddItem(1, 0, 30011, 100) -- yellow
     Msg2SubWorld("NhËn duoc pham")
 end
 function Get_DuocPham2()
@@ -3008,7 +3018,7 @@ function confirm_get_translife_item()
         end
         for i = 1, 3 do
             gf_AddItemEx(tb_translife_cloth_cs6_nhanlai[nType_cs6][nBody][i],
-                "NhËn lï¿½itrang bÞ")
+                "NhËn l¹i trang bÞ")
         end
         for i = 1, getn(tb_translife_cloth[nType][nTransCount]) do
             local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 =

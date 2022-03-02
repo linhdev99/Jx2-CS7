@@ -43,7 +43,7 @@ CREATE TABLE `account` (
   `locked` int(1) NOT NULL DEFAULT '0',
   `LastLoginIP` int(11) NOT NULL DEFAULT '0',
   `PasspodMode` int(11) NOT NULL DEFAULT '0',
-  `email` varchar(64) NOT NULL DEFAULT 'sgame@sgamevn.com',
+  `email` varchar(64) NOT NULL DEFAULT 'adhppl99@gmail.com',
   `cmnd` int(9) NOT NULL DEFAULT '123456780',
   `dob` date DEFAULT NULL,
   `coin` int(20) NOT NULL DEFAULT '0',
@@ -65,15 +65,15 @@ CREATE TABLE `account` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Đang đổ dữ liệu cho bảng `account`
+-- ĝang đổ dữ liệu cho bảng `account`
 --
 
 INSERT INTO `account` (`id`, `username`, `secpassword`, `password`, `rowpass`, `trytocard`, `changepwdret`, `active`, `LockPassword`, `trytohack`, `newlocked`, `locked`, `LastLoginIP`, `PasspodMode`, `email`, `cmnd`, `dob`, `coin`, `dateCreate`, `lockedTime`, `testcoin`, `lockedCoin`, `bklactivenew`, `bklactive`, `nExtpoin1`, `nExtpoin2`, `nExtpoin4`, `nExtpoin5`, `nExtpoin6`, `nExtpoin7`, `scredit`, `nTimeActiveBKL`, `nLockTimeCard`) VALUES
-(20, 'luffy0x', 'e10adc3949ba59abbe56e057f20f883e', 'e10adc3949ba59abbe56e057f20f883e', '123456', 0, 0, 1, 1, 0, 0, 0, 218212544, 0, 'thuong@loliteam.net', 123456780, NULL, 9990403, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 740, 0, 0, 0),
-(21, 'luffy1x', 'e10adc3949ba59abbe56e057f20f883e', 'e10adc3949ba59abbe56e057f20f883e', '123456', 0, 0, 1, 1, 0, 0, 0, 218212544, 0, 'thuong@loliteam.net', 123456780, NULL, 9930527, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 3689, 0, 0, 0),
-(22, 'luffy2x', 'e10adc3949ba59abbe56e057f20f883e', 'e10adc3949ba59abbe56e057f20f883e', '123456', 0, 0, 1, 0, 0, 0, 0, 33663168, 0, 'thuong@loliteam.net', 123456780, NULL, 9954819, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 3933, 0, 0, 0),
-(23, 'a', '0cc175b9c0f1b6a831c399e269772661', '0cc175b9c0f1b6a831c399e269772661', 'a', 0, 0, 1, 0, 0, 0, 0, 33663168, 0, 'thuong@loliteam.net', 123456780, NULL, 9992899, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 1110, 0, 0, 0),
-(24, 'b', '92eb5ffee6ae2fec3ad71c777531578f', '92eb5ffee6ae2fec3ad71c777531578f', 'b', 0, 0, 1, 0, 0, 0, 0, 0, 0, 'thuong@loliteam.net', 123456780, NULL, 9999999, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
+(20, 'luffy0x', 'e10adc3949ba59abbe56e057f20f883e', 'e10adc3949ba59abbe56e057f20f883e', '123456', 0, 0, 1, 1, 0, 0, 0, 218212544, 0, 'adhppl99@gmail.com', 123456780, NULL, 9990403, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 740, 0, 0, 0),
+(21, 'luffy1x', 'e10adc3949ba59abbe56e057f20f883e', 'e10adc3949ba59abbe56e057f20f883e', '123456', 0, 0, 1, 1, 0, 0, 0, 218212544, 0, 'adhppl99@gmail.com', 123456780, NULL, 9930527, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 3689, 0, 0, 0),
+(22, 'luffy2x', 'e10adc3949ba59abbe56e057f20f883e', 'e10adc3949ba59abbe56e057f20f883e', '123456', 0, 0, 1, 0, 0, 0, 0, 33663168, 0, 'adhppl99@gmail.com', 123456780, NULL, 9954819, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 3933, 0, 0, 0),
+(23, 'a', '0cc175b9c0f1b6a831c399e269772661', '0cc175b9c0f1b6a831c399e269772661', 'a', 0, 0, 1, 0, 0, 0, 0, 33663168, 0, 'adhppl99@gmail.com', 123456780, NULL, 9992899, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 1110, 0, 0, 0),
+(24, 'b', '92eb5ffee6ae2fec3ad71c777531578f', '92eb5ffee6ae2fec3ad71c777531578f', 'b', 0, 0, 1, 0, 0, 0, 0, 0, 0, 'adhppl99@gmail.com', 123456780, NULL, 9999999, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
 (25, 'c', '4a8a08f09d37b73795649038408b5f33', '4a8a08f09d37b73795649038408b5f33', 'c', 0, 0, 1, 0, 0, 0, 0, 0, 0, 'petermeow@gmail.com', 123456780, NULL, 9999999, NULL, NULL, 9999999, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 --

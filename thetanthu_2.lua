@@ -20,7 +20,7 @@ function OnUse(nItem)
     if nRoute <= 0 then
         tSay = {
             "Gia NhËp m«n ph¸i (ChuyÓn sinh 0 cÊp 90)/JoinRoute_UpdateLevel",
-            format("%s/UpdateLevel_55", "\nTèng ChuyÓn sinh 0 cÊp 55"),
+            format("%s/UpdateLevel_55", "\nT¨ng ChuyÓn sinh 0 cÊp 55"),
             format("%s/Get_DuoiTho", "\nNhËn §u«i Thá")
         }
     else
@@ -42,7 +42,7 @@ function OnUse(nItem)
             format("%s/TongOperation", "Bang héi"), -- bang hoi
             format("%s/Pet_OP", "Phôc sinh Thó C­ng"), -- thu nuoi
             format("%s/Get_VPNV", "NhËn vËt phÈm nhiÖm vô"), -- vat pham nhiem vu   
-            format("%s/Mo_Shop_ByID","Më shop theo ID"), -- mo shop
+            format("%s/Mo_Shop_ByID", "Më shop theo ID") -- mo shop
         }
         if 3 == nRoute then
             tinsert(tSay,
@@ -86,10 +86,11 @@ function CODECHECK1(nVar)
             return 0;
         end
         AddItem(2, 1, 30166, 999)
+        AddItem(2, 1, 30094, 100)
         SetTask(3005, 1)
     elseif nVar == "maxtp" then
         Maxtranphai()
-    elseif nVar == "1" then  
+    elseif nVar == "1" then
         Get_Giftcode_1()
     else
         Talk(1, "", "Giftcode sai!")
@@ -97,11 +98,11 @@ function CODECHECK1(nVar)
 end
 function UpdateLevel_55()
     SetLevel(55, 0)
-    Say("Tèng cÊp thµnh c«ng, ®¨ng nhËp l¹i!", 1, "Exit!/go_exit")
+    Say("T¨ng cÊp thµnh c«ng, ®¨ng nhËp l¹i!", 1, "Exit!/go_exit")
 end
 function Get_Giftcode_1()
-    AddItem(2,1,30669,1000) -- manh mat tich 
-    AddItem(2,1,30728,100) -- trung linh thu cao      
+    AddItem(2, 1, 30669, 1000) -- manh mat tich 
+    AddItem(2, 1, 30728, 100) -- trung linh thu cao      
 
     Say("Successful", 1, "Exit!/nothing")
 end
@@ -501,269 +502,246 @@ function Process_Equip_LingTu()
         AddItem(0, 103, 30238, 1, 1, -1, -1, -1, -1, -1, -1, -1, 15)
     end
 end
-
+--------------------------------------------------Ã‘Â¡Ã”Ã±ÃƒÃ…Ã…Ã‰Â¿ÂªÃŠÂ¼--------------------------------------
+-- Gia nhËp Ph¸i
 function JoinRoute_UpdateLevel()
-    if GetPlayerFaction() ~= 0 then
-        Talk(1, "", format("ï¿½ï¿½ gia NhËp m«n ph¸i"));
-        return 0;
-    end
     local tMenu = {
-        "Thieu lam/join_sl", --
-        "Vo dang/join_wd", --
-        "Nga my/join_em", --
-        "Cai bang/join_gb", --
+        "ThiÕu L©m/join_sl", --
+        "Vâ §ang/join_wd", --
+        "Nga My/join_em", --
+        "C¸i Bang/join_gb", --
         "§­êng M«n/join_tm", --
-        "D­¬ng Gia/join_ym", --
-        "Ngu doc/join_wdu", --
-        "Con lon/join_kl", --
-        "Thuy yen/join_cy", --
-        "Exit/nothing"
+        "D­¬ng M«n/join_ym", --
+        "Ngò §éc/join_wdu", --
+        "C«n L«n/join_kl", --
+        "Thóy Yªn/join_cy", --
+        "Minh Gi¸o/join_mgb", --
+        "\nRa khái/nothing"
     };
-    Say("Chän ph¸i?", getn(tMenu), tMenu);
+    Say("Ng­¬i muèn gia nhËp l­u ph¸i g×?", getn(tMenu), tMenu);
 end
 
---------------------------------------------------Ã‘Â¡Ã”Ã±ÃƒÃ…Ã…Ã‰Â¿ÂªÃŠÂ¼--------------------------------------
-function join_sl()
-    if GetSex() == 2 then
-        Say(g_szTitle .. "Nam", 0);
-        return
-    end
-
-    if GetPlayerFaction() ~= 0 then
-        return
-    end
-
+function join_mgb()
     local szSay = {
-        g_szTitle .. "Chän", "Thieu lam vo tong/#enter_mp(4)",
-        "Thieu lam thien tong/#enter_mp(3)", "Thieu lam tuc gia/#enter_mp(2)", --
-        "Exit/nothing"
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "Minh Gi¸o Th¸nh ChiÕn/#enter_mp(25)",
+        "Minh Gi¸o TrËn Binh/#enter_mp(26)",
+        "Minh Gi¸o HuyÕt Nh©n/#enter_mp(27)", "\nRa khái/nothing"
+    };
+
+    SelectSay(szSay);
+end
+
+function join_sl()
+    local szSay = {
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "ThiÕu L©m vâ t«ng/#enter_mp(4)",
+        "ThiÕu L©m thiÒn t«ng/#enter_mp(3)",
+        "ThiÕu L©m tôc gia/#enter_mp(2)", "\nRa khái/nothing"
     };
 
     SelectSay(szSay);
 end
 
 function join_wd()
-    if GetPlayerFaction() ~= 0 then
-        return
-    end
 
     local szSay = {
-        g_szTitle .. "Chän", "Vo dang kiem/#enter_mp(14)",
-        "Vo dang but/#enter_mp(15)", --
-        "Exit/nothing"
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "Vâ §ang ®¹o gia/#enter_mp(14)", "Vâ §ang tôc gia/#enter_mp(15)",
+        "\nRa khái/nothing"
     };
 
     SelectSay(szSay);
 end
 
 function join_em()
-    if GetSex() == 1 then
-        Say(g_szTitle .. "Nu", 0);
-        return
-    end
-
-    if GetPlayerFaction() ~= 0 then
-        return
-    end
-
     local szSay = {
-        g_szTitle .. "Chän", "Nga My kiÕm/#enter_mp(8)",
-        "Nga My ®µn/#enter_mp(9)", "Exit/nothing"
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "Nga My phËt gia/#enter_mp(8)", "Nga My tôc gia/#enter_mp(9)",
+        "\nRa khái/nothing"
     };
 
     SelectSay(szSay);
 end
 
 function join_gb()
-    if GetPlayerFaction() ~= 0 then
-        return
-    end
 
     local szSay = {
-        g_szTitle .. "Chän", "C¸i bang quyÒn/#enter_mp(11)",
-        "C¸i bang O Y/#enter_mp(12)", --
-        "Exit/nothing"
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "C¸i Bang TÜnh y/#enter_mp(11)", "C¸i Bang ¤ Y/#enter_mp(12)",
+        "\nRa khái/nothing"
     };
     SelectSay(szSay);
 end
 
 function join_tm()
-    if GetPlayerFaction() ~= 0 then
-        return
-    end
 
     local szSay = {
-        g_szTitle .. "Chän", "§­êng M«n/#enter_mp(6)", "Exit/nothing"
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "§­êng M«n Ch©m/#enter_mp(6)",
+                -- "§­êng M«n NhËm HiÖp/#enter_mp(31)",
+         "\nRa khái/nothing"
     };
     SelectSay(szSay);
 end
 
 function join_ym()
-    if GetPlayerFaction() ~= 0 then
-        return
-    end
 
     local szSay = {
-        g_szTitle .. "Chän", "Duong Gia Thuong/#enter_mp(17)",
-        "Duong Gia Cung/#enter_mp(18)", "Exit/nothing"
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "D­¬ng M«n th­¬ng Kş/#enter_mp(17)",
+        "D­¬ng M«n Cung Kş/#enter_mp(18)", "\nRa khái/nothing"
     };
     SelectSay(szSay);
 end
 
 function join_wdu()
-    if GetPlayerFaction() ~= 0 then
-        return
-    end
 
     local szSay = {
-        g_szTitle .. "Chän", "Hiep doc/#enter_mp(20)", "Ta doc/#enter_mp(21)",
-        "Exit/nothing"
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "HiÖp §éc/#enter_mp(20)", "Tµ §éc/#enter_mp(21)",
+        "\nRa khái/nothing"
     };
     SelectSay(szSay);
 end
 
 function join_kl()
-    if GetSex() == 2 then
-        Talk(1, "", "Nam");
-        return 0
-    end
-
-    if GetPlayerFaction() ~= 0 then
-        return
-    end
-
     local szSay = {
-        g_szTitle .. "Chän", "Con lon thien su/#enter_mp(23)", "Exit/nothing"
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "C«n L«n Thiªn S­/#enter_mp(23)",
+        -- "C«n L«n KiÕm T«n/#enter_mp(32)", 
+        "\nRa khái/nothing"
     };
     SelectSay(szSay);
 end
 
 function join_cy()
-    if GetSex() == 1 then
-        Talk(1, "", "Nu");
-        return 0
-    end
-
-    if GetPlayerFaction() ~= 0 then
-        return
-    end
-
     local szSay = {
-        g_szTitle .. "Chän", "Thuy yen vu tien/#enter_mp(29)",
-        "Thuy yen linh nu/#enter_mp(30)", "Exit/nothing"
+        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
+        "Thóy Yªn Vò Tiªn/#enter_mp(29)",
+        "Thóy Yªn Linh N÷/#enter_mp(30)", "\nRa khái/nothing"
     };
     SelectSay(szSay);
 end
 
------------------------------------------ÃˆÃ«ÃƒÃ…Ã…Ã‰----------------------------------------
 function enter_mp(nRoute)
     local nBegin = 0;
     local nEnd = 0;
-    local nBody = GetBody(); -- nam hay nu
+    local nBody = GetBody(); -- 1=Õı³£ÄĞ£¬2=¿ıÎàÄĞ£¬3=ĞÔ¸ĞÅ®£¬4=½¿Ğ¡Å®
 
-    SetPlayerRoute(nRoute); -- Ã‰Ã¨Ã–ÃƒÃÃ·Ã…Ã‰
+    SetPlayerRoute(nRoute); -- ÉèÖÃÁ÷ÅÉ
 
-    if nRoute == 2 then -- Ã‰Ã™ÃÃ–Ã‹Ã—Â¼Ã’
+    if nRoute == 2 then -- ÉÙÁÖË×¼Ò
         LearnSkill(3);
         LearnSkill(5);
         LearnSkill(32);
         nBegin = 21;
         nEnd = 31;
-    elseif nRoute == 3 then -- Ã‰Ã™ÃÃ–Ã¬Ã¸Ã‰Â®
+    elseif nRoute == 3 then -- ÉÙÁÖìøÉ®
         LearnSkill(6);
         LearnSkill(57);
         nBegin = 45;
         nEnd = 56;
-    elseif nRoute == 4 then -- Ã‰Ã™ÃÃ–ÃÃ¤Ã‰Â®
+    elseif nRoute == 4 then -- ÉÙÁÖÎäÉ®
         LearnSkill(2);
         LearnSkill(44);
         nBegin = 33;
         nEnd = 43;
-    elseif nRoute == 14 then -- ÃÃ¤ÂµÂ±ÂµÃ€Â¼Ã’
+    elseif nRoute == 14 then -- Îäµ±µÀ¼Ò
         LearnSkill(4);
         LearnSkill(146);
         nBegin = 125;
         nEnd = 145;
-    elseif nRoute == 15 then -- ÃÃ¤ÂµÂ±Ã‹Ã—Â¼Ã’
+    elseif nRoute == 15 then -- Îäµ±Ë×¼Ò
         LearnSkill(5);
         LearnSkill(159);
         nBegin = 147;
         nEnd = 158;
-    elseif nRoute == 8 then -- Â¶Ã«Ã¡Ã’Â·Ã°Â¼Ã’
+    elseif nRoute == 8 then -- ¶ëáÒ·ğ¼Ò
         LearnSkill(4);
         LearnSkill(89);
         nBegin = 75
         nEnd = 88;
-    elseif nRoute == 9 then -- Â¶Ã«Ã¡Ã’Ã‹Ã—Â¼Ã’
+    elseif nRoute == 9 then -- ¶ëáÒË×¼Ò
         LearnSkill(10);
         LearnSkill(102);
         nBegin = 90
         nEnd = 101;
-    elseif nRoute == 11 then -- Ã˜Â¤Â°Ã¯Â¾Â»Ã’Ã‚
+    elseif nRoute == 11 then -- Ø¤°ï¾»ÒÂ
         LearnSkill(2);
         LearnSkill(113);
         nBegin = 103
         nEnd = 112;
-    elseif nRoute == 12 then -- Ã˜Â¤Â°Ã¯ÃÃ›Ã’Ã‚
+    elseif nRoute == 12 then -- Ø¤°ïÎÛÒÂ
         LearnSkill(5);
         LearnSkill(124);
         nBegin = 114
         nEnd = 123;
-    elseif nRoute == 6 then -- ÃŒÃ†ÃƒÃ…
+    elseif nRoute == 6 then -- ÌÆÃÅ
         LearnSkill(7);
         LearnSkill(74);
         nBegin = 58
         nEnd = 73;
-    elseif nRoute == 17 then -- Ã‘Ã®ÃƒÃ…Ã‡Â¹Ã†Ã¯
+    elseif nRoute == 17 then -- ÑîÃÅÇ¹Æï
         LearnSkill(11);
         LearnSkill(732);
         nBegin = 720;
         nEnd = 731;
-    elseif nRoute == 18 then -- Ã‘Ã®ÃƒÃ…Â¹Â­Ã†Ã¯
+    elseif nRoute == 18 then -- ÑîÃÅ¹­Æï
         LearnSkill(12);
         LearnSkill(745);
         nBegin = 733;
         nEnd = 744;
-    elseif nRoute == 20 then -- ÃÃ¥Â¶Â¾ÃÂ°ÃÃ€
+    elseif nRoute == 20 then -- Îå¶¾Ğ°ÏÀ
         LearnSkill(13);
         LearnSkill(775);
         nBegin = 364;
         nEnd = 377;
-    elseif nRoute == 21 then -- ÃÃ¥Â¶Â¾Â¹Ã†ÃŠÂ¦
+    elseif nRoute == 21 then -- Îå¶¾¹ÆÊ¦
         LearnSkill(14);
         LearnSkill(774);
         nBegin = 347;
         nEnd = 363;
-    elseif nRoute == 23 then -- Ã€Â¥Ã‚Ã˜ÃŒÃ¬ÃŠÂ¦
+    elseif nRoute == 23 then -- À¥ÂØÌìÊ¦
         LearnSkill(4);
         LearnSkill(1032);
         nBegin = 1017;
         nEnd = 1031;
-    elseif nRoute == 25 then -- ÃƒÃ·Â½ÃŒÃŠÂ¥Ã•Â½
+    elseif nRoute == 25 then -- Ã÷½ÌÊ¥Õ½
         LearnSkill(3);
         LearnSkill(1066);
         nBegin = 1053;
         nEnd = 1065;
-    elseif nRoute == 26 then -- ÃƒÃ·Â½ÃŒÃ•Ã³Â±Ã¸
+    elseif nRoute == 26 then -- Ã÷½ÌÕó±ø
         LearnSkill(8);
         LearnSkill(1096);
         nBegin = 1083;
         nEnd = 1095;
-    elseif nRoute == 27 then -- ÃƒÃ·Â½ÃŒÃ‘ÂªÃˆÃ‹
+    elseif nRoute == 27 then -- Ã÷½ÌÑªÈË
         LearnSkill(14);
         LearnSkill(1213);
         nBegin = 1131;
         nEnd = 1143;
-    elseif nRoute == 29 then -- Â´Ã¤Ã‘ÃŒÃÃ¨ÃÃ‰
+    elseif nRoute == 29 then -- ´äÑÌÎèÏÉ
         LearnSkill(15);
         LearnSkill(1196);
         nBegin = 1165;
         nEnd = 1176;
-    elseif nRoute == 30 then -- Â´Ã¤Ã‘ÃŒÃÃ©Ã…Â®
+    elseif nRoute == 30 then -- ´äÑÌÁéÅ®
         LearnSkill(16);
         LearnSkill(1230);
         nBegin = 1217;
         nEnd = 1229;
+    elseif nRoute == 31 then -- ´äÑÌÎèÏÉ
+        LearnSkill(17);
+        LearnSkill(1883);
+        nBegin = 1872;
+        nEnd = 1882;
+    elseif nRoute == 32 then -- ´äÑÌÁéÅ®
+        LearnSkill(4);
+        LearnSkill(1897);
+        nBegin = 1885;
+        nEnd = 1896;
     else
         return
     end
@@ -1471,12 +1449,13 @@ function Get_JinShe()
     end
 
 end
-
 function Get_Book()
     local tSay = {
-        "NhËn MËt tŞch/Get_Book_ZhenJuan",
-        "NhËn YÕu QuyÕt/Get_Book_JueYao",
-        "----------------------------------/nothing",
+        -- "NhËn MËt tŞch/Get_Book_ZhenJuan",
+        "NhËn m¶nh M¹t tŞch/Get_Fragment_Book", --
+        "----------------------------------/nothing", --
+        "NhËn YÕu QuyÕt/Get_Book_JueYao", --
+        "----------------------------------/nothing", --
         "\nLuyÖn mËt tŞch nhanh/Get_Book_Update"
     };
     tinsert(tSay, "\nExit/nothing");
@@ -1489,7 +1468,10 @@ function Get_Book()
     -- };
     -- SelectSay(szSay);
 end
-
+function Get_Fragment_Book()
+    AddItem(2, 1, 30669, 1000)
+    Msg2Player("NhËn 1000 m¶nh mËt tŞch")
+end
 function Get_Book_ZhenJuan()
     if gf_Judge_Room_Weight(7, 1, g_szTitle) ~= 1 then
         return 0;
@@ -1907,11 +1889,21 @@ function getJingMaiTongRen()
 end
 
 function GetJingMai_Update()
+    -- local nLevel = MeridianGetLevel()
+    -- for i = nLevel + 1, 4 do
+    --     MeridianUpdateLevel()
+    -- end
+    -- local nNum = 600000 - (MeridianGetDanTian() + MeridianGetQiHai());
+    -- if nNum > 0 then
+    --     AwardGenuineQi(nNum);
+    -- end
+    -- PlaySound("\\sound\\sound_i016.wav");
+    -- SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0)
     local nLevel = MeridianGetLevel()
-    for i = nLevel + 1, 4 do
+    for i = nLevel + 1, 6 do
         MeridianUpdateLevel()
     end
-    local nNum = 600000 - (MeridianGetDanTian() + MeridianGetQiHai());
+    local nNum = 1200000 - (MeridianGetDanTian() + MeridianGetQiHai());
     if nNum > 0 then
         AwardGenuineQi(nNum);
     end
@@ -1951,11 +1943,11 @@ end
 function change_PhucSinh()
     local tSay = {}
     local tHeader = "Chän"
-    tinsert(tSay, "Long/#confirm_change_chuyensinh(1)")
-    tinsert(tSay, "Ho/#confirm_change_chuyensinh( 2)")
-    tinsert(tSay, "Ung/#confirm_change_chuyensinh(3)")
-    tinsert(tSay, "Phung/#confirm_change_chuyensinh(4)")
-    tinsert(tSay, "\nExit/nothing")
+    tinsert(tSay, "Long\n/#confirm_change_chuyensinh(1)")
+    tinsert(tSay, "Ho\n/#confirm_change_chuyensinh( 2)")
+    tinsert(tSay, "Ung\n/#confirm_change_chuyensinh(3)")
+    tinsert(tSay, "Phung\n/#confirm_change_chuyensinh(4)")
+    tinsert(tSay, "\nExit\n/nothing")
     Say(tHeader, getn(tSay), tSay)
 end
 function confirm_change_chuyensinh(nWay)
@@ -3029,8 +3021,11 @@ function confirm_get_translife_item()
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
             --	gf_AddItemEx({G, D, P, nCount,1, lvatt1, att1, lvatt2, att2, lvatt3, att3},tb_translife_cloth[nType][nTransCount][i][1])
         end
-        Talk(1,"","§©y lµ nh÷ng vËy quı gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")	
-		WriteLogEx("Chuyen Sinh","nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh theo h­íng "..tb_translife_seal[nType_cs6][3])	
+        Talk(1, "",
+            "§©y lµ nh÷ng vËy quı gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")
+        WriteLogEx("Chuyen Sinh",
+            "nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh theo h­íng " ..
+                tb_translife_seal[nType_cs6][3])
         return
     end
     ---------chuyÃ“n sinh 7
@@ -3040,7 +3035,8 @@ function confirm_get_translife_item()
         gf_AddItemEx(tb_translife_seal_cs6[nType_cs7][2],
             tb_translife_seal_cs6[nType_cs7][1])
         if GetLevel() < 79 then
-            Talk(1,"","§¹i hiÖp ch­a ®ñ yªu cÇu ®Ó nhËn l¹i trang bŞ")	
+            Talk(1, "",
+                "§¹i hiÖp ch­a ®ñ yªu cÇu ®Ó nhËn l¹i trang bŞ")
             return
         end
         -- SetTask(336, GetTask(336) - 100)
@@ -3068,8 +3064,11 @@ function confirm_get_translife_item()
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
             --	gf_AddItemEx({G, D, P, nCount,1, lvatt1, att1, lvatt2, att2, lvatt3, att3},tb_translife_cloth[nType][nTransCount][i][1])
         end
-        Talk(1,"","§©y lµ nh÷ng vËy quı gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")	
-		WriteLogEx("Chuyen Sinh","nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh 7 theo h­íng "..tb_translife_seal[nType_cs6][3])		
+        Talk(1, "",
+            "§©y lµ nh÷ng vËy quı gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")
+        WriteLogEx("Chuyen Sinh",
+            "nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh 7 theo h­íng " ..
+                tb_translife_seal[nType_cs6][3])
         return
     end
     ---------------
@@ -3087,11 +3086,13 @@ function confirm_get_translife_item()
     end
     -- SetTask(336, GetTask(336) - 100)
     -- Msg2Player("BÂ¹n bŞ trÃµ 100 Â®iÃ“m sÂ­ mÂ«n.")
-    Talk(1,"",szNpcName.."§©y lµ nh÷ng vËy quı gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")	
-	WriteLogEx("Chuyen Sinh","nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh lÇn "..nTransCount.." theo h­íng "..tb_translife_seal[nType][3])	
+    Talk(1, "", szNpcName ..
+        "§©y lµ nh÷ng vËy quı gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")
+    WriteLogEx("Chuyen Sinh",
+        "nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh lÇn " .. nTransCount ..
+            " theo h­íng " .. tb_translife_seal[nType][3])
 end
 function go_exit()
     ExitGame()
 end
-
 

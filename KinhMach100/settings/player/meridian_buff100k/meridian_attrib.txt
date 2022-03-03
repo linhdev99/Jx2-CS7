@@ -1,0 +1,289 @@
+AttrId	AttrName	Rate	Event	Time	SkillId	Attr	Value1	Value2	Value3	Value4	Value5	Value6	Value7	Value8	Value9	Value10	DescColor	Desc
+Sè hiÖu thuéc tİnh: 	ÊôĞÔÃû³Æ	 	Thuéc tİnh ph¸t sinh khi (0 chØ t¸c dông khi tr¹ng bŞ, 1 ®¸nh tróng kÎ ®Şch t¸c dông lªn b¶n th©n, 2 ®¸nh b¹i kÎ ®Şch t¸c dông lªn b¶n th©n, 3 bŞ kÎ ®Şch ®¸nh tróng t¸c dông lªn b¶n th©n, 4 khi håi sinh t¸c dông lªn b¶n th©n, 5 khi ®¸nh tróng kÎ ®Şch cã t¸c dông lªn ng­êi kÎ ®Şch, 6 bŞ kÎ ®Şch ®¸nh tróng cã t¸c dông lªn kÎ ®Şch)		NÕu lµ thuéc tİnh kü n¨ng, ghi nhËn ID kü n¨ng	Lo¹i thuéc tİnh (d·y kı tù)	TrŞ Lv1	TrŞ Lv2	TrŞ Lv3	TrŞ Lv4	TrŞ Lv5	TrŞ Lv6	TrŞ Lv7	TrŞ Lv8	TrŞ Lv9	TrŞ Lv10	Kı tù mµu s¾c miªu t¶	Chó thİch
+1	ÈÎÂöµãÑ¨ÕæÆø					NEED_ZHEN_QI												
+2	¶½ÂöµãÑ¨ÕæÆø					NEED_ZHEN_QI												
+3	´øÂöµãÑ¨ÕæÆø					NEED_ZHEN_QI												
+4	³åÂöµãÑ¨ÕæÆø					NEED_ZHEN_QI												
+5	Çú¹ÇµãÑ¨ÕæÆø					NEED_ZHEN_QI	1000	1000	1000	1000	1000	1000						
+6	ÖĞ¼«µãÑ¨ÕæÆø					NEED_ZHEN_QI	1000	1000	1000	1000	1000	1000						
+7	ÉñØÊµãÑ¨ÕæÆø					NEED_ZHEN_QI	1000	1000	1000	1000	1000	1000						
+8	¹ØÔªµãÑ¨ÕæÆø					NEED_ZHEN_QI	1000	1000	1000	1000	1000	1000						
+9	½¨ÀïµãÑ¨ÕæÆø					NEED_ZHEN_QI	1000	1000	1000	1000	1000	1000						
+10	ğ¯Î²µãÑ¨ÕæÆø					NEED_ZHEN_QI	1500	1500	1500	1500	1500	1500						
+11	ëşÖĞµãÑ¨ÕæÆø					NEED_ZHEN_QI	1500	1500	1500	1500	1500	1500						
+12	·ç³ØµãÑ¨ÕæÆø					NEED_ZHEN_QI	2000	2000	2000	2000	2000	2000						
+13	°ÙÀïµãÑ¨ÕæÆø					NEED_ZHEN_QI	3000	3000	3000	3000	3000	3000						
+14	ÓñÌÃµãÑ¨ÕæÆø					NEED_ZHEN_QI	3000	3000	3000	3000	3000	3000						
+15	×Ï¹¬µãÑ¨ÕæÆø					NEED_ZHEN_QI	3000	3000	3000	3000	3000	3000						
+16	è¯çáµãÑ¨ÕæÆø					NEED_ZHEN_QI	3000	3000	3000	3000	3000	3000						
+17	Á®ÈªµãÑ¨ÕæÆø					NEED_ZHEN_QI	3000	3000	3000	3000	3000	3000						
+18	ÌìÍ»µãÑ¨ÕæÆø					NEED_ZHEN_QI	3000	3000	3000	3000	3000	3000						
+19	ĞüÊàµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+20	ºó¶¥µãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+21	ÑÆÃÅµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+22	ÃüÃÅµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+23	ÖÁÑôµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+24	°Ù»áµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+25	ÖĞÊàµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+26	ÉñµÀµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+27	ÉíÖùµãÑ¨ÕæÆø					NEED_ZHEN_QI	6000	6000	6000	6000	6000	6000						
+28	·ç¸®µãÑ¨ÕæÆø					NEED_ZHEN_QI	6000	6000	6000	6000	6000	6000						
+29	½îËõµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+30	ÑüÓáµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+31	¼¹ÖĞµãÑ¨ÕæÆø					NEED_ZHEN_QI	10000	10000	10000	10000	10000	10000						
+32	ÁéÌ¨µãÑ¨ÕæÆø					NEED_ZHEN_QI	10000	10000	10000	10000	10000	10000						
+33	´ó×µµãÑ¨ÕæÆø					NEED_ZHEN_QI	10000	10000	10000	10000	10000	10000						
+34	ÒõÁêµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+35	ÄÔ»§µãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+36	¾¦Ã÷µãÑ¨ÕæÆø					NEED_ZHEN_QI	14000	14000	14000	14000	14000	14000						
+37	ÍâÇğµãÑ¨ÕæÆø					NEED_ZHEN_QI	6000	6000	6000	6000	6000	6000						
+38	Ìì×ÚµãÑ¨ÕæÆø					NEED_ZHEN_QI	6000	6000	6000	6000	6000	6000						
+39	¼ç¾®µãÑ¨ÕæÆø					NEED_ZHEN_QI	7000	7000	7000	7000	7000	7000						
+40	Íê¹ÇµãÑ¨ÕæÆø					NEED_ZHEN_QI	7000	7000	7000	7000	7000	7000						
+41	ÕıÓªµãÑ¨ÕæÆø					NEED_ZHEN_QI	7000	7000	7000	7000	7000	7000						
+42	Î¬µÀµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+43	±¾ÉñµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+44	Ñô°×µãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+45	Ìì³åµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+46	³ĞÁéµãÑ¨ÕæÆø					NEED_ZHEN_QI	9000	9000	9000	9000	9000	9000						
+47	Ä¿´°µãÑ¨ÕæÆø					NEED_ZHEN_QI	9000	9000	9000	9000	9000	9000						
+48	¹âÃ÷µãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+49	ĞüÖÓµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+50	ÎåÊàµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+51	ÉÙ³åµãÑ¨ÕæÆø					NEED_ZHEN_QI	13000	13000	13000	13000	13000	13000						
+52	´óºÕµãÑ¨ÕæÆø					NEED_ZHEN_QI	6000	6000	6000	6000	6000	6000						
+53	ÉÌÇúµãÑ¨ÕæÆø					NEED_ZHEN_QI	6000	6000	6000	6000	6000	6000						
+54	Òõ¶¼µãÑ¨ÕæÆø					NEED_ZHEN_QI	7000	7000	7000	7000	7000	7000						
+55	ÓÄÃÅµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+56	ºá¹ÇµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+57	Ì«ÒÒµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+58	Ã¤ÓáµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+59	ËÄÂúµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+60	ÖĞ×¢µãÑ¨ÕæÆø					NEED_ZHEN_QI	12000	12000	12000	12000	12000	12000						
+61	ÆøÑ¨µãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+62	Ê¯¹ØµãÑ¨ÕæÆø					NEED_ZHEN_QI	12000	12000	12000	12000	12000	12000						
+63	Í¨¹ÈµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+64	¹ØÃÅµãÑ¨ÕæÆø					NEED_ZHEN_QI	8000	8000	8000	8000	8000	8000						
+65	Æø³åµãÑ¨ÕæÆø					NEED_ZHEN_QI	13000	13000	13000	13000	13000	13000						
+66	»ª¸ÇµãÑ¨ÕæÆø					NEED_ZHEN_QI	4000	4000	4000	4000	4000	4000						
+67	ÈÎÂö¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+68	¶½Âö¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+69	´øÂö¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+70	³åÂö¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+71	Çú¹Ç¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+72	ÖĞ¼«¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+73	ÉñØÊ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+74	¹ØÔª¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+75	½¨Àï¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+76	ğ¯Î²¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+77	ëşÖĞ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+78	·ç³Ø¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+79	°ÙÀï¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+80	ÓñÌÃ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+81	×Ï¹¬¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+82	è¯çá¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+83	Á®Èª¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+84	ÌìÍ»¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+85	ĞüÊà¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+86	ºó¶¥¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+87	ÑÆÃÅ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+88	ÃüÃÅ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+89	ÖÁÑô¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+90	°Ù»á¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+91	ÖĞÊà¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+92	ÉñµÀ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+93	ÉíÖù¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+94	·ç¸®¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+95	½îËõ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+96	ÑüÓá¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+97	¼¹ÖĞ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+98	ÁéÌ¨¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+99	´ó×µ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+100	ÒõÁê¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+101	ÄÔ»§¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+102	¾¦Ã÷¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+103	ÍâÇğ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+104	Ìì×Ú¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+105	¼ç¾®¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+106	Íê¹Ç¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+107	ÕıÓª¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+108	Î¬µÀ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+109	±¾Éñ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+110	Ñô°×¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+111	Ìì³å¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+112	³ĞÁé¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+113	Ä¿´°¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+114	¹âÃ÷¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+115	ĞüÖÓ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+116	ÎåÊà¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+117	ÉÙ³å¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+118	´óºÕ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+119	ÉÌÇú¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+120	Òõ¶¼¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+121	ÓÄÃÅ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+122	ºá¹Ç¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+123	Ì«ÒÒ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+124	Ã¤Óá¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+125	ËÄÂú¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+126	ÖĞ×¢¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+127	ÆøÑ¨¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+128	Ê¯¹Ø¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+129	Í¨¹È¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+130	¹ØÃÅ¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+131	Æø³å¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+132	»ª¸Ç¾³½çĞèÇó					NEED_JING_JIE	1	2	3	4	5	6						
+133	ÈÎÂöÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL												
+134	¶½ÂöÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL												
+135	´øÂöÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL												
+136	³åÂöÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL												
+137	Çú¹ÇÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+138	ÖĞ¼«Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+139	ÉñØÊÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+140	¹ØÔªÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+141	½¨ÀïÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+142	ğ¯Î²Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+143	ëşÖĞÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+144	·ç³ØÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+145	°ÙÀïÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+146	ÓñÌÃÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+147	×Ï¹¬Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+148	è¯çáÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+149	Á®ÈªÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+150	ÌìÍ»Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+151	ĞüÊàÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+152	ºó¶¥Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+153	ÑÆÃÅÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+154	ÃüÃÅÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+155	ÖÁÑôÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+156	°Ù»áÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+157	ÖĞÊàÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+158	ÉñµÀÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+159	ÉíÖùÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+160	·ç¸®Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+161	½îËõÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+162	ÑüÓáÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+163	¼¹ÖĞÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+164	ÁéÌ¨Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+165	´ó×µÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+166	ÒõÁêÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+167	ÄÔ»§Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+168	¾¦Ã÷Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+169	ÍâÇğÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+170	Ìì×ÚÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+171	¼ç¾®Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+172	Íê¹ÇÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+173	ÕıÓªÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+174	Î¬µÀÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+175	±¾ÉñÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+176	Ñô°×Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+177	Ìì³åÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+178	³ĞÁéÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+179	Ä¿´°Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+180	¹âÃ÷Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+181	ĞüÖÓÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+182	ÎåÊàÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+183	ÉÙ³åÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+184	´óºÕÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+185	ÉÌÇúÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+186	Òõ¶¼Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+187	ÓÄÃÅÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+188	ºá¹ÇÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+189	Ì«ÒÒÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+190	Ã¤ÓáÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+191	ËÄÂúÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+192	ÖĞ×¢Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+193	ÆøÑ¨Ç°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+194	Ê¯¹ØÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+195	Í¨¹ÈÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+196	¹ØÃÅÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+197	Æø³åÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+198	»ª¸ÇÇ°ÖÃÑ¨Î»ÖØÊıĞèÇó					NEED_PRE_NODE_LEVEL	1	2	3	4	5	6						
+199	5Çú¹Ç		0			state_max_carry_percent_add	10	12	14	16	18	20					Green2	Giíi h¹n v¸c n¨ng t¨ng %d%%
+200	6ÖĞ¼«		0			state_stamina_max_point_add	10	14	18	22	26	30					Green2	Giíi h¹n thÓ lùc t¨ng %d ®iÓm
+201	7ÉñØÊ		0			state_mounting_speed_add	1000	2000	3000	4000	5000	6000					Green2	Tèc ®é céng thªm khi c­ìi ngùa t¨ng%d%%
+202	8¹ØÔª		0			state_inc_exp_gain	100	200	300	400	500	600					Green2	kinh nghiÖm nhËn ®­îc t¨ng %d%%
+203	9½¨Àï		0			state_dec_equip_need	99	99	99	99	99	99					Green2	Yªu cÇu cÊp ®é cña trang bŞ gi¶m %d
+204	10ğ¯Î²		0			state_attack_buff_time	100000	120000	140000	160000	180000	200000					Blue0	Thêi gian hç trî c«ng kİch kĞo dµi %d%%
+205	11ëşÖĞ		0			state_defence_buff_time	100000	120000	140000	160000	180000	200000					Blue0	Thêi gian hç trî phßng ngù kĞo dµi %d%%
+206	12·ç³Ø		0			state_move_speed_percent_add	10	12	14	16	18	20					Blue0	Tèc ®é di chuyÓn t¨ng %d%%
+207	13°ÙÀï				30122	SKILL_ATTR	1	2	3	4	5	6	7	8	9	10	gold	Kü n¨ng chñ ®éng %d
+208	14ÓñÌÃ		0			state_add_vitality	10	16	22	28	34	40					gold	G©n cèt t¨ng %d
+209	15×Ï¹¬		0			state_add_strength	10	16	22	28	34	40					gold	Søc m¹nh t¨ng %d
+210	16è¯çá		0			state_add_observe	10	16	22	28	34	40					gold	Linh ho¹t t¨ng %d
+211	17Á®Èª		0			state_add_energy	10	16	22	28	34	40					gold	Néi c«ng t¨ng %d
+212	18ÌìÍ»		0			state_add_dexterity	10	16	22	28	34	40					gold	Th©n ph¸p t¨ng %d
+213	19ĞüÊà		0			state_quench_posion	100	116	132	212	244	276					Blue0	§éc s¸t t¨ng %d
+214	20ºó¶¥		0			state_npc_event_2_magic	6553639	7864359	9175079	15728679	18350119	20971559
+215	21ÑÆÃÅ		0			state_add_dexterity	15	20	25	30	35	40					Blue0	Th©n ph¸p t¨ng %d
+216	22ÃüÃÅ		0			state_add_dexterity	15	20	25	30	35	40					Blue0	Th©n ph¸p t¨ng %d
+217	23ÖÁÑô		0			state_damage_point	90	102	114	174	198	222					Blue0	S¸t th­¬ng t¨ng %d
+218	24°Ù»á		0			state_npc_event_2_magic	6553640	7864360	9175080	15728680	18350120	20971560
+219	25ÖĞÊà		0			state_add_observe	15	20	25	30	35	40					Blue0	Linh ho¹t t¨ng %d
+220	26ÉñµÀ		0			state_add_observe	15	20	25	30	35	40					Blue0	Linh ho¹t t¨ng %d
+221	27ÉíÖù		0			state_npc_event_2_magic	3276837	3932197	4587557	7864357	9175077	10485797
+222	28·ç¸®		0			state_npc_event_2_magic	6553641	7864361	9175081	15728681	18350121	20971561
+223	29½îËõ		0			state_add_strength	15	20	25	35	45	55					Blue0	Søc m¹nh t¨ng %d
+224	30ÑüÓá		0			state_add_energy	15	20	25	35	45	55					Blue0	Néi c«ng t¨ng %d
+225	31¼¹ÖĞ		0			state_attack_speed_add	10	14	18	22	26	30					gold	Tèc ®é c«ng kİch % t¨ng %d%%
+226	32ÁéÌ¨		0			state_dodge_point_increase	150	200	250	300	350	400					gold	NĞ tr¸nh t¨ng %d
+227	33´ó×µ		0			state_life_max_point_add	750	1200	1650	2100	2550	3000					gold	Sinh lùc t¨ng %d
+228	34ÒõÁê					state_magic_armor_add	15	20	25	33	40	48					gold	TrŞ sè hé gi¸p néi phßng t¨ng %d
+229	35ÄÔ»§					state_physical_armor_add	15	20	25	33	40	48					gold	TrŞ sè hé gi¸p ngo¹i phßng t¨ng %d
+230	36¾¦Ã÷				30123	SKILL_ATTR	1	2	3	4	5	6	7	8	9	10	gold	Kü n¨ng chñ ®éng:
+231	37ÍâÇğ		0			state_p_attack_percent_add	5	8	11	14	17	20					Blue0	Ngo¹i c«ng t¨ng %d%%
+232	38Ìì×Ú		0			state_npc_event_2_magic	6553642	9175082	11796522	14417962	17039402	19660842
+233	39¼ç¾®		0			state_vitality_life_per_add	5	8	11	14	17	20					Blue0	G©n cèt ¶nh h­¬ng sinh lùc t¨ng %d%%
+234	40Íê¹Ç		0			state_add_vitality	15	20	25	30	35	40					Blue0	G©n cèt t¨ng %d
+235	41ÕıÓª		0			state_strength_attack_per_add	5	8	11	14	17	20					Blue0	Søc m¹nh ¶nh h­ëng ngo¹i c«ng t¨ng%d%%
+236	42Î¬µÀ		0			state_add_strength	15	20	25	35	45	55					Blue0	Søc m¹nh t¨ng %d
+237	43±¾Éñ		0			state_add_dexterity	15	20	25	35	45	55					Blue0	Th©n ph¸p t¨ng %d
+238	44Ñô°×		0			state_add_energy	15	20	25	35	45	55					Blue0	Néi c«ng t¨ng %d
+239	45Ìì³å		0			state_accuracy_point_increase	200	275	350	425	500	575					Blue0	Chİnh x¸c t¨ng %d
+240	46³ĞÁé		0			state_fast_recovery	50	60	70	80	90	100					gold	Thêi gian ¶nh h­ëng gi¶m %d%%
+241	47Ä¿´°		0			state_knockback_immune	5	6	7	8	9	10					gold	Tr¸nh hiÖu qu¶ bŞ ®Èy lïi t¨ng %d%%
+242	48¹âÃ÷		0			state_life_max_point_add	1000	1600	2200	2800	3400	4000					gold	Giíi h¹n sinh lùc t¨ng %d
+243	49ĞüÖÓ					state_physical_armor_add	20	26	32	41	50	59					gold	TrŞ sè hé gi¸p ngo¹i phßng t¨ng %d
+244	50ÎåÊà					state_magic_armor_add	20	26	32	41	50	59					gold	TrŞ sè hé gi¸p néi phßng t¨ng %d
+245	51ÉÙ³å				30124	SKILL_ATTR	1	2	3	4	5	6	7	8	9	10	gold	Kü n¨ng chñ ®éng:
+246	52´óºÕ		0			state_m_attack_percent_add	5	8	11	14	17	20					Blue0	S¸t th­¬ng néi c«ng %d%%
+247	53ÉÌÇú		0			state_npc_event_2_magic	6553643	9175083	11796523	14417963	17039403	19660843
+248	54Òõ¶¼		0			state_energy_i_attack_per_add	5	8	11	14	17	20					Blue0	Néi c«ng ¶nh h­ëng néi c«ng t¨ng %d%%
+249	55ÓÄÃÅ		0			state_add_energy	15	20	25	35	45	55					Blue0	Néi c«ng t¨ng %d
+250	56ºá¹Ç		0			state_add_vitality	15	20	25	30	35	40					Blue0	G©n cèt t¨ng %d
+251	57Ì«ÒÒ		0			state_add_observe	15	20	25	35	45	55					Blue0	Linh ho¹t t¨ng %d
+252	58Ã¤Óá		0			state_add_dexterity	15	20	25	35	45	55					Blue0	Th©n ph¸p t¨ng %d
+253	59ËÄÂú		0			state_medicine_time_increase	10	14	18	22	26	30					Blue0	HiÖu qu¶ thuèc kĞo dµi %d%%
+254	60ÖĞ×¢		0			state_burst_enhance_rate	1	2	3	4	5	6					gold	Tèc ®é thi triÓn t¨ng %d%%
+255	61ÆøÑ¨		0			state_neili_max_percent_add	10	14	18	22	26	30					gold	§iÓm néi lùc t¨ng %d%%
+256	62Ê¯¹Ø		0			state_life_max_point_add	500	800	1100	1400	1700	2000					gold	§iÓm sinh lùc t¨ng %d
+257	63Í¨¹È					state_magic_armor_add	10	14	18	24	30	36					gold	TrŞ sè hé gi¸p néi phßng t¨ng %d
+258	64¹ØÃÅ					state_physical_armor_add	10	14	18	24	30	36					gold	TrŞ sè hé gi¸p ngo¹i phßng t¨ng %d
+259	65Æø³å				30125	SKILL_ATTR	1	2	3	4	5	6	7	8	9	10	gold	Kü n¨ng bŞ ®éng:
+260	66»ª¸Ç		0			state_life_max_percent_add	5	8	11	14	17	20					gold	Giíi h¹n ®iÓm sinh lùc t¨ng %d%%
+261	20ÏÔÊ¾					DUMMY_ATTR	150	180	210	360	420	480					gold	TÊn c«ng cã tû lÖ t¨ng ®éc s¸t %d
+262	24ÏÔÊ¾					DUMMY_ATTR	120	144	168	288	336	384					gold	TÊn c«ng cã tû lÖ t¨ng s¸t th­¬ng %d
+263	27ÏÔÊ¾					DUMMY_ATTR	200	240	280	480	560	640					Blue0	S¸t th­¬ng Cæ §éc t¨ng %d
+264	28ÏÔÊ¾					DUMMY_ATTR	250	300	350	600	700	800					gold	TÊn c«ng cã tû lÖ t¨ng s¸t th­¬ng Cæ §éc %d
+265	38ÏÔÊ¾					DUMMY_ATTR	10	14	18	22	26	30					gold	TÊn c«ng cã tû lÖ t¨ng ngo¹i c«ng %d%%
+266	53ÏÔÊ¾					DUMMY_ATTR	10	14	18	22	26	30					gold	TÊn c«ng cã tû lÖ t¨ng néi c«ng %d%%
+267	ÈÎÂöÆğÊ¼Ğ§¹ûËµÃ÷						1	2	3	4	5	6	7	8	9	10	gold	Më huyÖt vŞ NhËm M¹ch tÇng %d
+268	¶½ÂöÆğÊ¼Ğ§¹ûËµÃ÷						1	2	3	4	5	6	7	8	9	10	gold	Më huyÖt vŞ §èc M¹ch tÇng %d
+269	´øÂöÆğÊ¼Ğ§¹ûËµÃ÷						1	2	3	4	5	6	7	8	9	10	gold	Më huyÖt vŞ §¸i M¹ch tÇng %d
+270	³åÂöÆğÊ¼Ğ§¹ûËµÃ÷						1	2	3	4	5	6	7	8	9	10	gold	Më huyÖt vŞ Xung M¹ch tÇng %d
+271	14ÓñÌÃ-2		0			state_mana_cost_reduce	0	0	0	5	10	15					gold	Vâ c«ng tiªu hao gi¶m %d%%
+272	15×Ï¹¬-2		0			state_clothes_restore_time	0	0	0	2	3	4					Blue0	600 gi©y ®é bÒn cña ¸o phôc håi %d
+273	16è¯çá-2		0			state_hat_restore_time	0	0	0	2	3	4					Blue0	600 gi©y ®é bÒn cña nãn phôc håi %d
+274	17Á®Èª-2		0			state_weapon_restore_600s	0	0	0	2	3	4					Blue0	600 gi©y ®é bÒn cña vò khİ phôc håi %d
+275	18ÌìÍ»-2		0			state_trousers_restore_time	0	0	0	2	3	4					Blue0	600 gi©y ®é bÒn cña quÇn phôc håi %d
+276	22ÃüÃÅ-2		0			state_def_critical_damage_increase	0	0	0	15	20	25					gold	Gi¶m s¸t th­¬ng b¹o kİch t¨ng %d
+277	25ÖĞÊà-2		0			state_def_critical_point_increase	0	0	0	10	15	20					gold	Phßng thñ b¹o kİch t¨ng %d
+278	34ÒõÁê-2		0			state_critical_damage_increase	0	0	0	0	15	20					gold	B¹o kİch céng thªm t¨ng %d
+279	35ÄÔ»§-2		0			state_critical_point_increase	0	0	0	0	10	15					gold	§iÓm b¹o kİch t¨ng %d
+280	43±¾Éñ-2		0			state_def_critical_point_increase	0	0	0	15	20	25					gold	Phßng thñ b¹o kİch t¨ng %d
+281	45Ìì³å-2		0			state_def_critical_damage_increase	0	0	0	10	15	20					gold	Gi¶m s¸t th­¬ng b¹o kİch t¨ng %d
+282	49ĞüÖÓ-2		0			state_critical_point_increase	0	0	0	0	10	15					gold	§iÓm b¹o kİch t¨ng %d
+283	50ÎåÊà-2		0			state_critical_damage_increase	0	0	0	0	15	20					gold	B¹o kİch céng thªm t¨ng %d
+284	55ÓÄÃÅ-2		0			state_def_critical_point_increase	0	0	0	15	20	25					gold	Phßng thñ b¹o kİch t¨ng %d
+285	58Ã¤Óá-2		0			state_def_critical_damage_increase	0	0	0	10	15	20					gold	Gi¶m s¸t th­¬ng b¹o kİch t¨ng %d
+286	63Í¨¹È-2		0			state_critical_damage_increase	0	0	0	0	15	20					gold	B¹o kİch céng thªm t¨ng %d
+287	64¹ØÃÅ-2		0			state_critical_point_increase	0	0	0	0	10	15					gold	§iÓm b¹o kİch t¨ng %d

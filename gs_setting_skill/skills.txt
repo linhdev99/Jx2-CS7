@@ -40,7 +40,7 @@ ID	Name	MaxLevel	MaxExpandLevel	Faction	Route	RoutePlace	Series	ExtraSeries	Type
 39	V¨n Thï XuÊt V©n Thèi	9		1	4		7		1	5	2	1	2	1	1		0	0	1	1	35876				184	6	76	2					1	1	2		3			456	96	1	27	100				\script\skill\ÉÙÁÖÎäÉ®\ÎÄÊâ³öÔÆÍÈ.lua		cost_gas_point	0	skill_cast_effect_time	2	skill_interrupt_rate	-55					
 40	La H¸n TrËn	6		1	4		0		15	8	1			1	1		0	0	0	0																				6	9999	15	19	100				\script\skill\ÉÙÁÖÎäÉ®\ÂŞººÕó.lua												
 41	§¹i Tu Di Ch­ëng	7		1	4		7		1	6	2	1	2	1	1		0	0	1	1	38						48	10	186	187			1	1	2					456	96	1	11	100			1	\script\skill\ÉÙÁÖÎäÉ®\´óĞëÃÖÕÆ.lua		cost_gas_point	0	skill_cast_effect_time	2	skill_interrupt_rate	-55					
-42	V« ¶nh C­íc	9		1	4		7		1	6	2	1	2	1	1		0	0	1	1	38951				188	12	55	5					1	1	2		1			456	96	1	18	100				\script\skill\ÉÙÁÖÎäÉ®\ÎŞÓ°½Å.lua		cost_gas_point	0	skill_cast_effect_time	2	skill_interrupt_rate	-55					
+42	V« ¶nh C­íc	9		1	4		7		1	6	2	1	2	1	1		0	0	1	1	38951				188	12	55	5					1	1	2		1			456	96	1	18	100				\script\skill\ÉÙÁÖÎäÉ®\ÎŞÓ°½Å.lua		cost_gas_point	2	skill_cast_effect_time	2	skill_interrupt_rate	-55					
 43	ThiÕu L©m Long Tr¶o Thñ	7		1	4		0		2	8	0		0	1	1		1	0	0	0								34												2	9999	1	36	-200				\script\skill\ÉÙÁÖÎäÉ®\ÉÙÁÖÁú×¦ÊÖ.lua		skill_cast_interval	1080									
 44	Nh­ Lai ThÇn Ch­ëng	20		1	4		7		1	7	2	1	1	1	1	2	0	0	0	0		519	1				138	6					2		3		3			456	600	1	108	100				\script\skill\ÉÙÁÖÎäÉ®\ÈçÀ´ÉñÕÆ.lua		skill_interrupt_rate	-500									
 45	ThiÕu L©m ThiÒn Viªn C«ng	10		1	3		0		3	15	1		0	-1	0		1	0	0	0																				2								\script\skill\ÉÙÁÖìøÉ®\ÉÙÁÖìøÔ²¹¦.lua												
@@ -673,7 +673,7 @@ ID	Name	MaxLevel	MaxExpandLevel	Faction	Route	RoutePlace	Series	ExtraSeries	Type
 729	D­¬ng Gia §¶o H¶i Th­¬ng	6		16	17		7		20	2	2		1	64	2		0	0	1	1		754						3												456	600	1	54	-100				\script\skill\ÑîÃÅÇ¹Æï\Ñî¼Òµ¹º£Ç¹.lua		skill_cast_interval	216	skill_interrupt_rate	-55							
 730	D­¬ng Gia Ngù M· ThuËt	6		16	17		0		1	9	1	0	1	64	2		0	0	1	1							405	18	757	758			1		2					456	9999	1	27	100			1	\script\skill\ÑîÃÅÇ¹Æï\Ñî¼ÒÓùÂíÊõ.lua		skill_interrupt_rate	-35	skill_cast_interval	360							
 731	Bİch NguyÖt Phi Tinh Th­¬ng	7		16	17		7		20	2	2	0	1	64	2		0	0	0	1		767						1												456	600	3	54	-100				\script\skill\ÑîÃÅÇ¹Æï\±ÌÔÂ·ÉĞÇÇ¹.lua		skill_cast_interval	432	skill_interrupt_rate	-55							
-732	Liªn Hoµn Toµn Long th­¬ng	20		16	17		7		20	3	2	0	1	64	2		0	0	0	0					555	1		6												456	600	6,15	186	100				\script\skill\ÑîÃÅÇ¹Æï\Á¬»·×êÁúÇ¹.lua		skill_interrupt_rate	-500									
+732	Liªn Hoµn Toµn Long th­¬ng	20		16	17		7		20	3	2	0	1	64	2		0	0	0	0					555	1		6												456	600	"6,15"	186	100				\script\skill\ÑîÃÅÇ¹Æï\Á¬»·×êÁúÇ¹.lua		skill_interrupt_rate	-500									
 733	D­¬ng Gia Cung T©m Ph¸p	10		16	18		0		3	15	1		0	-1	0		1	0	0	0																				2								\script\skill\ÑîÃÅ¹­Æï\Ñî¼Ò¹­ĞÄ·¨.lua												
 734	Cung Ph¸p Tæng quyÕt	10		16	18		0		3	14	1		0	16	0		1	0	0	0																				2								\script\skill\ÑîÃÅ¹­Æï\Ñî¼Ò¹­·¨×Ü¾ö.lua												
 735	D­¬ng Gia Liªn X¹ ThuËt	7		16	18		7		1	0	2	0	1	16	0		0	1	1	0							406	8	759				2		3		3			456	600	1	27	120			9	\script\skill\ÑîÃÅ¹­Æï\Ñî¼ÒÁ¬ÉäÊõ.lua		skill_cast_interval	18	cost_goods_id	983050	cost_goods_num	1	skill_interrupt_rate	-55			
@@ -797,7 +797,7 @@ ID	Name	MaxLevel	MaxExpandLevel	Faction	Route	RoutePlace	Series	ExtraSeries	Type
 894	Hç trî t¨ng néi lùc tèi ®a	10		0	0		0		1	8	1	1	1	-1	0		1	0	0	0							132	27					1	1	2					6	9999	19	37	100			1	\script\skill\ÆÕÍ¨¹¥»÷\Ôö¼ÓÄÚÁ¦ÉÏÏŞ¹â»·.lua												
 895	Hç trî håi sinh lùc	10		0	0		0		1	8	1	1	1	-1	0		1	0	0	0							132	27					1	1	2					6	9999	19	37	100			1	\script\skill\ÆÕÍ¨¹¥»÷\»ØÃü¹â»·.lua												
 896	Hç trî xuÊt chiªu	10		0	0		0		1	8	1	1	1	-1	0		1	0	0	0							132	27					1	1	2					6	9999	19	37	100			1	\script\skill\ÆÕÍ¨¹¥»÷\·¢ÕĞ¹â»·.lua												
-897	Hç trî Néi, ngo¹i kİch	5		0	0		0		1	8	1	1	1	-1	0		1	0	0	0							132	27					1	1	2					6	9999	19	37	100			1	\script\skill\ÆÕÍ¨¹¥»÷\ÄÚÍâ¹¥¹â»·.lua												
+897	"Hç trî Néi, ngo¹i kİch"	5		0	0		0		1	8	1	1	1	-1	0		1	0	0	0							132	27					1	1	2					6	9999	19	37	100			1	\script\skill\ÆÕÍ¨¹¥»÷\ÄÚÍâ¹¥¹â»·.lua												
 898	Søc m¹nh t¹m th¬i n©ng cao	10		0	0		0		50	12	1		0	-1	0		1	0	0	0							416	18					1	0	2					2	9999	3	18	100			1	\script\skill\ÆäËû\Á¦Á¿ÔİÊ±Ìá¸ß.lua												
 899	Néi c«ng t¹m thêi n©ng cao	10		0	0		0		50	12	1		0	-1	0		1	0	0	0							416	18					1	0	2					2	9999	3	18	100			1	\script\skill\ÆäËû\ÄÚ¹¦ÔİÊ±Ìá¸ß.lua												
 900	G©n cèt t¹m thêi n©ng cao	10		0	0		0		50	12	1		0	-1	0		1	0	0	0							416	18					1	0	2					2	9999	3	18	100			1	\script\skill\ÆäËû\¸ù¹ÇÔİÊ±Ìá¸ß.lua												
@@ -1750,7 +1750,7 @@ ID	Name	MaxLevel	MaxExpandLevel	Faction	Route	RoutePlace	Series	ExtraSeries	Type
 1971	Npc dïng §¶ CÈu C«n Ph¸p (Tö 12)	20							1	3	2	0	1	-1	0		0	0	0	0					1972	1	147	1					4	1	2					456	9999	1		100			1	\script\skill\Ø¤°ïÎÛÒÂ\´ò¹·¹÷Õó(×Ó12).lua												
 1972	Npc dïng §¶ CÈu C«n Ph¸p (Tö 13)	20							1	3	1		1	-1	0		0	0	0	0					1973	17	148	1					1		2					6	9999	1		100			1	\script\skill\Ø¤°ïÎÛÒÂ\´ò¹·¹÷Õó(×Ó13).lua												
 1973	Npc dïng §¶ CÈu C«n Ph¸p (Tö 14)	20							1	3	2	0	1	-1	0		0	0	0	0							147	1					4	1	2					456	9999	1		100			1	\script\skill\Ø¤°ïÎÛÒÂ\´ò¹·¹÷Õó(×Ó14).lua												
-1974	Npc dïng Liªn Hoµn Toµn Long Th­¬ng	20							20	3	2	0	1	-1	0		0	0	0	0					1975	1		6												456	999	6,15	186	100				\script\skill\npc¼¼ÄÜ\Á÷ÅÉ¼¼ÄÜ\NpcÓÃÁ¬»·×êÁúÇ¹.lua		skill_interrupt_rate	-500									
+1974	Npc dïng Liªn Hoµn Toµn Long Th­¬ng	20							20	3	2	0	1	-1	0		0	0	0	0					1975	1		6												456	999	"6,15"	186	100				\script\skill\npc¼¼ÄÜ\Á÷ÅÉ¼¼ÄÜ\NpcÓÃÁ¬»·×êÁúÇ¹.lua		skill_interrupt_rate	-500									
 1975	Npc dïng miÔn dŞch Liªn Hoµn Toµn Long Th­¬ng	20							2	3	1		0	-1	0		0	0	0	0								1												2	9999	1		100				\script\skill\npc¼¼ÄÜ\Á÷ÅÉ¼¼ÄÜ\NpcÓÃÁ¬»·×êÁúÇ¹ÃâÒß.lua												
 1976	Npc dïng B¸ V­¬ng T­êng Ph­îng TiÔn	20							1	3	2	0	1	-1	0		0	0	0	0							158	54					1		2					456	9999	1	63	100			1	\script\skill\npc¼¼ÄÜ\Á÷ÅÉ¼¼ÄÜ\NpcÓÃ°ÔÍõÏè·ï¼ı.lua		skill_interrupt_rate	-500									
 1977	Npc dïng B¸ V­¬ng T­êng Ph­îng TiÔn Mao	20							1	3	2	0	1	-1	0		0	0	0	0							159	1					3		2		2			456	9999	1	18	100			8	\script\skill\npc¼¼ÄÜ\Á÷ÅÉ¼¼ÄÜ\NpcÓÃ°ÔÍõÏè·ï¼ıÓğÃ«.lua												
@@ -2154,7 +2154,7 @@ ID	Name	MaxLevel	MaxExpandLevel	Faction	Route	RoutePlace	Series	ExtraSeries	Type
 30221	Nguyªn Thñy B¹o Né	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\skill\³èÎï¼¼ÄÜ\Ô­Ê¼±©Å­1.lua		cost_tianzi	40									
 30222	Ng­ng ThÇn QuyÕt	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\skill\³èÎï¼¼ÄÜ\ÄıÉñ¾÷1.lua		cost_tianzi	40									
 50000	V« Väng ThÇn C«ng	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\meo\skill\skill_vovongthancong.lua												
-50001	HuyÕt §ao Kinh	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\meo\skill\skill_huyetdaokinh.lua
+50001	HuyÕt §ao Kinh	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\meo\skill\skill_huyetdaokinh.lua												
 50002	Hçn Nguyªn C«ng	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\meo\skill\skill_honnguyencong.lua												
 50003	Tö Hµ C«ng	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\meo\skill\skill_tuhacong.lua												
 50004	§éc ThiÒm C«ng	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\meo\skill\skill_docthiemcong.lua												
@@ -2162,21 +2162,21 @@ ID	Name	MaxLevel	MaxExpandLevel	Faction	Route	RoutePlace	Series	ExtraSeries	Type
 50006	B¨ng T©m QuyÕt	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\meo\skill\skill_bangtamquyet.lua												
 50007	Quú Hoa B¶o §iÓn	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\meo\skill\skill_quyhoabaodien.lua												
 50008	HÊp Tinh §¹i Ph¸p	10		0	0		0		3	14	1		0	-1	0		1	0	0	0																				2								\script\meo\skill\skill_haptinhdaiphap.lua												
-2200	Quú Hoa Ch©n Khİ (Chiªu)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_quyhoabaodien_chieu_1.lua
-2201	X¶o TiÖp V¹n §oan (Chiªu)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_quyhoabaodien_chieu_2.lua
-2202	NhËt NguyÖt BÊt Minh (Chiªu)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_haptinhdaiphap_chieu_1.lua
-2203	HÊp Tinh Tµ Ph¸p (Chiªu)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_haptinhdaiphap_chieu_2.lua
-2204	V« Väng ThÇn C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_vovongthancong_chieu1.lua
-2205	V« Väng ThÇn C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_vovongthancong_chieu2.lua
-2206	HuyÕt §ao Kinh (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_huyetdaokinh_chieu1.lua
-2207	HuyÕt §ao Kinh (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_huyetdaokinh_chieu2.lua
-2208	Hçn Nguyªn C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_honnguyencong_chieu1.lua
-2209	Hçn Nguyªn C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_honnguyencong_chieu2.lua
-2210	Tö Hµ C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_tuhacong_chieu1.lua
-2211	Tö Hµ C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_tuhacong_chieu2.lua
-2212	§éc ThiÒm C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_docthiemcong_chieu1.lua
-2213	§éc ThiÒm C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_docthiemcong_chieu2.lua
-2214	NghŞch Thiªn Tµ C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_nghichthientacong_chieu1.lua
-2215	NghŞch Thiªn Tµ C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_nghichthientacong_chieu2.lua
-2216	B¨ng T©m QuyÕt (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_bangtamquyet_chieu1.lua
-2217	B¨ng T©m QuyÕt (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_bangtamquyet_chieu2.lua
+2200	Quú Hoa Ch©n Khİ (Chiªu)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_quyhoabaodien_chieu_1.lua												
+2201	X¶o TiÖp V¹n §oan (Chiªu)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_quyhoabaodien_chieu_2.lua												
+2202	NhËt NguyÖt BÊt Minh (Chiªu)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_haptinhdaiphap_chieu_1.lua												
+2203	HÊp Tinh Tµ Ph¸p (Chiªu)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_haptinhdaiphap_chieu_2.lua												
+2204	V« Väng ThÇn C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_vovongthancong_chieu1.lua												
+2205	V« Väng ThÇn C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_vovongthancong_chieu2.lua												
+2206	HuyÕt §ao Kinh (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_huyetdaokinh_chieu1.lua												
+2207	HuyÕt §ao Kinh (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_huyetdaokinh_chieu2.lua												
+2208	Hçn Nguyªn C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_honnguyencong_chieu1.lua												
+2209	Hçn Nguyªn C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_honnguyencong_chieu2.lua												
+2210	Tö Hµ C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_tuhacong_chieu1.lua												
+2211	Tö Hµ C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_tuhacong_chieu2.lua												
+2212	§éc ThiÒm C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_docthiemcong_chieu1.lua												
+2213	§éc ThiÒm C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_docthiemcong_chieu2.lua												
+2214	NghŞch Thiªn Tµ C«ng (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_nghichthientacong_chieu1.lua												
+2215	NghŞch Thiªn Tµ C«ng (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_nghichthientacong_chieu2.lua												
+2216	B¨ng T©m QuyÕt (Chiªu 1)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_bangtamquyet_chieu1.lua												
+2217	B¨ng T©m QuyÕt (Chiªu 2)	10		0	0		0		2	10	2	 	0	-1	1		1	0	0	0								1												2	9999	1	2	100				\script\meo\skill\skill_bangtamquyet_chieu2.lua												

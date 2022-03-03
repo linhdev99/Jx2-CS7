@@ -35,7 +35,7 @@ ID	Name	MaxLevel	MaxExpandLevel	Faction	Route	RoutePlace	Series	ExtraSeries	Type
 34	Th t B∂o Chi’u Ph∏p	10		1	4		0		2	8	1		0	1	1		1	0	0	0								18	176											2	9999	1	20	-200				\script\skill\…Ÿ¡÷Œ‰…Æ\∆ﬂ±¶…Ò’’–ƒ∑®.lua		skill_interrupt_rate	-55									
 35	La H∏n Quy“n	7		1	4		7		1	4	2	1	2	1	1		0	1	1	1					177	9	45	4					1	1	2		5			456	144	1	27	150				\script\skill\…Ÿ¡÷Œ‰…Æ\¬ﬁ∫∫»≠.lua		cost_gas_point	0	skill_cast_effect_time	3	skill_interrupt_rate	-55					
 36	Ca Di÷p ThËi	7		1	4		7		1	4	2	1	2	1	1		0	1	1	1					179	9	75	3					1	1	2		4			456	160	1	27	150				\script\skill\…Ÿ¡÷Œ‰…Æ\Â»“∂Õ».lua		cost_gas_point	0	skill_cast_effect_time	3	skill_interrupt_rate	-55					
-37	Hu÷ Nh∑n ChÛ	6		1	4		0		2	8	1		0	1	1		1	0	0	0								18	181											2	9999	1	19	100				\script\skill\…Ÿ¡÷Œ‰…Æ\ª€—€÷‰.lua		skill_interrupt_rate	10	cost_gas_point	0	skill_cast_interval	1080	skill_interrupt_rate	-55			
+37	Hu÷ Nh∑n ChÛ	6		1	4		0		2	8	1		0	1	1		1	0	0	0								18	181											2	9999	1	19	100				\script\skill\…Ÿ¡÷Œ‰…Æ\ª€—€÷‰.lua		skill_interrupt_rate	10	cost_gas_point	2	skill_cast_interval	1080	skill_interrupt_rate	-55			
 38	Vi ßµ Quy“n	9		1	4		7		1	5	2	1	2	1	1		0	0	1	1	35876				182	15	46	3					1	1	2		5			456	96	1	36	133				\script\skill\…Ÿ¡÷Œ‰…Æ\Œ§Õ”»≠.lua		cost_gas_point	0	skill_cast_effect_time	2	skill_interrupt_rate	-55					
 39	V®n ThÔ Xu t V©n ThËi	9		1	4		7		1	5	2	1	2	1	1		0	0	1	1	35876				184	6	76	2					1	1	2		3			456	96	1	27	100				\script\skill\…Ÿ¡÷Œ‰…Æ\Œƒ ‚≥ˆ‘∆Õ».lua		cost_gas_point	0	skill_cast_effect_time	2	skill_interrupt_rate	-55					
 40	La H∏n TrÀn	6		1	4		0		15	8	1			1	1		0	0	0	0																				6	9999	15	19	100				\script\skill\…Ÿ¡÷Œ‰…Æ\¬ﬁ∫∫’Û.lua												

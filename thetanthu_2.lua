@@ -21,7 +21,7 @@ function OnUse(nItem)
         tSay = {
             "Gia NhËp m«n ph¸i (ChuyÓn sinh 0 cÊp 90)/JoinRoute_UpdateLevel",
             format("%s/UpdateLevel_55", "\nT¨ng ChuyÓn sinh 0 cÊp 55"),
-            format("%s/Get_DuoiTho", "\nNhËn §u«i Thá")
+            format("%s/ThuKho_Meow", "\nMë r­¬ng Meow ¬i")
         }
     else
         tSay = {
@@ -42,6 +42,7 @@ function OnUse(nItem)
             format("%s/TongOperation", "Bang héi"), -- bang hoi
             format("%s/Pet_OP", "Phôc sinh Thó C­ng"), -- thu nuoi
             format("%s/Get_VPNV", "NhËn vËt phÈm nhiÖm vô"), -- vat pham nhiem vu   
+            format("%s/ThuKho_Meow","Meow ¬i më r­¬ng"), -- Ruong chua do
             format("%s/Mo_Shop_ByID", "Më shop theo ID") -- mo shop
         }
         if 3 == nRoute then
@@ -94,6 +95,18 @@ function CODECHECK1(nVar)
         Get_Giftcode_1()
     else
         Talk(1, "", "Giftcode sai!")
+    end
+end
+function Mo_Ruong_TK()
+    SetTask(805, 2)
+    Msg2Player("Më r­¬ng thµnh c«ng!")
+end
+function ThuKho_Meow()
+    if GetTask(805) == 2 then
+        OpenBox()
+    else
+        Mo_Ruong_TK()
+        OpenBox()
     end
 end
 function UpdateLevel_55()

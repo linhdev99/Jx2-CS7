@@ -1,0 +1,68 @@
+Id	TypeId	Name	Image	BgImage	Pos	MaxLevel	SkillAttrId	AttrId1	AttrId2	AttrId3	NeedZhenQiAttrId	NeedJingJieAttrId	NeedPreNodeLvAttrId	Script	Rate4	Consume4	Rate5	Consume5	Rate6	Consume6
+Id huyÖt vŞ	ID thuéc kinh m¹ch	Tªn huyÖt vŞ	"Í¼±ê,Ö»ÌîÎÄ¼şÃû£¬Â·¾¶ÊÇ""\\UImage\\µÚÈı°æ\\j¾­Âö\\node\\"""	"µ×Í¼£¬Ö»ÌîÎÄ¼şÃû£¬Â·¾¶ÊÇ""\\UImage\\µÚÈı°æ\\j¾­Âö\\node\\"""	Täa ®é x;y trªn giao diÖn 	TÇng sè lín nhÊt	Attr Id kü n¨ng mang theo	Thuéc tİnh 1	Thuéc tİnh 2	Thuéc tİnh 3	Ch©n khİ cÇn tiªu hao ®Ó ®iÓm huyÖt	C¶nh giíi cÇn ®Ó kİch ho¹t huyÖt vŞ	TÇng sè huyÖt vŞ ban ®Çu cÇn	½Å±¾ÎÄ¼ş£¬Â·¾¶Îª(\\script\\meridian\\)½Å±¾µÄÏŞÖÆÌõ¼şĞ´ÔÚ½Å±¾ÖĞ						
+1	1	NhËm M¹ch	ÄÚ¹¦»áĞÄÂÌ.spr	ÈÎÂöÆæÑ¨µ×.spr	2;12	6		267			1	67	133	node_update_1.lua	10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+2	2	§èc M¹ch	Íâ¹¦¹¥»÷»Æ.spr	¶½ÂöÆæÑ¨µ×.spr	46;12	6		268			2	68	134	node_update_2.lua	10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+3	3	§íi M¹ch	Íâ¹¦·ÀÓùºì.spr	´øÂöÆæÑ¨µ×.spr	2;29	6		269			3	69	135	node_update_3.lua	10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+4	4	Xung M¹ch	ÄÚ¹¦¹¥»÷À¶.spr	³åÂöÆæÑ¨µ×.spr	46;29	6		270			4	70	136	node_update_4.lua	10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+5	1	Khóc Cèt	ÄÚ¹¦·ÀÓùÂÌ.spr		5;12	6		199			5	71	137		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+6	1	Trung Cùc	ÔË¹¦ÂÌ.spr		8;12	6		200			6	72	138		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+7	1	ThÇn QuyÕt	ÅÜËÙÂÌ.spr		12;12	6		201			7	73	139		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+8	1	Quan Nguyªn	¾­ÑéÂÌ.spr		8;15	6		202			8	74	140		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+9	1	KiÕn Li	³éÏóÂÌ.spr		12;15	6		203			9	75	141		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+10	1	C­u VÜ	ÄÚ¹¦ÃüÖĞÂÌ.spr		16;9	6		204			10	76	142		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+11	1	Thiªn Trung	Íâ¹¦ÃüÖĞÂÌ.spr		16;12	6		205			11	77	143		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+12	1	Phong Tr×	ÉÁ±ÜÂÌ.spr		20;9	6		206			12	78	144		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+13	1	B¸ch Li	¼².spr	³õÊ¼µ×ÈÎÂö.spr	2;5	6	207				13	79	145	node_update_13.lua	10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+14	1	Ngäc §­êng	ÖÎÁÆÂÌ.spr		20;5	6		208	271		14	80	146		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+15	1	Tö Cung	Í¨ÓÃÂÌ.spr		8;2	6		209	272		15	81	147		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+16	1	TuyÒn Ky	ÎŞË«ÂÌ.spr		12;5	6		210	273		16	82	148		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+17	1	Liªm TuyÒn	ÄÚÁ¦ÂÌ.spr		8;5	6		211	274		17	83	149		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+18	1	Thiªn §ét	¶¨ÉíÂÌ.spr		12;2	6		212	275		18	84	150		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+19	2	HuyÒn Khu	ÍşĞ²»Æ.spr		42;9	6		213			19	85	151	node_update_19_23_27.lua	10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+20	2	HËu §Ønh	»÷µ¹»Æ.spr		39;9	6		214	261		20	86	152		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+21	2	¸ M«n	ÔË¹¦»Æ.spr		32;9	6		215			21	87	153		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+22	2	MÖnh M«n	¶¨Éí»Æ.spr		28;9	6		216	276		22	88	154		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+23	2	Chİ D­¬ng	ÄÚ¹¦»áĞÄ»Æ.spr		42;12	6		217			23	89	155	node_update_19_23_27.lua	10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+24	2	B¸ch Héi	Íâ¹¦»áĞÄ»Æ.spr		39;12	6		218	262		24	90	156		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+25	2	Trung Khu	ºÜ³éÏó»Æ.spr		36;12	6		219	277		25	91	157		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+26	2	ThÇn §¹o	ÎŞË«»Æ.spr		32;15	6		220			26	92	158		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+27	2	Th©n Trô	ÄÚ¹¦¹¥»÷»Æ.spr		42;15	6		221	263		27	93	159	node_update_19_23_27.lua	10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+28	2	Phong Phñ	ÄÚ¹¦ÃüÖĞ»Æ.spr		39;15	6		222	264		28	94	160		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+29	2	C©n Tóc	Í¨ÓÃ»Æ.spr		32;5	6		223			29	95	161		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+30	2	YÕu Du	ÄÚÁ¦»Æ.spr		28;5	6		224			30	96	162		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+31	2	Tİch Trung	ÅÌÁú»Æ.spr		32;2	6		225			31	97	163		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+32	2	Linh §µi	ÔË¹¦»Æ.spr		36;2	6		226			32	98	164		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+33	2	§¹i Trïy	ÆøÑª»Æ.spr		39;2	6		227			33	99	165		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+34	2	¢m L¨ng	¼õÉË»Æ.spr		42;2	6		228	278		34	100	166		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+35	2	N·o Hé	·ÀÓù»Æ.spr		42;5	6		229	279		35	101	167		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+36	2	Tinh Minh	Áé.spr	³õÊ¼µ×¶½Âö.spr	46;5	6	230				36	102	168		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+37	3	Ngo¹i Kh©u	ÄÚ¹¦»áĞÄºì.spr		5;29	6		231			37	103	169		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+38	3	Thiªn T«ng	Íâ¹¦»áĞÄºì.spr		8;29	6		232	265		38	104	170		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+39	3	Kiªn TÜnh	´«¹¦ºì.spr		12;27	6		233			39	105	171		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+40	3	Hoµn Cèt	ÖÎÁÆºì.spr		16;27	6		234			40	106	172		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+41	3	Chİnh Doanh	»¯¾¢ºì.spr		12;31	6		235			41	107	173		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+42	3	Vi §¹o	Í¨ÓÃºì.spr		16;31	6		236			42	108	174		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+43	3	Bæn ThÇn	¶¨Éíºì.spr		20;31	6		237	280		43	109	175		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+44	3	D­¬ng B¹ch	ÄÚÁ¦ºì.spr		23;31	6		238			44	110	176		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+45	3	Thiªn Xung	ÎŞË«ºì.spr		20;27	6		239	281		45	111	177		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+46	3	Thõa Linh	Í¨ÓÃºì.spr		16;21	6		240			46	112	178		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+47	3	Môc Song	ÉÁ±Üºì.spr		16;24	6		241			47	113	179		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+48	3	Quang Minh	ÆøÑªºì.spr		12;21	6		242			48	114	180		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+49	3	HuyÒn Chung	·ÀÓùºì.spr		8;21	6		243	282		49	115	181		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+50	3	Ngò Kh­u	¼õÉËºì.spr		8;24	6		244	283		50	116	182		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+51	3	ThiÕu Xung	Íõ.spr	³õÊ¼µ×´øÂö.spr	2;21	6	245				51	117	183		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+52	4	§¹i H¸ch	ÄÚ¹¦¹¥»÷À¶.spr		42;29	6		246			52	118	184		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+53	4	Th­¬ng Khóc	ÄÚ¹¦ÃüÖĞÀ¶.spr		39;29	6		247	266		53	119	185		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+54	4	¢m §«	Ñ£ÔÎÀ¶.spr		36;29	6		248			54	120	186		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+55	4	HuyÒn M«n	»ù´¡À¶.spr		32;27	6		249	284		55	121	187		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+56	4	Hoµnh Cèt	ÖÎÁÆÀ¶.spr		28;31	6		250			56	122	188		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+57	4	Th¸i Êt	ÎŞË«À¶.spr		32;31	6		251			57	123	189		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+58	4	Manh Du	¶¨ÉíÀ¶.spr		28;27	6		252	285		58	124	190		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+59	4	Tø M·n	´«¹¦À¶.spr		32;21	6		253			59	125	191		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+60	4	Trung Chó	ºÜ³éÏóÀ¶.spr		32;24	6		254			60	126	192		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+61	4	Khİ HuyÖt	ÄÚÁ¦À¶.spr		36;24	6		255			61	127	193		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+62	4	Th¹ch Quan	ÆøÑªÀ¶.spr		36;21	6		256			62	128	194		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+63	4	Th«ng Cèc	¼õÉËÀ¶.spr		42;21	6		257	286		63	129	195		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+64	4	Quan M«n	·ÀÓùÀ¶.spr		42;24	6		258	287		64	130	196		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+65	4	Khİ Xung	»Û.spr	³õÊ¼µ×³åÂö.spr	46;21	6	259				65	131	197		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6
+66	1	Hßa C¸i	ÁìÎòÕĞÊ½ÂÌ.spr		5;5	6		260			66	132	198		10000	jingmailv4	10000	jingmailv5	10000	jingmailv6

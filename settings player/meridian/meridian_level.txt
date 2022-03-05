@@ -1,0 +1,8 @@
+Level	Name	MaxZhenQi	AddAttrMaxLimit	OpenExpExchg	BodyImage1	BodyImage2	BodyImage3	BodyImage4	Script	Desc
+CÊp ®é c¶nh giíi	Tªn c¶nh giíi	Giíi h¹n ch©n khİ		Cã cho phĞp dïng kinh nghiÖm kŞch huyÖt ch©n khİ	file name only, path is \\UImage\\µÚÈı°æ\\j¾­Âö\\body\\				½Å±¾ÎÄ¼ş£¬Â·¾¶Îª(\\settings\\static_script\\meridian\\)	ThuyÕt minh
+1	Vâ HiÒn	150000	201	0	ÄĞº¢ÎäÕß´ò×ø.spr	ÄĞº¢ÎäÕß´ò×ø.spr	Å®º¢ÎäÕß´ò×ø.spr	Å®º¢ÎäÕß´ò×ø.spr	meridian_level_update_1.lua	  C¹nh giíi nhËp m«n Vâ §¹o,v« ®Şch m­êi ng­êi<enter><enter>  Thuéc tİnh tİch lòy cã thÓ ®¹t ®Õn 1200
+2	Vâ T­íng	300000	200	0	ÄĞº¢Îä½«´ò×ø.spr	ÄĞº¢Îä½«´ò×ø.spr	Å®º¢Îä½«´ò×ø.spr	Å®º¢Îä½«´ò×ø.spr	meridian_level_update_2.lua	  C¹nh giíi h¹ ®¼ng Vâ §¹o,v« ®Şch tr¨m ng­êi<enter><enter>  Thuéc tİnh tİch lòy cã thÓ ®¹t ®Õn 1400
+3	Vâ V­¬ng	450000	200	0	ÉÙÄĞÎäÍõ´ò×ø.spr	ÉÙÄĞÎäÍõ´ò×ø.spr	ÉÙÅ®ÎäÍõ´ò×ø.spr	ÉÙÅ®ÎäÍõ´ò×ø.spr	meridian_level_update_3.lua	  C¹nh giíi trung ®¼ng Vâ §¹o,v« ®Şch ngh×n ng­êi<enter><enter>  Thuéc tİnh tİch lòy cã thÓ ®¹t ®Õn 1600
+4	Vâ T«n	600000	200	0	ÉÙÄĞÎä×ğ´ò×ø.spr	ÉÙÄĞÎä×ğ´ò×ø.spr	ÉÙÅ®Îä×ğ´ò×ø.spr	ÉÙÅ®Îä×ğ´ò×ø.spr	meridian_level_update_4.lua	  C¶nh giíi vâ ®¹o cao cÊp, v¹n nh©n ®Şch<enter><enter>  Thuéc tİnh céng dån cã thÓ ®¹t ®Õn 2200
+5	Vâ Hoµng	750000	200	0	±êÄĞÎä»Ê´ò×ø.spr	¿ıÎàÎä»Ê´ò×ø.spr	ĞÔ¸ĞÎä»Ê´ò×ø.spr	½¿Ğ¡Îä»Ê´ò×ø.spr	meridian_level_update_5.lua	  C¶nh giíi vâ ®¹o th­îng cÊp, ®Şch thiªn h¹<enter><enter>  Thuéc tİnh céng dån cã thÓ ®¹t ®Õn 2500
+6	Vâ Th¸nh	900000	200	0	±êÄĞÎäµÛ´ò×ø.spr	¿ıÎàÎäµÛ´ò×ø.spr	ĞÔ¸ĞÎäµÛ´ò×ø.spr	½¿Ğ¡Îä»Ê´ò×ø.spr	meridian_level_update_6.lua	  D­íi Vâ §Õ, chØ lµ c¸t bôi!<enter><enter>  Tİch lòy t¨ng 3000 ®iÓm thuéc tİnh

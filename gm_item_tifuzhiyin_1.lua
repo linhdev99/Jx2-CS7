@@ -1892,7 +1892,9 @@ function ClearBagAllItem(bTag)
 		return
 	end
 	ClearItemInPos();
-	AddItem(2, 1, 50005, 1) -- The Tan Thu
+	if GetItemCount(2,1,50005) < 1 and GetFreeItemRoom() > 0 then
+		AddItem(2, 1, 50005, 1) -- The Tan Thu
+	end
 	if GetItemCount(2,1,30644) < 1 and GetFreeItemRoom() > 0 then
 		AddItem(2,1,30644,1)
 	end

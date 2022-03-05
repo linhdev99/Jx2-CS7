@@ -1774,7 +1774,7 @@ function Give_Dandan()
     if gf_Judge_Room_Weight(1, 1) ~= 1 then
         return 0;
     end
-    AddItem(2, 3, 7, 999);
+    AddItem(2, 3, 7, 999); 
 end
 
 function Give_ZhanMa()

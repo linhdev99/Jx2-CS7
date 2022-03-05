@@ -1,0 +1,11 @@
+FromMinEnhanceLevel	FromMaxEnhanceLevel	ToMinEnhanceLevel	ToMaxEnhanceLevel	SoulLocked	ToEnhanceLevel	Chance	Material1Main	Material1Sub1	Material1Sub2	Material1Cost	Material2Main	Material2Sub1	Material2Sub2	Material2Cost
+7	10	8	11	0	0	55	2	1	1009	3	2	1	537	1
+				0	8	22.5								
+				0	9	20.25								
+				0	10	1.8								
+				0	11	0.45								
+				1	7	55	2	1	1009	3	2	1	537	1
+				1	8	31.5								
+				1	9	12.9375								
+				1	10	0.45								
+				1	11	0.1125								

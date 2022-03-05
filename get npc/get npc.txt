@@ -1,10 +1,12 @@
-Lệnh 1: Thì sẽ Show trong Terminal đang chạy GS đó nhé!
+Lenh 1
 
 ?gm ds Msg2Player(GetNpcScript(GetTargetNpc()))
 ?gm ds print(GetNpcScript(GetTargetNpc()))
 
-Lệnh 2: Xuất hiện Showbox trong Client cứ thế mà coppy thôi!!!
+Lenh 2
 
 ?gm ds AskClientForString("", GetNpcScript(GetTargetNpc()), 1, 9999, "")
 
-Chạy 2 lệnh trên thì sẽ biết đc link lua của NPC vừa đc click nhé 
+
+
+

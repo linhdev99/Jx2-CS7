@@ -1,5 +1,6 @@
 Lệnh 1: Thì sẽ Show trong Terminal đang chạy GS đó nhé!
 
+?gm ds Msg2Player(GetNpcScript(GetTargetNpc()))
 ?gm ds print(GetNpcScript(GetTargetNpc()))
 
 Lệnh 2: Xuất hiện Showbox trong Client cứ thế mà coppy thôi!!!

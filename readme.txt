@@ -23,6 +23,8 @@ Download Server: https://drive.google.com/drive/folders/1LtoTsewDE17Faw6V1AnOXzQ
 /script/system_switch_config.lua 
 0 --> 1 (merit)
 file KG_StatGameDataD
+neu chay khong file tren thi dung lenh 
+chmod +x KG_StatGameDataD
 lan luot chay cac file sau
 1/ KG_GoddessD 
 2/ KG_StatGameDataD

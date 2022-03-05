@@ -1781,7 +1781,8 @@ function Give_ZhanMa()
     if gf_Judge_Room_Weight(1, 10) ~= 1 then
         return 0;
     end
-    AddItem(0, 105, 38, 1, 1, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
+    -- AddItem(0, 105, 38, 1, 1, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
+    AddItem(0,105,51,1,1,-1,-1,-1,-1,-1,-1)
 end
 
 function Give_Jiancu()
@@ -1789,7 +1790,8 @@ function Give_Jiancu()
         return 0;
     end
     AddItem(2, 15, 10, 2000);
-    AddItem(0, 105, 38, 1, 1, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
+    -- AddItem(0, 105, 38, 1, 3, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
+    AddItem(0,105,51,1,1,-1,-1,-1,-1,-1,-1)
 end
 
 function Give_Fengshifu()

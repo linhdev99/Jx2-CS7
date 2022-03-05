@@ -1,0 +1,20 @@
+stat_id	export_role_cnt	desc
+	<0 is no limit	stat_id refer to main.stat_id
+	0 is not stat by role	
+	>0 is export less than that player count	
+2000	100	Lv5Gem
+2006	100	Lv5Gem
+2012	100	Lv5Gem
+2018	100	Lv5Gem
+2024	100	Lv5Gem
+2030	100	Lv5Gem
+2036	100	Lv5Gem
+2042	100	Lv5Gem
+2001	-1	Lv6Gem
+2007	-1	Lv6Gem
+2013	-1	Lv6Gem
+2019	-1	Lv6Gem
+2025	-1	Lv6Gem
+2031	-1	Lv6Gem
+2037	-1	Lv6Gem
+2043	-1	Lv6Gem

@@ -1,0 +1,16 @@
+StatTime	Account	Role	ItemName	G	D	P	Cnt
+2019_06_26 02:37:59	test	DGTTHUONG	Thiªn Th¹ch linh th¹	2	1	1068	1
+2019_06_26 02:37:59	test	DGTTHUONG	Thiªn Th¹ch Tinh Th¹	2	1	1009	100
+2019_06_26 02:37:59	quandtu	JX2VIET	Thien Dia Gioi	0	102	30038	2
+2019_06_26 02:37:59	quandtu	JX2VIET	Nhat Nguyet Gioi	0	102	30037	2
+2019_06_26 02:37:59	test	QUANDTU	Thiªn Th¹ch linh th¹	2	1	1068	1
+2019_06_26 02:37:59	quandtu	QUANDTUA	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 02:37:59	quandtu	QUANDTUA	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 02:37:59	quandtu	QUANDTUA	Linh Do Mao	0	103	30235	2
+2019_06_26 02:37:59	quandtu	QUANDTUA	Linh Do Y 1	0	100	30235	2
+2019_06_26 02:37:59	quandtu	QUANDTUA	Linh Do Trang 1	0	101	30235	1
+2019_06_26 02:37:59	test03	thuan12	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 02:37:59	test03	thuan12	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 02:37:59	test03	thuan12	Linh Do Mao	0	103	30235	1
+2019_06_26 02:37:59	test03	thuan12	Linh Do Y 1	0	100	30235	1
+2019_06_26 02:37:59	test03	thuan12	Linh Do Trang 1	0	101	30235	1

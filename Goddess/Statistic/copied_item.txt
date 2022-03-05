@@ -1,0 +1,1 @@
+StatTime	Account	Role	TransLife	Level	IP	RoleCreateTime	LastLoginTime	G	D	P	Cnt	Seed	GenTime	dur	lv	s1	s2	s3	s4	s5	s6	f1	f2	f3	f4	f5	f6	f7	cd

@@ -1,0 +1,71 @@
+StatTime	Account	Role	ItemName	G	D	P	Cnt
+2019_06_26 22:36:09	tuanjxvn	Custom	Thiªn Th¹ch linh th¹	2	1	1068	1
+2019_06_26 22:36:09	tuanjxvn	Custom	Thien Dia Gioi	0	102	30038	1
+2019_06_26 22:36:09	tuanjxvn	Custom	Nhat Nguyet Gioi	0	102	30037	1
+2019_06_26 22:36:09	tuanjxvn	Custom	Linh Do Mao	0	103	30235	1
+2019_06_26 22:36:09	tuanjxvn	Custom	Linh Do Y 1	0	100	30235	1
+2019_06_26 22:36:09	test	DGTTHUONG	Thiªn Th¹ch linh th¹	2	1	1068	1
+2019_06_26 22:36:09	test	DGTTHUONG	Thiªn Th¹ch Tinh Th¹	2	1	1009	100
+2019_06_26 22:36:09	utchit4	DuongGia	Thiªn Th¹ch Tinh Th¹	2	1	1009	93
+2019_06_26 22:36:09	utchit4	DuongGia	Xu	2	1	30230	1140
+2019_06_26 22:36:09	utchit4	DuongGia	Thien Dia Gioi	0	102	30038	1
+2019_06_26 22:36:09	utchit4	DuongGia	Nhat Nguyet Gioi	0	102	30037	1
+2019_06_26 22:36:09	utchit4	DuongGia	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 22:36:09	utchit4	DuongGia	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 22:36:09	utchit4	DuongGia	Linh Do Mao	0	103	30235	2
+2019_06_26 22:36:09	utchit4	DuongGia	Linh Do Y 1	0	100	30235	2
+2019_06_26 22:36:09	utchit4	DuongGia	Linh Do Trang 1	0	101	30235	1
+2019_06_26 22:36:09	utchit5	DuongMon	Xu	2	1	30230	940
+2019_06_26 22:36:09	utchit5	DuongMon	Dai Dinh Hon	2	1	1113	1
+2019_06_26 22:36:09	utchit5	DuongMon	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 22:36:09	utchit5	DuongMon	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 22:36:09	utchit5	DuongMon	Linh Do Mao	0	103	30235	1
+2019_06_26 22:36:09	utchit5	DuongMon	Linh Do Y 1	0	100	30235	1
+2019_06_26 22:36:09	utchit5	DuongMon	Linh Do Trang 1	0	101	30235	1
+2019_06_26 22:36:09	quandtu	eqeqeqeqe	Thien Dia Gioi	0	102	30038	2
+2019_06_26 22:36:09	quandtu	eqeqeqeqe	Nhat Nguyet Gioi	0	102	30037	2
+2019_06_26 22:36:09	quandtu	eqeqeqeqe	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 22:36:09	quandtu	eqeqeqeqe	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 22:36:09	quandtu	eqeqeqeqe	Linh Do Y 3	0	100	30237	2
+2019_06_26 22:36:09	utchit1	HiepDoc	Xu	2	1	30230	660
+2019_06_26 22:36:09	utchit1	HiepDoc	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 22:36:09	utchit1	HiepDoc	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 22:36:09	utchit1	HiepDoc	Linh Do Mao	0	103	30235	1
+2019_06_26 22:36:09	utchit1	HiepDoc	Linh Do Y 1	0	100	30235	1
+2019_06_26 22:36:09	utchit1	HiepDoc	Linh Do Trang 1	0	101	30235	1
+2019_06_26 22:36:09	quandtu	JX2VIET	Thien Dia Gioi	0	102	30038	2
+2019_06_26 22:36:09	quandtu	JX2VIET	Nhat Nguyet Gioi	0	102	30037	2
+2019_06_26 22:36:09	utchit3	NgaMimi	Xu	2	1	30230	940
+2019_06_26 22:36:09	test	QUANDTU	Thiªn Th¹ch linh th¹	2	1	1068	1
+2019_06_26 22:36:09	quandtu	QUANDTUA	Linh Do Mao	0	103	30235	1
+2019_06_26 22:36:09	quandtu	QUANDTUA	Linh Do Y 1	0	100	30235	1
+2019_06_26 22:36:09	utchit2	ThieuLam	Thiªn Th¹ch linh th¹	2	1	1068	1
+2019_06_26 22:36:09	utchit2	ThieuLam	Xu	2	1	30230	820
+2019_06_26 22:36:09	utchit2	ThieuLam	Thien Dia Gioi	0	102	30038	1
+2019_06_26 22:36:09	utchit2	ThieuLam	Nhat Nguyet Gioi	0	102	30037	1
+2019_06_26 22:36:09	utchit2	ThieuLam	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 22:36:09	utchit2	ThieuLam	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 22:36:09	utchit2	ThieuLam	Linh Do Mao	0	103	30235	1
+2019_06_26 22:36:09	utchit2	ThieuLam	Linh Do Y 1	0	100	30235	1
+2019_06_26 22:36:09	utchit2	ThieuLam	Linh Do Trang 1	0	101	30235	1
+2019_06_26 22:36:09	test03	thuan12	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 22:36:09	test03	thuan12	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 22:36:09	test03	thuan12	Linh Do Mao	0	103	30235	1
+2019_06_26 22:36:09	test03	thuan12	Linh Do Y 1	0	100	30235	1
+2019_06_26 22:36:09	test03	thuan12	Linh Do Trang 1	0	101	30235	1
+2019_06_26 22:36:09	testdonha	tuiastui	Thiªn Th¹ch linh th¹	2	1	1068	1
+2019_06_26 22:36:09	testdonha	tuiastui	Thiªn Th¹ch Tinh Th¹	2	1	1009	100
+2019_06_26 22:36:09	testdonha	tuiastui	Thien Dia Gioi	0	102	30038	2
+2019_06_26 22:36:09	testdonha	tuiastui	Nhat Nguyet Gioi	0	102	30037	2
+2019_06_26 22:36:09	testdonha	tuiastui	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 22:36:09	testdonha	tuiastui	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 22:36:09	testdonha	tuiastui	Linh Do Mao	0	103	30235	1
+2019_06_26 22:36:09	testdonha	tuiastui	Linh Do Y 1	0	100	30235	1
+2019_06_26 22:36:09	testdonha	tuiastui	Linh Do Trang 1	0	101	30235	1
+2019_06_26 22:36:09	quandtu5	wewsdsd	Thien Dia Gioi	0	102	30038	1
+2019_06_26 22:36:09	quandtu5	wewsdsd	Nhat Nguyet Gioi	0	102	30037	1
+2019_06_26 22:36:09	quandtu5	wewsdsd	Linh Do Gioi Trai	0	102	30221	1
+2019_06_26 22:36:09	quandtu5	wewsdsd	Linh Do Gioi Phai	0	102	30222	1
+2019_06_26 22:36:09	quandtu5	wewsdsd	Linh Do Mao	0	103	30235	1
+2019_06_26 22:36:09	quandtu5	wewsdsd	Linh Do Y 1	0	100	30235	1
+2019_06_26 22:36:09	quandtu5	wewsdsd	Linh Do Trang 1	0	101	30235	1

@@ -1,0 +1,1 @@
+StatTime	Account	Role	ItemName	G	D	P	Cnt

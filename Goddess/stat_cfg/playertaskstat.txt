@@ -1,0 +1,101 @@
+line_id	group_id	desc_cn	condition_ids	type	type_val	pretreatment_type	min_val	max_val	stat_type	desc_vn
+	a task group means a statistic on a set of task or task_group of one player	unuse line(2~30)	reference to [conditions.txt].group_id	see [statcfg_readme.txt].[TaskStatType]	task id like 1527 or another group_id	see [statcfg_readme.txt].[PreTreatmentType]	const number	const number	see [statcfg_readme.txt].[StatType]	unuse line(2~30)
+	one or multi lines with same id construct one statistic	unuse line(2~30)	'&' to depart multi ids	follow is allow:	 	"""NONE"" is default"	 		follow is allow:	unuse line(2~30)
+	a task group means a statistic on a set of task or task_group of one player	unuse line(2~30)	multi conditions relation is "AND"	TASK	 	NONE			COUNT	unuse line(2~30)
+	suggest from 30001	unuse line(2~30)	 	GROUP		ABS			SUM	unuse line(2~30)
+		unuse line(2~30)				BYTE1			AVG	unuse line(2~30)
+		unuse line(2~30)				BYTE2				unuse line(2~30)
+		unuse line(2~30)				BYTE3				unuse line(2~30)
+		unuse line(2~30)				BYTE4				unuse line(2~30)
+		unuse line(2~30)				WORD1				unuse line(2~30)
+		unuse line(2~30)				WORD2				unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+		unuse line(2~30)								unuse line(2~30)
+1	30001	转生1-5		TASK	1538	BYTE1	0	2000000000	SUM	
+2	30002	经脉境界		TASK	2933	BYTE1	0	2000000000	SUM	
+3	30003	经脉1真气数		TASK	2947	NONE	0	2000000000	SUM	
+4	30003	经脉2真气数		TASK	2948	NONE	0	2000000000	SUM	
+5	30003	经脉3真气数		TASK	2949	NONE	0	2000000000	SUM	
+6	30003	经脉4真气数		TASK	2950	NONE	0	2000000000	SUM	
+7	30004	气海真气数		TASK	2934	NONE	0	2000000000	SUM	
+8	30005	角色真气数=气海+经脉1-4		GROUP	30003	NONE	0	2000000000	SUM	
+9	30005	角色真气数=气海+经脉1-4		GROUP	30004	NONE	0	2000000000	SUM	
+10	30006	军功		TASK	701	ABS	0	2000000000	SUM	
+11	30007	军衔		TASK	704	ABS	0	2000000000	SUM	
+12	30008	白驹丸时间		TASK	2501	NONE	0	2000000000	SUM	
+13	30009	大白驹丸时间		TASK	2507	NONE	0	2000000000	SUM	
+14	30010	白驹仙丹时间		TASK	2508	NONE	0	2000000000	SUM	
+15	30011	小白驹丸时间		TASK	2511	NONE	0	2000000000	SUM	
+16	30012	聚灵丸时间		TASK	3105	NONE	0	2000000000	SUM	
+17	30013	大聚灵丸时间		TASK	3106	NONE	0	2000000000	SUM	
+18	30014	聚灵仙丹时间		TASK	3107	NONE	0	2000000000	SUM	
+19	30015	转生1-5门会		TASK	1538	BYTE2	0	2000000000	SUM	
+20	30016	VIP等级		TASK	3135	NONE	0	2000000000	SUM	
+21	30017	宠物Lv1 Num		TASK	2907	NONE	24	26	COUNT	
+22	30017	宠物Lv1 Num		TASK	2908	NONE	24	26	COUNT	
+23	30017	宠物Lv1 Num		TASK	2909	NONE	24	26	COUNT	
+24	30017	宠物Lv1 Num		TASK	2910	NONE	24	26	COUNT	
+25	30017	宠物Lv1 Num		TASK	2911	NONE	24	26	COUNT	
+26	30018	宠物Lv2 Num		TASK	2907	NONE	1	3	COUNT	
+27	30018	宠物Lv2 Num		TASK	2908	NONE	1	3	COUNT	
+28	30018	宠物Lv2 Num		TASK	2909	NONE	1	3	COUNT	
+29	30018	宠物Lv2 Num		TASK	2910	NONE	1	3	COUNT	
+30	30018	宠物Lv2 Num		TASK	2911	NONE	1	3	COUNT	
+31	30019	宠物Lv3 Num		TASK	2907	NONE	4	15	COUNT	
+32	30019	宠物Lv3 Num		TASK	2908	NONE	4	15	COUNT	
+33	30019	宠物Lv3 Num		TASK	2909	NONE	4	15	COUNT	
+34	30019	宠物Lv3 Num		TASK	2910	NONE	4	15	COUNT	
+35	30019	宠物Lv3 Num		TASK	2911	NONE	4	15	COUNT	
+36	30020	宠物Lv4 Num		TASK	2907	NONE	16	25	COUNT	
+37	30020	宠物Lv4 Num		TASK	2908	NONE	16	25	COUNT	
+38	30020	宠物Lv4 Num		TASK	2909	NONE	16	25	COUNT	
+39	30020	宠物Lv4 Num		TASK	2910	NONE	16	25	COUNT	
+40	30020	宠物Lv4 Num		TASK	2911	NONE	16	25	COUNT	
+41	30021	银劵 Num		TASK	3139	NONE	0	2100000000	SUM	
+42	30022	上月消费		TASK	3197	NONE	0	2100000000	SUM	
+43	30023	1级血滴石数量		TASK	3245	BYTE1	0	2000000000	SUM	
+44	30024	2级血滴石数量		TASK	3246	BYTE1	0	2000000000	SUM	
+45	30025	3级血滴石数量		TASK	3247	BYTE1	0	2000000000	SUM	
+46	30026	4级血滴石数量		TASK	3248	BYTE1	0	2000000000	SUM	
+47	30027	5级血滴石数量		TASK	3249	BYTE1	0	2000000000	SUM	
+48	30028	6级血滴石数量		TASK	3250	BYTE1	0	2000000000	SUM	
+49	30029	1级月白石数量		TASK	3245	BYTE2	0	2000000000	SUM	
+50	30030	2级月白石数量		TASK	3246	BYTE2	0	2000000000	SUM	
+51	30031	3级月白石数量		TASK	3247	BYTE2	0	2000000000	SUM	
+52	30032	4级月白石数量		TASK	3248	BYTE2	0	2000000000	SUM	
+53	30033	5级月白石数量		TASK	3249	BYTE2	0	2000000000	SUM	
+54	30034	6级月白石数量		TASK	3250	BYTE2	0	2000000000	SUM	
+55	30035	1级琥珀石数量		TASK	3245	BYTE3	0	2000000000	SUM	
+56	30036	2级琥珀石数量		TASK	3246	BYTE3	0	2000000000	SUM	
+57	30037	3级琥珀石数量		TASK	3247	BYTE3	0	2000000000	SUM	
+58	30038	4级琥珀石数量		TASK	3248	BYTE3	0	2000000000	SUM	
+59	30039	5级琥珀石数量		TASK	3249	BYTE3	0	2000000000	SUM	
+60	30040	6级琥珀石数量		TASK	3250	BYTE3	0	2000000000	SUM	
+61	30041	1级黑曜石数量		TASK	3245	BYTE4	0	2000000000	SUM	
+62	30042	2级黑曜石数量		TASK	3246	BYTE4	0	2000000000	SUM	
+63	30043	3级黑曜石数量		TASK	3247	BYTE4	0	2000000000	SUM	
+64	30044	4级黑曜石数量		TASK	3248	BYTE4	0	2000000000	SUM	
+65	30045	5级黑曜石数量		TASK	3249	BYTE4	0	2000000000	SUM	
+66	30046	6级黑曜石数量		TASK	3250	BYTE4	0	2000000000	SUM	
+67	30047	宠物Lv5 Num		TASK	2907	NONE	27	39	COUNT	
+68	30047	宠物Lv5 Num		TASK	2908	NONE	27	39	COUNT	
+69	30047	宠物Lv5 Num		TASK	2909	NONE	27	39	COUNT	
+70	30047	宠物Lv5 Num		TASK	2910	NONE	27	39	COUNT	
+71	30047	宠物Lv5 Num		TASK	2911	NONE	27	39	COUNT	

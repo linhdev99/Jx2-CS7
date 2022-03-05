@@ -1,0 +1,2 @@
+StatTime	Account	Name	Route	TransLife	Level	IBCost	Money	A	B	C	D	E	F	Exp	Last_IP	CreateDate	LastLoginDate
+"2019_09_22 16:41:19"	quandtu	MANHHO	Thi’u L©m v‚ t®ng  	0	99	0	1000000	0	0	0	0	0	0	0	118.68.55.250	2019-09-22 16:40:25	2019-09-22 16:40:47

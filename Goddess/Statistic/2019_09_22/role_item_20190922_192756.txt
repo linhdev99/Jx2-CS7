@@ -1,0 +1,953 @@
+StatTime	Account	Role	ItemName	G	D	P	Cnt
+2019_09_22 19:27:56	lamhoang12542	051154aa	Qu©n C«ng §¹i	2	1	9998	1
+2019_09_22 19:27:56	lamhoang12542	051154aa	Thiªn Th¹ch Tinh Th¹	2	1	1009	8
+2019_09_22 19:27:56	lamhoang12542	051154aa	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	lamhoang12542	051154aa	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	lamhoang12542	051154aa	Linh Do Gioi Trai	0	102	30221	4
+2019_09_22 19:27:56	lamhoang12542	051154aa	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	lamhoang12542	051154aa	Quan Cong Vinh Du	2	1	30642	13
+2019_09_22 19:27:56	qweqaz141	0PkChinhPhai	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	qweqaz141	0PkChinhPhai	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	qweqaz141	0PkChinhPhai	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	qweqaz141	0PkChinhPhai	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	qweqaz141	0PkChinhPhai	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	queonhoc1	321321sada	Thien Cang Lenh	2	95	204	10
+2019_09_22 19:27:56	queonhoc1	321321sada	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Huyet Trich Thach 6	2	22	106	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Ho Phach Thach 6	2	22	306	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Nguyet Bach Thach 6	2	22	206	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Hac Dieu Thach 6	2	22	406	100
+2019_09_22 19:27:56	queonhoc1	321321sada	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	queonhoc1	321321sada	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	juffx159	5Déc§aT×nh	Xu	2	1	30230	1000
+2019_09_22 19:27:56	juffx159	5Déc§aT×nh	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	juffx159	5Déc§aT×nh	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	juffx159	5Déc§aT×nh	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	cbbeo1	Aloalo123	Non Thien Ha Vo Song	0	101	30207	4
+2019_09_22 19:27:56	cbbeo1	Aloalo123	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	cbbeo1	Aloalo123	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	cbbeo1	Aloalo123	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	cbbeo1	Aloalo123	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	cbbeo1	Aloalo123	Tay Cam Thach 4	2	1	30524	46
+2019_09_22 19:27:56	cbbeo1	Aloalo123	Luyen Lo Thach 4	2	1	30530	41
+2019_09_22 19:27:56	43017lam	AnhHïngX¹§iªu	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	43017lam	AnhHïngX¹§iªu	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	43017lam	AnhHïngX¹§iªu	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	43017lam	AnhHïngX¹§iªu	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	43017lam	AnhHïngX¹§iªu	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	emtaboi1	AnhKhoa	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	emtaboi1	AnhKhoa	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	emtaboi1	AnhKhoa	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	emtaboi1	AnhKhoa	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	emtaboi1	AnhKhoa	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	tlqsutdaklak	âsddsads	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	tlqsutdaklak	âsddsads	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	tlqsutdaklak	âsddsads	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	tlqsutdaklak	âsddsads	Linh Do Gioi Trai	0	102	30221	5
+2019_09_22 19:27:56	tlqsutdaklak	âsddsads	Linh Do Gioi Phai	0	102	30222	5
+2019_09_22 19:27:56	tlqsutdaklak	âsddsads	Linh Do Mao	0	103	30235	5
+2019_09_22 19:27:56	tlqsutdaklak	âsddsads	Linh Do Y 1	0	100	30235	3
+2019_09_22 19:27:56	tlqsutdaklak	âsddsads	Linh Do Trang 1	0	101	30235	3
+2019_09_22 19:27:56	phuoc1255vn2019	BèG×aPK§Ò3F9	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	phuoc1255vn2019	BèG×aPK§Ò3F9	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	phuoc1255vn2019	BèG×aPK§Ò3F9	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	beoga195	BeoBungBu	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	beoga195	BeoBungBu	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	beoga195	BeoBungBu	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	beoga195	BeoBungBu	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	beoga195	BeoBungBu	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	beoga195	BeoBungBu	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	beoga195	BeoBungBu	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	longksl199	BeTapBanCung	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	longksl199	BeTapBanCung	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	cuoctinh100	BimBim	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	cuoctinh100	BimBim	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	cuoctinh100	BimBim	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	cuoctinh100	BimBim	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	cuoctinh100	BimBim	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	cnghia11	BôngBùBóBãng	Qu©n C«ng §¹i	2	1	9998	1
+2019_09_22 19:27:56	cnghia11	BôngBùBóBãng	Quan Cong Vinh Du	2	1	30642	3
+2019_09_22 19:27:56	supertmt1988	BoTreCon	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	supertmt1988	BoTreCon	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	supertmt1988	BoTreCon	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	supertmt1988	BoTreCon	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	supertmt1988	BoTreCon	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thienhavbt1	BuffLßiBÝm	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thienhavbt1	BuffLßiBÝm	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	admin123	caubevang99x	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	admin123	caubevang99x	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	admin123	caubevang99x	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	admin123	caubevang99x	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	admin123	caubevang99x	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	admin123	caubevang99x	Huyet Trich Thach 6	2	22	106	100
+2019_09_22 19:27:56	admin123	caubevang99x	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	admin123	caubevang99x	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	admin123	caubevang99x	Ho Phach Thach 6	2	22	306	100
+2019_09_22 19:27:56	admin123	caubevang99x	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	admin123	caubevang99x	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	admin123	caubevang99x	Nguyet Bach Thach 6	2	22	206	100
+2019_09_22 19:27:56	admin123	caubevang99x	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	admin123	caubevang99x	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	admin123	caubevang99x	Hac Dieu Thach 6	2	22	406	100
+2019_09_22 19:27:56	admin123	caubevang99x	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	admin123	caubevang99x	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	admin123	caubevang99x	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	admin123	caubevang99x	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	hoilamgi1	caveBUFF	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	hoilamgi1	caveBUFF	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	kkunghia2	cavechua	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	kkunghia2	cavechua	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	ngotruonghai12	CCCCCC	Linh Do Gioi Trai	0	102	30221	3
+2019_09_22 19:27:56	ngotruonghai12	CCCCCC	Linh Do Gioi Phai	0	102	30222	2
+2019_09_22 19:27:56	ngotruonghai12	CCCCCC	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	antonioz	CËuBÐBuån	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	antonioz	CËuBÐBuån	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	antonioz	CËuBÐBuån	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	antonioz	CËuBÐBuån	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	antonioz	CËuBÐBuån	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	cailolgithe	CËuBÐB¸nDam	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	cailolgithe	CËuBÐB¸nDam	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	cailolgithe	CËuBÐB¸nDam	Linh Do Trang 1	0	101	30235	1
+2019_09_22 19:27:56	honivn1996	ChienThanHoang	C©y b¸t nh· nhá	2	0	504	1
+2019_09_22 19:27:56	honivn1996	ChienThanHoang	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	honivn1996	ChienThanHoang	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	honivn1996	ChienThanHoang	Tay Cam Thach 4	2	1	30524	99
+2019_09_22 19:27:56	honivn1996	ChienThanHoang	Luyen Lo Thach 4	2	1	30530	99
+2019_09_22 19:27:56	trungninh1508	ConGaCon	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	trungninh1508	ConGaCon	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	trungninh1508	ConGaCon	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	trungninh1508	ConGaCon	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	trungninh1508	ConGaCon	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	trungninh15082	ConMeoCon	Xu	2	1	30230	1446
+2019_09_22 19:27:56	trungninh15082	ConMeoCon	Thien Cang Lenh	2	95	204	8
+2019_09_22 19:27:56	trungninh15082	ConMeoCon	Thien Mon Kim Lenh	2	1	30370	8
+2019_09_22 19:27:56	trungninh15082	ConMeoCon	Bach Kim Hong Bao	2	1	30228	4
+2019_09_22 19:27:56	quyen95	CristianoRonaldo	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	quyen95	CristianoRonaldo	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	quyen95	CristianoRonaldo	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	quyen95	CristianoRonaldo	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	quyen95	CristianoRonaldo	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	haducanh111tq	CöuV©nLong	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	haducanh111tq	CöuV©nLong	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	haducanh111tq	CöuV©nLong	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	haducanh111tq	CöuV©nLong	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	haducanh111tq	CöuV©nLong	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	antoniox	C«BÐBuån	Tay Cam Thach 4	2	1	30524	1346
+2019_09_22 19:27:56	antoniox	C«BÐBuån	Luyen Lo Thach 4	2	1	30530	2000
+2019_09_22 19:27:56	kkunghia1	C¾tCu§iTu	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	kkunghia1	C¾tCu§iTu	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	kkunghia1	C¾tCu§iTu	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	kkunghia1	C¾tCu§iTu	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	kkunghia1	C¾tCu§iTu	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	amxvippr01	DaiMinhTinh	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	amxvippr01	DaiMinhTinh	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	amxvippr01	DaiMinhTinh	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	amxvippr01	DaiMinhTinh	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	amxvippr01	DaiMinhTinh	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	gavangdeptrai	DamVinhBiet	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	gavangdeptrai	DamVinhBiet	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	gavangdeptrai	DamVinhBiet	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	gavangdeptrai	DamVinhBiet	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	gavangdeptrai	DamVinhBiet	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	gavangdeptrai	DamVinhBiet	Tay Cam Thach 4	2	1	30524	57
+2019_09_22 19:27:56	gavangdeptrai	DamVinhBiet	Luyen Lo Thach 4	2	1	30530	82
+2019_09_22 19:27:56	kiendoi97	DaNiElJames	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	kiendoi97	DaNiElJames	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	kiendoi97	DaNiElJames	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	laotonxz	DÐpT«ngLµo	Xu	2	1	30230	446
+2019_09_22 19:27:56	laotonxz	DÐpT«ngLµo	Thien Cang Lenh	2	95	204	8
+2019_09_22 19:27:56	laotonxz	DÐpT«ngLµo	Thien Mon Kim Lenh	2	1	30370	8
+2019_09_22 19:27:56	laotonxz	DÐpT«ngLµo	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	laotonxz	DÐpT«ngLµo	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	laotonxz	DÐpT«ngLµo	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	laotonxz	DÐpT«ngLµo	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	laotonxz	DÐpT«ngLµo	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	kutit17t	DeathLotuss	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	kutit17t	DeathLotuss	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	kutit17t	DeathLotuss	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	kutit17t	DeathLotuss	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	kutit17t	DeathLotuss	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	dimeemcr	DjCayz	ChiÕn ThÇn hoµn	2	1	1005	1
+2019_09_22 19:27:56	dimeemcr	DjCayz	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	dimeemcr	DjCayz	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	dimeemcr	DjCayz	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	dimeemcr	DjCayz	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	dimeemcr	DjCayz	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	dimeemcr	DjCayz	Huyet Trich Thach 6	2	22	106	99
+2019_09_22 19:27:56	dimeemcr	DjCayz	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	dimeemcr	DjCayz	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	dimeemcr	DjCayz	Ho Phach Thach 6	2	22	306	94
+2019_09_22 19:27:56	dimeemcr	DjCayz	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	dimeemcr	DjCayz	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	dimeemcr	DjCayz	Nguyet Bach Thach 6	2	22	206	98
+2019_09_22 19:27:56	dimeemcr	DjCayz	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	dimeemcr	DjCayz	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	dimeemcr	DjCayz	Hac Dieu Thach 6	2	22	406	100
+2019_09_22 19:27:56	dimeemcr	DjCayz	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	dimeemcr	DjCayz	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	lqthanhbl	DocCoCauBai	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	lqthanhbl	DocCoCauBai	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	lqthanhbl	DocCoCauBai	Tay Cam Thach 4	2	1	30524	1699
+2019_09_22 19:27:56	lqthanhbl	DocCoCauBai	Luyen Lo Thach 4	2	1	30530	1700
+2019_09_22 19:27:56	haiquyhop	duhocsinh	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	haiquyhop	duhocsinh	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	haiquyhop	duhocsinh	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	haiquyhop	duhocsinh	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	haiquyhop	duhocsinh	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	juffx159	HD®at×nh	Xu	2	1	30230	1000
+2019_09_22 19:27:56	juffx159	HD®at×nh	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	juffx159	HD®at×nh	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	bapcaile	helloae	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	bapcaile	helloae	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	bapcaile	helloae	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thai609	HieuPhuong	Tu Ch©n YÕu QuyÕt	2	0	554	9
+2019_09_22 19:27:56	thai609	HieuPhuong	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thai609	HieuPhuong	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	maidung	HoaiNiem1Thoi	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	maidung	HoaiNiem1Thoi	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	maidung	HoaiNiem1Thoi	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	maidung	HoaiNiem1Thoi	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	maidung	HoaiNiem1Thoi	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	maidung	HoaiNiem1Thoi	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	maidung	HoaiNiem1Thoi	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	maidung	HoaiNiem1Thoi	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	maidung	HoaiNiem1Thoi	Linh Do Trang 1	0	101	30235	1
+2019_09_22 19:27:56	vankhiem	Ho¶C«ng§Çu	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	vankhiem	Ho¶C«ng§Çu	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	vankhiem	Ho¶C«ng§Çu	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	vankhiem	Ho¶C«ng§Çu	Linh Do Gioi Trai	0	102	30221	4
+2019_09_22 19:27:56	vankhiem	Ho¶C«ng§Çu	Linh Do Gioi Phai	0	102	30222	4
+2019_09_22 19:27:56	vankhiem	Ho¶C«ng§Çu	Linh Do Mao	0	103	30235	4
+2019_09_22 19:27:56	vankhiem	Ho¶C«ng§Çu	Linh Do Y 1	0	100	30235	4
+2019_09_22 19:27:56	vankhiem	Ho¶C«ng§Çu	Linh Do Trang 1	0	101	30235	4
+2019_09_22 19:27:56	soidaika96x	HPzDarkLord	Thien Cang Lenh	2	95	204	9
+2019_09_22 19:27:56	soidaika96x	HPzDarkLord	Thien Mon Kim Lenh	2	1	30370	9
+2019_09_22 19:27:56	soidaika96x	HPzDarkLord	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	soidaika96x	HPzDarkLord	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	soidaika96x	HPzDarkLord	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	soidaika96x	HPzDarkLord	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	soidaika96x	HPzDarkLord	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	soidaika96x	HPzDarkLord	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	soidaika96x	HPzDarkLord	Luyen Lo Thach 4	2	1	30530	98
+2019_09_22 19:27:56	soidaika96xx	HPzNMKzz	Xu	2	1	30230	223
+2019_09_22 19:27:56	soidaika96xx	HPzNMKzz	Thien Cang Lenh	2	95	204	9
+2019_09_22 19:27:56	soidaika96xx	HPzNMKzz	Thien Mon Kim Lenh	2	1	30370	9
+2019_09_22 19:27:56	soidaika96xx	HPzNMKzz	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	soidaika96xx	HPzNMKzz	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	soidaika96xx	HPzNMKzz	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	soidaika96xx	HPzNMKzz	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	quyen99995	HugoAveiro	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	quyen99995	HugoAveiro	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	quyen99995	HugoAveiro	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	quyen99995	HugoAveiro	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	quyen99995	HugoAveiro	Linh Do Mao	0	103	30235	2
+2019_09_22 19:27:56	quyen99995	HugoAveiro	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	hotfood11	HµnTiÓuMai	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	hotfood11	HµnTiÓuMai	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	hotfood11	HµnTiÓuMai	Quan Cong Vinh Du	2	1	30642	2
+2019_09_22 19:27:56	tungthuc1980	i67iAGiTomKk	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	tungthuc1980	i67iAGiTomKk	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	tungthuc1980	i67iAGiTomKk	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	tungthuc1980	i67iAGiTomKk	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	tungthuc1980	i67iAGiTomKk	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	phucthinh1	i71xThÞnh§«La	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	phucthinh1	i71xThÞnh§«La	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	gahamxa17051995	i84ThuËnGßm	Non Thien Ha Vo Song	0	101	30207	3
+2019_09_22 19:27:56	gahamxa17051995	i84ThuËnGßm	Ao Thien Ha Vo Song	0	100	30207	3
+2019_09_22 19:27:56	gahamxa17051995	i84ThuËnGßm	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	gahamxa17051995	i84ThuËnGßm	Linh Do Gioi Trai	0	102	30221	6
+2019_09_22 19:27:56	gahamxa17051995	i84ThuËnGßm	Linh Do Gioi Phai	0	102	30222	6
+2019_09_22 19:27:56	gahamxa17051995	i84ThuËnGßm	Linh Do Mao	0	103	30235	6
+2019_09_22 19:27:56	gahamxa17051995	i84ThuËnGßm	Linh Do Y 1	0	100	30235	7
+2019_09_22 19:27:56	gahamxa17051995	i84ThuËnGßm	Linh Do Trang 1	0	101	30235	6
+2019_09_22 19:27:56	dancobra	IBMKingDomMe	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	dancobra	IBMKingDomMe	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	dancobra	IBMKingDomMe	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	dancobra	IBMKingDomMe	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	dancobra	IBMKingDomMe	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	0963994773	iBµnCh©nBÈn	Non Thien Ha Vo Song	0	101	30207	18
+2019_09_22 19:27:56	0963994773	iBµnCh©nBÈn	Ao Thien Ha Vo Song	0	100	30207	18
+2019_09_22 19:27:56	0963994773	iBµnCh©nBÈn	Quan Thien Ha Vo Son	0	103	30207	18
+2019_09_22 19:27:56	0963994773	iBµnCh©nBÈn	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	0963994773	iBµnCh©nBÈn	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	0963994773	iBµnCh©nBÈn	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	kingofwar	iDLxTraSua	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	kingofwar	iDLxTraSua	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	kingofwar	iDLxTraSua	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	kingofwar	iDLxTraSua	Linh Do Gioi Trai	0	102	30221	2
+2019_09_22 19:27:56	kingofwar	iDLxTraSua	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	kingofwar	iDLxTraSua	Tay Cam Thach 4	2	1	30524	989
+2019_09_22 19:27:56	kingofwar	iDLxTraSua	Luyen Lo Thach 4	2	1	30530	997
+2019_09_22 19:27:56	kingofwar1	iDlxTuongVi	Tay Cam Thach 4	2	1	30524	994
+2019_09_22 19:27:56	kingofwar1	iDlxTuongVi	Luyen Lo Thach 4	2	1	30530	1000
+2019_09_22 19:27:56	vuhongminh1991	iHNxTháNgèc	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	vuhongminh1991	iHNxTháNgèc	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	vuhongminh1991	iHNxTháNgèc	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	vuhongminh1991	iHNxTháNgèc	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	vuhongminh1991	iHNxTháNgèc	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	boboy05	iHTxTeo	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	boboy05	iHTxTeo	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	boboy05	iHTxTeo	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	boboy05	iHTxTeo	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	boboy05	iHTxTeo	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	boboy05	iHTxTeo	Tay Cam Thach 4	2	1	30524	387
+2019_09_22 19:27:56	boboy05	iHTxTeo	Luyen Lo Thach 4	2	1	30530	523
+2019_09_22 19:27:56	thudukg1	iiHanzo	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	thudukg1	iiHanzo	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	thudukg1	iiHanzo	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	thudukg1	iiHanzo	Huyet Trich Thach 6	2	22	106	12
+2019_09_22 19:27:56	thudukg1	iiHanzo	Ho Phach Thach 6	2	22	306	9
+2019_09_22 19:27:56	thudukg1	iiHanzo	Nguyet Bach Thach 6	2	22	206	12
+2019_09_22 19:27:56	thudukg1	iiHanzo	Hac Dieu Thach 6	2	22	406	29
+2019_09_22 19:27:56	thudukg1	iiHanzo	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thudukg1	iiHanzo	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thudukg1	iiHanzo	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	thudukg1	iiHanzo	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	thudukg1	iiHanzo	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	thudukg1	iiHanzo	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	minh123q1	iiHoaiThien	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	minh123q1	iiHoaiThien	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	minh123q1	iiHoaiThien	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	minh123q1	iiHoaiThien	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	minh123q1	iiHoaiThien	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	minh123q1	iiHoaiThien	Tay Cam Thach 4	2	1	30524	200
+2019_09_22 19:27:56	minh123q1	iiHoaiThien	Luyen Lo Thach 4	2	1	30530	200
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Linh Do Gioi Trai	0	102	30221	7
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Linh Do Gioi Phai	0	102	30222	7
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Linh Do Mao	0	103	30235	7
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Linh Do Y 1	0	100	30235	7
+2019_09_22 19:27:56	bphuong102	IiL·oH¹cIiz	Linh Do Trang 1	0	101	30235	7
+2019_09_22 19:27:56	khanhnam000	iIxBólzDånxDame	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	khanhnam000	iIxBólzDånxDame	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	khanhnam000	iIxBólzDånxDame	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	khanhnam000	iIxBólzDånxDame	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	khanhnam000	iIxBólzDånxDame	Linh Do Gioi Phai	0	102	30222	2
+2019_09_22 19:27:56	tranvietzx	iLucKaKa	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	tranvietzx	iLucKaKa	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	tranvietzx	iLucKaKa	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	tranvietzx	iLucKaKa	Thien Dia Gioi	0	102	30038	2
+2019_09_22 19:27:56	tranvietzx	iLucKaKa	Nhat Nguyet Gioi	0	102	30037	2
+2019_09_22 19:27:56	tranvietzx	iLucKaKa	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	tranvietzx	iLucKaKa	Luyen Lo Thach 4	2	1	30530	91
+2019_09_22 19:27:56	cuoctinh1000vn	iOizMrDartMaNo1	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	cuoctinh1000vn	iOizMrDartMaNo1	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	cuoctinh1000vn	iOizMrDartMaNo1	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	cuoctinh1000vn	iOizMrDartMaNo1	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	cuoctinh1000vn	iOizMrDartMaNo1	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	cuoctinh1000vn	iOizMrDartMaNo1	Linh Do Gioi Trai	0	102	30221	3
+2019_09_22 19:27:56	cuoctinh1000vn	iOizMrDartMaNo1	Linh Do Gioi Phai	0	102	30222	2
+2019_09_22 19:27:56	cuoctinh1000vn	iOizMrDartMaNo1	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	cuoctinh1000vn	iOizMrDartMaNo1	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	nguyen2019	ioNguyenConHeo	Linh Do Trang 1	0	101	30235	1
+2019_09_22 19:27:56	diennnbtzz	iphone	Xu	2	1	30230	223
+2019_09_22 19:27:56	diennnbtzz	iphone	Thien Cang Lenh	2	95	204	9
+2019_09_22 19:27:56	diennnbtzz	iphone	Thien Mon Kim Lenh	2	1	30370	9
+2019_09_22 19:27:56	diennnbtzz	iphone	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	diennnbtzz	iphone	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	diennnbtzz	iphone	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	diennnbtzz	iphone	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	diennnbtzz	iphone	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	diennnbtzz	iphone	Tay Cam Thach 4	2	1	30524	80
+2019_09_22 19:27:56	diennnbtzz	iphone	Luyen Lo Thach 4	2	1	30530	26
+2019_09_22 19:27:56	proilo135	iSiNiChiZz	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	proilo135	iSiNiChiZz	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	proilo135	iSiNiChiZz	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	proilo135	iSiNiChiZz	Quan Cong Vinh Du	2	1	30642	8
+2019_09_22 19:27:56	hotfood12	IsToXic	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	hotfood12	IsToXic	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	hotfood12	IsToXic	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	hotfood12	IsToXic	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	hotfood12	IsToXic	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	hotfood12	IsToXic	Linh Do Gioi Trai	0	102	30221	2
+2019_09_22 19:27:56	hotfood12	IsToXic	Quan Cong Vinh Du	2	1	30642	3
+2019_09_22 19:27:56	kephieubac85	IS§écC«CÇuB¹ii	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	kephieubac85	IS§écC«CÇuB¹ii	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	kephieubac85	IS§écC«CÇuB¹ii	Quan Thien Ha Vo Son	0	103	30207	3
+2019_09_22 19:27:56	kephieubac85	IS§écC«CÇuB¹ii	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	kephieubac85	IS§écC«CÇuB¹ii	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	kephieubac85	IS§écC«CÇuB¹ii	Tay Cam Thach 4	2	1	30524	710
+2019_09_22 19:27:56	kephieubac85	IS§écC«CÇuB¹ii	Luyen Lo Thach 4	2	1	30530	861
+2019_09_22 19:27:56	quockhanhla1	iThayTuChayXeLu	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	quockhanhla1	iThayTuChayXeLu	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	quockhanhla1	iThayTuChayXeLu	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	quockhanhla1	iThayTuChayXeLu	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	quockhanhla1	iThayTuChayXeLu	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	meliodas98	iTHzMEnly	Linh Do Trang 1	0	101	30235	1
+2019_09_22 19:27:56	meliodas98	iTHzMeoCaCa	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	meliodas98	iTHzMeoCaCa	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	meliodas98	iTHzMeoCaCa	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	meliodas98	iTHzMeoCaCa	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	meliodas98	iTHzMeoCaCa	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	meliodas98	iTHzMeoCaCa	Quan Cong Vinh Du	2	1	30642	8
+2019_09_22 19:27:56	vancuong11	iVanCuong	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	vancuong11	iVanCuong	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	vancuong11	iVanCuong	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	vancuong11	iVanCuong	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	vancuong11	iVanCuong	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	vancuong11	iVanCuong	Tay Cam Thach 4	2	1	30524	819
+2019_09_22 19:27:56	vancuong11	iVanCuong	Luyen Lo Thach 4	2	1	30530	866
+2019_09_22 19:27:56	hai123	Javporn	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	hai123	Javporn	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	hai123	Javporn	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	hai123	Javporn	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	hai123	Javporn	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	hai123	Javporn	Tay Cam Thach 4	2	1	30524	370
+2019_09_22 19:27:56	hai123	Javporn	Luyen Lo Thach 4	2	1	30530	400
+2019_09_22 19:27:56	daipilldz	Jx2Anna	Tay Cam Thach 4	2	1	30524	62
+2019_09_22 19:27:56	daipilldz	Jx2Anna	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Huyet Trich Thach 6	2	22	106	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Ho Phach Thach 6	2	22	306	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Nguyet Bach Thach 6	2	22	206	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Hac Dieu Thach 6	2	22	406	100
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	nhuthikhong999	Jx2BeoBeo	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	fptsoftware	Jx2CæThiªnL¹c	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	fptsoftware	Jx2CæThiªnL¹c	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	kr1997	jx2lloga	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	kr1997	jx2lloga	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	kr1997	jx2lloga	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	kr1997	jx2lloga	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	kr1997	jx2lloga	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	admintrastor	Jx2MidNight	Non Thien Ha Vo Song	0	101	30207	14
+2019_09_22 19:27:56	admintrastor	Jx2MidNight	Ao Thien Ha Vo Song	0	100	30207	14
+2019_09_22 19:27:56	admintrastor	Jx2MidNight	Quan Thien Ha Vo Son	0	103	30207	14
+2019_09_22 19:27:56	admintrastor	Jx2MidNight	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	admintrastor	Jx2MidNight	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	lamnhiemvu0	Jx2Nhinhi	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	lamnhiemvu0	Jx2Nhinhi	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	phuquy15235	Jx2Pill	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	phuquy15235	Jx2Pill	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	phuquy15235	Jx2Pill	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	phuquy15235	Jx2Pill	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	phuquy15235	Jx2Pill	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	phuquy15235	Jx2Pill	Tay Cam Thach 4	2	1	30524	88
+2019_09_22 19:27:56	phuquy15235	Jx2Pill	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	qminhgiao01	Jx2Quay	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	qminhgiao01	Jx2Quay	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	qminhgiao01	Jx2Quay	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	qminhgiao01	Jx2Quay	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	qminhgiao01	Jx2Quay	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	qminhgiao01	Jx2Quay	Tay Cam Thach 4	2	1	30524	800
+2019_09_22 19:27:56	qminhgiao01	Jx2Quay	Luyen Lo Thach 4	2	1	30530	800
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Huyet Trich Thach 6	2	22	106	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Ho Phach Thach 6	2	22	306	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Nguyet Bach Thach 6	2	22	206	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Hac Dieu Thach 6	2	22	406	100
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	haunii1	Jx2ThÇnTh­¬ng	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Linh Do Gioi Trai	0	102	30221	8
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Linh Do Gioi Phai	0	102	30222	7
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Linh Do Mao	0	103	30235	7
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Linh Do Y 1	0	100	30235	7
+2019_09_22 19:27:56	thaiduy1	Jx2TLQiBr	Linh Do Trang 1	0	101	30235	7
+2019_09_22 19:27:56	jx2vani	Jx2Vani	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	jx2vani	Jx2Vani	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	jx2vani	Jx2Vani	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	jx2vani	Jx2Vani	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	jx2vani	Jx2Vani	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	jx2xeon	Jx2Xeon	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	jx2xeon	Jx2Xeon	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	kalima	KaLiMa	Non Thien Ha Vo Song	0	101	30207	6
+2019_09_22 19:27:56	kalima	KaLiMa	Ao Thien Ha Vo Song	0	100	30207	4
+2019_09_22 19:27:56	kalima	KaLiMa	Quan Thien Ha Vo Son	0	103	30207	6
+2019_09_22 19:27:56	kalima	KaLiMa	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	kalima	KaLiMa	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	kalima	KaLiMa	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	kalima	KaLiMa	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	kalima	KaLiMa	Linh Do Trang 1	0	101	30235	1
+2019_09_22 19:27:56	diachu01	Kem7Mµu	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	diachu01	Kem7Mµu	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	nambui3994	KenShin	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	nambui3994	KenShin	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	khanhcuden2202	KhanhCuDen	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	khanhcuden2202	KhanhCuDen	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	khanhcuden2202	KhanhCuDen	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	khanhcuden2202	KhanhCuDen	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	khanhcuden2202	KhanhCuDen	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	sangpr0cdv	Kiliam	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	sangpr0cdv	Kiliam	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	sangpr0cdv	Kiliam	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	sangpr0cdv	Kiliam	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	sangpr0cdv	Kiliam	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	zazbzc01	KongZheng	Tu Ch©n YÕu QuyÕt	2	0	554	9
+2019_09_22 19:27:56	zazbzc01	KongZheng	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	zazbzc01	KongZheng	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	zazbzc01	KongZheng	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	zazbzc01	KongZheng	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	zazbzc01	KongZheng	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	dat09jx2	KS§¹tSÇu§êi	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	dat09jx2	KS§¹tSÇu§êi	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	dat09jx2	KS§¹tSÇu§êi	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	thienddd1	KüN÷Diva	Xu	2	1	30230	1469
+2019_09_22 19:27:56	thienddd1	KüN÷Diva	Thien Cang Lenh	2	95	204	7
+2019_09_22 19:27:56	thienddd1	KüN÷Diva	Thien Mon Kim Lenh	2	1	30370	7
+2019_09_22 19:27:56	thienddd	KüN÷MïaXu©n	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thienddd	KüN÷MïaXu©n	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thienddd	KüN÷MïaXu©n	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	thienddd	KüN÷MïaXu©n	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	nnl280201	LeThanh	Thiªn Th¹ch linh th¹	2	1	1068	1
+2019_09_22 19:27:56	nnl280201	LeThanh	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	nnl280201	LeThanh	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	nnl280201	LeThanh	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	nnl280201	LeThanh	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	nnl280201	LeThanh	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	honghai1	Lijkey	Tu Ch©n YÕu QuyÕt	2	0	554	10
+2019_09_22 19:27:56	honghai1	Lijkey	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	honghai1	Lijkey	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	honghai1	Lijkey	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	honghai1	Lijkey	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	honghai1	Lijkey	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	0976382117	LiÕmKhÊc	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	0976382117	LiÕmKhÊc	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	0976382117	LiÕmKhÊc	Quan Cong Vinh Du	2	1	30642	1
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Linh Do Gioi Trai	0	102	30221	3
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Linh Do Gioi Phai	0	102	30222	3
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Linh Do Mao	0	103	30235	3
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Linh Do Y 1	0	100	30235	3
+2019_09_22 19:27:56	chipheo1x	LKChiPheoO	Linh Do Trang 1	0	101	30235	3
+2019_09_22 19:27:56	czluzdz1995	LªnBèGiÕt2	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	czluzdz1995	LªnBèGiÕt2	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	czluzdz1995	LªnBèGiÕt2	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	czluzdz1995	LªnBèGiÕt2	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	czluzdz1995	LªnBèGiÕt2	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	mi4mt1	L¾cTheo§iÖuNh¹c	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	mi4mt1	L¾cTheo§iÖuNh¹c	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	quandtu	MANHHO	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	quandtu	MANHHO	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	quandtu	MANHHO	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	quandtu	MANHHO	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	quandtu	MANHHO	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	supertmt1989	MaTreCon	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	supertmt1989	MaTreCon	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	quandtu	NgaMyCave	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	quandtu	NgaMyCave	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	nghiahiengia	NghiaHienGia	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	nghiahiengia	NghiaHienGia	Linh Do Trang 1	0	101	30235	1
+2019_09_22 19:27:56	thuychi1	Ng­êiNæiTiÕng	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thuychi1	Ng­êiNæiTiÕng	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thanhlxag1206	NhokThanh	Thien Cang Lenh	2	95	204	10
+2019_09_22 19:27:56	thanhlxag1206	NhokThanh	Thien Mon Kim Lenh	2	1	30370	30
+2019_09_22 19:27:56	thanhlxag1206	NhokThanh	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thanhlxag1206	NhokThanh	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	duykaka2019	NhÞLangThÇn	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	duykaka2019	NhÞLangThÇn	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	duykaka2019	NhÞLangThÇn	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	duykaka2019	NhÞLangThÇn	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	duykaka2019	NhÞLangThÇn	Linh Do Gioi Phai	0	102	30222	2
+2019_09_22 19:27:56	sakaya1999	NoHoop	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	sakaya1999	NoHoop	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	sakaya1999	NoHoop	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	sakaya1999	NoHoop	Tay Cam Thach 4	2	1	30524	235
+2019_09_22 19:27:56	sakaya1999	NoHoop	Luyen Lo Thach 4	2	1	30530	344
+2019_09_22 19:27:56	vodangvc2013	o0oS2NhËmDoanhS2	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	vodangvc2013	o0oS2NhËmDoanhS2	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	vodangvc2012	o0oS2XÝchL©nS2	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	vodangvc2012	o0oS2XÝchL©nS2	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	vodangvc2012	o0oS2XÝchL©nS2	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	vodangvc2012	o0oS2XÝchL©nS2	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	vodangvc2012	o0oS2XÝchL©nS2	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Linh Do Gioi Trai	0	102	30221	2
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Linh Do Gioi Phai	0	102	30222	2
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Linh Do Mao	0	103	30235	2
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Linh Do Y 1	0	100	30235	2
+2019_09_22 19:27:56	qwe00zz	oB52oBinn§z	Linh Do Trang 1	0	101	30235	2
+2019_09_22 19:27:56	onthanhmy0	PeDeCaMau	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	onthanhmy0	PeDeCaMau	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	onthanhmy0	PeDeCaMau	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	asdasd123vn	Pinpon	Xu	2	1	30230	223
+2019_09_22 19:27:56	asdasd123vn	Pinpon	Thien Cang Lenh	2	95	204	19
+2019_09_22 19:27:56	asdasd123vn	Pinpon	Thien Mon Kim Lenh	2	1	30370	9
+2019_09_22 19:27:56	asdasd123vn	Pinpon	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	asdasd123vn	Pinpon	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	asdasd123vn	Pinpon	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	asdasd123vn	Pinpon	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	asdasd123vn	Pinpon	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	hungnghia97	QNKzAiNghia	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	hungnghia97	QNKzAiNghia	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	hungnghia97	QNKzAiNghia	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	hungnghia97	QNKzAiNghia	Tay Cam Thach 4	2	1	30524	161
+2019_09_22 19:27:56	hungnghia97	QNKzAiNghia	Luyen Lo Thach 4	2	1	30530	94
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Linh Do Gioi Trai	0	102	30221	8
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Linh Do Gioi Phai	0	102	30222	9
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Linh Do Mao	0	103	30235	7
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Linh Do Y 1	0	100	30235	7
+2019_09_22 19:27:56	an123456	qqqqqqqqqqqqq	Linh Do Trang 1	0	101	30235	7
+2019_09_22 19:27:56	anhtrong	Rít¸oCµSa	Tu Ch©n YÕu QuyÕt	2	0	554	16
+2019_09_22 19:27:56	anhtrong	Rít¸oCµSa	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	anhtrong	Rít¸oCµSa	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	anhtrong	Rít¸oCµSa	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	anhtrong	Rít¸oCµSa	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	anhtrong	Rít¸oCµSa	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	tiensinh031	S2MaButNo1	Thien Dia Gioi	0	102	30038	2
+2019_09_22 19:27:56	tiensinh031	S2MaButNo1	Nhat Nguyet Gioi	0	102	30037	2
+2019_09_22 19:27:56	tiensinh031	S2MaButNo1	Tay Cam Thach 4	2	1	30524	645
+2019_09_22 19:27:56	tiensinh031	S2MaButNo1	Luyen Lo Thach 4	2	1	30530	522
+2019_09_22 19:27:56	anhnhy123drvn	S2zOngNoiNMK	Tu Ch©n YÕu QuyÕt	2	0	554	8
+2019_09_22 19:27:56	anhnhy123dr123	S2zOngNoiTLQ	Tu Ch©n YÕu QuyÕt	2	0	554	8
+2019_09_22 19:27:56	anhnhy123dr123	S2zOngNoiTLQ	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	anhnhy123dr123	S2zOngNoiTLQ	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	anhnhy123dr123	S2zOngNoiTLQ	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	anhnhy123dr123	S2zOngNoiTLQ	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	anhnhy123dr123	S2zOngNoiTLQ	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	nvluanbtzz	samsung	Xu	2	1	30230	223
+2019_09_22 19:27:56	nvluanbtzz	samsung	Tay Cam Thach 4	2	1	30524	89
+2019_09_22 19:27:56	nvluanbtzz	samsung	Luyen Lo Thach 4	2	1	30530	97
+2019_09_22 19:27:56	amxvippr01	SatThien	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	amxvippr01	SatThien	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	amxvippr01	SatThien	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	amxvippr01	SatThien	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	amxvippr01	SatThien	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	long11a12dgl	ShenLong	Thien Dia Gioi	0	102	30038	2
+2019_09_22 19:27:56	long11a12dgl	ShenLong	Nhat Nguyet Gioi	0	102	30037	2
+2019_09_22 19:27:56	neumaythich1111	ShinChan	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	neumaythich1111	ShinChan	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	neumaythich1111	ShinChan	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	neumaythich1111	ShinChan	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	neumaythich1111	ShinChan	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	hoilamgi	SótBayQuÇnLãt	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	hoilamgi	SótBayQuÇnLãt	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thuychi	S­ThÇyXdame	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thuychi	S­ThÇyXdame	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thuhuyenofme	TBiiTLQ	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	thuhuyenofme	TBiiTLQ	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	thuhuyenofme	TBiiTLQ	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	thuhuyenofme	TBiiTLQ	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thuhuyenofme	TBiiTLQ	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thuhuyenofme	TBiiTLQ	Tay Cam Thach 4	2	1	30524	818
+2019_09_22 19:27:56	thuhuyenofme	TBiiTLQ	Luyen Lo Thach 4	2	1	30530	873
+2019_09_22 19:27:56	thuhuyenofme	TBzzTLQ	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	thuhuyenofme	TBzzTLQ	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	thuhuyenofme	TBzzTLQ	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	thuhuyenofme	TBzzTLQ	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thuhuyenofme	TBzzTLQ	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	quocbao248	TêNóThÝch§¹iTu	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	quocbao248	TêNóThÝch§¹iTu	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	quocbao248	TêNóThÝch§¹iTu	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	quocbao248	TêNóThÝch§¹iTu	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	quocbao248	TêNóThÝch§¹iTu	Linh Do Gioi Trai	0	102	30221	3
+2019_09_22 19:27:56	quocbao248	TêNóThÝch§¹iTu	Linh Do Gioi Phai	0	102	30222	4
+2019_09_22 19:27:56	kinhcodon	ThiªnM«n	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	kinhcodon	ThiªnM«n	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Huyet Trich Thach 6	2	22	106	98
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Ho Phach Thach 6	2	22	306	92
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Nguyet Bach Thach 6	2	22	206	100
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Hac Dieu Thach 6	2	22	406	92
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Tay Cam Thach 4	2	1	30524	200
+2019_09_22 19:27:56	kiddjvu	thoiakochoi	Luyen Lo Thach 4	2	1	30530	200
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Linh Do Trang 1	0	101	30235	1
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	nguyenjina3	Thø7D¹oPhèNhÐEm	Luyen Lo Thach 4	2	1	30530	84
+2019_09_22 19:27:56	gac0n68	TiÓuH¾c	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	gac0n68	TiÓuH¾c	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	gac0n68	TiÓuH¾c	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	gac0n68	TiÓuH¾c	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	gac0n68	TiÓuH¾c	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	gac0n68	TiÓuH¾c	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	gac0n68	TiÓuH¾c	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	gac0n68	TiÓuH¾c	Linh Do Trang 1	0	101	30235	1
+2019_09_22 19:27:56	0358204178	TiÓuYTiªn	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	0358204178	TiÓuYTiªn	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	daitonglieu	tlqqqqqqqqq	B¹ch Kim Hång Bao	2	1	30229	64
+2019_09_22 19:27:56	daitonglieu	tlqqqqqqqqq	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	daitonglieu	tlqqqqqqqqq	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	daitonglieu	tlqqqqqqqqq	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	daitonglieu	tlqqqqqqqqq	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	nhoxbunno40	TLQZZI	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	nhoxbunno40	TLQZZI	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	nhoxbunno40	TLQZZI	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	nhoxbunno40	TLQZZI	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	nhoxbunno40	TLQZZI	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	nhoxbunno40	TLQZZI	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	nhoxbunno40	TLQZZI	Linh Do Gioi Phai	0	102	30222	4
+2019_09_22 19:27:56	longblack2009	TLTxxHongHanxS2	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	longblack2009	TLTxxHongHanxS2	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	longblack2009	TLTxxHongHanxS2	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	longblack2009	TLTxxHongHanxS2	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	longblack2009	TLTxxHongHanxS2	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thaivu2019tlq	TrÇnDÇnIsMyLife	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	thaivu2019tlq	TrÇnDÇnIsMyLife	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	thaivu2019tlq	TrÇnDÇnIsMyLife	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	thaivu2019tlq	TrÇnDÇnIsMyLife	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thaivu2019tlq	TrÇnDÇnIsMyLife	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	lmt309	TrumServerOK	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	lmt309	TrumServerOK	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	lmt309	TrumServerOK	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	lmt309	TrumServerOK	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	lmt309	TrumServerOK	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	lmt309	TrumServerOK	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Thiªn Th¹ch linh th¹	2	1	1068	1
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Cuong Hoa Quyen 12	2	1	30424	10
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Cuong Hoa Quyen 13	2	1	30425	10
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Cuong Hoa Quyen 14	2	1	30426	10
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Cuong Hoa Quyen 15	2	1	30427	10
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Huyet Trich Thach 6	2	22	106	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Ho Phach Thach 6	2	22	306	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Nguyet Bach Thach 6	2	22	206	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Hac Dieu Thach 6	2	22	406	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Thien Dia Gioi	0	102	30038	2
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Nhat Nguyet Gioi	0	102	30037	2
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Linh Do Y 1	0	100	30235	1
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Linh Do Trang 1	0	101	30235	1
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Tay Cam Thach 4	2	1	30524	100
+2019_09_22 19:27:56	kuphoc1996	TruongVoKy	Luyen Lo Thach 4	2	1	30530	100
+2019_09_22 19:27:56	trunghp93	TsestSsss	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	trunghp93	TsestSsss	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	trunghp93	TsestSsss	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	trunghp93	TsestSsss	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	trunghp93	TsestSsss	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Huyet Trich Thach 6	2	22	106	99
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Ho Phach Thach 6	2	22	306	91
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Nguyet Bach Thach 6	2	22	206	92
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Hac Dieu Thach 6	2	22	406	100
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	thienhavbt	TungT¨ng§¸Dog	Linh Do Mao	0	103	30235	1
+2019_09_22 19:27:56	thienddd	UyHæSo¸i	Xu	2	1	30230	1669
+2019_09_22 19:27:56	thienddd	UyHæSo¸i	Thien Cang Lenh	2	95	204	7
+2019_09_22 19:27:56	thienddd	UyHæSo¸i	Thien Mon Kim Lenh	2	1	30370	7
+2019_09_22 19:27:56	thienddd	UyHæSo¸i	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	thienddd	UyHæSo¸i	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	thienddd	UyHæSo¸i	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	thienddd	UyHæSo¸i	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thienddd	UyHæSo¸i	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	maidung	VLvolam	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	maidung	VLvolam	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	maidung	VLvolam	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	maidung	VLvolam	Thien Dia Gioi	0	102	30038	2
+2019_09_22 19:27:56	maidung	VLvolam	Nhat Nguyet Gioi	0	102	30037	2
+2019_09_22 19:27:56	tieuthien	V©nTiÕuThiªn	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	tieuthien	V©nTiÕuThiªn	Ao Thien Ha Vo Song	0	100	30207	2
+2019_09_22 19:27:56	tieuthien	V©nTiÕuThiªn	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	tieuthien	V©nTiÕuThiªn	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	tieuthien	V©nTiÕuThiªn	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	welinegen1	WayneRooney	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	welinegen1	WayneRooney	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	welinegen1	WayneRooney	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	welinegen1	WayneRooney	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	welinegen1	WayneRooney	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	welinegen1	WayneRooney	Linh Do Gioi Trai	0	102	30221	7
+2019_09_22 19:27:56	welinegen1	WayneRooney	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	anhnhy123dr	wewewewew	Tay Cam Thach 4	2	1	30524	99
+2019_09_22 19:27:56	anhnhy123dr	wewewewew	Luyen Lo Thach 4	2	1	30530	52
+2019_09_22 19:27:56	thviet21	WinnerX150	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	thviet21	WinnerX150	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	thviet21	WinnerX150	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	thviet21	WinnerX150	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	thviet21	WinnerX150	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	jx2viettlq	xSGxTLQx	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	jx2viettlq	xSGxTLQx	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	jx2viettlq	xSGxTLQx	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	jx2viettlq	xSGxTLQx	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	jx2viettlq	xSGxTLQx	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	nvb137996	xXBuuM	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	nvb137996	xXBuuM	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	s2votinh	YªuB¶nTh©n	Non Thien Ha Vo Song	0	101	30207	16
+2019_09_22 19:27:56	s2votinh	YªuB¶nTh©n	Ao Thien Ha Vo Song	0	100	30207	15
+2019_09_22 19:27:56	s2votinh	YªuB¶nTh©n	Quan Thien Ha Vo Son	0	103	30207	16
+2019_09_22 19:27:56	s2votinh	YªuB¶nTh©n	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	s2votinh	YªuB¶nTh©n	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	cnghia1	zBótHihi	Quan Cong Vinh Du	2	1	30642	1
+2019_09_22 19:27:56	congluc1	zKÎ§écHµnh	Non Thien Ha Vo Song	0	101	30207	2
+2019_09_22 19:27:56	congluc1	zKÎ§écHµnh	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	congluc1	zKÎ§écHµnh	Quan Thien Ha Vo Son	0	103	30207	2
+2019_09_22 19:27:56	congluc1	zKÎ§écHµnh	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	congluc1	zKÎ§écHµnh	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	mjkjmjkj1	ZthanThuZz	Xu	2	1	30230	2223
+2019_09_22 19:27:56	mjkjmjkj1	ZthanThuZz	Thien Cang Lenh	2	95	204	9
+2019_09_22 19:27:56	mjkjmjkj1	ZthanThuZz	Thien Mon Kim Lenh	2	1	30370	9
+2019_09_22 19:27:56	cnghia12	zz12zz	Quan Cong Vinh Du	2	1	30642	3
+2019_09_22 19:27:56	cnghia13	zz13zz	Quan Cong Vinh Du	2	1	30642	3
+2019_09_22 19:27:56	cnghia14	zz14zz	Quan Cong Vinh Du	2	1	30642	3
+2019_09_22 19:27:56	cnghia15	zz15zz	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	cnghia15	zz15zz	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	cnghia15	zz15zz	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	cnghia15	zz15zz	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	cnghia15	zz15zz	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	cnghia15	zz15zz	Quan Cong Vinh Du	2	1	30642	3
+2019_09_22 19:27:56	cnghia16	zz16zz	Quan Cong Vinh Du	2	1	30642	3
+2019_09_22 19:27:56	cnghia17	zz17zz	Quan Cong Vinh Du	2	1	30642	3
+2019_09_22 19:27:56	cnghia18	zz18zz	Quan Cong Vinh Du	2	1	30642	3
+2019_09_22 19:27:56	cnghia2	zz2zzz	Qu©n c«ng ch­¬ng	2	1	9999	1
+2019_09_22 19:27:56	cnghia2	zz2zzz	Quan Cong Vinh Du	2	1	30642	1
+2019_09_22 19:27:56	cnghia3	zz3zzz	Quan Cong Vinh Du	2	1	30642	1
+2019_09_22 19:27:56	cnghia4	zz4zzz	Quan Cong Vinh Du	2	1	30642	1
+2019_09_22 19:27:56	cnghia5	zz5zzz	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	cnghia5	zz5zzz	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	cnghia5	zz5zzz	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	cnghia5	zz5zzz	Nu Oa Bao Hap	2	1	30154	1
+2019_09_22 19:27:56	cnghia5	zz5zzz	Ngoi Sao May Man	2	1	30191	1
+2019_09_22 19:27:56	cnghia5	zz5zzz	Quan Cong Vinh Du	2	1	30642	1
+2019_09_22 19:27:56	cnghia6	zz6zzz	Quan Cong Vinh Du	2	1	30642	2
+2019_09_22 19:27:56	cnghia7	zz7zzz	Quan Cong Vinh Du	2	1	30642	2
+2019_09_22 19:27:56	cnghia	zzBufterFlyzz	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	cnghia	zzBufterFlyzz	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	cnghia	zzBufterFlyzz	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	cnghia	zzBufterFlyzz	Quan Cong Vinh Du	2	1	30642	1
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Huyet Trich Thach 6	2	22	106	97
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Ho Phach Thach 6	2	22	306	94
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Nguyet Bach Thach 6	2	22	206	97
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Hac Dieu Thach 6	2	22	406	100
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Linh Do Gioi Trai	0	102	30221	4
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Linh Do Gioi Phai	0	102	30222	4
+2019_09_22 19:27:56	phanvanvan197	zzdgczzz	Linh Do Y 4	0	100	30238	4
+2019_09_22 19:27:56	nhokteenboy2013	ZzGiaLong	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	nhokteenboy2013	ZzGiaLong	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	nhokteenboy2013	ZzGiaLong	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	nhokteenboy2013	ZzGiaLong	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	nhokteenboy2013	ZzGiaLong	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	phanvanvan197	zzV«T×nhKiÕmzz	Linh Do Gioi Trai	0	102	30221	8
+2019_09_22 19:27:56	phanvanvan197	zzV«T×nhKiÕmzz	Linh Do Gioi Phai	0	102	30222	8
+2019_09_22 19:27:56	phanvanvan197	zzV«T×nhKiÕmzz	Linh Do Y 4	0	100	30238	7
+2019_09_22 19:27:56	mjanljen	ZZxDevilPhong	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	mjanljen	ZZxDevilPhong	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	mjanljen	ZZxDevilPhong	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	mjanljen	ZZxDevilPhong	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	mjanljen	ZZxDevilPhong	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Huyet Trich Thach 4	2	22	104	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Huyet Trich Thach 5	2	22	105	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Huyet Trich Thach 6	2	22	106	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Ho Phach Thach 4	2	22	304	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Ho Phach Thach 5	2	22	305	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Ho Phach Thach 6	2	22	306	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Nguyet Bach Thach 4	2	22	204	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Nguyet Bach Thach 5	2	22	205	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Nguyet Bach Thach 6	2	22	206	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Hac Dieu Thach 4	2	22	404	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Hac Dieu Thach 5	2	22	405	100
+2019_09_22 19:27:56	mjanljen1	ZZxKiÒuOanh	Hac Dieu Thach 6	2	22	406	100
+2019_09_22 19:27:56	mhung1	zzZNh©nM·Ezz	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	mhung1	zzZNh©nM·Ezz	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	mhung1	zzZNh©nM·Ezz	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	mhung1	zzZNh©nM·Ezz	Thien Dia Gioi	0	102	30038	1
+2019_09_22 19:27:56	mhung1	zzZNh©nM·Ezz	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_22 19:27:56	satthucamtruong3	ZzZThanKiemZz	Non Thien Ha Vo Song	0	101	30207	1
+2019_09_22 19:27:56	satthucamtruong3	ZzZThanKiemZz	Ao Thien Ha Vo Song	0	100	30207	1
+2019_09_22 19:27:56	satthucamtruong3	ZzZThanKiemZz	Quan Thien Ha Vo Son	0	103	30207	1
+2019_09_22 19:27:56	satthucamtruong3	ZzZThanKiemZz	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	satthucamtruong3	ZzZThanKiemZz	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	hiennhi0610	ZZZZ5d	Linh Do Gioi Trai	0	102	30221	1
+2019_09_22 19:27:56	hiennhi0610	ZZZZ5d	Linh Do Gioi Phai	0	102	30222	1
+2019_09_22 19:27:56	hiennhi0610	ZZZZ5d	Linh Do Y 4	0	100	30238	1

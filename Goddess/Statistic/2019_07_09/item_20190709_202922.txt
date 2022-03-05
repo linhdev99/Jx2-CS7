@@ -1,0 +1,2464 @@
+=============================Item Count==============================
+sItem Name	nItem ID	nItem Detail Id	nItem Particular Id	nItem Count
+ Hµnh Gi¶ phôc - Nam 	0	100	201	0
+ Hµnh Gi¶ phôc - Nam 	0	100	202	0
+ Hµnh Gi¶ Giíi ®ao - 	0	3	201	0
+ Hµnh Gi¶ Giíi ®ao - 	0	3	202	0
+ Hµnh Gi¶ Giíi c«n - 	0	5	201	0
+ Hµnh Gi¶ Giíi c«n - 	0	5	202	0
+ Hµnh Gi¶ m·o - Nam t	0	103	201	0
+ Hµnh Gi¶ m·o - Nam k	0	103	202	0
+ Hµnh Gi¶ trang - Nam	0	101	201	0
+ Hµnh Gi¶ trang - Nam	0	101	202	0
+ Hçn Nguyªn Bµn ChØ -	0	102	211	0
+ Hçn Nguyªn Bµn ChØ -	0	102	212	0
+ Hçn Nguyªn ®ao - Nam	0	3	211	0
+ Hçn Nguyªn ®ao - Nam	0	3	212	0
+ Hçn Nguyªn phôc - Na	0	100	211	0
+ Hçn Nguyªn phôc - Na	0	100	212	0
+ Hçn Nguyªn C«n - Nam	0	5	211	0
+ Hçn Nguyªn C«n - Nam	0	5	212	0
+ Hçn Nguyªn m·o - Nam	0	103	211	0
+ Hçn Nguyªn m·o - Nam	0	103	212	0
+ Hçn Nguyªn trang - N	0	101	211	0
+ Hçn Nguyªn trang - N	0	101	212	0
+ Kim Cang Dao Th­êng 	0	100	271	4
+ Kim Cang Dao Th­êng 	0	100	272	1
+ Kim Cang Dao Qu¸n - 	0	103	271	0
+ Kim Cang Dao Qu¸n - 	0	103	272	0
+ Kim Cang Dao §ao - N	0	3	271	0
+ Kim Cang Dao §ao - N	0	3	272	0
+ Kim Cang Dao C«n - N	0	5	271	0
+ Kim Cang Dao C«n - N	0	5	272	0
+ Kim Cang Dao Trang -	0	101	271	0
+ Kim Cang Dao Trang -	0	101	272	0
+ Kim Cang Dao Béi - N	0	102	271	0
+ Kim Cang Dao Béi - N	0	102	272	0
+ Kim Cang D­¬ng Th­ên	0	100	251	0
+ Kim Cang D­¬ng Th­ên	0	100	252	0
+ Kim Cang D­¬ng Qu¸n 	0	103	251	0
+ Kim Cang D­¬ng Qu¸n 	0	103	252	0
+ Kim Cang D­¬ng §ao -	0	3	251	0
+ Kim Cang D­¬ng §ao -	0	3	252	0
+ Kim Cang D­¬ng C«n -	0	5	251	0
+ Kim Cang D­¬ng C«n -	0	5	252	0
+ Kim Cang D­¬ng Trang	0	101	251	0
+ Kim Cang D­¬ng Trang	0	101	252	0
+ Kim Cang D­¬ng Béi -	0	102	251	0
+ Kim Cang D­¬ng Béi -	0	102	252	0
+ Khæ Hµnh m·o - Nam t	0	103	301	2
+ Khæ Hµnh m·o - Nam k	0	103	302	0
+ Khæ Hµnh bµo - Nam t	0	100	301	2
+ Khæ Hµnh bµo - Nam k	0	100	302	0
+ Khæ Hµnh tr­îng - Na	0	8	301	2
+ Khæ Hµnh tr­îng - Na	0	8	302	0
+ Khæ Hµnh phôc - Nam 	0	101	301	2
+ Khæ Hµnh phôc - Nam 	0	101	302	0
+ ThiÒn Tu Bµn ChØ - N	0	102	311	0
+ ThiÒn Tu Bµn ChØ - N	0	102	312	0
+ ThiÒn Tu Ph¸p Tr­îng	0	8	311	0
+ ThiÒn Tu Ph¸p Tr­îng	0	8	212	0
+ ThiÒn Tu m·o - Nam t	0	103	311	0
+ ThiÒn Tu m·o - Nam k	0	103	312	0
+ ThiÒn Tu bµo - Nam t	0	100	311	0
+ ThiÒn Tu bµo - Nam k	0	100	312	0
+ ThiÒn Tu phôc - Nam 	0	101	311	0
+ ThiÒn Tu phôc - Nam 	0	101	312	0
+ ThiÒn TÞnh phôc - Na	0	101	321	1
+ ThiÒn TÞnh phôc - Na	0	101	322	0
+ ThiÒn TÞnh m·o - Nam	0	103	321	0
+ ThiÒn TÞnh m·o - Nam	0	103	322	0
+ ThiÒn TÞnh bµo - Nam	0	100	321	1
+ ThiÒn TÞnh bµo - Nam	0	100	322	0
+ TruyÒn Kinh ThiÒn TÞ	0	8	321	0
+ TruyÒn Kinh ThiÒn TÞ	0	8	322	0
+ TruyÒn Kinh ThiÒn TÞ	0	102	321	0
+ TruyÒn Kinh ThiÒn TÞ	0	102	322	0
+ TruyÒn Kinh ThiÒn TÞ	0	102	323	0
+ TruyÒn Kinh ThiÒn TÞ	0	102	324	0
+ Nh­ Lai Dao Th­êng -	0	100	371	0
+ Nh­ Lai Dao Th­êng -	0	100	372	0
+ Nh­ Lai Dao Qu¸n - N	0	103	371	0
+ Nh­ Lai Dao Qu¸n - N	0	103	372	0
+ Nh­ Lai Dao Tr­îng -	0	8	371	1
+ Nh­ Lai Dao Tr­îng -	0	8	372	0
+ Nh­ Lai Dao Trang - 	0	101	371	0
+ Nh­ Lai Dao Trang - 	0	101	372	0
+ Nh­ Lai Dao Béi - Na	0	102	371	0
+ Nh­ Lai Dao Béi - Na	0	102	372	0
+ Nh­ Lai D­¬ng Th­êng	0	100	351	0
+ Nh­ Lai D­¬ng Th­êng	0	100	352	0
+ Nh­ Lai D­¬ng Qu¸n -	0	103	351	0
+ Nh­ Lai D­¬ng Qu¸n -	0	103	352	0
+ Nh­ Lai D­¬ng Tr­îng	0	8	351	0
+ Nh­ Lai D­¬ng Tr­îng	0	8	352	0
+ Nh­ Lai D­¬ng Trang 	0	101	351	0
+ Nh­ Lai D­¬ng Trang 	0	101	352	0
+ Nh­ Lai D­¬ng Béi - 	0	102	351	0
+ Nh­ Lai D­¬ng Béi - 	0	102	352	0
+ Sa Di phôc - Nam tiª	0	101	401	18
+ Sa Di phôc - Nam kh«	0	101	402	2
+ Sa Di Hé UyÓn - Nam 	0	0	401	18
+ Sa Di Hé UyÓn - Nam 	0	0	402	2
+ Sa Di m·o - Nam tiªu	0	103	401	14
+ Sa Di m·o - Nam kh«i	0	103	402	2
+ Sa Di Phôc - Nam tiª	0	100	401	19
+ Sa Di Phôc - Nam kh«	0	100	402	2
+ §Êu T¨ng Bµn ChØ - N	0	102	411	6
+ §Êu T¨ng Bµn ChØ - N	0	102	412	1
+ §Êu T¨ng phôc - Nam 	0	101	411	2
+ §Êu T¨ng phôc - Nam 	0	101	412	1
+ §Êu T¨ng m·o - Nam t	0	103	411	3
+ §Êu T¨ng m·o - Nam k	0	103	412	1
+ §Êu T¨ng QuyÒn S¸o -	0	0	411	3
+ §Êu T¨ng QuyÒn S¸o -	0	0	412	1
+ §Êu T¨ng phôc - Nam 	0	100	411	2
+ §Êu T¨ng phôc - Nam 	0	100	412	1
+ §Êu KhÝ ChiÕn y - Na	0	101	421	4
+ §Êu KhÝ ChiÕn y - Na	0	101	422	0
+ §Êu KhÝ phôc - Nam t	0	100	421	159
+ §Êu KhÝ phôc - Nam k	0	100	422	4
+ Hé Ph¸p La H¸n kh«i 	0	103	421	0
+ Hé Ph¸p La H¸n kh«i 	0	103	422	0
+ Hé Ph¸p La H¸n_§Êu K	0	0	421	0
+ Hé Ph¸p La H¸n_§Êu K	0	0	422	0
+ Hé Ph¸p La H¸n §Êu K	0	102	421	0
+ Hé Ph¸p La H¸n §Êu K	0	102	422	0
+ Hé Ph¸p La H¸n §Êu K	0	102	423	3
+ Hé Ph¸p La H¸n §Êu K	0	102	424	2
+ La H¸n Dao Th­êng - 	0	100	471	1
+ La H¸n Dao Th­êng - 	0	100	472	0
+ La H¸n Dao Qu¸n - Na	0	103	471	0
+ La H¸n Dao Qu¸n - Na	0	103	472	0
+ La H¸n Dao Thñ - Nam	0	0	471	2
+ La H¸n Dao Thñ - Nam	0	0	472	0
+ La H¸n Dao Trang - N	0	101	471	0
+ La H¸n Dao Trang - N	0	101	472	0
+ La H¸n Dao Béi - Nam	0	102	471	0
+ La H¸n Dao Béi - Nam	0	102	472	0
+ La H¸n D­¬ng Th­êng 	0	100	451	0
+ La H¸n D­¬ng Th­êng 	0	100	452	0
+ La H¸n D­¬ng Qu¸n - 	0	103	451	0
+ La H¸n D­¬ng Qu¸n - 	0	103	452	0
+ La H¸n D­¬ng Thñ - N	0	0	451	0
+ La H¸n D­¬ng Thñ - N	0	0	452	0
+ La H¸n D­¬ng Trang -	0	101	451	0
+ La H¸n D­¬ng Trang -	0	101	452	0
+ La H¸n D­¬ng Béi - N	0	102	451	1
+ La H¸n D­¬ng Béi - N	0	102	452	0
+ T­ Khóc Tè Y - N÷ gî	0	100	901	0
+ T­ Khóc Tè Y - KiÒu 	0	100	902	0
+ T­ Khóc - N÷ gîi c¶m	0	103	901	0
+    T­ Khóc - KiÒu n÷	0	103	902	0
+ T­ Khóc Tè CÇm - N÷ 	0	10	901	0
+ T­ Khóc Tè CÇm - KiÒ	0	10	902	0
+ T­ Khóc phôc - N÷ gî	0	101	901	0
+ T­ Khóc phôc - KiÒu 	0	101	902	0
+ Ph¹n ¢m Tè Y - N÷ gî	0	100	911	0
+ Ph¹n ¢m Tè Y - KiÒu 	0	100	912	0
+ Ph¹n ¢m - N÷ gîi c¶m	0	103	911	0
+    Ph¹n ¢m - KiÒu n÷	0	103	912	0
+ Ph¹n ¢m cÇm - N÷ gîi	0	10	911	0
+ Ph¹n ¢m cÇm - KiÒu n	0	10	912	0
+ Ph¹n ¢m phôc - N÷ gî	0	101	911	0
+ Ph¹n ¢m phôc - KiÒu 	0	101	912	0
+ Ph¹n ¢m giíi chØ - N	0	102	911	0
+ Ph¹n ¢m giíi chØ - K	0	102	912	0
+ Ph¸p ¢m phôc - N÷ gî	0	101	921	1
+ Ph¸p ¢m phôc - KiÒu 	0	101	922	0
+ Ph¸p ¢m y - N÷ gîi c	0	100	921	0
+  Ph¸p ¢m y - KiÒu n÷	0	100	922	0
+ M·n nguyÖt tr©m - N÷	0	103	921	0
+ M·n nguyÖt tr©m - Ki	0	103	922	0
+ H¶i NguyÖt Sø Ph¸p ¢	0	102	921	0
+ H¶i NguyÖt Sø Ph¸p ¢	0	102	922	0
+ H¶i NguyÖt Sø Ph¸p ¢	0	102	923	0
+ H¶i NguyÖt Sø Ph¸p ¢	0	102	924	0
+ H¶i NguyÖt Sø Ph¸p ¢	0	10	921	0
+ H¶i NguyÖt Sø Ph¸p ¢	0	10	922	0
+ Ngäc N÷ Dao Th­êng -	0	100	973	1
+ Ngäc N÷ Dao Th­êng -	0	100	974	1
+ Ngäc N÷ Dao Qu¸n - N	0	103	973	0
+ Ngäc N÷ Dao Qu¸n - K	0	103	974	0
+ Ngäc N÷ Dao CÇm - N÷	0	10	973	0
+ Ngäc N÷ Dao CÇm - Ki	0	10	974	1
+ Ngäc N÷ Dao Trang - 	0	101	973	1
+ Ngäc N÷ Dao Trang - 	0	101	974	0
+ Ngäc N÷ Dao Béi - N÷	0	102	973	0
+ Ngäc N÷ Dao Béi - Ki	0	102	974	0
+ Ngäc N÷ D­¬ng  Th­ên	0	100	953	0
+ Ngäc N÷ D­¬ng  Th­ên	0	100	954	0
+ Ngäc N÷ D­¬ng  Qu¸n 	0	103	953	0
+ Ngäc N÷ D­¬ng  Qu¸n 	0	103	954	0
+ Ngäc N÷ D­¬ng  CÇm -	0	10	953	0
+ Ngäc N÷ D­¬ng  CÇm -	0	10	954	0
+ Ngäc N÷ D­¬ng  Trang	0	101	953	0
+ Ngäc N÷ D­¬ng  Trang	0	101	954	0
+ Ngäc N÷ D­¬ng  Béi -	0	102	953	0
+ Ngäc N÷ D­¬ng  Béi -	0	102	954	0
+ Thanh T©m Tè KiÕm - 	0	2	801	1
+ Thanh T©m Tè KiÕm - 	0	2	802	0
+ Thanh T©m Tè Y - N÷ 	0	100	801	1
+ Thanh T©m Tè Y - KiÒ	0	100	802	0
+ Thanh T©m - N÷ gîi c	0	103	801	1
+  Thanh T©m - KiÒu n÷	0	103	802	0
+ Thanh T©m tó trang -	0	101	801	1
+ Thanh T©m tó trang -	0	101	802	0
+ Th¸i Vò Giíi ChØ - N	0	102	811	0
+ Th¸i Vò Giíi ChØ - K	0	102	812	0
+ ThÓ Vò Khinh KiÕm - 	0	2	811	0
+ ThÓ Vò Khinh KiÕm - 	0	2	812	0
+ Th¸i Vò Tè Y - N÷ gî	0	100	811	0
+ Th¸i Vò Tè Y - KiÒu 	0	100	812	0
+ Th¸i Vò - N÷ gîi c¶m	0	103	811	0
+    Th¸i Vò - KiÒu n÷	0	103	812	0
+ Th¸i Vò tó phôc - N÷	0	101	811	0
+ Th¸i Vò tó phôc - Ki	0	101	812	0
+ Tö Tróc Sø Ph¸p V©n 	0	2	821	0
+ Tö Tróc Sø Ph¸p V©n 	0	2	822	0
+ Ph¸p V©n tr©m - N÷ g	0	103	821	0
+ Ph¸p V©n tr©m - KiÒu	0	103	822	0
+ Ph¸p V©n phôc - N÷ g	0	101	821	6
+ Ph¸p V©n phôc - KiÒu	0	101	822	8
+ Ph¸p V©n y - N÷ gîi 	0	100	821	0
+ Ph¸p V©n y - KiÒu n÷	0	100	822	0
+ Tö Tróc Sø Ph¸p V©n 	0	102	821	0
+ Tö Tróc Sø Ph¸p V©n 	0	102	822	0
+ Tö Tróc Sø Ph¸p V©n 	0	102	823	2
+ Tö Tróc Sø Ph¸p V©n 	0	102	824	2
+ Quan ¢m Dao Th­êng -	0	100	873	0
+ Quan ¢m Dao Th­êng -	0	100	874	1
+ Quan ¢m Dao Qu¸n - N	0	103	873	0
+ Quan ¢m Dao Qu¸n - K	0	103	874	0
+ Quan ¢m Dao KiÕm - N	0	2	873	0
+ Quan ¢m Dao KiÕm - K	0	2	874	1
+ Quan ¢m Dao Trang - 	0	101	873	0
+ Quan ¢m Dao Trang - 	0	101	874	0
+ Quan ¢m Dao Béi - N÷	0	102	873	0
+ Quan ¢m Dao Béi - Ki	0	102	874	0
+ Quan ¢m D­¬ng Th­êng	0	100	853	0
+ Quan ¢m D­¬ng Th­êng	0	100	854	0
+ Quan ¢m D­¬ng Qu¸n -	0	103	853	0
+ Quan ¢m D­¬ng Qu¸n -	0	103	854	0
+ Quan ¢m D­¬ng KiÕm -	0	2	853	0
+ Quan ¢m D­¬ng KiÕm -	0	2	854	0
+ Quan ¢m D­¬ng Trang 	0	101	853	0
+ Quan ¢m D­¬ng Trang 	0	101	854	0
+ Quan ¢m D­¬ng Béi - 	0	102	853	0
+ Quan ¢m D­¬ng Béi - 	0	102	854	0
+ Thanh Tu kiÕm - Nam 	0	2	1401	0
+ Thanh Tu kiÕm - Nam 	0	2	1402	0
+ Thanh Tu kiÕm - N÷ g	0	2	1403	0
+ Thanh Tu kiÕm - KiÒu	0	2	1404	0
+ Thanh Tu c©n - Nam t	0	103	1401	0
+ Thanh Tu c©n - Nam k	0	103	1402	0
+ Thanh Tu c©n - N÷ gî	0	103	1403	0
+ Thanh Tu c©n - KiÒu 	0	103	1404	0
+ Thanh Tu bµo - Nam t	0	100	1401	0
+ Thanh Tu bµo - Nam k	0	100	1402	0
+ Thanh Tu bµo - N÷ gî	0	100	1403	0
+ Thanh Tu bµo - KiÒu 	0	100	1404	0
+ Thanh Tu phôc - Nam 	0	101	1401	0
+ Thanh Tu phôc - Nam 	0	101	1402	0
+ Thanh Tu phôc - N÷ g	0	101	1403	0
+ Thanh Tu phôc - KiÒu	0	101	1404	0
+ NhËp Qu¸n ph¸p bµo -	0	100	1411	1
+ NhËp Qu¸n ph¸p bµo -	0	100	1412	0
+ NhËp Qu¸n ph¸p bµo -	0	100	1413	0
+ NhËp Qu¸n ph¸p bµo -	0	100	1414	0
+ NhËp ThÊt c©n - Nam 	0	103	1411	1
+ NhËp ThÊt c©n - Nam 	0	103	1412	0
+ NhËp ThÊt c©n - N÷ g	0	103	1413	0
+ NhËp ThÊt c©n - KiÒu	0	103	1414	0
+ NhËp Quan ph¸p kiÕm 	0	2	1411	1
+ NhËp Quan ph¸p kiÕm 	0	2	1412	0
+ NhËp Quan ph¸p kiÕm 	0	2	1413	0
+ NhËp Quan ph¸p kiÕm 	0	2	1414	0
+ NhËp Quan phôc - Nam	0	101	1411	1
+ NhËp Quan phôc - Nam	0	101	1412	0
+ NhËp Quan phôc - N÷ 	0	101	1413	0
+ NhËp Quan phôc - KiÒ	0	101	1414	0
+ NhËp Quan lÖnh - Nam	0	102	1411	2
+ NhËp Quan lÖnh - Nam	0	102	1412	0
+ NhËp Quan lÖnh - N÷ 	0	102	1413	0
+ NhËp Quan lÖnh - KiÒ	0	102	1414	0
+ Tø T­îng ph¸p kiÕm -	0	2	1421	0
+ Tø T­îng ph¸p kiÕm -	0	2	1422	0
+ Tø T­îng ph¸p kiÕm -	0	2	1423	0
+ Tø T­îng ph¸p kiÕm -	0	2	1424	0
+ V« Ng· Tø T­îng Giíi	0	102	1421	0
+ V« Ng· Tø T­îng Giíi	0	102	1422	0
+ V« Ng· Tø T­îng Giíi	0	102	1423	0
+ V« Ng· Tø T­îng Giíi	0	102	1424	1
+ V« Ng· Tø T­îng ChØ 	0	102	1425	0
+ V« Ng· Tø T­îng ChØ 	0	102	1426	0
+ V« Ng· Tø T­îng ChØ 	0	102	1427	0
+ V« Ng· Tø T­îng ChØ 	0	102	1428	0
+ Tø T­îng c©n - Nam t	0	103	1421	0
+ Tø T­îng c©n - Nam k	0	103	1422	0
+ Tø T­îng c©n - N÷ gî	0	103	1423	0
+ Tø T­îng c©n - KiÒu 	0	103	1424	0
+ Tø T­îng ph¸p bµo - 	0	100	1421	0
+ Tø T­îng ph¸p bµo - 	0	100	1422	0
+ Tø T­îng ph¸p bµo - 	0	100	1423	0
+ Tø T­îng ph¸p bµo - 	0	100	1424	0
+ Tø T­îng phôc - Nam 	0	101	1421	0
+ Tø T­îng phôc - Nam 	0	101	1422	0
+ Tø T­îng phôc - N÷ g	0	101	1423	0
+ Tø T­îng phôc - KiÒu	0	101	1424	0
+ Ch©n Vò Dao Th­êng -	0	100	1471	2
+ Ch©n Vò Dao Th­êng -	0	100	1472	0
+ Ch©n Vò Dao Th­êng -	0	100	1473	0
+ Ch©n Vò Dao Th­êng -	0	100	1474	0
+ Ch©n Vò Dao Qu¸n - N	0	103	1471	0
+ Ch©n Vò Dao Qu¸n - N	0	103	1472	0
+ Ch©n Vò Dao Qu¸n - N	0	103	1473	0
+ Ch©n Vò Dao Qu¸n - K	0	103	1474	0
+ Ch©n Vò Dao KiÕm - N	0	2	1471	3
+ Ch©n Vò Dao KiÕm - N	0	2	1472	0
+ Ch©n Vò Dao KiÕm - N	0	2	1473	0
+ Ch©n Vò Dao KiÕm - K	0	2	1474	0
+ Ch©n Vò Dao Trang - 	0	101	1471	0
+ Ch©n Vò Dao Trang - 	0	101	1472	0
+ Ch©n Vò Dao Trang - 	0	101	1473	0
+ Ch©n Vò Dao Trang - 	0	101	1474	0
+ Ch©n Vò Dao Béi - Na	0	102	1471	0
+ Ch©n Vò Dao Béi - Na	0	102	1472	0
+ Ch©n Vò Dao Béi - N÷	0	102	1473	0
+ Ch©n Vò Dao Béi - Ki	0	102	1474	0
+ Ch©n Vò D­¬ng Th­êng	0	100	1451	0
+ Ch©n Vò D­¬ng Th­êng	0	100	1452	0
+ Ch©n Vò D­¬ng Th­êng	0	100	1453	0
+ Ch©n Vò D­¬ng Th­êng	0	100	1454	0
+ Ch©n Vò D­¬ng Qu¸n -	0	103	1451	0
+ Ch©n Vò D­¬ng Qu¸n -	0	103	1452	0
+ Ch©n Vò D­¬ng Qu¸n -	0	103	1453	0
+ Ch©n Vò D­¬ng Qu¸n -	0	103	1454	0
+ Ch©n Vò D­¬ng KiÕm -	0	2	1451	0
+ Ch©n Vò D­¬ng KiÕm -	0	2	1452	0
+ Ch©n Vò D­¬ng KiÕm -	0	2	1453	0
+ Ch©n Vò D­¬ng KiÕm -	0	2	1454	0
+ Ch©n Vò D­¬ng Trang 	0	101	1451	0
+ Ch©n Vò D­¬ng Trang 	0	101	1452	0
+ Ch©n Vò D­¬ng Trang 	0	101	1453	0
+ Ch©n Vò D­¬ng Trang 	0	101	1454	0
+ Ch©n Vò D­¬ng Béi - 	0	102	1451	0
+ Ch©n Vò D­¬ng Béi - 	0	102	1452	0
+ Ch©n Vò D­¬ng Béi - 	0	102	1453	0
+ Ch©n Vò D­¬ng Béi - 	0	102	1454	0
+ Thanh Phong thÝch - 	0	9	1501	0
+ Thanh Phong thÝch - 	0	9	1502	0
+ Thanh Phong thÝch - 	0	9	1503	0
+ Thanh Phong thÝch - 	0	9	1504	0
+ Thanh Phong c©n - Na	0	103	1501	0
+ Thanh Phong c©n - Na	0	103	1502	0
+ Thanh Phong c©n - N÷	0	103	1503	0
+ Thanh Phong c©n - Ki	0	103	1504	0
+ Thanh Phong bµo - Na	0	100	1501	0
+ Thanh Phong bµo - Na	0	100	1502	0
+ Thanh Phong bµo - N÷	0	100	1503	0
+ Thanh Phong bµo - Ki	0	100	1504	0
+ Thanh Phong phôc - N	0	101	1501	0
+ Thanh Phong phôc - N	0	101	1502	0
+ Thanh Phong phôc - N	0	101	1503	0
+ Thanh Phong phôc - K	0	101	1504	0
+ ThiÓu D­¬ng thÝch - 	0	9	1511	0
+ ThiÓu D­¬ng thÝch - 	0	9	1512	0
+ ThiÓu D­¬ng thÝch - 	0	9	1513	0
+ ThiÓu D­¬ng thÝch - 	0	9	1514	0
+ ThiÓu D­¬ng c©n - Na	0	103	1511	0
+ ThiÓu D­¬ng c©n - Na	0	103	1512	0
+ ThiÓu D­¬ng c©n - N÷	0	103	1513	0
+ ThiÓu D­¬ng c©n - Ki	0	103	1514	0
+ ThiÓu D­¬ng béi - Na	0	102	1511	0
+ ThiÓu D­¬ng béi - Na	0	102	1512	0
+ ThiÓu D­¬ng béi - N÷	0	102	1513	0
+ ThiÓu D­¬ng béi - Ki	0	102	1514	0
+ ThiÓu D­¬ng th­êng -	0	100	1511	0
+ ThiÓu D­¬ng th­êng -	0	100	1512	0
+ ThiÓu D­¬ng th­êng -	0	100	1513	0
+ ThiÓu D­¬ng th­êng -	0	100	1514	0
+ ThiÓu D­¬ng phôc - N	0	101	1511	0
+ ThiÓu D­¬ng phôc - N	0	101	1512	0
+ ThiÓu D­¬ng phôc - N	0	101	1513	0
+ ThiÓu D­¬ng phôc - K	0	101	1514	0
+ Linh Phong thÝch - N	0	9	1521	0
+ Linh Phong thÝch - N	0	9	1522	0
+ Linh Phong thÝch - N	0	9	1523	0
+ Linh Phong thÝch - K	0	9	1524	0
+ Linh Phong th­êng - 	0	100	1521	0
+ Linh Phong th­êng - 	0	100	1522	0
+ Linh Phong th­êng - 	0	100	1523	0
+ Linh Phong th­êng - 	0	100	1524	0
+ Linh Phong c©n - Nam	0	103	1521	0
+ Linh Phong c©n - Nam	0	103	1522	0
+ Linh Phong c©n - N÷ 	0	103	1523	0
+ Linh Phong c©n - KiÒ	0	103	1524	0
+ Linh Phong phôc - Na	0	101	1521	0
+ Linh Phong phôc - Na	0	101	1522	0
+ Linh Phong phôc - N÷	0	101	1523	0
+ Linh Phong phôc - Ki	0	101	1524	0
+ Nhµn V©n HiÖp §¹o Li	0	102	1521	0
+ Nhµn V©n HiÖp §¹o Li	0	102	1522	0
+ Nhµn V©n HiÖp §¹o Li	0	102	1523	0
+ Nhµn V©n HiÖp §¹o Li	0	102	1524	0
+ Nhµn V©n HiÖp §¹o Li	0	102	1525	0
+ Nhµn V©n HiÖp §¹o Li	0	102	1526	0
+ Nhµn V©n HiÖp §¹o Li	0	102	1527	0
+ Nhµn V©n HiÖp §¹o Li	0	102	1528	0
+ NhÊt D­¬ng Dao Th­ên	0	100	1571	1
+ NhÊt D­¬ng Dao Th­ên	0	100	1572	0
+ NhÊt D­¬ng Dao Th­ên	0	100	1573	1
+ NhÊt D­¬ng Dao Th­ên	0	100	1574	0
+ NhÊt D­¬ng Dao Qu¸n 	0	103	1571	0
+ NhÊt D­¬ng Dao Qu¸n 	0	103	1572	0
+ NhÊt D­¬ng Dao Qu¸n 	0	103	1573	0
+ NhÊt D­¬ng Dao Qu¸n 	0	103	1574	0
+ NhÊt D­¬ng Dao Bót -	0	9	1571	0
+ NhÊt D­¬ng Dao Bót -	0	9	1572	0
+ NhÊt D­¬ng Dao Bót -	0	9	1573	0
+ NhÊt D­¬ng Dao Bót -	0	9	1574	0
+ NhÊt D­¬ng Dao Trang	0	101	1571	0
+ NhÊt D­¬ng Dao Trang	0	101	1572	0
+ NhÊt D­¬ng Dao Trang	0	101	1573	0
+ NhÊt D­¬ng Dao Trang	0	101	1574	0
+ NhÊt D­¬ng Dao Béi -	0	102	1571	0
+ NhÊt D­¬ng Dao Béi -	0	102	1572	0
+ NhÊt D­¬ng Dao Béi -	0	102	1573	0
+ NhÊt D­¬ng Dao Béi -	0	102	1574	0
+ NhÊt D­¬ng Th­êng - 	0	100	1551	0
+ NhÊt D­¬ng Th­êng - 	0	100	1552	0
+ NhÊt D­¬ng Th­êng - 	0	100	1553	0
+ NhÊt D­¬ng Th­êng - 	0	100	1554	0
+ NhÊt D­¬ng Qu¸n - Na	0	103	1551	0
+ NhÊt D­¬ng Qu¸n - Na	0	103	1552	0
+ NhÊt D­¬ng Qu¸n - N÷	0	103	1553	0
+ NhÊt D­¬ng Qu¸n - Ki	0	103	1554	0
+ NhÊt D­¬ng Trang - N	0	101	1551	0
+ NhÊt D­¬ng Trang - N	0	101	1552	0
+ NhÊt D­¬ng Trang - N	0	101	1553	0
+ NhÊt D­¬ng Trang - K	0	101	1554	0
+ NhÊt D­¬ng Béi - Nam	0	102	1551	0
+ NhÊt D­¬ng Béi - Nam	0	102	1552	0
+ NhÊt D­¬ng Béi - N÷ 	0	102	1553	0
+ NhÊt D­¬ng Béi - KiÒ	0	102	1554	0
+ KhiÕu Hoa bæng - Nam	0	5	1201	0
+ KhiÕu Hoa bæng - Nam	0	5	1202	0
+ KhiÕu Hoa bæng - N÷ 	0	5	1203	0
+ KhiÕu Hoa bæng - KiÒ	0	5	1204	0
+ KhiÕu Hoa khè - Nam 	0	101	1201	0
+ KhiÕu Hoa khè - Nam 	0	101	1202	0
+ KhiÕu Hoa khè - N÷ g	0	101	1203	0
+ KhiÕu Hoa khè - KiÒu	0	101	1204	0
+ KhiÕu Hoa c©n - Nam 	0	103	1201	0
+ KhiÕu Hoa c©n - Nam 	0	103	1202	0
+ KhiÕu Hoa c©n - N÷ g	0	103	1203	0
+ KhiÕu Hoa c©n - KiÒu	0	103	1204	0
+ KhiÕu Hoa y - Nam ti	0	100	1201	0
+ KhiÕu Hoa y - Nam kh	0	100	1202	0
+ KhiÕu Hoa y - N÷ gîi	0	100	1203	0
+ KhiÕu Hoa y - KiÒu n	0	100	1204	0
+ Trõ Gian béi - Nam t	0	102	1111	0
+ Trõ Gian béi - Nam k	0	102	1112	0
+ Trõ Gian béi - N÷ gî	0	102	1113	0
+ Trõ Gian béi - KiÒu 	0	102	1114	0
+ Trõ Gian QuyÒn - Nam	0	0	1111	0
+ Trõ Gian QuyÒn - Nam	0	0	1112	0
+ Trõ Gian QuyÒn - N÷ 	0	0	1113	0
+ Trõ Gian QuyÒn - KiÒ	0	0	1114	0
+ Trõ Gian th­êng - Na	0	100	1111	0
+ Trõ Gian th­êng - Na	0	100	1112	0
+ Trõ Gian th­êng - N÷	0	100	1113	0
+ Trõ Gian th­êng - Ki	0	100	1114	0
+ Trõ Gian c©n - Nam t	0	103	1111	0
+ Trõ Gian c©n - Nam k	0	103	1112	0
+ Trõ Gian c©n - N÷ gî	0	103	1113	0
+ Trõ Gian c©n - KiÒu 	0	103	1114	0
+ Trõ Gian phôc - Nam 	0	101	1111	0
+ Trõ Gian phôc - Nam 	0	101	1112	0
+ Trõ Gian phôc - N÷ g	0	101	1113	0
+ Trõ Gian phôc - KiÒu	0	101	1114	0
+ Tø h¶i y - Nam tiªu 	0	100	1121	0
+ Tø h¶i y - Nam kh«i 	0	100	1122	0
+ Tø h¶i y - N÷ gîi c¶	0	100	1123	0
+   Tø h¶i y - KiÒu n÷	0	100	1124	0
+ Tø h¶i c©n - Nam tiª	0	103	1121	0
+ Tø h¶i c©n - Nam kh«	0	103	1122	0
+ Tø h¶i c©n - N÷ gîi 	0	103	1123	0
+ Tø h¶i c©n - KiÒu n÷	0	103	1124	0
+ Hµo khÝ phôc - Nam t	0	101	1121	0
+ Hµo khÝ phôc - Nam k	0	101	1122	0
+ Hµo khÝ phôc - N÷ gî	0	101	1123	0
+ Hµo khÝ phôc - KiÒu 	0	101	1124	0
+ Tø H¶i HiÖp Hµo KhÝ 	0	102	1121	0
+ Tø H¶i HiÖp Hµo KhÝ 	0	102	1122	0
+ Tø H¶i HiÖp Hµo KhÝ 	0	102	1123	0
+ Tø H¶i HiÖp Hµo KhÝ 	0	102	1124	0
+ Tø H¶i HiÖp Hµo KhÝ 	0	102	1125	0
+ Tø H¶i HiÖp Hµo KhÝ 	0	102	1126	0
+ Tø H¶i HiÖp Hµo KhÝ 	0	102	1127	0
+ Tø H¶i HiÖp Hµo KhÝ 	0	102	1128	0
+ Gi¸ng Long Dao Th­ên	0	100	1171	5
+ Gi¸ng Long Dao Th­ên	0	100	1172	0
+ Gi¸ng Long Dao Th­ên	0	100	1173	1
+ Gi¸ng Long Dao Th­ên	0	100	1174	0
+ Gi¸ng Long Dao Qu¸n 	0	103	1171	0
+ Gi¸ng Long Dao Qu¸n 	0	103	1172	0
+ Gi¸ng Long Dao Qu¸n 	0	103	1173	0
+ Gi¸ng Long Dao Qu¸n 	0	103	1174	0
+ Gi¸ng Long Dao Thñ -	0	0	1171	1
+ Gi¸ng Long Dao Thñ -	0	0	1172	0
+ Gi¸ng Long Dao Thñ -	0	0	1173	0
+ Gi¸ng Long Dao Thñ -	0	0	1174	0
+ Gi¸ng Long Dao Trang	0	101	1171	0
+ Gi¸ng Long Dao Trang	0	101	1172	0
+ Gi¸ng Long Dao Trang	0	101	1173	0
+ Gi¸ng Long Dao Trang	0	101	1174	0
+ Gi¸ng Long Dao Béi -	0	102	1171	0
+ Gi¸ng Long Dao Béi -	0	102	1172	0
+ Gi¸ng Long Dao Béi -	0	102	1173	0
+ Gi¸ng Long Dao Béi -	0	102	1174	0
+ Gi¸ng Long D­¬ng Th­	0	100	1151	0
+ Gi¸ng Long D­¬ng Th­	0	100	1152	0
+ Gi¸ng Long D­¬ng Th­	0	100	1153	0
+ Gi¸ng Long D­¬ng Th­	0	100	1154	0
+ Gi¸ng Long D­¬ng Qu¸	0	103	1151	0
+ Gi¸ng Long D­¬ng Qu¸	0	103	1152	0
+ Gi¸ng Long D­¬ng Qu¸	0	103	1153	0
+ Gi¸ng Long D­¬ng Qu¸	0	103	1154	0
+ Gi¸ng Long D­¬ng Thñ	0	0	1151	0
+ Gi¸ng Long D­¬ng Thñ	0	0	1152	0
+ Gi¸ng Long D­¬ng Thñ	0	0	1153	0
+ Gi¸ng Long D­¬ng Thñ	0	0	1154	0
+ Gi¸ng Long D­¬ng Tra	0	101	1151	0
+ Gi¸ng Long D­¬ng Tra	0	101	1152	0
+ Gi¸ng Long D­¬ng Tra	0	101	1153	0
+ Gi¸ng Long D­¬ng Tra	0	101	1154	0
+ Gi¸ng Long D­¬ng Béi	0	102	1151	0
+ Gi¸ng Long D­¬ng Béi	0	102	1152	0
+ Gi¸ng Long D­¬ng Béi	0	102	1153	0
+ Gi¸ng Long D­¬ng Béi	0	102	1154	0
+ ChÊp B¸t th­êng - Na	0	100	1101	0
+ ChÊp B¸t th­êng - Na	0	100	1102	0
+ ChÊp B¸t th­êng - N÷	0	100	1103	0
+ ChÊp B¸t th­êng - Ki	0	100	1104	0
+ B¸t sø - Nam tiªu ch	0	0	1101	0
+ B¸t sø - Nam kh«i ng	0	0	1102	0
+  B¸t sø - N÷ gîi c¶m	0	0	1103	0
+     B¸t sø - KiÒu n÷	0	0	1104	0
+ ChÊp B¸t c©n - Nam t	0	103	1101	0
+ ChÊp B¸t c©n - Nam k	0	103	1102	0
+ ChÊp B¸t c©n - N÷ gî	0	103	1103	0
+ ChÊp B¸t c©n - KiÒu 	0	103	1104	0
+ ChÊp B¸t phôc - Nam 	0	101	1101	0
+ ChÊp B¸t phôc - Nam 	0	101	1102	0
+ ChÊp B¸t phôc - N÷ g	0	101	1103	0
+ ChÊp B¸t phôc - KiÒu	0	101	1104	0
+ Trõng ¸c bæng - Nam 	0	5	1211	0
+ Trõng ¸c bæng - Nam 	0	5	1212	0
+ Trõng ¸c bæng - N÷ g	0	5	1213	0
+ Trõng ¸c bæng - KiÒu	0	5	1214	0
+ Trõng ¸c béi - Nam t	0	102	1211	0
+ Trõng ¸c béi - Nam k	0	102	1212	2
+ Trõng ¸c béi - N÷ gî	0	102	1213	0
+ Trõng ¸c béi - KiÒu 	0	102	1214	0
+ Trõng ¸c th­êng - Na	0	100	1211	0
+ Trõng ¸c th­êng - Na	0	100	1212	0
+ Trõng ¸c th­êng - N÷	0	100	1213	0
+ Trõng ¸c th­êng - Ki	0	100	1214	0
+ Trõng ¸c c©n - Nam t	0	103	1211	0
+ Trõng ¸c c©n - Nam k	0	103	1212	0
+ Trõng ¸c c©n - N÷ gî	0	103	1213	0
+ Trõng ¸c c©n - KiÒu 	0	103	1214	0
+ Trõng ¸c phôc - Nam 	0	101	1211	0
+ Trõng ¸c phôc - Nam 	0	101	1212	0
+ Trõng ¸c phôc - N÷ g	0	101	1213	0
+ Trõng ¸c phôc - KiÒu	0	101	1214	0
+ Tô NghÜa bæng - Nam 	0	5	1221	0
+ Tô NghÜa bæng - Nam 	0	5	1222	0
+ Tô NghÜa bæng - N÷ g	0	5	1223	0
+ Tô NghÜa bæng - KiÒu	0	5	1224	0
+ Tô NghÜa th­êng - Na	0	100	1221	0
+ Tô NghÜa th­êng - Na	0	100	1222	0
+ Tô NghÜa th­êng - N÷	0	100	1223	0
+ Tô NghÜa th­êng - Ki	0	100	1224	0
+ Tô NghÜa c©n - Nam t	0	103	1221	0
+ Tô NghÜa c©n - Nam k	0	103	1222	0
+ Tô NghÜa c©n - N÷ gî	0	103	1223	0
+ Tô NghÜa c©n - KiÒu 	0	103	1224	0
+ Tô NghÜa phôc - Nam 	0	101	1221	0
+ Tô NghÜa phôc - Nam 	0	101	1222	0
+ Tô NghÜa phôc - N÷ g	0	101	1223	0
+ Tô NghÜa phôc - KiÒu	0	101	1224	0
+ B¸t §¹i §Ö Tö Tô Ngh	0	102	1221	0
+ B¸t §¹i §Ö Tö Tô Ngh	0	102	1222	0
+ B¸t §¹i §Ö Tö Tô Ngh	0	102	1223	0
+ B¸t §¹i §Ö Tö Tô Ngh	0	102	1224	0
+ B¸t §¹i §Ö Tö Tô Ngh	0	102	1225	2
+ B¸t §¹i §Ö Tö Tô Ngh	0	102	1226	2
+ B¸t §¹i §Ö Tö Tô Ngh	0	102	1227	0
+ B¸t §¹i §Ö Tö Tô Ngh	0	102	1228	0
+ Phong Ma Dao Th­êng 	0	100	1271	0
+ Phong Ma Dao Th­êng 	0	100	1272	0
+ Phong Ma Dao Th­êng 	0	100	1273	0
+ Phong Ma Dao Th­êng 	0	100	1274	0
+ Phong Ma Dao Qu¸n - 	0	103	1271	0
+ Phong Ma Dao Qu¸n - 	0	103	1272	0
+ Phong Ma Dao Qu¸n - 	0	103	1273	0
+ Phong Ma Dao Qu¸n - 	0	103	1274	0
+ Phong Ma Dao C«n - N	0	5	1271	1
+ Phong Ma Dao C«n - N	0	5	1272	0
+ Phong Ma Dao C«n - N	0	5	1273	0
+ Phong Ma Dao C«n - K	0	5	1274	0
+ Phong Ma Dao Trang -	0	101	1271	0
+ Phong Ma Dao Trang -	0	101	1272	0
+ Phong Ma Dao Trang -	0	101	1273	0
+ Phong Ma Dao Trang -	0	101	1274	0
+ Phong Ma Dao Béi - N	0	102	1271	0
+ Phong Ma Dao Béi - N	0	102	1272	0
+ Phong Ma Dao Béi - N	0	102	1273	0
+ Phong Ma Dao Béi - K	0	102	1274	0
+ Phong Ma D­¬ng Th­ên	0	100	1251	0
+ Phong Ma D­¬ng Th­ên	0	100	1252	0
+ Phong Ma D­¬ng Th­ên	0	100	1253	0
+ Phong Ma D­¬ng Th­ên	0	100	1254	0
+ Phong Ma D­¬ng Qu¸n 	0	103	1251	0
+ Phong Ma D­¬ng Qu¸n 	0	103	1252	0
+ Phong Ma D­¬ng Qu¸n 	0	103	1253	0
+ Phong Ma D­¬ng Qu¸n 	0	103	1254	0
+ Phong Ma D­¬ng C«n -	0	5	1251	0
+ Phong Ma D­¬ng C«n -	0	5	1252	0
+ Phong Ma D­¬ng C«n -	0	5	1253	0
+ Phong Ma D­¬ng C«n -	0	5	1254	0
+ Phong Ma D­¬ng Trang	0	101	1251	0
+ Phong Ma D­¬ng Trang	0	101	1252	0
+ Phong Ma D­¬ng Trang	0	101	1253	0
+ Phong Ma D­¬ng Trang	0	101	1254	0
+ Phong Ma D­¬ng Béi -	0	102	1251	0
+ Phong Ma D­¬ng Béi -	0	102	1252	0
+ Phong Ma D­¬ng Béi -	0	102	1253	0
+ Phong Ma D­¬ng Béi -	0	102	1254	0
+ Khinh Kþ gi¸p - Nam 	0	100	1701	1
+ Khinh Kþ gi¸p - Nam 	0	100	1702	0
+ Khinh Kþ gi¸p - N÷ g	0	100	1703	0
+ Khinh Kþ gi¸p - KiÒu	0	100	1704	0
+ Khinh Kþ kh«i - Nam 	0	103	1701	1
+ Khinh Kþ kh«i - Nam 	0	103	1702	0
+ Khinh Kþ kh«i - N÷ g	0	103	1703	0
+ Khinh Kþ kh«i - KiÒu	0	103	1704	1
+ Khinh Kþ th­¬ng - Na	0	6	1701	1
+ Khinh Kþ th­¬ng - Na	0	6	1702	0
+ Khinh Kþ th­¬ng - N÷	0	6	1703	0
+ Khinh Kþ th­¬ng - Ki	0	6	1704	0
+ Khinh Kþ phôc - Nam 	0	101	1701	1
+ Khinh Kþ phôc - Nam 	0	101	1702	0
+ Khinh Kþ phôc - N÷ g	0	101	1703	0
+ Khinh Kþ phôc - KiÒu	0	101	1704	0
+ HiÖu óy tr­êng th­¬n	0	6	1711	2
+ HiÖu óy tr­êng th­¬n	0	6	1712	0
+ HiÖu óy tr­êng th­¬n	0	6	1713	0
+ HiÖu óy tr­êng th­¬n	0	6	1714	0
+ HiÖu óy lÖnh - Nam t	0	102	1711	0
+ HiÖu óy lÖnh - Nam k	0	102	1712	0
+ HiÖu óy lÖnh - N÷ gî	0	102	1713	0
+ HiÖu óy lÖnh - KiÒu 	0	102	1714	0
+ HiÖu óy thiÕt gi¸p -	0	100	1711	0
+ HiÖu óy thiÕt gi¸p -	0	100	1712	0
+ HiÖu óy thiÕt gi¸p -	0	100	1713	0
+ HiÖu óy thiÕt gi¸p -	0	100	1714	0
+ HiÖu óy kh«i - Nam t	0	103	1711	0
+ HiÖu óy kh«i - Nam k	0	103	1712	0
+ HiÖu óy kh«i - N÷ gî	0	103	1713	0
+ HiÖu óy kh«i - KiÒu 	0	103	1714	0
+ HiÖu óy thiÕt phôc -	0	101	1711	0
+ HiÖu óy thiÕt phôc -	0	101	1712	0
+ HiÖu óy thiÕt phôc -	0	101	1713	0
+ HiÖu óy thiÕt phôc -	0	101	1714	1
+ Tinh Gi¸p kh«i - Nam	0	103	1721	0
+ Tinh Gi¸p kh«i - Nam	0	103	1722	0
+ Tinh Gi¸p kh«i - N÷ 	0	103	1723	0
+ Tinh Gi¸p kh«i - KiÒ	0	103	1724	0
+ Tinh Gi¸p phôc - Nam	0	101	1721	0
+ Tinh Gi¸p phôc - Nam	0	101	1722	0
+ Tinh Gi¸p phôc - N÷ 	0	101	1723	0
+ Tinh Gi¸p phôc - KiÒ	0	101	1724	0
+ Tinh kh¶i gi¸p - Nam	0	100	1721	0
+ Tinh kh¶i gi¸p - Nam	0	100	1722	0
+ Tinh kh¶i gi¸p - N÷ 	0	100	1723	0
+ Tinh kh¶i gi¸p - KiÒ	0	100	1724	0
+ PhÊn Vò T­íng Qu©n L	0	102	1721	0
+ PhÊn Vò T­íng Qu©n L	0	102	1722	0
+ PhÊn Vò T­íng Qu©n L	0	102	1723	0
+ PhÊn Vò T­íng Qu©n L	0	102	1724	0
+ PhÊn Vò T­íng Qu©n H	0	102	1725	0
+ PhÊn Vò T­íng Qu©n H	0	102	1726	0
+ PhÊn Vò T­íng Qu©n H	0	102	1727	0
+ PhÊn Vò T­íng Qu©n H	0	102	1728	0
+ Xa Kþ T­íng Qu©n Th­	0	100	1771	1
+ Xa Kþ T­íng Qu©n Th­	0	100	1772	0
+ Xa Kþ T­íng Qu©n Th­	0	100	1773	0
+ Xa Kþ T­íng Qu©n Th­	0	100	1774	1
+ Xa Kþ T­íng Qu©n Qu¸	0	103	1771	0
+ Xa Kþ T­íng Qu©n Qu¸	0	103	1772	0
+ Xa Kþ T­íng Qu©n Qu¸	0	103	1773	0
+ Xa Kþ T­íng Qu©n Qu¸	0	103	1774	0
+ Xa Kþ T­íng Qu©n Th­	0	6	1771	0
+ Xa Kþ T­íng Qu©n Th­	0	6	1772	0
+ Xa Kþ T­íng Qu©n Th­	0	6	1773	0
+ Xa Kþ T­íng Qu©n Th­	0	6	1774	0
+ Xa Kþ T­íng Qu©n Tra	0	101	1771	0
+ Xa Kþ T­íng Qu©n Tra	0	101	1772	0
+ Xa Kþ T­íng Qu©n Tra	0	101	1773	0
+ Xa Kþ T­íng Qu©n Tra	0	101	1774	0
+ Xa Kþ T­íng Qu©n Béi	0	102	1771	0
+ Xa Kþ T­íng Qu©n Béi	0	102	1772	0
+ Xa Kþ T­íng Qu©n Béi	0	102	1773	0
+ Xa Kþ T­íng Qu©n Béi	0	102	1774	0
+ Xa Kþ ChiÕn SÜ Th­ên	0	100	1751	0
+ Xa Kþ ChiÕn SÜ Th­ên	0	100	1752	0
+ Xa Kþ ChiÕn SÜ Th­ên	0	100	1753	0
+ Xa Kþ ChiÕn SÜ Th­ên	0	100	1754	0
+ Xa Kþ ChiÕn SÜ Qu¸n 	0	103	1751	0
+ Xa Kþ ChiÕn SÜ Qu¸n 	0	103	1752	0
+ Xa Kþ ChiÕn SÜ Qu¸n 	0	103	1753	0
+ Xa Kþ ChiÕn SÜ Qu¸n 	0	103	1754	0
+ Xa Kþ ChiÕn SÜ Th­¬n	0	6	1751	0
+ Xa Kþ ChiÕn SÜ Th­¬n	0	6	1752	0
+ Xa Kþ ChiÕn SÜ Th­¬n	0	6	1753	0
+ Xa Kþ ChiÕn SÜ Th­¬n	0	6	1754	0
+ Xa Kþ ChiÕn SÜ Trang	0	101	1751	0
+ Xa Kþ ChiÕn SÜ Trang	0	101	1752	0
+ Xa Kþ ChiÕn SÜ Trang	0	101	1753	0
+ Xa Kþ ChiÕn SÜ Trang	0	101	1754	0
+ Xa Kþ ChiÕn SÜ Béi -	0	102	1751	0
+ Xa Kþ ChiÕn SÜ Béi -	0	102	1752	0
+ Xa Kþ ChiÕn SÜ Béi -	0	102	1753	0
+ Xa Kþ ChiÕn SÜ Béi -	0	102	1754	0
+ Nç Thñ cung - Nam ti	0	4	1801	0
+ Nç Thñ cung - Nam kh	0	4	1802	0
+ Nç Thñ cung - N÷ gîi	0	4	1803	0
+ Nç Thñ cung - KiÒu n	0	4	1804	2
+ Nç Thñ gi¸p - Nam ti	0	100	1801	0
+ Nç Thñ gi¸p - Nam kh	0	100	1802	0
+ Nç Thñ gi¸p - N÷ gîi	0	100	1803	0
+ Nç Thñ gi¸p - KiÒu n	0	100	1804	0
+ Nç Thñ kh«i - Nam ti	0	103	1801	0
+ Nç Thñ kh«i - Nam kh	0	103	1802	0
+ Nç Thñ kh«i - N÷ gîi	0	103	1803	0
+ Nç Thñ kh«i - KiÒu n	0	103	1804	0
+ Nç Thñ phôc - Nam ti	0	101	1801	0
+ Nç Thñ phôc - Nam kh	0	101	1802	0
+ Nç Thñ phôc - N÷ gîi	0	101	1803	0
+ Nç Thñ phôc - KiÒu n	0	101	1804	0
+ §« óy thiÕt gi¸p - N	0	100	1811	0
+ §« óy thiÕt gi¸p - N	0	100	1812	0
+ §« óy thiÕt gi¸p - N	0	100	1813	0
+ §« óy thiÕt gi¸p - K	0	100	1814	1
+ §« óy kh«i - Nam tiª	0	103	1811	0
+ §« óy kh«i - Nam kh«	0	103	1812	0
+ §« óy kh«i - N÷ gîi 	0	103	1813	0
+ §« óy kh«i - KiÒu n÷	0	103	1814	1
+ §« óy thiÕt phôc - N	0	101	1811	0
+ §« óy thiÕt phôc - N	0	101	1812	0
+ §« óy thiÕt phôc - N	0	101	1813	0
+ §« óy thiÕt phôc - K	0	101	1814	1
+ §« óy cung - Nam tiª	0	4	1811	0
+ §« óy cung - Nam kh«	0	4	1812	0
+ §« óy cung - N÷ gîi 	0	4	1813	0
+ §« óy cung - KiÒu n÷	0	4	1814	0
+ §« óy lÖnh - Nam tiª	0	102	1811	0
+ §« óy lÖnh - Nam kh«	0	102	1812	0
+ §« óy lÖnh - N÷ gîi 	0	102	1813	0
+ §« óy lÖnh - KiÒu n÷	0	102	1814	1
+ Tinh Gi¸p kh«i - Nam	0	103	1821	0
+ Tinh Gi¸p kh«i - Nam	0	103	1822	0
+ Tinh Gi¸p kh«i - N÷ 	0	103	1823	0
+ Tinh Gi¸p kh«i - KiÒ	0	103	1824	0
+ Tinh Gi¸p phôc - Nam	0	101	1821	1
+ Tinh Gi¸p phôc - Nam	0	101	1822	0
+ Tinh Gi¸p phôc - N÷ 	0	101	1823	0
+ Tinh Gi¸p phôc - KiÒ	0	101	1824	0
+ Xuyªn gi¸p cung - Na	0	4	1821	0
+ Xuyªn gi¸p cung - Na	0	4	1822	0
+ Xuyªn gi¸p cung - N÷	0	4	1823	0
+ Xuyªn gi¸p cung - Ki	0	4	1824	0
+ PhÊn Uy T­íng Qu©n k	0	100	1821	0
+ PhÊn Uy T­íng Qu©n k	0	100	1822	0
+ PhÊn Uy T­íng Qu©n k	0	100	1823	0
+ PhÊn Uy T­íng Qu©n k	0	100	1824	0
+ PhÊn Oai T­íng Qu©n 	0	102	1821	0
+ PhÊn Oai T­íng Qu©n 	0	102	1822	0
+ PhÊn Oai T­íng Qu©n 	0	102	1823	0
+ PhÊn Oai T­íng Qu©n 	0	102	1824	0
+ PhÊn Oai T­íng Qu©n 	0	102	1825	2
+ PhÊn Oai T­íng Qu©n 	0	102	1826	0
+ PhÊn Oai T­íng Qu©n 	0	102	1827	1
+ PhÊn Oai T­íng Qu©n 	0	102	1828	0
+ D­¬ng An Th­êng - Na	0	100	1871	1
+ D­¬ng An Th­êng - Na	0	100	1872	0
+ D­¬ng An Th­êng - N÷	0	100	1873	0
+ D­¬ng An Th­êng - Ki	0	100	1874	0
+ D­¬ng An Qu¸n - Nam 	0	103	1871	0
+ D­¬ng An Qu¸n - Nam 	0	103	1872	0
+ D­¬ng An Qu¸n - N÷ g	0	103	1873	0
+ D­¬ng An Qu¸n - KiÒu	0	103	1874	0
+ D­¬ng An Cung - Nam 	0	4	1871	0
+ D­¬ng An Cung - Nam 	0	4	1872	0
+ D­¬ng An Cung - N÷ g	0	4	1873	0
+ D­¬ng An Cung - KiÒu	0	4	1874	0
+ D­¬ng An Trang - Nam	0	101	1871	0
+ D­¬ng An Trang - Nam	0	101	1872	0
+ D­¬ng An Trang - N÷ 	0	101	1873	0
+ D­¬ng An Trang - KiÒ	0	101	1874	0
+ D­¬ng An Béi - Nam t	0	102	1871	0
+ D­¬ng An Béi - Nam k	0	102	1872	0
+ D­¬ng An Béi - N÷ gî	0	102	1873	0
+ D­¬ng An Béi - KiÒu 	0	102	1874	0
+ D­¬ng §Þnh Th­êng - 	0	100	1851	0
+ D­¬ng §Þnh Th­êng - 	0	100	1852	0
+ D­¬ng §Þnh Th­êng - 	0	100	1853	0
+ D­¬ng §Þnh Th­êng - 	0	100	1854	0
+ D­¬ng §Þnh Qu¸n - Na	0	103	1851	0
+ D­¬ng §Þnh Qu¸n - Na	0	103	1852	0
+ D­¬ng §Þnh Qu¸n - N÷	0	103	1853	0
+ D­¬ng §Þnh Qu¸n - Ki	0	103	1854	0
+ D­¬ng §Þnh Cung - Na	0	4	1851	0
+ D­¬ng §Þnh Cung - Na	0	4	1852	0
+ D­¬ng §Þnh Cung - N÷	0	4	1853	0
+ D­¬ng §Þnh Cung - Ki	0	4	1854	0
+ D­¬ng §Þnh Tr§Þnhg -	0	101	1851	0
+ D­¬ng §Þnh Tr§Þnhg -	0	101	1852	0
+ D­¬ng §Þnh Tr§Þnhg -	0	101	1853	0
+ D­¬ng §Þnh Tr§Þnhg -	0	101	1854	0
+ D­¬ng §Þnh Béi - Nam	0	102	1851	0
+ D­¬ng §Þnh Béi - Nam	0	102	1852	0
+ D­¬ng §Þnh Béi - N÷ 	0	102	1853	0
+ D­¬ng §Þnh Béi - KiÒ	0	102	1854	0
+ Trang Kh¸ch Phi §ao 	0	1	601	0
+ Trang Kh¸ch Phi §ao 	0	1	602	0
+ Trang Kh¸ch Phi §ao 	0	1	603	0
+ Trang Kh¸ch Phi §ao 	0	1	604	0
+ Trang Kh¸ch phôc - N	0	101	601	0
+ Trang Kh¸ch phôc - N	0	101	602	0
+ Trang Kh¸ch phôc - N	0	101	603	0
+ Trang Kh¸ch phôc - K	0	101	604	0
+ Trang Kh¸ch m·o - Na	0	103	601	0
+ Trang Kh¸ch m·o - Na	0	103	602	0
+ Trang Kh¸ch m·o - N÷	0	103	603	0
+ Trang Kh¸ch m·o - Ki	0	103	604	0
+ Trang Kh¸ch phôc - N	0	100	601	0
+ Trang Kh¸ch phôc - N	0	100	602	0
+ Trang Kh¸ch phôc - N	0	100	603	0
+ Trang Kh¸ch phôc - K	0	100	604	0
+ Hé VÖ tiªu - Nam tiª	0	1	611	0
+ Hé VÖ tiªu - Nam kh«	0	1	612	0
+ Hé VÖ tiªu - N÷ gîi 	0	1	613	0
+ Hé VÖ tiªu - KiÒu n÷	0	1	614	0
+ Hé VÖ phôc - Nam tiª	0	101	611	0
+ Hé VÖ phôc - Nam kh«	0	101	612	0
+ Hé VÖ phôc - N÷ gîi 	0	101	613	0
+ Hé VÖ phôc - KiÒu n÷	0	101	614	0
+ Hé VÖ m·o - Nam tiªu	0	103	611	0
+ Hé VÖ m·o - Nam kh«i	0	103	612	0
+ Hé VÖ m·o - N÷ gîi c	0	103	613	0
+  Hé VÖ m·o - KiÒu n÷	0	103	614	0
+ Hé Ph¸p bµi - Nam ti	0	102	611	0
+ Hé Ph¸p bµi - Nam kh	0	102	612	0
+ Hé Ph¸p bµi - N÷ gîi	0	102	613	0
+ Hé Ph¸p bµi - KiÒu n	0	102	614	0
+ Hé VÖ phôc - Nam tiª	0	100	611	0
+ Hé VÖ phôc - Nam kh«	0	100	612	0
+ Hé VÖ phôc - N÷ gîi 	0	100	613	0
+ Hé VÖ phôc - KiÒu n÷	0	100	614	0
+ BÝ §éc ThÝch Kh¸ch y	0	100	621	0
+ BÝ §éc ThÝch Kh¸ch y	0	100	622	0
+ BÝ §éc ThÝch Kh¸ch y	0	100	623	0
+ BÝ §éc ThÝch Kh¸ch y	0	100	624	0
+ BÝ §éc ThÝch Kh¸ch c	0	103	621	0
+ BÝ §éc ThÝch Kh¸ch c	0	103	622	0
+ BÝ §éc ThÝch Kh¸ch c	0	103	623	0
+ BÝ §éc ThÝch Kh¸ch c	0	103	624	0
+ BÝ §éc ThÝch Kh¸ch c	0	1	621	0
+ BÝ §éc ThÝch Kh¸ch c	0	1	622	0
+ BÝ §éc ThÝch Kh¸ch c	0	1	623	0
+ BÝ §éc ThÝch Kh¸ch c	0	1	624	0
+ BÝ §éc ThÝch Kh¸ch t	0	101	621	0
+ BÝ §éc ThÝch Kh¸ch t	0	101	622	0
+ BÝ §éc ThÝch Kh¸ch t	0	101	623	0
+ BÝ §éc ThÝch Kh¸ch t	0	101	624	0
+ BÝ §éc ThÝch Kh¸ch c	0	102	625	0
+ BÝ §éc ThÝch Kh¸ch c	0	102	626	0
+ BÝ §éc ThÝch Kh¸ch c	0	102	627	0
+ BÝ §éc ThÝch Kh¸ch c	0	102	628	0
+ BÝ §éc ThÝch Kh¸ch b	0	102	621	0
+ BÝ §éc ThÝch Kh¸ch b	0	102	622	0
+ BÝ §éc ThÝch Kh¸ch b	0	102	623	0
+ BÝ §éc ThÝch Kh¸ch b	0	102	624	0
+ HiÖp Kh¸ch Dao Th­ên	0	100	671	2
+ HiÖp Kh¸ch Dao Th­ên	0	100	672	0
+ HiÖp Kh¸ch Dao Th­ên	0	100	673	0
+ HiÖp Kh¸ch Dao Th­ên	0	100	674	1
+ HiÖp Kh¸ch Dao Qu¸n 	0	103	671	0
+ HiÖp Kh¸ch Dao Qu¸n 	0	103	672	0
+ HiÖp Kh¸ch Dao Qu¸n 	0	103	673	0
+ HiÖp Kh¸ch Dao Qu¸n 	0	103	674	0
+ HiÖp Kh¸ch Dao Ch©m 	0	1	671	0
+ HiÖp Kh¸ch Dao Ch©m 	0	1	672	0
+ HiÖp Kh¸ch Dao Ch©m 	0	1	673	0
+ HiÖp Kh¸ch Dao Ch©m 	0	1	674	0
+ HiÖp Kh¸ch Dao Trang	0	101	671	0
+ HiÖp Kh¸ch Dao Trang	0	101	672	0
+ HiÖp Kh¸ch Dao Trang	0	101	673	0
+ HiÖp Kh¸ch Dao Trang	0	101	674	0
+ HiÖp Kh¸ch Dao Béi -	0	102	671	0
+ HiÖp Kh¸ch Dao Béi -	0	102	672	0
+ HiÖp Kh¸ch Dao Béi -	0	102	673	0
+ HiÖp Kh¸ch Dao Béi -	0	102	674	0
+ HiÖp Kh¸ch D­¬ng Th­	0	100	651	0
+ HiÖp Kh¸ch D­¬ng Th­	0	100	652	0
+ HiÖp Kh¸ch D­¬ng Th­	0	100	653	0
+ HiÖp Kh¸ch D­¬ng Th­	0	100	654	0
+ HiÖp Kh¸ch D­¬ng Qu¸	0	103	651	0
+ HiÖp Kh¸ch D­¬ng Qu¸	0	103	652	0
+ HiÖp Kh¸ch D­¬ng Qu¸	0	103	653	0
+ HiÖp Kh¸ch D­¬ng Qu¸	0	103	654	0
+ HiÖp Kh¸ch D­¬ng Ch©	0	1	651	0
+ HiÖp Kh¸ch D­¬ng Ch©	0	1	652	0
+ HiÖp Kh¸ch D­¬ng Ch©	0	1	653	0
+ HiÖp Kh¸ch D­¬ng Ch©	0	1	654	0
+ HiÖp Kh¸ch D­¬ng Tra	0	101	651	0
+ HiÖp Kh¸ch D­¬ng Tra	0	101	652	0
+ HiÖp Kh¸ch D­¬ng Tra	0	101	653	0
+ HiÖp Kh¸ch D­¬ng Tra	0	101	654	0
+ HiÖp Kh¸ch D­¬ng Béi	0	102	651	0
+ HiÖp Kh¸ch D­¬ng Béi	0	102	652	0
+ HiÖp Kh¸ch D­¬ng Béi	0	102	653	0
+ HiÖp Kh¸ch D­¬ng Béi	0	102	654	0
+ §o¹t Ph¸ch §ao - Nam	0	7	2001	0
+ §o¹t Ph¸ch §ao - Nam	0	7	2002	0
+ §o¹t Ph¸ch §ao - N÷ 	0	7	2003	1
+ §o¹t Ph¸ch §ao - KiÒ	0	7	2004	0
+ §o¹t Ph¸ch diÖn - Na	0	103	2001	0
+ §o¹t Ph¸ch diÖn - Na	0	103	2002	0
+ §o¹t Ph¸ch diÖn - N÷	0	103	2003	1
+ §o¹t Ph¸ch diÖn - Ki	0	103	2004	0
+ §o¹t Ph¸ch y - Nam t	0	100	2001	0
+ §o¹t Ph¸ch y - Nam k	0	100	2002	0
+ §o¹t Ph¸ch y - N÷ gî	0	100	2003	1
+ §o¹t Ph¸ch y - KiÒu 	0	100	2004	0
+ §o¹t Ph¸ch phôc - Na	0	101	2001	0
+ §o¹t Ph¸ch phôc - Na	0	101	2002	0
+ §o¹t Ph¸ch phôc - N÷	0	101	2003	1
+ §o¹t Ph¸ch phôc - Ki	0	101	2004	0
+ Th«i MÖnh §éc §ao - 	0	7	2011	0
+ Th«i MÖnh §éc §ao - 	0	7	2012	0
+ Th«i MÖnh §éc §ao - 	0	7	2013	0
+ Th«i MÖnh §éc §ao - 	0	7	2014	1
+ Th«i MÖnh diÖn - Nam	0	103	2011	0
+ Th«i MÖnh diÖn - Nam	0	103	2012	0
+ Th«i MÖnh diÖn - N÷ 	0	103	2013	0
+ Th«i MÖnh diÖn - KiÒ	0	103	2014	1
+ Thóc MÖnh Ngäc Béi -	0	102	2011	0
+ Thóc MÖnh Ngäc Béi -	0	102	2012	0
+ Thóc MÖnh Ngäc Béi -	0	102	2013	0
+ Thóc MÖnh Ngäc Béi -	0	102	2014	2
+ Th«i MÖnh y - Nam ti	0	100	2011	0
+ Th«i MÖnh y - Nam kh	0	100	2012	0
+ Th«i MÖnh y - N÷ gîi	0	100	2013	0
+ Th«i MÖnh y - KiÒu n	0	100	2014	0
+ Th«i MÖnh phôc - Nam	0	101	2011	0
+ Th«i MÖnh phôc - Nam	0	101	2012	0
+ Th«i MÖnh phôc - N÷ 	0	101	2013	0
+ Th«i MÖnh phôc - KiÒ	0	101	2014	0
+ M·nh §éc H¾c Hoµn - 	0	102	2025	0
+ M·nh §éc H¾c Hoµn - 	0	102	2026	0
+ M·nh §éc H¾c Hoµn - 	0	102	2027	0
+ M·nh §éc H¾c Hoµn - 	0	102	2028	0
+ M·nh §éc diÖn - Nam 	0	103	2021	0
+ M·nh §éc diÖn - Nam 	0	103	2022	0
+ M·nh §éc diÖn - N÷ g	0	103	2023	0
+ M·nh §éc diÖn - KiÒu	0	103	2024	0
+ H¾c V« Th­êng M·nh §	0	100	2021	0
+ H¾c V« Th­êng M·nh §	0	100	2022	0
+ H¾c V« Th­êng M·nh §	0	100	2023	0
+ H¾c V« Th­êng M·nh §	0	100	2024	0
+ H¾c V« Th­êng M·nh §	0	101	2021	0
+ H¾c V« Th­êng M·nh §	0	101	2022	0
+ H¾c V« Th­êng M·nh §	0	101	2023	0
+ H¾c V« Th­êng M·nh §	0	101	2024	0
+ H¾c V« Th­êng M·nh §	0	7	2021	0
+ H¾c V« Th­êng M·nh §	0	7	2022	0
+ H¾c V« Th­êng M·nh §	0	7	2023	0
+ H¾c V« Th­êng M·nh §	0	7	2024	0
+ H¾c V« Th­êng M·nh §	0	102	2021	0
+ H¾c V« Th­êng M·nh §	0	102	2022	0
+ H¾c V« Th­êng M·nh §	0	102	2023	0
+ H¾c V« Th­êng M·nh §	0	102	2024	0
+ U Minh Thiªn Qu©n Th	0	100	2071	1
+ U Minh Thiªn Qu©n Th	0	100	2072	0
+ U Minh Thiªn Qu©n Th	0	100	2073	1
+ U Minh Thiªn Qu©n Th	0	100	2074	1
+ U Minh Thiªn Qu©n Qu	0	103	2071	0
+ U Minh Thiªn Qu©n Qu	0	103	2072	0
+ U Minh Thiªn Qu©n Qu	0	103	2073	0
+ U Minh Thiªn Qu©n Qu	0	103	2074	0
+ U Minh Thiªn Qu©n §a	0	7	2071	1
+ U Minh Thiªn Qu©n §a	0	7	2072	0
+ U Minh Thiªn Qu©n §a	0	7	2073	0
+ U Minh Thiªn Qu©n §a	0	7	2074	0
+ U Minh Thiªn Qu©n Tr	0	101	2071	0
+ U Minh Thiªn Qu©n Tr	0	101	2072	0
+ U Minh Thiªn Qu©n Tr	0	101	2073	0
+ U Minh Thiªn Qu©n Tr	0	101	2074	0
+ U Minh Thiªn Qu©n Bé	0	102	2071	0
+ U Minh Thiªn Qu©n Bé	0	102	2072	0
+ U Minh Thiªn Qu©n Bé	0	102	2073	0
+ U Minh Thiªn Qu©n Bé	0	102	2074	0
+ U Lung L­u V¨n Th­ên	0	100	2051	0
+ U Lung L­u V¨n Th­ên	0	100	2052	0
+ U Lung L­u V¨n Th­ên	0	100	2053	0
+ U Lung L­u V¨n Th­ên	0	100	2054	0
+ U Lung L­u V¨n Qu¸n 	0	103	2051	0
+ U Lung L­u V¨n Qu¸n 	0	103	2052	0
+ U Lung L­u V¨n Qu¸n 	0	103	2053	0
+ U Lung L­u V¨n Qu¸n 	0	103	2054	0
+ U Lung L­u V¨n §ao -	0	7	2051	0
+ U Lung L­u V¨n §ao -	0	7	2052	0
+ U Lung L­u V¨n §ao -	0	7	2053	0
+ U Lung L­u V¨n §ao -	0	7	2054	0
+ U Lung L­u V¨n Trang	0	101	2051	0
+ U Lung L­u V¨n Trang	0	101	2052	0
+ U Lung L­u V¨n Trang	0	101	2053	0
+ U Lung L­u V¨n Trang	0	101	2054	0
+ U Lung L­u V¨n Béi -	0	102	2051	0
+ U Lung L­u V¨n Béi -	0	102	2052	0
+ U Lung L­u V¨n Béi -	0	102	2053	0
+ U Lung L­u V¨n Béi -	0	102	2054	0
+ §éc Tµm diÖn - Nam t	0	103	2101	0
+ §éc Tµm diÖn - Nam k	0	103	2102	0
+ §éc Tµm diÖn - N÷ gî	0	103	2103	0
+ §éc Tµm diÖn - KiÒu 	0	103	2104	0
+ §éc Tµm Y - Nam tiªu	0	100	2101	0
+ §éc Tµm Y - Nam kh«i	0	100	2102	0
+ §éc Tµm Y - N÷ gîi c	0	100	2103	0
+  §éc Tµm Y - KiÒu n÷	0	100	2104	0
+ §éc Tµm Tr¶o - Nam t	0	11	2101	0
+ §éc Tµm Tr¶o - Nam k	0	11	2102	0
+ §éc Tµm Tr¶o - N÷ gî	0	11	2103	0
+ §éc Tµm Tr¶o - KiÒu 	0	11	2104	1
+ §éc Tµm phôc - Nam t	0	101	2101	0
+ §éc Tµm phôc - Nam k	0	101	2102	0
+ §éc Tµm phôc - N÷ gî	0	101	2103	0
+ §éc Tµm phôc - KiÒu 	0	101	2104	1
+ Thùc T©m §éc Tr¶o - 	0	11	2111	0
+ Thùc T©m §éc Tr¶o - 	0	11	2112	0
+ Thùc T©m §éc Tr¶o - 	0	11	2113	0
+ Thùc T©m §éc Tr¶o - 	0	11	2114	0
+ Thùc T©m diÖn - Nam 	0	103	2111	0
+ Thùc T©m diÖn - Nam 	0	103	2112	0
+ Thùc T©m diÖn - N÷ g	0	103	2113	0
+ Thùc T©m diÖn - KiÒu	0	103	2114	0
+ Thùc T©m béi - Nam t	0	102	2111	0
+ Thùc T©m béi - Nam k	0	102	2112	0
+ Thùc T©m béi - N÷ gî	0	102	2113	0
+ Thùc T©m béi - KiÒu 	0	102	2114	0
+ Thùc T©m Y - Nam tiª	0	100	2111	0
+ Thùc T©m Y - Nam kh«	0	100	2112	0
+ Thùc T©m Y - N÷ gîi 	0	100	2113	0
+ Thùc T©m Y - KiÒu n÷	0	100	2114	0
+ Thùc T©m phôc - Nam 	0	101	2111	0
+ Thùc T©m phôc - Nam 	0	101	2112	0
+ Thùc T©m phôc - N÷ g	0	101	2113	0
+ Thùc T©m phôc - KiÒu	0	101	2114	0
+ B¹ch V« Th­êng Ngôy 	0	100	2121	0
+ B¹ch V« Th­êng Ngôy 	0	100	2122	0
+ B¹ch V« Th­êng Ngôy 	0	100	2123	0
+ B¹ch V« Th­êng Ngôy 	0	100	2124	0
+ B¹ch v« th­êng Ngôy 	0	101	2121	0
+ B¹ch v« th­êng Ngôy 	0	101	2122	0
+ B¹ch v« th­êng Ngôy 	0	101	2123	0
+ B¹ch v« th­êng Ngôy 	0	101	2124	0
+ Quû ®éc diÖn - Nam t	0	103	2121	0
+ Quû ®éc diÖn - Nam k	0	103	2122	0
+ Quû ®éc diÖn - N÷ gî	0	103	2123	0
+ Quû ®éc diÖn - KiÒu 	0	103	2124	0
+ B¹ch V« Th­êng Ngôy 	0	11	2121	0
+ B¹ch V« Th­êng Ngôy 	0	11	2122	0
+ B¹ch V« Th­êng Ngôy 	0	11	2123	0
+ B¹ch V« Th­êng Ngôy 	0	11	2124	0
+ Quû ®éc HuyÕt Béi - 	0	102	2121	0
+ Quû ®éc HuyÕt Béi - 	0	102	2122	0
+ Quû ®éc HuyÕt Béi - 	0	102	2123	0
+ Quû ®éc HuyÕt Béi - 	0	102	2124	0
+ Quû ®éc H¾c Hoµn - N	0	102	2125	0
+ Quû ®éc H¾c Hoµn - N	0	102	2126	0
+ Quû ®éc H¾c Hoµn - N	0	102	2127	0
+ Quû ®éc H¾c Hoµn - K	0	102	2128	0
+ Miªu T©m Th­êng - Na	0	100	2171	3
+ Miªu T©m Th­êng - Na	0	100	2172	0
+ Miªu T©m Th­êng - N÷	0	100	2173	0
+ Miªu T©m Th­êng - Ki	0	100	2174	1
+ Miªu T©m Qu¸n - Nam 	0	103	2171	0
+ Miªu T©m Qu¸n - Nam 	0	103	2172	0
+ Miªu T©m Qu¸n - N÷ g	0	103	2173	0
+ Miªu T©m Qu¸n - KiÒu	0	103	2174	0
+ Miªu T©m Tr¶o - Nam 	0	11	2171	1
+ Miªu T©m Tr¶o - Nam 	0	11	2172	0
+ Miªu T©m Tr¶o - N÷ g	0	11	2173	0
+ Miªu T©m Tr¶o - KiÒu	0	11	2174	0
+ Miªu T©m Trang - Nam	0	101	2171	0
+ Miªu T©m Trang - Nam	0	101	2172	0
+ Miªu T©m Trang - N÷ 	0	101	2173	0
+ Miªu T©m Trang - KiÒ	0	101	2174	0
+ Miªu T©m Béi - Nam t	0	102	2171	0
+ Miªu T©m Béi - Nam k	0	102	2172	0
+ Miªu T©m Béi - N÷ gî	0	102	2173	0
+ Miªu T©m Béi - KiÒu 	0	102	2174	0
+ Miªu Cæ Th­êng - Nam	0	100	2151	0
+ Miªu Cæ Th­êng - Nam	0	100	2152	0
+ Miªu Cæ Th­êng - N÷ 	0	100	2153	0
+ Miªu Cæ Th­êng - KiÒ	0	100	2154	0
+ Miªu Cæ Qu¸n - Nam t	0	103	2151	0
+ Miªu Cæ Qu¸n - Nam k	0	103	2152	0
+ Miªu Cæ Qu¸n - N÷ gî	0	103	2153	0
+ Miªu Cæ Qu¸n - KiÒu 	0	103	2154	0
+ Miªu Cæ Tr¶o - Nam t	0	11	2151	0
+ Miªu Cæ Tr¶o - Nam k	0	11	2152	0
+ Miªu Cæ Tr¶o - N÷ gî	0	11	2153	0
+ Miªu Cæ Tr¶o - KiÒu 	0	11	2154	0
+ Miªu Cæ Trang - Nam 	0	101	2151	0
+ Miªu Cæ Trang - Nam 	0	101	2152	0
+ Miªu Cæ Trang - N÷ g	0	101	2153	0
+ Miªu Cæ Trang - KiÒu	0	101	2154	0
+ Miªu Cæ Béi - Nam ti	0	102	2151	0
+ Miªu Cæ Béi - Nam kh	0	102	2152	0
+ Miªu Cæ Béi - N÷ gîi	0	102	2153	0
+ Miªu Cæ Béi - KiÒu n	0	102	2154	0
+       C©y b¸t nh· to	2	0	398	307
+      C©y b¸t nh· nhá	2	0	504	192
+ Vßng th¸i h­ b¸t qu¸	2	1	473	205
+ Vßng th¸i h­ b¸t qu¸	2	1	474	79
+ Vßng th¸i h­ b¸t qu¸	2	1	469	424
+ Vßng th¸i h­ b¸t qu¸	2	1	470	114
+ Vßng th¸i h­ b¸t qu¸	2	1	471	135
+ Vßng th¸i h­ b¸t qu¸	2	1	472	75
+ Vßng th¸i h­ b¸t qu¸	2	1	475	55
+ Vßng th¸i h­ b¸t qu¸	2	1	476	9
+          Thiªn th¹ch	2	2	8	17411
+     M¶nh thiªn th¹ch	2	2	7	11000
+           B¨ng th¹ch	2	1	149	383
+      M¶nh b¨ng th¹ch	2	1	148	223
+      Bæ Kim MËt tÞch	0	107	61	3
+    Bæ Th¹ch MËt tÞch	0	107	62	4
+     Ngò Quû MËt tÞch	0	107	63	7
+    Thiªn hµ mËt tÞch	0	107	64	475
+       Tö hµ mËt tÞch	0	107	65	721
+          Chiªm y phæ	0	107	66	777
+    Ngò hµnh mËt tÞch	0	107	155	1
+ NhÊt D­¬ng Bót - Nam	0	9	1551	0
+ NhÊt D­¬ng Bót - Nam	0	9	1552	0
+ NhÊt D­¬ng Bót - N÷ 	0	9	1553	0
+ NhÊt D­¬ng Bót - KiÒ	0	9	1554	0
+ NhÊt D­¬ng Ngäc Bót 	0	9	1581	0
+ NhÊt D­¬ng Ngäc Bót 	0	9	1582	0
+ NhÊt D­¬ng Ngäc Bót 	0	9	1583	0
+ NhÊt D­¬ng Ngäc Bót 	0	9	1584	0
+ NhÊt D­¬ng Ngäc Qu¸n	0	103	1581	0
+ NhÊt D­¬ng Ngäc Qu¸n	0	103	1582	0
+ NhÊt D­¬ng Ngäc Qu¸n	0	103	1583	0
+ NhÊt D­¬ng Ngäc Qu¸n	0	103	1584	0
+ NhÊt D­¬ng Ngäc Béi 	0	102	1581	0
+ NhÊt D­¬ng Ngäc Béi 	0	102	1582	0
+ NhÊt D­¬ng Ngäc Béi 	0	102	1583	0
+ NhÊt D­¬ng Ngäc Béi 	0	102	1584	0
+ NhÊt D­¬ng Ngäc Th­ê	0	100	1581	0
+ NhÊt D­¬ng Ngäc Th­ê	0	100	1582	0
+ NhÊt D­¬ng Ngäc Th­ê	0	100	1583	0
+ NhÊt D­¬ng Ngäc Th­ê	0	100	1584	0
+ NhÊt D­¬ng Ngäc Tran	0	101	1581	0
+ NhÊt D­¬ng Ngäc Tran	0	101	1582	0
+ NhÊt D­¬ng Ngäc Tran	0	101	1583	0
+ NhÊt D­¬ng Ngäc Tran	0	101	1584	0
+        B¹ch C©u Hoµn	2	1	270	124
+        Lôc ThÇn Hoµn	2	1	1064	27
+        ThÇn N«ng §¬n	2	1	343	11755
+        Tiªu KiÕp T¸n	2	0	141	609
+          TÈy Tñy §¬n	2	0	136	19
+ Thiªn H­¬ng CÈm Tôc_	2	1	1031	0
+ H¾c Ngäc §o¹n Tôc Ca	2	1	1032	0
+ NhÊt Nguyªn Phôc Khë	2	1	1033	0
+ V¹n VËt Quy Nguyªn §	2	1	1034	0
+ Ngò Hoa Ngäc Lé Hoµn	2	1	1035	0
+ Sinh Sinh Hãa T¸n_Tó	2	1	1036	0
+     ThÇn hµnh bÝ phæ	0	200	39	20
+         ThÕ th©n phï	2	0	556	4983
+  Tói d­îc phÈm (nhá)	2	1	477	0
+   Tói d­îc phÈm(lín)	2	1	478	0
+       Cuèc céng c«ng	0	200	23	524
+         L«i thÇn ®ao	0	200	24	447
+         Cuèc viªm ®Õ	0	200	25	640
+           Bµn cæ phñ	0	200	26	927
+         Chøc n÷ thoa	0	200	27	155
+       Cuèc thÇn n«ng	0	200	28	557
+         Thiªn s­ khÝ	0	200	38	36
+         Thu thi qu¸n	0	108	195	6
+          Thu thi bµo	0	109	255	3
+         Thu thi ngoa	0	110	85	2
+         §«ng hµn m·o	0	108	196	2
+        §«ng hµn gi¸p	0	109	256	2
+        §«ng hµn ngoa	0	110	86	2
+          H¹ vinh kÕt	0	108	197	6
+        H¹ vinh trang	0	109	257	6
+         H¹ vinh quÇn	0	110	87	6
+       Xu©n no·n tr©m	0	108	198	6
+     Xu©n no·n th­êng	0	109	258	5
+       Xu©n no·n quÇn	0	110	88	5
+         TuÕ Thñ qu¸n	0	108	139	9
+          TuÕ thñ bµo	0	109	185	4
+         TuÕ thñ ngoa	0	110	81	6
+        ChÝnh sãc m·o	0	108	140	4
+       ChÝnh sãc gi¸p	0	109	186	1
+       ChÝnh sãc ngoa	0	110	82	2
+        T©n chÝnh kÕt	0	108	141	3
+        T©n chÝnh ®¹i	0	109	187	5
+       T©n chÝnh quÇn	0	110	83	3
+    Nguyªn chÝnh tr©m	0	108	142	15
+  Nguyªn chÝnh th­êng	0	109	188	9
+    Nguyªn chÝnh quÇn	0	110	84	7
+       KiÕm tuyÖt c©n	0	108	135	8
+         KiÕm tuyÖt ý	0	109	181	9
+     KiÕm tuyÖt trang	0	110	77	8
+       HiÖp khiÕu c©n	0	108	136	0
+      HiÖp khiÕu gi¸p	0	109	182	0
+      HiÖp tiÕu trang	0	110	78	0
+        T×nh hinh kÕt	0	108	137	0
+     T×nh hinh th­êng	0	109	183	0
+       V¸y h­¬ng t×nh	0	110	79	0
+      Duyªn doanh c©n	0	108	138	0
+   Duyªn doanh th­êng	0	109	184	1
+       V¸y duyªn t×nh	0	110	80	1
+            VÖ quèc y	0	109	121	0
+          H¾c thiÕt y	0	109	122	0
+             Tö vËn y	0	109	124	0
+          Thóy nh©n y	0	109	123	0
+         B¹ch t«ng m·	0	105	8	0
+          H¾c t«ng m·	0	105	7	0
+         Hång t«ng m·	0	105	5	0
+        Hoµng t«ng m·	0	105	6	0
+              Bé c¶nh	0	105	13	0
+          Hèt l«i b¸c	0	105	12	1
+             XÝch thè	0	105	9	2794
+  Tr¶o hoµng phi ®iÖn	0	105	11	2
+              B¹ch m·	0	105	34	19
+               Tñ nhá	2	1	1069	0
+                Tñ ¸o	2	1	1070	0
+ M¶nh mËt tÞch thÊt l	2	1	1088	0
+ H­íng dÉn chÕ t¹o th	2	1	1086	0
+ Cæ §Ýnh ch­a gi¸m ®Þ	2	1	379	0
+ LiÖt DiÖm ch­a gi¸m 	2	1	377	0
+ A La H¸n Tr­îng ch­a	2	1	382	0
+ V¹n NhÉn ch­a gi¸m ®	2	1	375	0
+ M·n Thiªn Hoa Vò ch­	2	1	378	0
+ Háa Tinh ch­a gi¸m ®	2	1	376	2
+ Hi Nh©n CÇm ch­a gi¸	2	1	380	0
+ ThÇn Hµnh ch­a gi¸m 	2	1	381	0
+ §¹i Hµo L«i Th­¬ng c	2	1	383	0
+ ThÇn Cung ch­a gi¸m 	2	1	384	0
+ L¨ng Phong ch­a gi¸m	2	1	386	0
+ M·nh Hæ ch­a gi¸m ®Þ	2	1	385	0
+   Th¸i H­ HuyÔn Ngäc	0	102	29	0
+ Cöu Thiªn HuyÒn Ngäc	0	102	129	0
+    Th¸i H­ HuyÔn §¸i	0	102	30	0
+  Cöu Thiªn HuyÒn §¸i	0	102	130	0
+   Th¸i H­ HuyÔn Hoµn	0	102	31	0
+ Cöu Thiªn HuyÒn Hoµn	0	102	131	0
+    Th¸i H­ HuyÔn Béi	0	102	32	0
+  Cöu Thiªn HuyÒn Béi	0	102	132	0
+   Th¸i H­ HuyÔn Giíi	0	102	33	0
+ Cöu Thiªn HuyÒn Giíi	0	102	133	0
+    Th¸i H­ HuyÔn §¹i	0	102	34	3
+  Cöu Thiªn HuyÒn §¹i	0	102	134	0
+  Th¸i H­ HuyÔn Th¹ch	0	102	35	0
+ Cöu Thiªn HuyÒn Th¹c	0	102	135	0
+ Tèng tiªn phong hiÖu	0	102	2261	2
+ Tèng tiªn phong hiÖu	0	102	2265	2
+ Liªu tiªn phong hiÖu	0	102	2271	0
+ Liªu tiªn phong hiÖu	0	102	2275	0
+ Tèng t­íng qu©n ®Çu 	0	103	2241	1
+ Tèng t­íng qu©n chiÕ	0	100	2241	0
+ Tèng t­íng qu©n chiÕ	0	101	2241	1
+ Tèng t­íng qu©n lÖnh	0	102	2281	1
+ Tèng t­íng qu©n cê l	0	102	2285	0
+        Tèng lÖnh phï	0	102	2521	0
+ Liªu t­íng qu©n ®Çu 	0	103	2245	0
+ Liªu t­íng qu©n chiÕ	0	100	2245	0
+ Liªu t­íng qu©n chiÕ	0	101	2245	0
+ Liªu t­íng qu©n lÖnh	0	102	2291	0
+ Liªu t­íng qu©n cê l	0	102	2295	0
+        Liªu lÖnh phï	0	102	2531	0
+ Tèng nguyªn so¸i ®Çu	0	103	2251	0
+ Tèng nguyªn so¸i chi	0	100	2251	0
+ Tèng nguyªn so¸i chi	0	101	2251	0
+ Tèng nguyªn so¸i hæ 	0	102	2301	0
+ Tèng nguyªn so¸i lÖn	0	102	2305	0
+        Tèng so¸i phï	0	102	2501	0
+         Tèng so¸i kú	0	102	2505	0
+ Liªu nguyªn so¸i ®Çu	0	103	2255	0
+ Liªu nguyªn so¸i chi	0	100	2255	0
+ Liªu nguyªn so¸i chi	0	101	2255	0
+ Liªu nguyªn so¸i hæ 	0	102	2311	0
+ Liªu nguyªn so¸i lÖn	0	102	2315	0
+        Liªu so¸i phï	0	102	2511	0
+         Liªu so¸i kú	0	102	2515	0
+ R­¬ng cña C«n L«n N«	2	1	526	0
+   R­¬ng cña Bïi Hµng	2	1	527	0
+  R­¬ng cña LiÔu NghÞ	2	1	528	0
+ R­¬ng cña Hång TuyÕn	2	1	529	0
+ R­¬ng cña H¹ C¶nh Th	2	1	530	0
+ R­¬ng cña NhiÕp §¹i 	2	1	531	0
+ R­¬ng cña Bé Phi Yªn	2	1	532	0
+      C¸t t­êng th¹ch	2	1	30015	0
+              Lé Thñy	2	0	351	3014
+ B¸t B¶o TÈy Tñy Tiªn	2	0	138	63
+     TÈy Tñy Linh §¬n	2	0	137	30
+   Bång Lai Tiªn Thñy	2	1	1012	0
+     Bång Lai Lé Thñy	2	0	109	0
+             Phiªn Vò	0	105	15	553
+ Huy hiÖu chiÕn c«ng 	2	1	9977	206
+       §Çu thµnh biÓu	2	1	9978	11
+ Thiªn Th¹ch linh th¹	2	1	1068	432
+ Kim Cang Phôc Ma kin	0	107	1	0
+     V« TrÇn MËt tÞch	0	107	5	0
+   TiÒm Long MËt tÞch	0	107	3	0
+    Thiªn La MËt tÞch	0	107	7	0
+       Nh­ ý MËt tÞch	0	107	9	0
+         BÝch H¶i Phæ	0	107	11	0
+     Hçn §én MËt tÞch	0	107	13	0
+   Quý Thiªn MËt tÞch	0	107	15	0
+   HuyÒn ¶nh MËt tÞch	0	107	17	0
+     Qu©n Tö MËt tÞch	0	107	19	0
+   TrÊn Qu©n MËt tÞch	0	107	21	0
+   Xuyªn V©n MËt tÞch	0	107	23	0
+       U Minh Quû Lôc	0	107	25	0
+     Linh Cæ MËt tÞch	0	107	27	0
+ B¶o r­¬ng Tµng KiÕm 	2	1	1060	0
+ B¶o r­¬ng Tµng KiÕm 	2	1	1063	0
+ B¶o r­¬ng Tµng KiÕm 	2	1	1062	0
+ B¶o r­¬ng Tµng KiÕm 	2	1	1061	0
+ B¶o r­¬ng Tµng KiÕm 	2	1	1059	0
+ Trang Chñ m·o - Nam 	0	103	92	0
+ Trang Chñ m·o - Nam 	0	103	91	1
+ Trang Chñ m·o - N÷ g	0	103	93	0
+ Trang Chñ m·o - KiÒu	0	103	94	0
+ Tæng Qu¶n Ngo¹i tran	0	100	92	0
+ Tæng Qu¶n Ngo¹i tran	0	100	91	0
+ Tæng Qu¶n Ngo¹i tran	0	100	93	0
+ Tæng Qu¶n Ngo¹i tran	0	100	94	0
+ Tæng Qu¶n khè - Nam 	0	101	92	0
+ Tæng Qu¶n khè - Nam 	0	101	91	0
+ Tæng Qu¶n khè - N÷ g	0	101	93	0
+ Tæng Qu¶n khè - KiÒu	0	101	94	0
+    TiÓu Th­ Giíi ChØ	0	102	36	0
+  Tr­ëng L·o ChØ Hoµn	0	102	37	0
+        Bµn Long bÝch	2	1	1000	244
+ Bao m¶nh Thiªn Th¹ch	2	1	1049	2
+ Tinh luyÖn B¨ng Th¹c	2	1	533	18
+    Tu Ch©n YÕu QuyÕt	2	0	554	914
+    TiÓu Nh©n s©m qu¶	2	0	552	7
+         C¬ quan nh©n	2	1	1011	74
+         V« NgÊn Thñy	2	1	503	18
+     N÷ Oa Tinh Th¹ch	2	1	504	74
+ ChiÕn bµo cóp thÕ gi	2	1	505	6
+ MÆt n¹ S¸t Thñ §­êng	2	1	1087	7
+ Tµng KiÕm anh hïng t	2	0	31	18
+    Phong lÖnh-s¬ cÊp	2	1	1053	0
+       TiÓu c¸t t­êng	2	1	30014	0
+     Qu©n c«ng ch­¬ng	2	1	9999	508
+           Kú m«n phï	0	200	9996	0
+      Gi¸n §iÖp trang	2	1	9995	7
+ Cöu ChuyÓn Håi Hån §	2	1	9991	7
+ Phong th­ëng lÖnh_Tè	2	1	9990	0
+ Phong th­ëng lÖnh_Li	2	1	9989	0
+ Phong th­ëng lÖnh_Tè	2	1	9988	4
+ Phong th­ëng lÖnh_Li	2	1	9987	12
+ Phong th­ëng lÖnh_Tè	2	1	9986	6
+ Phong th­ëng lÖnh_Li	2	1	9985	7
+ Phong th­ëng lÖnh_Tè	2	1	9984	14
+ Phong th­ëng lÖnh_Li	2	1	9983	5
+        §Çu thµnh tÝn	2	1	9980	0
+ Tèng qu©n trang (Nam	0	109	992	9
+ Tèng qu©n trang (Nam	0	109	993	1
+ Tèng qu©n trang (N÷ 	0	109	994	2
+ Tèng qu©n trang (KiÒ	0	109	995	3
+ Liªu qu©n trang (Nam	0	109	996	3
+ Liªu qu©n trang (Nam	0	109	997	1
+ Liªu qu©n trang (N÷ 	0	109	998	2
+ Liªu qu©n trang (KiÒ	0	109	999	2
+ R­¬ng trang søc (h«n	2	1	551	0
+ R­¬ng y phôc (h«n lÔ	2	1	552	0
+ R­¬ng lÔ phôc chñ h«	2	1	553	0
+             LÔ r­¬ng	2	1	540	2
+ Tö Kim Hång Bao (trè	2	1	536	4
+ Hoµng Kim §¹i Hång B	2	1	538	9
+ H«n kh¸nh lÔ hoa bao	2	1	557	1
+             Ph¸o hoa	2	1	554	0
+             Bao ph¸o	2	1	558	1
+         §¹i Nh©n s©m	2	0	553	207
+        §Çu thµnh th­	2	1	9979	11
+          Kú L©n hoµn	2	1	1003	22
+     Ph¸o hoa ®­a tin	2	1	203	0
+      S­ m«n lÖnh th­	2	1	1016	2
+ S­ m«n t×nh nguyÖn t	2	1	1019	0
+   Th¸i H­ §a MËt Qu¶	2	1	387	23
+      Vâ l©m hµo kiÖt	2	1	1039	0
+      Vâ L©m LÖnh Bµi	2	1	29000	45
+         XuÊt hån qu¶	2	1	555	1
+ ChiÕn ý Bµn ChØ cÊp 	0	102	221	0
+ ChiÕn ý Bµn ChØ cÊp 	0	102	222	0
+ ChiÕn ý Giíi ChØ cÊp	0	102	223	0
+ ChiÕn ý Giíi ChØ cÊp	0	102	224	0
+ ChiÕn ý Bµn ChØ cÊp 	0	102	2219	0
+ ChiÕn ý Bµn ChØ cÊp 	0	102	2229	0
+ ChiÕn ý Giíi ChØ cÊp	0	102	2239	0
+ ChiÕn ý Giíi ChØ cÊp	0	102	2249	0
+ ChiÕn ý C«n cÊp 8 - 	0	5	221	0
+ ChiÕn ý C«n cÊp 8 - 	0	5	222	0
+ ChiÕn ý C«n cÊp 9 - 	0	5	2219	0
+ ChiÕn ý C«n cÊp 9 - 	0	5	2229	0
+ ChiÕn ý ®ao cÊp 8- N	0	3	221	0
+ ChiÕn ý ®ao cÊp 8 - 	0	3	222	0
+ ChiÕn ý ®ao cÊp 9 - 	0	3	2219	0
+ ChiÕn ý ®ao cÊp 9 - 	0	3	2229	0
+ ChiÕn ý phôc cÊp 8 -	0	101	221	0
+ ChiÕn ý phôc cÊp 8- 	0	101	222	0
+ ChiÕn ý phôc cÊp 9 -	0	101	2219	0
+ ChiÕn ý phôc cÊp 9- 	0	101	2229	0
+ ChiÕn ý kh¶i gi¸p cÊ	0	100	221	0
+ ChiÕn ý kh¶i gi¸p cÊ	0	100	222	0
+ ChiÕn ý kh¶i gi¸p cÊ	0	100	2219	0
+ ChiÕn ý kh¶i gi¸p cÊ	0	100	2229	0
+ ChiÕn ý kh«i cÊp 8 -	0	103	221	0
+ ChiÕn ý kh«i cÊp 8 -	0	103	222	0
+ ChiÕn ý kh«i cÊp 9 -	0	103	2219	0
+ ChiÕn ý kh«i cÊp 9 -	0	103	2229	0
+ Tèng §« Thèng chiÕn 	0	100	2231	15
+ Tèng §« Thèng chiÕn 	0	100	2232	0
+ Tèng §« Thèng chiÕn 	0	100	2233	1
+ Tèng §« Thèng chiÕn 	0	100	2234	2
+ Liªu §« Thèng chiÕn 	0	100	2235	3
+ Liªu §« Thèng chiÕn 	0	100	2236	1
+ Liªu §« Thèng chiÕn 	0	100	2237	1
+ Liªu §« Thèng chiÕn 	0	100	2238	1
+ Tèng §« Thèng chiÕn 	0	103	2231	13
+ Tèng §« Thèng chiÕn 	0	103	2232	0
+ Tèng §« Thèng chiÕn 	0	103	2233	1
+ Tèng §« Thèng chiÕn 	0	103	2234	2
+ Liªu §« Thèng chiÕn 	0	103	2235	1
+ Liªu §« Thèng chiÕn 	0	103	2236	1
+ Liªu §« Thèng chiÕn 	0	103	2237	1
+ Liªu §« Thèng chiÕn 	0	103	2238	1
+ Tèng §« Thèng chiÕn 	0	101	2231	14
+ Tèng §« Thèng chiÕn 	0	101	2232	1
+ Tèng §« Thèng chiÕn 	0	101	2233	1
+ Tèng §« Thèng chiÕn 	0	101	2234	2
+ Liªu §« Thèng chiÕn 	0	101	2235	2
+ Liªu §« Thèng chiÕn 	0	101	2236	1
+ Liªu §« Thèng chiÕn 	0	101	2237	1
+ Liªu §« Thèng chiÕn 	0	101	2238	1
+   Tµng KiÕm B¶o Ch©u	0	102	38	0
+   Tµng KiÕm Kú Th¹ch	0	102	39	0
+     Tµng KiÕm Kim Ên	0	102	40	0
+ Tµng KiÕm Tö Kim m·o	0	103	95	0
+ Tµng KiÕm Tö Kim m·o	0	103	96	0
+ Tµng KiÕm Tö Kim m·o	0	103	97	0
+ Tµng KiÕm Tö Kim m·o	0	103	98	0
+ Kim Lò Th­êng - Nam 	0	100	95	0
+ Kim Lò Th­êng - Nam 	0	100	96	0
+ Kim Lò Th­êng - N÷ g	0	100	97	0
+ Kim Lò Th­êng - KiÒu	0	100	98	0
+ Tµng KiÕm ¤ kim phôc	0	101	95	0
+ Tµng KiÕm ¤ kim phôc	0	101	96	0
+ Tµng KiÕm ¤ kim phôc	0	101	97	0
+ Tµng KiÕm ¤ kim phôc	0	101	98	0
+          Ph¸ Yªn ®ao	0	3	6001	0
+          Ph¸ Yªn c«n	0	5	6002	0
+       Phï Yªn tr­îng	0	8	6003	0
+          Hµm Yªn thñ	0	0	6004	0
+        Tµng Yªn ch©m	0	1	6005	0
+         Phi Yªn kiÕm	0	2	6006	0
+          VËn Yªn cÇm	0	10	6007	0
+          V©n Yªn thñ	0	0	6008	0
+          L­u Yªn c«n	0	5	6009	0
+       HuyÒn Yªn kiÕm	0	2	6010	0
+           Vò Yªn bót	0	9	6011	0
+       Hµ Tiªm Th­¬ng	0	6	6012	0
+        Hµnh Yªn Cung	0	4	6013	0
+        Träc Yªn nhÉn	0	7	6014	0
+         Yªu Yªn tr¶o	0	11	6015	0
+ Tö Quang B¸ V­¬ng §a	0	3	2351	0
+ Tö Quang B¸ V­¬ng C«	0	5	2352	0
+ Tö Quang Bå §Ò Tr­în	0	8	2353	0
+ Tö Quang Phôc Ma Thñ	0	0	2354	0
+ Tö Quang L­u V©n Ch©	0	1	2355	0
+ Tö Quang HuyÒn Minh 	0	2	2356	0
+ Tö Quang Tiªu T­¬ng 	0	10	2357	0
+ Tö Quang Gi¸ng Long 	0	0	2358	0
+ Tö Quang Hµnh V©n C«	0	5	2359	0
+ Tö Quang L­ìng Nghi 	0	2	2360	0
+ Tö Quang §o¹n V¨n Bó	0	9	2361	0
+ Tö Quang TrÊn Qu©n T	0	6	2362	0
+ Tö Quang Xuyªn D­¬ng	0	4	2363	0
+ Tö Quan O¸n Linh NhÉ	0	7	2364	0
+ Tö Quang V¹n §éc Tr¶	0	11	2365	0
+ Tö Quang M¹o - Nam t	0	103	2351	0
+ Tö Quang M¹o - Nam k	0	103	2352	0
+ Tö Quang M¹o - N÷ gî	0	103	2353	0
+ Tö Quang M¹o - KiÒu 	0	103	2354	0
+ Tö Quang Hé Gi¸p - N	0	100	2351	0
+ Tö Quang Hé Gi¸p - N	0	100	2352	0
+ Tö Quang Hé Gi¸p - N	0	100	2353	0
+ Tö Quang Hé Gi¸p - K	0	100	2354	0
+ Tö Quang Hé Trang - 	0	101	2351	0
+ Tö Quang Hé Trang - 	0	101	2352	0
+ Tö Quang Hé Trang - 	0	101	2353	0
+ Tö Quang Hé Trang - 	0	101	2354	0
+ Tö Quang Th¹ch - Nam	0	102	2351	0
+ Tö Quang Th¹ch - Nam	0	102	2352	0
+ Tö Quang Th¹ch - N÷ 	0	102	2353	0
+ Tö Quang Th¹ch - KiÒ	0	102	2354	0
+ Viªm §Õ kh«i - Nam t	0	103	8001	0
+ Viªm §Õ kh«i - Nam k	0	103	8002	0
+ Viªm §Õ kh«i - N÷ gî	0	103	8003	0
+ Viªm §Õ kh«i - KiÒu 	0	103	8004	0
+ Viªm §Õ trang - Nam 	0	101	8001	0
+ Viªm §Õ trang - Nam 	0	101	8002	0
+ Viªm §Õ trang - N÷ g	0	101	8003	0
+ Viªm §Õ trang - KiÒu	0	101	8004	0
+ Viªm §Õ gi¸p - Nam t	0	100	8001	0
+ Viªm §Õ gi¸p - Nam k	0	100	8002	0
+ Viªm §Õ gi¸p - N÷ gî	0	100	8003	0
+ Viªm §Õ gi¸p - KiÒu 	0	100	8004	0
+ Tö Quang ChiÕn Kh«i 	0	103	2355	0
+ Tö Quang ChiÕn Kh«i 	0	103	2356	0
+ Tö Quang ChiÕn Kh«i 	0	103	2357	0
+ Tö Quang ChiÕn Kh«i 	0	103	2358	0
+ Tö Quang ChiÕn Bµo -	0	100	2355	0
+ Tö Quang ChiÕn Bµo -	0	100	2356	0
+ Tö Quang ChiÕn Bµo -	0	100	2357	0
+ Tö Quang ChiÕn Bµo -	0	100	2358	0
+ Tö Quang ChiÕn Trang	0	101	2355	0
+ Tö Quang ChiÕn Trang	0	101	2356	0
+ Tö Quang ChiÕn Trang	0	101	2357	0
+ Tö Quang ChiÕn Trang	0	101	2358	0
+ Tö Quang Tiªn Ngäc -	0	102	2360	0
+ Tö Quang Tiªn Ngäc -	0	102	2361	0
+ Tö Quang Tiªn Ngäc -	0	102	2362	0
+ Tö Quang Tiªn Ngäc -	0	102	2363	0
+ Tö Quang Tiªn Ngäc -	0	102	2364	0
+ Tö Quang Tiªn Ngäc -	0	102	2365	0
+ Tö Quang Tiªn Ngäc -	0	102	2366	0
+ Tö Quang Tiªn Ngäc -	0	102	2367	0
+ Tö Quang Tiªn Ngäc -	0	102	2368	0
+ Tö Quang Tiªn Ngäc -	0	102	2369	0
+ Tö Quang Tiªn Ngäc -	0	102	2370	0
+ Tö Quang Tiªn Ngäc -	0	102	2371	0
+ Tö Quang Tiªn Ngäc -	0	102	2372	0
+ Tö Quang Tiªn Ngäc -	0	102	2373	0
+ Tö Quang Tiªn Ngäc -	0	102	2374	0
+  ThiÕu L©m §ao quyÕt	2	6	1	7
+  ThiÕu L©m C«n quyÕt	2	6	2	7
+    Tr¶m Ma §ao quyÕt	2	6	3	6
+      Phong C«n quyÕt	2	6	4	9
+ Kim Chung Tr¸o quyÕt	2	6	5	5
+  Nhiªn Méc §ao quyÕt	2	6	6	4
+  V« Th­êng C«n quyÕt	2	6	7	8
+        X¶ Th©n QuyÕt	2	6	8	5
+    §¹i Nh­ Lai quyÕt	2	6	9	9
+      §¹t Ma Vò quyÕt	2	6	10	4
+ ThÊt B¶o ChiÕu quyÕt	2	6	11	71
+   La H¸n QuyÒn quyÕt	2	6	12	123
+   Ca DiÖp Thèi quyÕt	2	6	13	104
+       HuÖ Nh·n quyÕt	2	6	14	111
+          Vi §µ quyÕt	2	6	15	78
+        V¨n V©n quyÕt	2	6	16	105
+    La H¸n TrËn quyÕt	2	6	17	146
+     §¹i Tu Di Ch­ëng	2	6	18	153
+         V« ¶nh quyÕt	2	6	19	57
+  Long Tr¶o Thñ quyÕt	2	6	20	141
+        Phôc Hæ quyÕt	2	6	21	5
+         Tu T©m quyÕt	2	6	22	14
+ Ngò ChuyÓn ChØ quyÕt	2	6	23	15
+     Ph¸ Ma Chó quyÕt	2	6	24	12
+   Kim Cang yÕu quyÕt	2	6	25	11
+         La L«i quyÕt	2	6	26	11
+   Phôc Ma ThÇn quyÕt	2	6	27	6
+       V« T­íng quyÕt	2	6	28	14
+           S­ Tö Hèng	2	6	29	10
+       Minh Chó quyÕt	2	6	30	6
+   Kim Cang ChØ quyÕt	2	6	31	11
+     ChÕ ¸m yÕu quyÕt	2	6	32	11
+       T©m Nh·n quyÕt	2	6	33	9
+  §éc ThÝch Cèt quyÕt	2	6	34	12
+    Gi¶i §éc BÝ quyÕt	2	6	35	13
+   C©u Hån TÜnh quyÕt	2	6	36	13
+       Ph¸ Quan quyÕt	2	6	37	11
+  Truy T©m TiÔn quyÕt	2	6	38	9
+       Thu Minh quyÕt	2	6	39	13
+      Xuyªn T©m quyÕt	2	6	40	13
+       Thèi §éc quyÕt	2	6	41	13
+     §o¹n Ph¸ch quyÕt	2	6	42	13
+       B¹o Ch©m quyÕt	2	6	43	5
+         Hµm Xa quyÕt	2	6	44	7
+  Táa MÖnh Ch©m quyÕt	2	6	45	12
+   M·n Thiªn Vò quyÕt	2	6	46	6
+        Quan ¢m QuyÕt	2	6	47	97
+    Nga My PhËt quyÕt	2	6	48	34
+   Ngäc N÷ KiÕm quyÕt	2	6	49	96
+      §é Nguyªn QuyÕt	2	6	50	96
+       PhËt Phæ quyÕt	2	6	51	87
+       Liªn Hoa quyÕt	2	6	52	44
+     Thanh Ph¹n quyÕt	2	6	53	93
+   L­u Thñy yÕu quyÕt	2	6	54	61
+         Phæ TÕ quyÕt	2	6	55	81
+       BÊt DiÖt quyÕt	2	6	56	41
+     PhËt ChiÕn quyÕt	2	6	57	93
+        PhËt ¢m quyÕt	2	6	58	86
+         §¹i Bi quyÕt	2	6	59	95
+       Tïy Khóc quyÕt	2	6	60	15
+      Khóc NghÖ quyÕt	2	6	61	15
+ NguyÖt Thùc Khóc quy	2	6	62	13
+      §o¹n Thñy quyÕt	2	6	63	8
+     TÜnh D¹ T­ quyÕt	2	6	64	9
+       D­ NhiÔu quyÕt	2	6	65	16
+      D­¬ng Tam quyÕt	2	6	66	5
+       Phóc Thñy ph¸p	2	6	67	16
+       PhÉn CÇm quyÕt	2	6	68	16
+        ¤ D¹ §Ò quyÕt	2	6	69	6
+    Mª T©m Khóc quyÕt	2	6	70	11
+ C¸i Bang Ch­ëng quyÕ	2	6	71	8
+       Th«ng Tý quyÕt	2	6	72	13
+      Thiªn C©n quyÕt	2	6	73	16
+       B¸ V­¬ng quyÕt	2	6	74	8
+    Táa HÇu Thñ quyÕt	2	6	75	11
+    Tiªu Dao Du quyÕt	2	6	76	16
+    Lôc Hîp yÕu quyÕt	2	6	77	8
+             Tóy §iÖp	2	6	78	14
+            Tóy QuyÒn	2	6	79	14
+   C¸i Bang C«n quyÕt	2	6	80	11
+         Khu Xµ quyÕt	2	6	81	8
+      KhÊt Th¶o quyÕt	2	6	82	25
+         Nª Thu quyÕt	2	6	83	19
+       DiÖu Thñ QuyÕt	2	6	84	22
+    Th©u ChuyÓn quyÕt	2	6	85	22
+        T¹ Gi¸p quyÕt	2	6	86	11
+      Th©u Ho¸n quyÕt	2	6	87	23
+         §¶ CÈu quyÕt	2	6	88	10
+   Vâ §ang KiÕm quyÕt	2	6	89	4
+ L­u Quang KiÕm quyÕt	2	6	90	7
+   VÞ ¦¬ng KiÕm quyÕt	2	6	91	9
+   Nhu V©n KiÕm quyÕt	2	6	92	9
+ LiÖt DiÖm KiÕm quyÕt	2	6	93	8
+       B«n Ph¸p quyÕt	2	6	94	8
+    V« Ng· Ph¸p quyÕt	2	6	95	10
+ Th¸i Thanh KiÕm quyÕ	2	6	96	9
+     TriÒn KiÕm quyÕt	2	6	97	9
+       L¹c KiÕm quyÕt	2	6	98	9
+ TÝch D­¬ng KiÕm quyÕ	2	6	99	6
+ HuyÒn KiÕm TrËn quyÕ	2	6	100	9
+       Ngù KiÕm quyÕt	2	6	101	10
+ ChÝnh L­ìng kiÕm quy	2	6	102	8
+   Th¸i Êt KiÕm quyÕt	2	6	103	8
+  ThËp Tam KiÕm quyÕt	2	6	104	9
+  HuyÒn ¢m KiÕm quyÕt	2	6	105	9
+ Thiªn ThuÇn kiÕm quy	2	6	106	9
+  B¸t Qu¸i KiÕm quyÕt	2	6	107	7
+ ThÊt TiÖt KiÕm quyÕt	2	6	108	10
+       Bót Ph¸p quyÕt	2	6	109	8
+ Th¸i Tiªu C«ng quyÕt	2	6	110	15
+   Lôc Hãa C«ng quyÕt	2	6	111	16
+   ThÕ V©n Tung quyÕt	2	6	112	14
+       ThÊt Tinh TrËn	2	6	113	8
+    ThiÕu D­¬ng QuyÕt	2	6	114	4
+       ThiÕu ¢m QuyÕt	2	6	115	14
+   B¾c §Èu TrËn quyÕt	2	6	116	15
+        Tµn ¶nh QuyÕt	2	6	117	15
+       Cµn Kh«n QuyÕt	2	6	118	11
+ Th­îng Thanh C«ng qu	2	6	119	12
+    Th­¬ng Ph¸p quyÕt	2	6	120	9
+ Ph¸ Phong Th­¬ng quy	2	6	121	8
+         Ngù M· quyÕt	2	6	122	12
+ B«n Lang Th­¬ng quyÕ	2	6	123	7
+     ChiÕn §Þnh quyÕt	2	6	124	8
+      X¶o ChiÕn quyÕt	2	6	125	10
+ Thiªn Hoµnh Th­¬ng q	2	6	126	10
+       Anh Hïng quyÕt	2	6	127	12
+ §¶o H¶i Th­¬ng quyÕt	2	6	128	8
+         Ngù M· quyÕt	2	6	129	10
+    BÝch Th­¬ng quyÕt	2	6	130	12
+      Cung Ph¸p quyÕt	2	6	131	16
+  Liªn X¹ ThuËt quyÕt	2	6	132	20
+      TrËn LiÖu quyÕt	2	6	133	26
+  Håi Long TiÔn quyÕt	2	6	134	25
+ TriÒn V©n TiÔn quyÕt	2	6	135	28
+     Kú M«n §én quyÕt	2	6	136	26
+       KhÝ TiÔn quyÕt	2	6	137	27
+      To¸i TiÔn quyÕt	2	6	138	12
+     HuyÔn ThÇn quyÕt	2	6	139	22
+       Tôc MÖnh quyÕt	2	6	140	23
+ L­u TuyÖt TiÔn quyÕt	2	6	141	18
+ BÝ kiÕp Ngò §éc §ao 	2	6	142	11
+  BÝ kiÕp DÉn Hån Chó	2	6	143	9
+ BÝ kiÕp Thao Thi Thu	2	6	144	9
+ BÝ kiÕp Thi §éc ThuË	2	6	145	12
+ BÝ kiÕp Thi Béc §¹i 	2	6	146	10
+ BÝ kiÕp TËp Thi Tµ K	2	6	147	11
+ BÝ kiÕp Ngù Thi ThuË	2	6	148	8
+ BÝ kiÕp V¹n §éc §o¹t	2	6	149	10
+ BÝ kiÕp ¢m Tµ HÊp Hå	2	6	150	11
+ BÝ kiÕp Th«i Thi Tµ 	2	6	151	9
+ BÝ kiÕp Tµ Linh §¹i 	2	6	152	13
+  BÝ kiÕp Tµ §éc C«ng	2	6	153	9
+ BÝ kiÕp Thi LiÖt Ma 	2	6	154	11
+ BÝ kiÕp H¹ Cæ MËt Ph	2	6	155	6
+     BÝ kiÕp Phong Cæ	2	6	156	19
+ BÝ kiÕp D­ìng Cæ BÝ 	2	6	157	17
+ BÝ kiÕp Cuång Phong 	2	6	158	17
+       BÝ kiÕp §éc Cæ	2	6	159	18
+ BÝ kiÕp HuyÕt §Ønh C	2	6	160	16
+     BÝ kiÕp HuyÕt Cæ	2	6	161	18
+     BÝ kiÕp H­¬ng Cæ	2	6	162	9
+       BÝ kiÕp Thi Cæ	2	6	163	18
+       BÝ kiÕp Yªu Cæ	2	6	164	9
+       BÝ kiÕp T©m Cæ	2	6	165	18
+ BÝ kiÕp V¹n Cæ Thùc 	2	6	166	17
+     BÝ kiÕp HuyÔn Cæ	2	6	167	17
+       BÝ kiÕp Tµm Cæ	2	6	168	19
+ ThÊu Gi¸p Th­¬ng - N	0	6	1721	0
+ ThÊu Gi¸p Th­¬ng - N	0	6	1722	0
+ ThÊu Gi¸p Th­¬ng - N	0	6	1723	0
+ ThÊu Gi¸p Th­¬ng - K	0	6	1724	0
+ ThÊu Gi¸p Th­¬ng cÊp	0	6	17219	0
+ ThÊu Gi¸p Th­¬ng cÊp	0	6	17229	0
+ ThÊu Gi¸p Th­¬ng cÊp	0	6	17239	0
+ ThÊu Gi¸p Th­¬ng cÊp	0	6	17249	0
+  Bao sÝnh lÔ kÕt h«n	2	1	585	99
+      Bao Thiªn Th¹ch	2	1	1050	30
+      ChiÕn ThÇn hoµn	2	1	1005	442
+ Cuu Thien Vo Cuc Don	2	1	1006	71
+              §Êu hån	2	1	1157	2264
+     Giang Hå H¶o H¸n	2	1	1038	0
+  Giang Hå ThiÕp HiÖp	2	1	1037	0
+         Hßa ThÞ BÝch	2	1	1001	1314
+        Qu©n C«ng §¹i	2	1	9998	198
+ Khiªm Vò Ngo¹i Trang	2	1	3384	1
+      Long HuyÕt hoµn	2	1	1002	15
+           NghÞch L©n	2	1	1156	0
+ Phong lÖnh-trung cÊp	2	1	1054	0
+     Phông HuyÕt hoµn	2	1	1004	43
+        Qu©n C«ng bµi	2	1	9997	46
+          Sæ tay sèng	2	19	1	192
+       Tam Thanh hoµn	2	1	1097	4
+   ThÇn hµnh b¶o ®iÓn	0	200	40	3559
+     Tr­êng Kh«ng Bao	2	0	596	0
+          V¨n CÈm H¹p	2	1	1100	0
+       Vâ L©m Cao Thñ	2	1	1040	0
+ Thiªn Th¹ch Tinh Th¹	2	1	1009	421176
+ §Þnh Hån Thiªn Th¹ch	2	1	1067	380
+        Phi Yªn Th¹ch	2	1	30130	0
+  Tö Quang ThÇn Th¹ch	2	1	30131	0
+       Tµng KiÕm LÖnh	2	1	30115	0
+      Tö Kim Hång Bao	2	1	537	94
+ §¹i Hång Bao Hoµng K	2	1	539	566
+    B¹ch Kim Hång Bao	2	1	30229	2906
+     Nh©n S©m V¹n N¨m	2	1	30071	0
+                   Xu	2	1	30230	1558916
+ Thiªn Chi Viªm §Õ Kh	0	103	8055	0
+ Thiªn Chi Viªm §Õ Kh	0	103	8056	0
+ Thiªn Chi Viªm §Õ Kh	0	103	8057	0
+ Thiªn Chi Viªm §Õ Kh	0	103	8058	0
+ Thiªn Chi Viªm §Õ Gi	0	100	8055	0
+ Thiªn Chi Viªm §Õ Gi	0	100	8056	0
+ Thiªn Chi Viªm §Õ Gi	0	100	8057	0
+ Thiªn Chi Viªm §Õ Gi	0	100	8058	0
+ Thiªn Chi Viªm §Õ Tr	0	101	8055	0
+ Thiªn Chi Viªm §Õ Tr	0	101	8056	0
+ Thiªn Chi Viªm §Õ Tr	0	101	8057	0
+ Thiªn Chi Viªm §Õ Tr	0	101	8058	0
+ Thiªn Chi Tµng KiÕm 	0	103	30001	0
+ Thiªn Chi Tµng KiÕm 	0	103	30002	0
+ Thiªn Chi Tµng KiÕm 	0	103	30003	0
+ Thiªn Chi Tµng KiÕm 	0	103	30004	0
+ Thiªn Chi Tµng KiÕm 	0	100	30001	0
+ Thiªn Chi Tµng KiÕm 	0	100	30002	0
+ Thiªn Chi Tµng KiÕm 	0	100	30003	0
+ Thiªn Chi Tµng KiÕm 	0	100	30004	0
+ Thiªn Chi Tµng KiÕm 	0	101	30001	0
+ Thiªn Chi Tµng KiÕm 	0	101	30002	0
+ Thiªn Chi Tµng KiÕm 	0	101	30003	0
+ Thiªn Chi Tµng KiÕm 	0	101	30004	0
+ Thiªn Chi Tµng KiÕm 	0	102	3001	0
+ Thiªn Chi Tµng KiÕm 	0	102	3004	0
+ Thiªn Chi Tµng KiÕm 	0	102	3007	0
+ Thiªn Chi Tµng KiÕm 	0	102	3010	0
+ Thiªn Chi Tµng KiÕm 	0	102	3002	0
+ Thiªn Chi Tµng KiÕm 	0	102	3005	0
+ Thiªn Chi Tµng KiÕm 	0	102	3008	0
+ Thiªn Chi Tµng KiÕm 	0	102	3011	0
+ Thiªn Chi Tµng KiÕm 	0	102	30003	0
+ Thiªn Chi Tµng KiÕm 	0	102	30006	0
+ Thiªn Chi Tµng KiÕm 	0	102	30009	0
+ Thiªn Chi Tµng KiÕm 	0	102	30012	0
+           Long Tö Ên	0	2	0	0
+          Phông Tö Ên	2	0	30005	1291
+             Hæ Tö Ên	2	0	30003	1305
+            ¦ng Tö Ên	2	0	30006	1430
+ Tinh Kh¾c-Cöu D­¬ng 	0	103	3033	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	103	3039	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	103	3045	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	103	3051	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	101	3033	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	101	3039	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	101	3045	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	101	3051	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	100	3033	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	100	3039	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	100	3045	0
+ Tinh Kh¾c-Cöu D­¬ng 	0	100	3051	0
+ Tinh Kh¾c-Cöu ¢m Ngu	0	103	3036	0
+ Tinh Kh¾c-Cöu ¢m Ngu	0	103	3042	0
+ Tinh Kh¾c-Cöu ¢m Ngu	0	103	3048	0
+ Tinh Kh¾c-Cöu ¢m Ngu	0	103	3054	0
+ Tinh Kh¾c-Cöu ¢m Phô	0	101	3036	0
+ Tinh Kh¾c-Cöu ¢m Phô	0	101	3042	0
+ Tinh Kh¾c-Cöu ¢m Phô	0	101	3048	0
+ Tinh Kh¾c-Cöu ¢m Phô	0	101	3054	0
+ Tinh Kh¾c-Cöu ¢m Thñ	0	100	3036	0
+ Tinh Kh¾c-Cöu ¢m Thñ	0	100	3042	0
+ Tinh Kh¾c-Cöu ¢m Thñ	0	100	3048	0
+ Tinh Kh¾c-Cöu ¢m Thñ	0	100	3054	0
+ Tinh Kh¾c-L«i ¢m Nan	0	0	8874	0
+ Tinh Kh¾c-Quy L©n Hé	0	0	8875	0
+ Tinh Kh¾c-¢m D­¬ng X	0	1	8879	0
+ Thiªn NghÜa-Tõ Hµn ¢	0	2	8884	0
+ Thiªn NghÜa-ThuÇn Ph	0	2	8885	0
+ Tinh Kh¾c-Ngù Thiªn 	0	2	8886	0
+ Tinh Kh¾c-L­u Ly Gií	0	3	8892	0
+ Tinh Kh¾c-ThÇn DiÖm 	0	3	8893	0
+ Tinh Kh¾c-Truy MÖnh 	0	4	8897	0
+ Tinh Kh¾c-TrÊn Ng¹o 	0	5	8900	0
+ Tinh Kh¾c-Ph¸ Qu©n T	0	6	8903	0
+ Tinh Kh¾c-ThiÖp Cèt 	0	7	8906	0
+ Tinh Kh¾c-Kinh L«i T	0	8	8909	0
+ Tinh Kh¾c-Tinh §Èu C	0	9	8913	0
+ Tinh Kh¾c-ThÇn Phong	0	9	8914	0
+ Tinh Kh¾c-Cöu Hoµn B	0	10	8918	0
+ Tinh Kh¾c-LuyÖn Hån 	0	11	8922	0
+ Tinh Kh¾c-ThÇn Linh 	0	11	8923	0
+ Tinh Kh¾c-Cöu Tiªu S	0	12	8927	0
+ Tinh Kh¾c-Linh Lung 	0	13	8930	0
+ Tinh Kh¾c-HuyÒn Th¹c	0	102	3121	0
+ Tinh Kh¾c-PhØ Thóy N	0	102	3124	0
+ Tinh Kh¾c- NguyÖt Ho	0	102	3127	0
+ Tinh Kh¾c-Cöu ¦u Háa	0	102	3130	0
+ Tinh Kh¾c-Ng­ng Ngäc	0	102	3133	0
+ H¹o NguyÖt-§é N¹n T«	0	100	3064	0
+ H¹o NguyÖt-§é N¹n T«	0	100	3065	0
+ H¹o NguyÖt-§é KiÕp T	0	100	3066	0
+ H¹o NguyÖt-§é KiÕp T	0	100	3067	0
+ H¹o NguyÖt-§é ¸ch T«	0	100	3068	0
+ H¹o NguyÖt-§é ¸ch T«	0	100	3069	0
+ H¹o NguyÖt-V¹n KiÕp 	0	100	3070	0
+ H¹o NguyÖt-V¹n KiÕp 	0	100	3071	0
+ H¹o NguyÖt-V¹n KiÕp 	0	100	3072	0
+ H¹o NguyÖt-V¹n KiÕp 	0	100	3073	0
+ H¹o NguyÖt-PhËt V©n 	0	100	3074	0
+ H¹o NguyÖt-PhËt V©n 	0	100	3075	0
+ H¹o NguyÖt-PhËt TrÇn	0	100	3076	0
+ H¹o NguyÖt-PhËt TrÇn	0	100	3077	0
+ H¹o NguyÖt-Trôc Phôn	0	100	3078	0
+ H¹o NguyÖt-Trôc Phôn	0	100	3079	0
+ H¹o NguyÖt-Trôc Phôn	0	100	3080	0
+ H¹o NguyÖt-Trôc Phôn	0	100	3081	0
+ H¹o NguyÖt-Du Long §	0	100	3082	0
+ H¹o NguyÖt-Du Long §	0	100	3083	0
+ H¹o NguyÖt-Du Long §	0	100	3084	0
+ H¹o NguyÖt-Du Long §	0	100	3085	0
+ H¹o NguyÖt-V« Cùc Th	0	100	3086	0
+ H¹o NguyÖt-V« Cùc Th	0	100	3087	0
+ H¹o NguyÖt-V« Cùc Th	0	100	3088	0
+ H¹o NguyÖt-V« Cùc Th	0	100	3089	0
+ H¹o NguyÖt-BÝch L¹c 	0	100	3090	0
+ H¹o NguyÖt-BÝch L¹c 	0	100	3091	0
+ H¹o NguyÖt-BÝch L¹c 	0	100	3092	0
+ H¹o NguyÖt-BÝch L¹c 	0	100	3093	0
+ H¹o NguyÖt-C¶m Thiªn	0	100	3094	0
+ H¹o NguyÖt-C¶m Thiªn	0	100	3095	0
+ H¹o NguyÖt-C¶m Thiªn	0	100	3096	0
+ H¹o NguyÖt-C¶m Thiªn	0	100	3097	0
+ H¹o NguyÖt-§Þnh Thiª	0	100	3098	0
+ H¹o NguyÖt-§Þnh Thiª	0	100	3099	0
+ H¹o NguyÖt-§Þnh Thiª	0	100	3100	0
+ H¹o NguyÖt-§Þnh Thiª	0	100	3101	0
+ H¹o NguyÖt-Quû Xóc T	0	100	3102	0
+ H¹o NguyÖt-Quû Xóc T	0	100	3103	0
+ H¹o NguyÖt-Quû Xóc T	0	100	3104	0
+ H¹o NguyÖt-Quû Xóc T	0	100	3105	0
+ H¹o NguyÖt-Vu Cèt §é	0	100	3106	0
+ H¹o NguyÖt-Vu Cèt §é	0	100	3107	0
+ H¹o NguyÖt-Vu Cèt §é	0	100	3108	0
+ H¹o NguyÖt-Vu Cèt §é	0	100	3109	0
+ H¹o NguyÖt-BÊt §éng 	0	100	3110	0
+ H¹o NguyÖt-BÊt §éng 	0	100	3111	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	100	3112	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	100	3113	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	100	3114	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	100	3115	0
+ H¹o NguyÖt-Cöu Thiªn	0	100	3116	0
+ H¹o NguyÖt-Cöu Thiªn	0	100	3117	0
+ H¹o NguyÖt-Cöu Thiªn	0	100	3118	0
+ H¹o NguyÖt-Cöu Thiªn	0	100	3119	0
+ H¹o NguyÖt-Ma ¶nh Th	0	100	3120	0
+ H¹o NguyÖt-Ma ¶nh Th	0	100	3121	0
+ H¹o NguyÖt-Ma ¶nh Th	0	100	3122	0
+ H¹o NguyÖt-Ma ¶nh Th	0	100	3123	0
+ H¹o NguyÖt-Tª V©n Ti	0	100	3124	0
+ H¹o NguyÖt-Tª V©n Ti	0	100	3125	0
+ H¹o NguyÖt-Phi H¹ Ti	0	100	3126	0
+ H¹o NguyÖt-Phi H¹ Ti	0	100	3127	0
+ H¹o NguyÖt-§é N¹n T«	0	103	3064	0
+ H¹o NguyÖt-§é N¹n T«	0	103	3065	0
+ H¹o NguyÖt-§é KiÕp T	0	103	3066	0
+ H¹o NguyÖt-§é KiÕp T	0	103	3067	0
+ H¹o NguyÖt-§é ¸ch T«	0	103	3068	0
+ H¹o NguyÖt-§é ¸ch T«	0	103	3069	0
+ H¹o NguyÖt-V¹n KiÕp 	0	103	3070	0
+ H¹o NguyÖt-V¹n KiÕp 	0	103	3071	0
+ H¹o NguyÖt-V¹n KiÕp 	0	103	3072	0
+ H¹o NguyÖt-V¹n KiÕp 	0	103	3073	0
+ H¹o NguyÖt-PhËt V©n 	0	103	3074	0
+ H¹o NguyÖt-PhËt V©n 	0	103	3075	0
+ H¹o NguyÖt-PhËt TrÇn	0	103	3076	0
+ H¹o NguyÖt-PhËt TrÇn	0	103	3077	0
+ H¹o NguyÖt-Trôc Phôn	0	103	3078	0
+ H¹o NguyÖt-Trôc Phôn	0	103	3079	0
+ H¹o NguyÖt-Trôc Phôn	0	103	3080	0
+ H¹o NguyÖt-Trôc Phôn	0	103	3081	0
+ H¹o NguyÖt-Du Long §	0	103	3082	0
+ H¹o NguyÖt-Du Long §	0	103	3083	0
+ H¹o NguyÖt-Du Long §	0	103	3084	0
+ H¹o NguyÖt-Du Long §	0	103	3085	0
+ H¹o NguyÖt-V« Cùc Th	0	103	3086	0
+ H¹o NguyÖt-V« Cùc Th	0	103	3087	0
+ H¹o NguyÖt-V« Cùc Th	0	103	3088	0
+ H¹o NguyÖt-V« Cùc Th	0	103	3089	0
+ H¹o NguyÖt-BÝch L¹c 	0	103	3090	0
+ H¹o NguyÖt-BÝch L¹c 	0	103	3091	0
+ H¹o NguyÖt-BÝch L¹c 	0	103	3092	0
+ H¹o NguyÖt-BÝch L¹c 	0	103	3093	0
+ H¹o NguyÖt-C¶m Thiªn	0	103	3094	0
+ H¹o NguyÖt-C¶m Thiªn	0	103	3095	0
+ H¹o NguyÖt-C¶m Thiªn	0	103	3096	0
+ H¹o NguyÖt-C¶m Thiªn	0	103	3097	0
+ H¹o NguyÖt-§Þnh Thiª	0	103	3098	0
+ H¹o NguyÖt-§Þnh Thiª	0	103	3099	0
+ H¹o NguyÖt-§Þnh Thiª	0	103	3100	0
+ H¹o NguyÖt-§Þnh Thiª	0	103	3101	0
+ H¹o NguyÖt-Quû Xóc T	0	103	3102	0
+ H¹o NguyÖt-Quû Xóc T	0	103	3103	0
+ H¹o NguyÖt-Quû Xóc T	0	103	3104	0
+ H¹o NguyÖt-Quû Xóc T	0	103	3105	0
+ H¹o NguyÖt-Vu Cèt §é	0	103	3106	0
+ H¹o NguyÖt-Vu Cèt §é	0	103	3107	0
+ H¹o NguyÖt-Vu Cèt §é	0	103	3108	0
+ H¹o NguyÖt-Vu Cèt §é	0	103	3109	0
+ H¹o NguyÖt-BÊt §éng 	0	103	3110	0
+ H¹o NguyÖt-BÊt §éng 	0	103	3111	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	103	3112	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	103	3113	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	103	3114	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	103	3115	0
+ H¹o NguyÖt-Cöu Thiªn	0	103	3116	0
+ H¹o NguyÖt-Cöu Thiªn	0	103	3117	0
+ H¹o NguyÖt-Cöu Thiªn	0	103	3118	0
+ H¹o NguyÖt-Cöu Thiªn	0	103	3119	0
+ H¹o NguyÖt-Ma ¶nh Th	0	103	3120	0
+ H¹o NguyÖt-Ma ¶nh Th	0	103	3121	0
+ H¹o NguyÖt-Ma ¶nh Th	0	103	3122	0
+ H¹o NguyÖt-Ma ¶nh Th	0	103	3123	0
+ H¹o NguyÖt-Tª V©n Ti	0	103	3124	0
+ H¹o NguyÖt-Tª V©n Ti	0	103	3125	0
+ H¹o NguyÖt-Phi H¹ Ti	0	103	3126	0
+ H¹o NguyÖt-Phi H¹ Ti	0	103	3127	0
+ H¹o NguyÖt-§é N¹n T«	0	101	3064	0
+ H¹o NguyÖt-§é N¹n T«	0	101	3065	0
+ H¹o NguyÖt-§é KiÕp T	0	101	3066	0
+ H¹o NguyÖt-§é KiÕp T	0	101	3067	0
+ H¹o NguyÖt-§é ¸ch T«	0	101	3068	0
+ H¹o NguyÖt-§é ¸ch T«	0	101	3069	0
+ H¹o NguyÖt-V¹n KiÕp 	0	101	3070	0
+ H¹o NguyÖt-V¹n KiÕp 	0	101	3071	0
+ H¹o NguyÖt-V¹n KiÕp 	0	101	3072	0
+ H¹o NguyÖt-V¹n KiÕp 	0	101	3073	0
+ H¹o NguyÖt-PhËt V©n 	0	101	3074	0
+ H¹o NguyÖt-PhËt V©n 	0	101	3075	0
+ H¹o NguyÖt-PhËt TrÇn	0	101	3076	0
+ H¹o NguyÖt-PhËt TrÇn	0	101	3077	0
+ H¹o NguyÖt-Trôc Phôn	0	101	3078	0
+ H¹o NguyÖt-Trôc Phôn	0	101	3079	0
+ H¹o NguyÖt-Trôc Phôn	0	101	3080	0
+ H¹o NguyÖt-Trôc Phôn	0	101	3081	0
+ H¹o NguyÖt-Du Long §	0	101	3082	0
+ H¹o NguyÖt-Du Long §	0	101	3083	0
+ H¹o NguyÖt-Du Long §	0	101	3084	0
+ H¹o NguyÖt-Du Long §	0	101	3085	0
+ H¹o NguyÖt-V« Cùc Th	0	101	3086	0
+ H¹o NguyÖt-V« Cùc Th	0	101	3087	0
+ H¹o NguyÖt-V« Cùc Th	0	101	3088	0
+ H¹o NguyÖt-V« Cùc Th	0	101	3089	0
+ H¹o NguyÖt-BÝch L¹c 	0	101	3090	0
+ H¹o NguyÖt-BÝch L¹c 	0	101	3091	0
+ H¹o NguyÖt-BÝch L¹c 	0	101	3092	0
+ H¹o NguyÖt-BÝch L¹c 	0	101	3093	0
+ H¹o NguyÖt-C¶m Thiªn	0	101	3094	0
+ H¹o NguyÖt-C¶m Thiªn	0	101	3095	0
+ H¹o NguyÖt-C¶m Thiªn	0	101	3096	0
+ H¹o NguyÖt-C¶m Thiªn	0	101	3097	0
+ H¹o NguyÖt-§Þnh Thiª	0	101	3098	0
+ H¹o NguyÖt-§Þnh Thiª	0	101	3099	0
+ H¹o NguyÖt-§Þnh Thiª	0	101	3100	0
+ H¹o NguyÖt-§Þnh Thiª	0	101	3101	0
+ H¹o NguyÖt-Quû Xóc T	0	101	3102	0
+ H¹o NguyÖt-Quû Xóc T	0	101	3103	0
+ H¹o NguyÖt-Quû Xóc T	0	101	3104	0
+ H¹o NguyÖt-Quû Xóc T	0	101	3105	0
+ H¹o NguyÖt-Vu Cèt §é	0	101	3106	0
+ H¹o NguyÖt-Vu Cèt §é	0	101	3107	0
+ H¹o NguyÖt-Vu Cèt §é	0	101	3108	0
+ H¹o NguyÖt-Vu Cèt §é	0	101	3109	0
+ H¹o NguyÖt-BÊt §éng 	0	101	3110	0
+ H¹o NguyÖt-BÊt §éng 	0	101	3111	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	101	3112	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	101	3113	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	101	3114	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	101	3115	0
+ H¹o NguyÖt-Cöu Thiªn	0	101	3116	0
+ H¹o NguyÖt-Cöu Thiªn	0	101	3117	0
+ H¹o NguyÖt-Cöu Thiªn	0	101	3118	0
+ H¹o NguyÖt-Cöu Thiªn	0	101	3119	0
+ H¹o NguyÖt-Ma ¶nh Th	0	101	3120	0
+ H¹o NguyÖt-Ma ¶nh Th	0	101	3121	0
+ H¹o NguyÖt-Ma ¶nh Th	0	101	3122	0
+ H¹o NguyÖt-Ma ¶nh Th	0	101	3123	0
+ H¹o NguyÖt-Tª V©n Ti	0	101	3124	0
+ H¹o NguyÖt-Tª V©n Ti	0	101	3125	0
+ H¹o NguyÖt-Phi H¹ Ti	0	101	3126	0
+ H¹o NguyÖt-Phi H¹ Ti	0	101	3127	0
+ H¹o NguyÖt-§é N¹n T«	0	3	8972	0
+ H¹o NguyÖt-§é KiÕp T	0	0	8973	0
+ H¹o NguyÖt-§é ¸ch T«	0	8	8974	0
+ H¹o NguyÖt-V¹n KiÕp 	0	1	8975	0
+ H¹o NguyÖt-PhËt V©n 	0	2	8976	0
+ H¹o NguyÖt-PhËt TrÇn	0	10	8977	0
+ H¹o NguyÖt-Trôc Phôn	0	0	8978	0
+ H¹o NguyÖt-Du Long §	0	5	8979	0
+ H¹o NguyÖt-V« Cùc Th	0	2	8980	0
+ H¹o NguyÖt-BÝch L¹c 	0	9	8981	0
+ H¹o NguyÖt-C¶m Thiªn	0	6	8982	0
+ H¹o NguyÖt-§Þnh Thiª	0	4	8983	0
+ H¹o NguyÖt-Quû Xóc T	0	7	8984	0
+ H¹o NguyÖt-Vu Cèt §é	0	11	8985	0
+ H¹o NguyÖt-BÊt §éng 	0	2	8986	0
+ H¹o NguyÖt-Nhôc HuyÕ	0	3	8987	0
+ H¹o NguyÖt-Cöu Thiªn	0	9	8988	0
+ H¹o NguyÖt-Ma ¶nh Th	0	11	8989	0
+ H¹o NguyÖt-Tª V©n Ti	0	13	8990	0
+ H¹o NguyÖt-Phi H¹ Ti	0	12	8991	0
+ H¹o NguyÖt-¤ L©n B¶o	0	102	3175	0
+ H¹o NguyÖt-Tö Giao N	0	102	3177	0
+ H¹o NguyÖt-V©n Hæ LÖ	0	102	3179	0
+ H¹o NguyÖt-XÝch T­íc	0	102	3181	0
+ H¹o NguyÖt-BÝch Quy 	0	102	3183	0
+      Thiªn cang lÖnh	2	95	0	0
+ Thiªn NghÜa-Cöu D­¬n	0	100	3034	0
+ Thiªn NghÜa-Cöu D­¬n	0	100	3040	0
+ Thiªn NghÜa-Cöu D­¬n	0	100	3046	0
+ Thiªn NghÜa-Cöu D­¬n	0	100	3052	0
+ Thiªn NghÜa-Cöu D­¬n	0	103	3034	0
+ Thiªn NghÜa-Cöu D­¬n	0	103	3040	0
+ Thiªn NghÜa-Cöu D­¬n	0	103	3046	0
+ Thiªn NghÜa-Cöu D­¬n	0	103	3052	0
+ Thiªn NghÜa-Cöu D­¬n	0	101	3034	0
+ Thiªn NghÜa-Cöu D­¬n	0	101	3040	0
+ Thiªn NghÜa-Cöu D­¬n	0	101	3046	0
+ Thiªn NghÜa-Cöu D­¬n	0	101	3052	0
+ Thiªn NghÜa-Cöu ¢m T	0	100	3037	0
+ Thiªn NghÜa-Cöu ¢m T	0	100	3043	0
+ Thiªn NghÜa-Cöu ¢m T	0	100	3049	0
+ Thiªn NghÜa-Cöu ¢m T	0	100	3055	0
+ Thiªn NghÜa-Cöu ¢m N	0	103	3037	0
+ Thiªn NghÜa-Cöu ¢m N	0	103	3043	0
+ Thiªn NghÜa-Cöu ¢m N	0	103	3049	0
+ Thiªn NghÜa-Cöu ¢m N	0	103	3052	0
+ Thiªn NghÜa-Cöu ¢m P	0	101	3037	0
+ Thiªn NghÜa-Cöu ¢m P	0	101	3043	0
+ Thiªn NghÜa-Cöu ¢m P	0	101	3049	0
+ Thiªn NghÜa-Cöu ¢m P	0	101	3055	0
+ Thiªn NghÜa-L«i ¢m N	0	0	8876	0
+ Thiªn NghÜa-Quy L©n 	0	0	8877	0
+ Thiªn NghÜa-¢m D­¬ng	0	1	8880	0
+ Thiªn NghÜa-Tõ Hµn ¢	0	2	8887	0
+ Thiªn NghÜa-ThuÇn Ph	0	2	8888	0
+ Thiªn NghÜa-Ngù Thiª	0	2	8889	0
+ Thiªn NghÜa-L­u Ly G	0	3	8894	0
+ Thiªn NghÜa-ThÇn DiÖ	0	3	8895	0
+ Thiªn NghÜa-Truy MÖn	0	4	8898	0
+ Thiªn NghÜa-TrÊn Ng¹	0	5	8901	0
+ Thiªn NghÜa-Ph¸ Qu©n	0	6	8904	0
+ Thiªn NghÜa-ThiÖp Cè	0	7	8907	0
+ Thiªn NghÜa-Kinh L«i	0	8	8910	0
+ Thiªn NghÜa-Tinh §Èu	0	9	8915	0
+ Thiªn NghÜa-ThÇn Pho	0	9	8916	0
+ Thiªn NghÜa-Cöu Hoµn	0	10	8919	0
+ Thiªn NghÜa-LuyÖn Hå	0	11	8924	0
+ Thiªn NghÜa-ThÇn Lin	0	11	8925	0
+ Thiªn NghÜa-Cöu Tiªu	0	12	8928	0
+ Thiªn NghÜa-Linh Lun	0	13	8931	0
+ Thiªn NghÜa- HuyÒn T	0	102	3122	0
+ Thiªn NghÜa- PhØ Thó	0	102	3125	0
+ Thiªn NghÜa- NguyÖt 	0	102	3128	0
+ Thiªn NghÜa- Cöu ¦u 	0	102	3131	0
+ Thiªn NghÜa- Ng­ng N	0	102	3134	0
+          Cöu D­¬ng Y	0	100	3032	0
+          Cöu D­¬ng Y	0	100	3035	0
+          Cöu D­¬ng Y	0	100	3038	0
+          Cöu D­¬ng Y	0	100	3041	0
+          Cöu D­¬ng Y	0	100	3044	0
+          Cöu D­¬ng Y	0	100	3047	0
+          Cöu D­¬ng Y	0	100	3050	0
+          Cöu D­¬ng Y	0	100	3053	0
+       Cöu D­¬ng Qu¸n	0	103	3032	0
+       Cöu D­¬ng Qu¸n	0	103	3035	0
+       Cöu D­¬ng Qu¸n	0	103	3038	0
+       Cöu D­¬ng Qu¸n	0	103	3041	0
+       Cöu D­¬ng Qu¸n	0	103	3044	0
+       Cöu D­¬ng Qu¸n	0	103	3047	0
+       Cöu D­¬ng Qu¸n	0	103	3050	0
+       Cöu D­¬ng Qu¸n	0	103	3053	0
+      Cöu D­¬ng trang	0	101	3032	0
+      Cöu D­¬ng trang	0	101	3035	0
+      Cöu D­¬ng trang	0	101	3038	0
+      Cöu D­¬ng trang	0	101	3041	0
+      Cöu D­¬ng trang	0	101	3044	0
+      Cöu D­¬ng trang	0	101	3047	0
+      Cöu D­¬ng trang	0	101	3050	0
+      Cöu D­¬ng trang	0	101	3053	0
+   Long §»ng Tø H¶i Y	0	100	3056	10
+   Long §»ng Tø H¶i Y	0	100	3057	0
+   Long §»ng Tø H¶i Y	0	100	3058	0
+   Long §»ng Tø H¶i Y	0	100	3059	6
+ Phông Vò Cöu Thiªn Y	0	100	3060	8
+ Phông Vò Cöu Thiªn Y	0	100	3061	1
+ Phông Vò Cöu Thiªn Y	0	100	3062	2
+ Phông Vò Cöu Thiªn Y	0	100	3063	2
+ Long §»ng Tø H¶i Tra	0	101	3056	10
+ Long §»ng Tø H¶i Tra	0	101	3057	0
+ Long §»ng Tø H¶i Tra	0	101	3058	0
+ Long §»ng Tø H¶i Tra	0	101	3059	6
+ Phông Vò Cöu Thiªn T	0	101	3060	9
+ Phông Vò Cöu Thiªn T	0	101	3061	1
+ Phông Vò Cöu Thiªn T	0	101	3062	2
+ Phông Vò Cöu Thiªn T	0	101	3063	2
+ Long §»ng Tø H¶i Qu¸	0	103	3056	11
+ Long §»ng Tø H¶i Qu¸	0	103	3057	0
+ Long §»ng Tø H¶i Qu¸	0	103	3058	1
+ Long §»ng Tø H¶i Qu¸	0	103	3059	5
+ Phông Vò Cöu Thiªn Q	0	103	3060	6
+ Phông Vò Cöu Thiªn Q	0	103	3061	1
+ Phông Vò Cöu Thiªn Q	0	103	3062	1
+ Phông Vò Cöu Thiªn Q	0	103	3063	3
+ Cöu Ch©u-L­u Ly Giíi	0	3	8932	2
+ Cöu Ch©u-L«i ¢m Nang	0	0	8933	13
+ Cöu Ch©u-Kinh L«i Th	0	8	8934	0
+ Cöu Ch©u-¢m D­¬ng Xu	0	1	8935	0
+ Cöu Ch©u-Tõ Hµn ¢m K	0	2	8936	2
+ Cöu Ch©u-Cöu Hoµn Bè	0	10	8937	4
+ Cöu Ch©u-Quy L©n Hé 	0	0	8938	0
+ Cöu Ch©u-TrÊn Ng¹o C	0	5	8939	1
+ Cöu Ch©u-ThuÇn Phong	0	2	8940	3
+ Cöu Ch©u-Tinh §Èu Ch	0	9	8941	0
+ Cöu Ch©u-Ph¸ Qu©n Tr	0	6	8942	0
+ Cöu Ch©u-Truy MÖnh C	0	4	8943	2
+ Cöu Ch©u-ThiÖp Cèt H	0	7	8944	1
+ Cöu Ch©u-LuyÖn Hån H	0	11	8945	1
+ Cöu Ch©u-Ngù Thiªn P	0	2	8946	1
+ Cöu Ch©u-ThÇn DiÖm T	0	3	8947	0
+ Cöu Ch©u-ThÇn Phong 	0	9	8948	0
+ Cöu Ch©u-ThÇn Linh C	0	11	8949	0
+ Cöu Ch©u-Linh Lung C	0	13	8950	1
+ Cöu Ch©u-Cöu Tiªu S¸	0	12	8951	0
+ Cöu Ch©u-Ng­ng Ngäc 	0	102	3135	0
+ Cöu Ch©u-HuyÒn Th¹ch	0	102	3136	0
+ Cöu Ch©u-Ng­ng Ngäc 	0	102	3137	0
+ Cöu Ch©u-NguyÖt Hoa 	0	102	3138	0
+ Cöu Ch©u-NguyÖt Hoa 	0	102	3139	11
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3140	12
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3141	0
+ Cöu Ch©u-HuyÒn Th¹ch	0	102	3142	0
+ Cöu Ch©u-Ng­ng Ngäc 	0	102	3143	2
+ Cöu Ch©u-NguyÖt Hoa 	0	102	3144	2
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3145	1
+ Cöu Ch©u-NguyÖt Hoa 	0	102	3146	1
+ Cöu Ch©u-Ng­ng Ngäc 	0	102	3147	0
+ Cöu Ch©u-HuyÒn Th¹ch	0	102	3148	0
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3149	1
+ Cöu Ch©u-Cöu ¦u Háa 	0	102	3150	1
+ Cöu Ch©u-NguyÖt Hoa 	0	102	3151	2
+ Cöu Ch©u-Cöu ¦u Háa 	0	102	3152	2
+ Cöu Ch©u-Cöu ¦u Háa 	0	102	3153	1
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3154	1
+ Cöu Ch©u-Ng­ng Ngäc 	0	102	3155	0
+ Cöu Ch©u-HuyÒn Th¹ch	0	102	3156	0
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3157	2
+ Cöu Ch©u-HuyÒn Th¹ch	0	102	3158	2
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3159	1
+ Cöu Ch©u-NguyÖt Hoa 	0	102	3160	1
+ Cöu Ch©u-Cöu ¦u Háa 	0	102	3161	1
+ Cöu Ch©u-NguyÖt Hoa 	0	102	3162	1
+ Cöu Ch©u-NguyÖt Hoa 	0	102	3163	1
+ Cöu Ch©u-Cöu ¦u Háa 	0	102	3164	1
+ Cöu Ch©u-Cöu ¦u Háa 	0	102	3165	0
+ Cöu Ch©u-HuyÒn Th¹ch	0	102	3166	0
+ Cöu Ch©u-Cöu ¦u Háa 	0	102	3167	0
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3168	0
+ Cöu Ch©u-Ng­ng Ngäc 	0	102	3169	0
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3170	0
+ Cöu Ch©u-PhØ Thóy Mé	0	102	3171	1
+ Cöu Ch©u-HuyÒn Th¹ch	0	102	3172	1
+ Cöu Ch©u-Ng­ng Ngäc 	0	102	3173	0
+ Cöu Ch©u-Cöu ¦u Háa 	0	102	3174	0
+ Tèng L«i Hæ Dòng SÜ 	0	103	30211	0
+ Tèng L«i Hæ Dòng SÜ 	0	103	30212	0
+ Tèng L«i Hæ Dòng SÜ 	0	103	30213	0
+ Tèng L«i Hæ Dòng SÜ 	0	103	30214	0
+ Tèng L«i Hæ T­íng Kh	0	103	30215	1
+ Tèng L«i Hæ T­íng Kh	0	103	30216	0
+ Tèng L«i Hæ T­íng Kh	0	103	30217	0
+ Tèng L«i Hæ T­íng Kh	0	103	30218	1
+ Tèng L«i Hæ So¸i Kh«	0	103	30219	0
+ Tèng L«i Hæ So¸i Kh«	0	103	30220	0
+ Tèng L«i Hæ So¸i Kh«	0	103	30221	0
+ Tèng L«i Hæ So¸i Kh«	0	103	30222	0
+ Liªu L«i Hæ Dòng SÜ 	0	103	30223	0
+ Liªu L«i Hæ Dòng SÜ 	0	103	30224	0
+ Liªu L«i Hæ Dòng SÜ 	0	103	30225	0
+ Liªu L«i Hæ Dòng SÜ 	0	103	30226	0
+ Liªu L«i Hæ T­íng Kh	0	103	30227	1
+ Liªu L«i Hæ T­íng Kh	0	103	30228	0
+ Liªu L«i Hæ T­íng Kh	0	103	30229	0
+ Liªu L«i Hæ T­íng Kh	0	103	30230	0
+ Liªu L«i Hæ So¸i Kh«	0	103	30231	0
+ Liªu L«i Hæ So¸i Kh«	0	103	30232	0
+ Liªu L«i Hæ So¸i Kh«	0	103	30233	0
+ Liªu L«i Hæ So¸i Kh«	0	103	30234	0
+ Tèng L«i Hæ Dòng SÜ 	0	100	30211	0
+ Tèng L«i Hæ Dòng SÜ 	0	100	30212	0
+ Tèng L«i Hæ Dòng SÜ 	0	100	30213	0
+ Tèng L«i Hæ Dòng SÜ 	0	100	30214	0
+ Tèng L«i Hæ T­íng Bµ	0	100	30215	5
+ Tèng L«i Hæ T­íng Bµ	0	100	30216	0
+ Tèng L«i Hæ T­íng Bµ	0	100	30217	0
+ Tèng L«i Hæ T­íng Bµ	0	100	30218	1
+ Tèng L«i Hæ So¸i Bµo	0	100	30219	0
+ Tèng L«i Hæ So¸i Bµo	0	100	30220	0
+ Tèng L«i Hæ So¸i Bµo	0	100	30221	0
+ Tèng L«i Hæ So¸i Bµo	0	100	30222	0
+ Liªu L«i Hæ Dòng SÜ 	0	100	30223	0
+ Liªu L«i Hæ Dòng SÜ 	0	100	30224	0
+ Liªu L«i Hæ Dòng SÜ 	0	100	30225	0
+ Liªu L«i Hæ Dòng SÜ 	0	100	30226	1
+ Liªu L«i Hæ T­íng Bµ	0	100	30227	6
+ Liªu L«i Hæ T­íng Bµ	0	100	30228	0
+ Liªu L«i Hæ T­íng Bµ	0	100	30229	0
+ Liªu L«i Hæ T­íng Bµ	0	100	30230	0
+ Liªu L«i Hæ So¸i Bµo	0	100	30231	0
+ Liªu L«i Hæ So¸i Bµo	0	100	30232	0
+ Liªu L«i Hæ So¸i Bµo	0	100	30233	0
+ Liªu L«i Hæ So¸i Bµo	0	100	30234	0
+ Tèng L«i Hæ Dòng SÜ 	0	101	30211	0
+ Tèng L«i Hæ Dòng SÜ 	0	101	30212	0
+ Tèng L«i Hæ Dòng SÜ 	0	101	30213	0
+ Tèng L«i Hæ Dòng SÜ 	0	101	30214	0
+ Tèng L«i Hæ T­íng Tr	0	101	30215	1
+ Tèng L«i Hæ T­íng Tr	0	101	30216	0
+ Tèng L«i Hæ T­íng Tr	0	101	30217	0
+ Tèng L«i Hæ T­íng Tr	0	101	30218	1
+ Tèng L«i Hæ So¸i Tra	0	101	30219	0
+ Tèng L«i Hæ So¸i Tra	0	101	30220	0
+ Tèng L«i Hæ So¸i Tra	0	101	30221	0
+ Tèng L«i Hæ So¸i Tra	0	101	30222	0
+ Liªu L«i Hæ Dòng SÜ 	0	101	30223	0
+ Liªu L«i Hæ Dòng SÜ 	0	101	30224	0
+ Liªu L«i Hæ Dòng SÜ 	0	101	30225	0
+ Liªu L«i Hæ Dòng SÜ 	0	101	30226	0
+ Liªu L«i Hæ T­íng Tr	0	101	30227	1
+ Liªu L«i Hæ T­íng Tr	0	101	30228	0
+ Liªu L«i Hæ T­íng Tr	0	101	30229	0
+ Liªu L«i Hæ T­íng Tr	0	101	30230	0
+ Liªu L«i Hæ So¸i Tra	0	101	30231	0
+ Liªu L«i Hæ So¸i Tra	0	101	30232	0
+ Liªu L«i Hæ So¸i Tra	0	101	30233	0
+ Liªu L«i Hæ So¸i Tra	0	101	30234	0
+ Tèng L«i Hæ Dòng SÜ 	0	102	30149	1
+ Tèng L«i Hæ Dòng SÜ 	0	102	30150	0
+ Tèng L«i Hæ Dòng SÜ 	0	102	30151	0
+ Tèng L«i Hæ Dòng SÜ 	0	102	30152	1
+ Tèng L«i Hæ Dòng SÜ 	0	102	30153	1
+ Tèng L«i Hæ Dòng SÜ 	0	102	30154	0
+ Tèng L«i Hæ Dòng SÜ 	0	102	30155	0
+ Tèng L«i Hæ Dòng SÜ 	0	102	30156	0
+ Tèng L«i Hæ T­íng Bµ	0	102	30157	1
+ Tèng L«i Hæ T­íng Bµ	0	102	30158	0
+ Tèng L«i Hæ T­íng Bµ	0	102	30159	0
+ Tèng L«i Hæ T­íng Bµ	0	102	30160	0
+ Tèng L«i Hæ T­íng Kú	0	102	30161	2
+ Tèng L«i Hæ T­íng Kú	0	102	30162	0
+ Tèng L«i Hæ T­íng Kú	0	102	30163	0
+ Tèng L«i Hæ T­íng Kú	0	102	30164	1
+ Tèng L«i Hæ T­íng Ph	0	102	30165	2
+ Tèng L«i Hæ T­íng Ph	0	102	30166	0
+ Tèng L«i Hæ T­íng Ph	0	102	30167	0
+ Tèng L«i Hæ T­íng Ph	0	102	30168	1
+ Tèng L«i Hæ So¸i Phï	0	102	30169	0
+ Tèng L«i Hæ So¸i Phï	0	102	30170	0
+ Tèng L«i Hæ So¸i Phï	0	102	30171	0
+ Tèng L«i Hæ So¸i Phï	0	102	30172	0
+ Tèng L«i Hæ So¸i Hæ 	0	102	30173	0
+ Tèng L«i Hæ So¸i Hæ 	0	102	30174	0
+ Tèng L«i Hæ So¸i Hæ 	0	102	30175	0
+ Tèng L«i Hæ So¸i Hæ 	0	102	30176	0
+  Tèng L«i Hæ So¸i Kú	0	102	30177	0
+  Tèng L«i Hæ So¸i Kú	0	102	30178	0
+  Tèng L«i Hæ So¸i Kú	0	102	30179	0
+  Tèng L«i Hæ So¸i Kú	0	102	30180	0
+ Tèng L«i Hæ So¸i HiÖ	0	102	30181	0
+ Tèng L«i Hæ So¸i HiÖ	0	102	30182	0
+ Tèng L«i Hæ So¸i HiÖ	0	102	30183	0
+ Tèng L«i Hæ So¸i HiÖ	0	102	30184	0
+ Liªu L«i Hæ Dòng SÜ 	0	102	30185	1
+ Liªu L«i Hæ Dòng SÜ 	0	102	30186	0
+ Liªu L«i Hæ Dòng SÜ 	0	102	30187	0
+ Liªu L«i Hæ Dòng SÜ 	0	102	30188	0
+ Liªu L«i Hæ Dòng SÜ 	0	102	30189	1
+ Liªu L«i Hæ Dòng SÜ 	0	102	30190	0
+ Liªu L«i Hæ Dòng SÜ 	0	102	30191	0
+ Liªu L«i Hæ Dòng SÜ 	0	102	30192	0
+ Liªu L«i Hæ T­íng Bµ	0	102	30193	0
+ Liªu L«i Hæ T­íng Bµ	0	102	30194	0
+ Liªu L«i Hæ T­íng Bµ	0	102	30195	0
+ Liªu L«i Hæ T­íng Bµ	0	102	30196	0
+ Liªu L«i Hæ T­íng Kú	0	102	30197	1
+ Liªu L«i Hæ T­íng Kú	0	102	30198	0
+ Liªu L«i Hæ T­íng Kú	0	102	30199	0
+ Liªu L«i Hæ T­íng Kú	0	102	30200	1
+ Liªu L«i Hæ T­íng Ph	0	102	30201	1
+ Liªu L«i Hæ T­íng Ph	0	102	30202	0
+ Liªu L«i Hæ T­íng Ph	0	102	30203	0
+ Liªu L«i Hæ T­íng Ph	0	102	30204	1
+ Liªu L«i Hæ So¸i Phï	0	102	30205	0
+ Liªu L«i Hæ So¸i Phï	0	102	30206	0
+ Liªu L«i Hæ So¸i Phï	0	102	30207	0
+ Liªu L«i Hæ So¸i Phï	0	102	30208	0
+ Liªu L«i Hæ So¸i Hæ 	0	102	30209	0
+ Liªu L«i Hæ So¸i Hæ 	0	102	30210	0
+ Liªu L«i Hæ So¸i Hæ 	0	102	30211	0
+ Liªu L«i Hæ So¸i Hæ 	0	102	30212	0
+  Liªu L«i Hæ So¸i Kú	0	102	30213	0
+  Liªu L«i Hæ So¸i Kú	0	102	30214	0
+  Liªu L«i Hæ So¸i Kú	0	102	30215	0
+  Liªu L«i Hæ So¸i Kú	0	102	30216	0
+ Liªu L«i Hæ So¸i HiÖ	0	102	30217	0
+ Liªu L«i Hæ So¸i HiÖ	0	102	30218	0
+ Liªu L«i Hæ So¸i HiÖ	0	102	30219	0
+ Liªu L«i Hæ So¸i HiÖ	0	102	30220	0
+   Huy Ch­¬ng Du HiÖp	0	153	26	2212
+ Huy Ch­¬ng ThiÕt Huy	0	153	27	2403
+    Huy Ch­¬ng V©n Du	0	153	28	4434
+    ¸o Choµng Du HiÖp	0	152	26	2148
+ ¸o Choµng ThiÕt HuyÕ	0	152	27	2468
+     ¸o Choµng V©n Du	0	152	28	4465
+   Tr­êng Hµi Du HiÖp	0	154	26	2398
+ ChiÕn Hµi ThiÕt HuyÕ	0	154	27	2679
+       §¹o Hµi V©n Du	0	154	28	5718
+      Thien Cang Lenh	2	95	204	34016
+   Thien Mon Kim Lenh	2	1	30370	61473
+        Tu Nghia Lenh	2	95	208	0
+     Thong Thien Lenh	2	1	30409	0
+   Cuong Hoa Quyen 12	2	1	30424	138762
+   Cuong Hoa Quyen 13	2	1	30425	128807
+   Cuong Hoa Quyen 14	2	1	30426	123859
+   Cuong Hoa Quyen 15	2	1	30427	66735
+       Chia Khoa Vang	2	1	30133	0
+    Loi Ho Tinh Phach	2	1	30614	9
+             Bo Do An	2	1	30587	51
+             Ban Tiec	2	1	30590	0
+           Bo Nau Bep	2	1	30591	0
+    Minh Mang Chi Tuu	2	1	30592	0
+      Thien Kieu Lenh	2	97	236	268731
+ Bao Thien Kieu Lenh 	2	95	2086	1
+ Bao Thien Kieu Lenh 	2	95	2087	17
+          The Song Tu	2	1	30659	0
+ Bao Ruong Tai Nguyen	2	1	1210	0
+  Huy Chuong Anh Hung	2	1	30499	13882
+             Hong Bao	2	1	508	0
+    Mat Tich Tieu Dao	0	112	224	0
+ Non Thien Ha Vo Song	0	101	30207	0
+  Ao Thien Ha Vo Song	0	100	30207	0
+ Quan Thien Ha Vo Son	0	103	30207	0
+   Non Nam Tieu Chuan	0	103	30025	0
+    Ao Nam Tieu Chuan	0	100	30025	0
+  Quan Nam Tieu Chuan	0	101	30025	0
+        Tieu Dao Ngoc	2	1	30603	28800
+        Tui Hat Giong	2	1	30087	15
+        Nu Oa Bao Hap	2	1	30154	54
+     Ngoi Sao May Man	2	1	30191	39
+     Trung Ngau Nhien	2	1	30218	90
+    Bach Kim Hong Bao	2	1	30228	122
+         Van Nang Phu	2	1	30470	131
+         Dai Dinh Hon	2	1	1113	426
+ Dinh Hon Thien Thach	2	1	2067	0
+  Huyet Trich Thach 4	2	22	104	29216
+  Huyet Trich Thach 5	2	22	105	29543
+  Huyet Trich Thach 6	2	22	106	41051
+     Ho Phach Thach 4	2	22	304	28128
+     Ho Phach Thach 5	2	22	305	29315
+     Ho Phach Thach 6	2	22	306	41710
+  Nguyet Bach Thach 4	2	22	204	27931
+  Nguyet Bach Thach 5	2	22	205	28714
+  Nguyet Bach Thach 6	2	22	206	38741
+     Hac Dieu Thach 4	2	22	404	28580
+     Hac Dieu Thach 5	2	22	405	28270
+     Hac Dieu Thach 6	2	22	406	40592
+       Thien Dia Gioi	0	102	30038	3057
+     Nhat Nguyet Gioi	0	102	30037	3054
+              Vinh Du	0	102	8846	0
+            Huy Hoang	0	102	8847	0
+    Linh Do Gioi Trai	0	102	30221	5623
+    Linh Do Gioi Phai	0	102	30222	5653
+          Linh Do Mao	0	103	30235	4923
+          Linh Do Y 1	0	100	30235	2866
+          Linh Do Y 2	0	100	30236	220
+          Linh Do Y 3	0	100	30237	402
+          Linh Do Y 4	0	100	30238	1094
+      Linh Do Trang 1	0	101	30235	2123
+      Linh Do Trang 2	0	101	30236	148
+           Da Ma Lang	2	1	30672	76966
+          Da Dia Long	2	1	30673	75973
+          Viem Linh Y	2	1	30671	87947
+           Vo Guom Cu	2	1	30694	1
+      Tay Cam Thach 4	2	1	30524	709
+     Luyen Lo Thach 4	2	1	30530	21
+    Quan Cong Vinh Du	2	1	30642	1499
+     Thiet Tinh Cap 4	2	1	30612	1
+BaiJuTime(2501)	3583333
+BigBaiJuTime(2507)	4118910
+ShennongTime(2502)	3913371

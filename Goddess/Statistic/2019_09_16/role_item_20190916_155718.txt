@@ -1,0 +1,20 @@
+StatTime	Account	Role	ItemName	G	D	P	Cnt
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Huyet Trich Thach 4	2	22	104	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Huyet Trich Thach 5	2	22	105	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Huyet Trich Thach 6	2	22	106	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Ho Phach Thach 4	2	22	304	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Ho Phach Thach 5	2	22	305	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Ho Phach Thach 6	2	22	306	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Nguyet Bach Thach 4	2	22	204	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Nguyet Bach Thach 5	2	22	205	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Nguyet Bach Thach 6	2	22	206	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Hac Dieu Thach 4	2	22	404	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Hac Dieu Thach 5	2	22	405	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Hac Dieu Thach 6	2	22	406	100
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Thien Dia Gioi	0	102	30038	1
+2019_09_16 15:57:18	thanhkunqb1	iTi’uNgπo	Nhat Nguyet Gioi	0	102	30037	1
+2019_09_16 15:57:18	kkkkkk	iTi”uNha	Linh Do Gioi Phai	0	102	30222	2
+2019_09_16 15:57:18	kkkkkk	iTi”uNha	Quan Cong Vinh Du	2	1	30642	13
+2019_09_16 15:57:18	quandtu	QUANDTUX	Thien Cang Lenh	2	95	204	20
+2019_09_16 15:57:18	quandtu	QUANDTUX	Thien Mon Kim Lenh	2	1	30370	20
+2019_09_16 15:57:18	quandtu	QUANDTUX	Cuong Hoa Quyen 15	2	1	30427	1

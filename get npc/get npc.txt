@@ -10,3 +10,4 @@ Lenh 2
 
 
 
+?gm ds NewWorld(GetWorldPos())

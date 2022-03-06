@@ -1,0 +1,43 @@
+ID	Name	Level	Condition	ColdDown	CheckDisplayCycle	CheckExpiredCycle	ActiveSoundMale	ActiveSoundFemale	ActiveEffect	ActiveEffectPos
+1	ThiÕt Cèt	1	Vò khİ c­êng hãa +8, +9, +10 	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_¹âÏß.3e	0
+2	B¸ch ChiÕn	1	TrŞ PK 10 	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÎíÆø.3e	0
+3	Ch­íc NhËt	1	Vò khİ c­êng hãa cÊp +11, +12 	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÎíÆø.3e	0
+4	TuÊn DËt	1	Danh väng hoÆc s­ m«n ®¹t ®Õn hoÆc v­ît qua 15000	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÎíÆø.3e	0
+5	§µo Lı	1	Vò khİ c­êng hãa cÊp 13	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÎíÆø.3e	0
+6	Danh Tóc	1	Qu©n hµm lµ tiªn phong	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÎíÆø.3e	0
+7	L¹c Hµ	1	§øng nhÊt b¶ng xÕp h¹ng m«n ph¸i	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÎíÆø.3e	0
+8	L¨ng Tiªu	1	Qu©n hµm lµ T­íng qu©n	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÎíÆø.3e	0
+9	PhÇn V©n	1	Vò khİ c­êng hãa cÊp 14	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÎíÆø.3e	0
+10	§o¹n Giao	1	Qu©n hµm lµ Nguyªn so¸i	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_·¢É¢.3e	0
+11	C¸i ThÕ	1	10 h¹ng ®Çu ThÕ giíi	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_·¢É¢.3e	0
+12	Ph¸ Qu©n	1	Vò khİ c­êng hãa cÊp 15	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_¾ÛÂ£.3e	0
+13	Hµo m«n	1	Ng­êi ch¬i chuyÓn sinh chuyªn dông	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_¾ÛÂ£.3e	0
+14	H¸m Thiªn	1	Th«ng qua Long Quang Ch©n Nh©n kiÓm tra	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+15	Tinh Di	1	Thµnh chñ chuyªn dông	5	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_·¢É¢.3e	0
+16	eff16	5	2012Äê¶ÈµÍ¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+17	eff17	5	2012Äê¶ÈÖĞ¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+18	eff18	5	2012Äê¶È¸ß¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+19	eff19	5	2012Äê¶ÈÉñ¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+20	eff20	5	2012Äê¶ÈµÍ¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+21	eff21	5	2012Äê¶ÈÖĞ¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+22	eff22	5	2012Äê¶È¸ß¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+23	eff23	5	2012Äê¶ÈÉñ¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+24	eff24	5	2012Äê¶ÈµÍ¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+25	eff25	5	2012Äê¶ÈÖĞ¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+26	eff26	5	2012Äê¶È¸ß¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+27	eff27	5	2012Äê¶ÈÉñ¼¶vip×¨ÓÃ	30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+28	eff28	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+29	eff29	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+30	eff30	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+31	eff31	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+32	eff32	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+33	eff33	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+34	eff34	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+35	eff35	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+36	eff36	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+37	eff37	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+38	eff38	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+39	eff39	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+40	eff40	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+41	eff41	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0
+42	eff42	5		30	43200	43200	sound\rol_ma1_a1.wav	sound\rol_fm2_a2.wav	image\effect\sfx\ÆäËû\¿ªÆôÎäÆ÷_ÉÁµç.3e	0

@@ -1,0 +1,2191 @@
+WeaponEffectId	WeaponId	WeaponEffectFile_left	fx_left	fy_left	fz_left	WeaponEffectFile_right	fx_right	fy_right	fz_right
+1	0	image\effect\sfx\其他\空手a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\空手a_光球_蓝.3e	1	1	1
+1	1	image\effect\sfx\其他\空手a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\空手a_光球_蓝.3e	1	1	1
+1	4					image\effect\sfx\其他\刀a_光球_蓝.3e	1	1	1
+1	5					image\effect\sfx\其他\刀a_光球_蓝.3e	1.3	1	1
+1	6					image\effect\sfx\其他\刀a_光球_蓝.3e	1.3	1	1
+1	7					image\effect\sfx\其他\刀a_光球_蓝.3e	1.4	1	1
+1	8					image\effect\sfx\其他\刀a_光球_蓝.3e	1.4	1	1
+1	9					image\effect\sfx\其他\刀a_光球_蓝.3e	1.4	1	1
+1	10					image\effect\sfx\其他\刀b_光球_蓝.3e	1	1	1
+1	11					image\effect\sfx\其他\刀b_光球_蓝.3e	1.1	1	1
+1	12					image\effect\sfx\其他\刀b_光球_蓝.3e	0.9	1	1
+1	13					image\effect\sfx\其他\刀b_光球_蓝.3e	1.1	1	1
+1	14					image\effect\sfx\其他\刀c_光球_蓝.3e	1.2	1	1
+1	15					image\effect\sfx\其他\刀c_光球_蓝.3e	1.2	1	1
+1	16					image\effect\sfx\其他\刀c_光球_蓝.3e	1.1	1	1
+1	17					image\effect\sfx\其他\刀d_光球_蓝.3e	1	1	1
+1	19					image\effect\sfx\其他\剑a_光球_蓝.3e	1.2	1	1
+1	20					image\effect\sfx\其他\剑a_光球_蓝.3e	1.3	1	1
+1	21					image\effect\sfx\其他\剑a_光球_蓝.3e	1.2	1	1
+1	22					image\effect\sfx\其他\剑a_光球_蓝.3e	1.3	1	1
+1	23					image\effect\sfx\其他\剑a_光球_蓝.3e	1.3	1	1
+1	24					image\effect\sfx\其他\剑a_光球_蓝.3e	1.3	1	1
+1	25					image\effect\sfx\其他\剑b_光球_蓝.3e	1	1	1
+1	26					image\effect\sfx\其他\剑b_光球_蓝.3e	1.3	1	1
+1	27					image\effect\sfx\其他\剑b_光球_蓝.3e	1.4	1	1
+1	28					image\effect\sfx\其他\剑b_光球_蓝.3e	1.3	1	1
+1	29					image\effect\sfx\其他\剑c_光球_蓝.3e	1	1	1
+1	30					image\effect\sfx\其他\剑c_光球_蓝.3e	1	1	1
+1	31					image\effect\sfx\其他\剑c_光球_蓝.3e	1	1	1
+1	32					image\effect\sfx\其他\剑c_光球_蓝.3e	1	1	1
+1	33					image\effect\sfx\其他\剑c_光球_蓝.3e	0.9	1	1
+1	34					image\effect\sfx\其他\剑c_光球_蓝.3e	1	1	1
+1	37					image\effect\sfx\其他\笔b_光球_蓝.3e	1.5	1	1
+1	38					image\effect\sfx\其他\笔b_光球_蓝.3e	1.5	1	1
+1	39					image\effect\sfx\其他\笔b_光球_蓝.3e	1.5	1	1
+1	40					image\effect\sfx\其他\笔a_光球_蓝.3e	2	1	1
+1	41					image\effect\sfx\其他\笔a_光球_蓝.3e	2	1	1
+1	42					image\effect\sfx\其他\笔b_光球_蓝.3e	1.4	1	1
+1	43					image\effect\sfx\其他\笔b_光球_蓝.3e	1	1	1
+1	44					image\effect\sfx\其他\笔b_光球_蓝.3e	1.6	1	1
+1	45					image\effect\sfx\其他\笔b_光球_蓝.3e	1.6	1	1
+1	46					image\effect\sfx\其他\笔b_光球_蓝.3e	1.6	1	1
+1	47					image\effect\sfx\其他\笔a_光球_蓝.3e	1.7	1	1
+1	48					image\effect\sfx\其他\笔b_光球_蓝.3e	1.4	1	1
+1	49					image\effect\sfx\其他\笔b_光球_蓝.3e	1.8	1	1
+1	50					image\effect\sfx\其他\笔b_光球_蓝.3e	1.4	1	1
+1	52					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	53					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	54					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	55					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	56					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	57					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	58					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	59					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	60					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	61					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	62					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	63					image\effect\sfx\其他\棍b_光球_蓝.3e	1	1	1
+1	64					image\effect\sfx\其他\棍b_光球_蓝.3e	1.1	1	1
+1	65					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	66					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	67					image\effect\sfx\其他\棍a_光球_蓝.3e	1.4	1	1
+1	70					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	71					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	72					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	73					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	74					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	75					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	76					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	77					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	78					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	79					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	80					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	81					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	82					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	83					image\effect\sfx\其他\杖a_光球_蓝.3e	1.2	0.6	0.6
+1	86	image\effect\sfx\其他\琴a_光球_蓝.3e	0.8	1	1				
+1	87	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	88	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	89	image\effect\sfx\其他\琴a_光球_蓝.3e	0.8	1	1				
+1	90	image\effect\sfx\其他\琴a_光球_蓝.3e	0.8	1	1				
+1	91	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	92	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	93	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	94	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	95	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	96	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	97	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	98	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	99	image\effect\sfx\其他\琴a_光球_蓝.3e	1	1	1				
+1	102					image\effect\sfx\其他\枪a_光球_蓝.3e	1.1	1	1
+1	103					image\effect\sfx\其他\枪a_光球_蓝.3e	1.1	1	1
+1	104					image\effect\sfx\其他\枪a_光球_蓝.3e	1.1	1	1
+1	105					image\effect\sfx\其他\枪a_光球_蓝.3e	1.1	1	1
+1	106					image\effect\sfx\其他\枪a_光球_蓝.3e	1.1	1	1
+1	107					image\effect\sfx\其他\枪a_光球_蓝.3e	1.2	1	1
+1	108					image\effect\sfx\其他\枪a_光球_蓝.3e	1.2	1	1
+1	109					image\effect\sfx\其他\枪a_光球_蓝.3e	1.3	1	1
+1	110					image\effect\sfx\其他\枪a_光球_蓝.3e	1.3	1	1
+1	111					image\effect\sfx\其他\枪a_光球_蓝.3e	1.3	1	1
+1	112					image\effect\sfx\其他\枪a_光球_蓝.3e	1.4	1	1
+1	113					image\effect\sfx\其他\枪b_光球_蓝.3e	1.2	1	1
+1	114					image\effect\sfx\其他\枪a_光球_蓝.3e	1.2	1	1
+1	115					image\effect\sfx\其他\枪a_光球_蓝.3e	1.4	1	1
+1	118	image\effect\sfx\其他\弓a_光球_蓝.3e	1	1	1				
+1	119	image\effect\sfx\其他\弓a_光球_蓝.3e	1.2	1	1				
+1	120	image\effect\sfx\其他\弓a_光球_蓝.3e	1.2	1	1				
+1	121	image\effect\sfx\其他\弓a_光球_蓝.3e	1.2	1	1.2				
+1	122	image\effect\sfx\其他\弓a_光球_蓝.3e	1.2	1	1.2				
+1	123	image\effect\sfx\其他\弓b_光球_蓝.3e	0.7	1	1.3				
+1	124	image\effect\sfx\其他\弓b_光球_蓝.3e	0.8	1	1.3				
+1	125	image\effect\sfx\其他\弓b_光球_蓝.3e	0.6	1	1.3				
+1	126	image\effect\sfx\其他\弓b_光球_蓝.3e	0.7	1	1.3				
+1	127	image\effect\sfx\其他\弓b_光球_蓝.3e	0.7	1	1.3				
+1	128	image\effect\sfx\其他\弓b_光球_蓝.3e	0.8	1	1.2				
+1	129	image\effect\sfx\其他\弓b_光球_蓝.3e	0.8	1	1.2				
+1	130	image\effect\sfx\其他\弓b_光球_蓝.3e	1	1	1.2				
+1	131	image\effect\sfx\其他\弓b_光球_蓝.3e	1	1	1.2				
+1	134	image\effect\sfx\其他\双刀a_光球_蓝.3e	1.4	1	1	image\effect\sfx\其他\双刀a_光球_蓝.3e	1.4	1	1
+1	135	image\effect\sfx\其他\双刀a_光球_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀a_光球_蓝.3e	1.6	1	1
+1	136	image\effect\sfx\其他\双刀d_光球_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀d_光球_蓝.3e	1.6	1	1
+1	137	image\effect\sfx\其他\双刀d_光球_蓝.3e	1.7	1	1	image\effect\sfx\其他\双刀d_光球_蓝.3e	1.7	1	1
+1	138	image\effect\sfx\其他\双刀b_光球_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀b_光球_蓝.3e	1.6	1	1
+1	139	image\effect\sfx\其他\双刀b_光球_蓝.3e	2	1	1.5	image\effect\sfx\其他\双刀b_光球_蓝.3e	2	1	1.5
+1	140	image\effect\sfx\其他\双刀c_光球_蓝.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_光球_蓝.3e	2	1.5	1.5
+1	141	image\effect\sfx\其他\双刀c_光球_蓝.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_光球_蓝.3e	2	1.5	1.5
+1	142	image\effect\sfx\其他\双刀a_光球_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_光球_蓝.3e	3	1	1
+1	143	image\effect\sfx\其他\双刀a_光球_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_光球_蓝.3e	3	1	1
+1	144	image\effect\sfx\其他\双刀a_光球_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_光球_蓝.3e	2	1	1
+1	145	image\effect\sfx\其他\双刀e_光球_蓝.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_光球_蓝.3e	2	0.5	0.5
+1	146	image\effect\sfx\其他\双刀e_光球_蓝.3e	2.3	1	1	image\effect\sfx\其他\双刀e_光球_蓝.3e	2.3	1	1
+1	147	image\effect\sfx\其他\双刀e_光球_蓝.3e	2	2	2	image\effect\sfx\其他\双刀e_光球_蓝.3e	2	2	2
+1	150	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	151	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	152	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	153	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	154	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	155	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	156	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	157	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	158	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	159	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	160	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	161	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	162	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+1	163	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_光球_蓝.3e	1	1	1
+2	0	image\effect\sfx\其他\空手a_雾气_红.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_红.3e	1	1	1
+2	1	image\effect\sfx\其他\空手a_雾气_红.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_红.3e	1	1	1
+2	4					image\effect\sfx\其他\刀a_火.3e	0.9	0.1	1
+2	5					image\effect\sfx\其他\刀a_火.3e	1.1	0.1	1.5
+2	6					image\effect\sfx\其他\刀a_火.3e	1.2	0.1	1.5
+2	7					image\effect\sfx\其他\刀a_火.3e	1.2	0.1	1.5
+2	8					image\effect\sfx\其他\刀a_火.3e	1.2	0.1	1.5
+2	9					image\effect\sfx\其他\刀a_火.3e	1	0.1	1
+2	10					image\effect\sfx\其他\刀b_火.3e	0.95	0.6	0.7
+2	11					image\effect\sfx\其他\刀b_火.3e	1.05	0.6	1
+2	12					image\effect\sfx\其他\刀b_火.3e	0.9	0.5	0.9
+2	13					image\effect\sfx\其他\刀b_火.3e	1	0.6	0.9
+2	14					image\effect\sfx\其他\刀c_火.3e	1.1	1	1
+2	15					image\effect\sfx\其他\刀c_火.3e	1.1	1	1
+2	16					image\effect\sfx\其他\刀c_火.3e	1	1	1
+2	17					image\effect\sfx\其他\刀d_雾气_红.3e	0.9	1	1
+2	19					image\effect\sfx\其他\剑a_火.3e	1	0.2	0.6
+2	20					image\effect\sfx\其他\剑a_火.3e	1	0.3	1
+2	21					image\effect\sfx\其他\剑a_火.3e	1.1	0.3	1
+2	22					image\effect\sfx\其他\剑a_火.3e	0.95	0.4	1.2
+2	23					image\effect\sfx\其他\剑a_火.3e	1	0.3	1
+2	24					image\effect\sfx\其他\剑a_火.3e	0.9	0.3	1
+2	25					image\effect\sfx\其他\剑b_火.3e	0.75	0.4	1
+2	26					image\effect\sfx\其他\剑b_火.3e	1.1	0.6	1.2
+2	27					image\effect\sfx\其他\剑b_火.3e	1.1	0.4	1.2
+2	28					image\effect\sfx\其他\剑b_火.3e	1.1	0.5	1.1
+2	29					image\effect\sfx\其他\剑c_火.3e	0.9	0.3	1
+2	30					image\effect\sfx\其他\剑c_火.3e	0.9	0.3	0.8
+2	31					image\effect\sfx\其他\剑c_火.3e	0.9	0.3	1.2
+2	32					image\effect\sfx\其他\剑c_火.3e	0.85	0.4	1
+2	33					image\effect\sfx\其他\剑c_火.3e	0.9	0.3	0.9
+2	34					image\effect\sfx\其他\剑c_火.3e	0.9	0.3	0.9
+2	37					image\effect\sfx\其他\笔b_火.3e	1.6	1.6	1.6
+2	38					image\effect\sfx\其他\笔b_火.3e	1.6	1.6	1.6
+2	39					image\effect\sfx\其他\笔b_火.3e	1.2	1.5	1.5
+2	40					image\effect\sfx\其他\笔a_火.3e	1.55	1.6	1.6
+2	41					image\effect\sfx\其他\笔a_火.3e	1.55	1.6	1.6
+2	42					image\effect\sfx\其他\笔b_火.3e	1.5	2	2
+2	43					image\effect\sfx\其他\笔b_火.3e	1.25	1.6	2
+2	44					image\effect\sfx\其他\笔b_火.3e	0.9	1.5	1.5
+2	45					image\effect\sfx\其他\笔b_火.3e	1.1	1.5	1.5
+2	46					image\effect\sfx\其他\笔b_火.3e	1.4	1.5	1.5
+2	47					image\effect\sfx\其他\笔b_火.3e	1.3	1.5	1.5
+2	48					image\effect\sfx\其他\笔b_火.3e	1.3	2	2
+2	49					image\effect\sfx\其他\笔b_火.3e	1.7	3	2
+2	50					image\effect\sfx\其他\笔b_火.3e	1.4	3	2
+2	52					image\effect\sfx\其他\棍a_火.3e	2	3	3
+2	53					image\effect\sfx\其他\棍a_火.3e	1.2	2	2
+2	54					image\effect\sfx\其他\棍a_火.3e	1.2	2.5	2.5
+2	55					image\effect\sfx\其他\棍a_火.3e	1.2	2.5	2.5
+2	56					image\effect\sfx\其他\棍a_火.3e	1.2	3	3
+2	57					image\effect\sfx\其他\棍a_火.3e	1.4	3	3
+2	58					image\effect\sfx\其他\棍a_火.3e	1.4	3	3
+2	59					image\effect\sfx\其他\棍a_火.3e	1.3	3	3
+2	60					image\effect\sfx\其他\棍a_火.3e	1.3	3	3
+2	61					image\effect\sfx\其他\棍a_火.3e	1.4	3	3
+2	62					image\effect\sfx\其他\棍a_火.3e	1.4	3	3
+2	63					image\effect\sfx\其他\棍b_火.3e	1.4	3	3
+2	64					image\effect\sfx\其他\棍b_火.3e	1.4	3	3
+2	65					image\effect\sfx\其他\棍a_火.3e	1.4	3	3
+2	66					image\effect\sfx\其他\棍a_火.3e	1.6	3	3
+2	67					image\effect\sfx\其他\棍a_火.3e	1.6	3	3
+2	70					image\effect\sfx\其他\杖a_火.3e	1	1	1
+2	71					image\effect\sfx\其他\杖a_火.3e	1	1	1
+2	72					image\effect\sfx\其他\杖a_火.3e	1.1	1	1
+2	73					image\effect\sfx\其他\杖a_火.3e	1	1	1
+2	74					image\effect\sfx\其他\杖a_火.3e	1	1	1
+2	75					image\effect\sfx\其他\杖a_火.3e	1	1	1
+2	76					image\effect\sfx\其他\杖a_火.3e	1.05	1	1
+2	77					image\effect\sfx\其他\杖a_火.3e	1.15	1	1
+2	78					image\effect\sfx\其他\杖a_火.3e	1	1	1
+2	79					image\effect\sfx\其他\杖a_火.3e	1.1	1	1
+2	80					image\effect\sfx\其他\杖a_火.3e	1.2	1	1
+2	81					image\effect\sfx\其他\杖a_火.3e	1.2	1	1
+2	82					image\effect\sfx\其他\杖a_火.3e	1.2	1	1
+2	83					image\effect\sfx\其他\杖a_火.3e	1.2	1	1
+2	86	image\effect\sfx\其他\琴a_火.3e	0.6	0.3	0.35				
+2	87	image\effect\sfx\其他\琴a_火.3e	0.65	0.4	0.55				
+2	88	image\effect\sfx\其他\琴a_火.3e	0.65	0.4	0.55				
+2	89	image\effect\sfx\其他\琴a_火.3e	0.5	0.3	0.55				
+2	90	image\effect\sfx\其他\琴a_火.3e	0.5	0.3	0.55				
+2	91	image\effect\sfx\其他\琴a_火.3e	0.65	0.3	0.55				
+2	92	image\effect\sfx\其他\琴a_火.3e	0.65	0.3	0.35				
+2	93	image\effect\sfx\其他\琴a_火.3e	0.7	0.3	0.55				
+2	94	image\effect\sfx\其他\琴a_火.3e	0.7	0.3	0.55				
+2	95	image\effect\sfx\其他\琴a_火.3e	0.7	0.35	0.35				
+2	96	image\effect\sfx\其他\琴a_火.3e	0.65	0.5	0.65				
+2	97	image\effect\sfx\其他\琴a_火.3e	0.7	0.3	0.5				
+2	98	image\effect\sfx\其他\琴a_火.3e	0.65	0.5	0.55				
+2	99	image\effect\sfx\其他\琴a_火.3e	0.8	0.7	0.7				
+2	102					image\effect\sfx\其他\枪a_雾气_红.3e	1.1	1	1
+2	103					image\effect\sfx\其他\枪a_雾气_红.3e	1.1	1	1
+2	104					image\effect\sfx\其他\枪a_雾气_红.3e	1.1	1	1
+2	105					image\effect\sfx\其他\枪a_雾气_红.3e	1.1	1	1
+2	106					image\effect\sfx\其他\枪a_雾气_红.3e	1.1	1	1
+2	107					image\effect\sfx\其他\枪a_雾气_红.3e	1.2	1	1
+2	108					image\effect\sfx\其他\枪a_雾气_红.3e	1.2	1	1
+2	109					image\effect\sfx\其他\枪a_雾气_红.3e	1.3	1	1
+2	110					image\effect\sfx\其他\枪a_雾气_红.3e	1.3	1	1
+2	111					image\effect\sfx\其他\枪a_雾气_红.3e	1.3	1	1
+2	112					image\effect\sfx\其他\枪a_雾气_红.3e	1.4	1	1
+2	113					image\effect\sfx\其他\枪b_雾气_红.3e	1.2	1	1
+2	114					image\effect\sfx\其他\枪a_雾气_红.3e	1.2	1	1
+2	115					image\effect\sfx\其他\枪a_雾气_红.3e	1.4	1	1
+2	118	image\effect\sfx\其他\弓a_雾气_红.3e	1	1	1				
+2	119	image\effect\sfx\其他\弓a_雾气_红.3e	1.2	1	1				
+2	120	image\effect\sfx\其他\弓a_雾气_红.3e	1.2	1	1				
+2	121	image\effect\sfx\其他\弓a_雾气_红.3e	1.2	1	1.2				
+2	122	image\effect\sfx\其他\弓a_雾气_红.3e	1.2	1	1.2				
+2	123	image\effect\sfx\其他\弓b_雾气_红.3e	0.7	1	1.3				
+2	124	image\effect\sfx\其他\弓b_雾气_红.3e	0.8	1	1.3				
+2	125	image\effect\sfx\其他\弓b_雾气_红.3e	0.6	1	1.3				
+2	126	image\effect\sfx\其他\弓b_雾气_红.3e	0.7	1	1.3				
+2	127	image\effect\sfx\其他\弓b_雾气_红.3e	0.7	1	1.3				
+2	128	image\effect\sfx\其他\弓b_雾气_红.3e	0.8	1	1.2				
+2	129	image\effect\sfx\其他\弓b_雾气_红.3e	0.8	1	1.2				
+2	130	image\effect\sfx\其他\弓b_雾气_红.3e	1	1	1.2				
+2	131	image\effect\sfx\其他\弓b_雾气_红.3e	1	1	1.2				
+2	134	image\effect\sfx\其他\双刀a_雾气_红.3e	1.4	1	1	image\effect\sfx\其他\双刀a_雾气_红.3e	1.4	1	1
+2	135	image\effect\sfx\其他\双刀a_雾气_红.3e	1.6	1	1	image\effect\sfx\其他\双刀a_雾气_红.3e	1.6	1	1
+2	136	image\effect\sfx\其他\双刀d_雾气_红.3e	1.6	1	1	image\effect\sfx\其他\双刀d_雾气_红.3e	1.6	1	1
+2	137	image\effect\sfx\其他\双刀d_雾气_红.3e	1.7	1	1	image\effect\sfx\其他\双刀d_雾气_红.3e	1.7	1	1
+2	138	image\effect\sfx\其他\双刀b_雾气_红.3e	1.6	1	1	image\effect\sfx\其他\双刀b_雾气_红.3e	1.6	1	1
+2	139	image\effect\sfx\其他\双刀b_雾气_红.3e	2	1	1.5	image\effect\sfx\其他\双刀b_雾气_红.3e	2	1	1.5
+2	140	image\effect\sfx\其他\双刀c_雾气_红.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_红.3e	2	1.5	1.5
+2	141	image\effect\sfx\其他\双刀c_雾气_红.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_红.3e	2	1.5	1.5
+2	142	image\effect\sfx\其他\双刀a_雾气_红.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_红.3e	3	1	1
+2	143	image\effect\sfx\其他\双刀a_雾气_红.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_红.3e	3	1	1
+2	144	image\effect\sfx\其他\双刀a_雾气_红.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_红.3e	2	1	1
+2	145	image\effect\sfx\其他\双刀e_雾气_红.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_雾气_红.3e	2	0.5	0.5
+2	146	image\effect\sfx\其他\双刀e_雾气_红.3e	2.3	1	1	image\effect\sfx\其他\双刀e_雾气_红.3e	2.3	1	1
+2	147	image\effect\sfx\其他\双刀e_雾气_红.3e	2	2	2	image\effect\sfx\其他\双刀e_雾气_红.3e	2	2	2
+2	150	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	151	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	152	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	153	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	154	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	155	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	156	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	157	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	158	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	159	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	160	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	161	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	162	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+2	163	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_红.3e	1	1	1
+3	0	image\effect\sfx\其他\空手a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_黄.3e	1	1	1
+3	1	image\effect\sfx\其他\空手a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_黄.3e	1	1	1
+3	4					image\effect\sfx\其他\刀a_金.3e	0.9	0.1	1
+3	5					image\effect\sfx\其他\刀a_金.3e	1.1	0.1	1.5
+3	6					image\effect\sfx\其他\刀a_金.3e	1.2	0.1	1.5
+3	7					image\effect\sfx\其他\刀a_金.3e	1.2	0.1	1.5
+3	8					image\effect\sfx\其他\刀a_金.3e	1.2	0.1	1.5
+3	9					image\effect\sfx\其他\刀a_金.3e	1	0.1	1
+3	10					image\effect\sfx\其他\刀b_金.3e	0.95	0.6	0.7
+3	11					image\effect\sfx\其他\刀b_金.3e	1.05	0.6	1
+3	12					image\effect\sfx\其他\刀b_金.3e	0.9	0.5	0.9
+3	13					image\effect\sfx\其他\刀b_金.3e	1	0.6	0.9
+3	14					image\effect\sfx\其他\刀c_金.3e	1.1	1	1
+3	15					image\effect\sfx\其他\刀c_金.3e	1.1	1	1
+3	16					image\effect\sfx\其他\刀c_金.3e	1	1	1
+3	17					image\effect\sfx\其他\刀d_雾气_黄.3e	0.9	1	1
+3	19					image\effect\sfx\其他\剑a_金.3e	1	0.2	0.6
+3	20					image\effect\sfx\其他\剑a_金.3e	1	0.3	1
+3	21					image\effect\sfx\其他\剑a_金.3e	1.1	0.3	1
+3	22					image\effect\sfx\其他\剑a_金.3e	0.95	0.4	1.2
+3	23					image\effect\sfx\其他\剑a_金.3e	1	0.3	1
+3	24					image\effect\sfx\其他\剑a_金.3e	0.9	0.3	1
+3	25					image\effect\sfx\其他\剑b_金.3e	0.75	0.4	1
+3	26					image\effect\sfx\其他\剑b_金.3e	1.1	0.6	1.2
+3	27					image\effect\sfx\其他\剑b_金.3e	1.1	0.4	1.2
+3	28					image\effect\sfx\其他\剑b_金.3e	1.1	0.5	1.1
+3	29					image\effect\sfx\其他\剑c_金.3e	0.9	0.3	1
+3	30					image\effect\sfx\其他\剑c_金.3e	0.9	0.3	0.8
+3	31					image\effect\sfx\其他\剑c_金.3e	0.9	0.3	1.2
+3	32					image\effect\sfx\其他\剑c_金.3e	0.85	0.4	1
+3	33					image\effect\sfx\其他\剑c_金.3e	0.9	0.3	0.9
+3	34					image\effect\sfx\其他\剑c_金.3e	0.9	0.3	0.9
+3	37					image\effect\sfx\其他\笔b_金.3e	1.6	1.6	1.6
+3	38					image\effect\sfx\其他\笔b_金.3e	1.6	1.6	1.6
+3	39					image\effect\sfx\其他\笔b_金.3e	1.2	1.5	1.5
+3	40					image\effect\sfx\其他\笔a_金.3e	1.55	1.6	1.6
+3	41					image\effect\sfx\其他\笔a_金.3e	1.55	1.6	1.6
+3	42					image\effect\sfx\其他\笔b_金.3e	1.5	2	2
+3	43					image\effect\sfx\其他\笔b_金.3e	1.25	1.6	2
+3	44					image\effect\sfx\其他\笔b_金.3e	0.9	1.5	1.5
+3	45					image\effect\sfx\其他\笔b_金.3e	1.1	1.5	1.5
+3	46					image\effect\sfx\其他\笔b_金.3e	1.4	1.5	1.5
+3	47					image\effect\sfx\其他\笔b_金.3e	1.3	1.5	1.5
+3	48					image\effect\sfx\其他\笔b_金.3e	1.3	2	2
+3	49					image\effect\sfx\其他\笔b_金.3e	1.7	3	2
+3	50					image\effect\sfx\其他\笔b_金.3e	1.4	3	2
+3	52					image\effect\sfx\其他\棍a_金.3e	2	3	3
+3	53					image\effect\sfx\其他\棍a_金.3e	1.2	2	2
+3	54					image\effect\sfx\其他\棍a_金.3e	1.2	2.5	2.5
+3	55					image\effect\sfx\其他\棍a_金.3e	1.2	2.5	2.5
+3	56					image\effect\sfx\其他\棍a_金.3e	1.2	3	3
+3	57					image\effect\sfx\其他\棍a_金.3e	1.4	3	3
+3	58					image\effect\sfx\其他\棍a_金.3e	1.4	3	3
+3	59					image\effect\sfx\其他\棍a_金.3e	1.3	3	3
+3	60					image\effect\sfx\其他\棍a_金.3e	1.3	3	3
+3	61					image\effect\sfx\其他\棍a_金.3e	1.4	3	3
+3	62					image\effect\sfx\其他\棍a_金.3e	1.4	3	3
+3	63					image\effect\sfx\其他\棍b_金.3e	1.4	3	3
+3	64					image\effect\sfx\其他\棍b_金.3e	1.4	3	3
+3	65					image\effect\sfx\其他\棍a_金.3e	1.4	3	3
+3	66					image\effect\sfx\其他\棍a_金.3e	1.6	3	3
+3	67					image\effect\sfx\其他\棍a_金.3e	1.6	3	3
+3	70					image\effect\sfx\其他\杖a_金.3e	1	1	1
+3	71					image\effect\sfx\其他\杖a_金.3e	1	1	1
+3	72					image\effect\sfx\其他\杖a_金.3e	1.1	1	1
+3	73					image\effect\sfx\其他\杖a_金.3e	1	1	1
+3	74					image\effect\sfx\其他\杖a_金.3e	1	1	1
+3	75					image\effect\sfx\其他\杖a_金.3e	1	1	1
+3	76					image\effect\sfx\其他\杖a_金.3e	1.05	1	1
+3	77					image\effect\sfx\其他\杖a_金.3e	1.15	1	1
+3	78					image\effect\sfx\其他\杖a_金.3e	1	1	1
+3	79					image\effect\sfx\其他\杖a_金.3e	1.1	1	1
+3	80					image\effect\sfx\其他\杖a_金.3e	1.2	1	1
+3	81					image\effect\sfx\其他\杖a_金.3e	1.2	1	1
+3	82					image\effect\sfx\其他\杖a_金.3e	1.2	1	1
+3	83					image\effect\sfx\其他\杖a_金.3e	1.2	1	1
+3	86	image\effect\sfx\其他\琴a_金.3e	0.6	0.3	0.35				
+3	87	image\effect\sfx\其他\琴a_金.3e	0.65	0.4	0.55				
+3	88	image\effect\sfx\其他\琴a_金.3e	0.65	0.4	0.55				
+3	89	image\effect\sfx\其他\琴a_金.3e	0.5	0.3	0.55				
+3	90	image\effect\sfx\其他\琴a_金.3e	0.5	0.3	0.55				
+3	91	image\effect\sfx\其他\琴a_金.3e	0.65	0.3	0.55				
+3	92	image\effect\sfx\其他\琴a_金.3e	0.65	0.3	0.35				
+3	93	image\effect\sfx\其他\琴a_金.3e	0.7	0.3	0.55				
+3	94	image\effect\sfx\其他\琴a_金.3e	0.7	0.3	0.55				
+3	95	image\effect\sfx\其他\琴a_金.3e	0.7	0.35	0.35				
+3	96	image\effect\sfx\其他\琴a_金.3e	0.65	0.5	0.65				
+3	97	image\effect\sfx\其他\琴a_金.3e	0.7	0.3	0.5				
+3	98	image\effect\sfx\其他\琴a_金.3e	0.65	0.5	0.55				
+3	99	image\effect\sfx\其他\琴a_金.3e	0.8	0.7	0.7				
+3	102					image\effect\sfx\其他\枪a_雾气_黄.3e	1.1	1	1
+3	103					image\effect\sfx\其他\枪a_雾气_黄.3e	1.1	1	1
+3	104					image\effect\sfx\其他\枪a_雾气_黄.3e	1.1	1	1
+3	105					image\effect\sfx\其他\枪a_雾气_黄.3e	1.1	1	1
+3	106					image\effect\sfx\其他\枪a_雾气_黄.3e	1.1	1	1
+3	107					image\effect\sfx\其他\枪a_雾气_黄.3e	1.2	1	1
+3	108					image\effect\sfx\其他\枪a_雾气_黄.3e	1.2	1	1
+3	109					image\effect\sfx\其他\枪a_雾气_黄.3e	1.3	1	1
+3	110					image\effect\sfx\其他\枪a_雾气_黄.3e	1.3	1	1
+3	111					image\effect\sfx\其他\枪a_雾气_黄.3e	1.3	1	1
+3	112					image\effect\sfx\其他\枪a_雾气_黄.3e	1.4	1	1
+3	113					image\effect\sfx\其他\枪b_雾气_黄.3e	1.2	1	1
+3	114					image\effect\sfx\其他\枪a_雾气_黄.3e	1.2	1	1
+3	115					image\effect\sfx\其他\枪a_雾气_黄.3e	1.4	1	1
+3	118	image\effect\sfx\其他\弓a_雾气_黄.3e	1	1	1				
+3	119	image\effect\sfx\其他\弓a_雾气_黄.3e	1.2	1	1				
+3	120	image\effect\sfx\其他\弓a_雾气_黄.3e	1.2	1	1				
+3	121	image\effect\sfx\其他\弓a_雾气_黄.3e	1.2	1	1.2				
+3	122	image\effect\sfx\其他\弓a_雾气_黄.3e	1.2	1	1.2				
+3	123	image\effect\sfx\其他\弓b_雾气_黄.3e	0.7	1	1.3				
+3	124	image\effect\sfx\其他\弓b_雾气_黄.3e	0.8	1	1.3				
+3	125	image\effect\sfx\其他\弓b_雾气_黄.3e	0.6	1	1.3				
+3	126	image\effect\sfx\其他\弓b_雾气_黄.3e	0.7	1	1.3				
+3	127	image\effect\sfx\其他\弓b_雾气_黄.3e	0.7	1	1.3				
+3	128	image\effect\sfx\其他\弓b_雾气_黄.3e	0.8	1	1.2				
+3	129	image\effect\sfx\其他\弓b_雾气_黄.3e	0.8	1	1.2				
+3	130	image\effect\sfx\其他\弓b_雾气_黄.3e	1	1	1.2				
+3	131	image\effect\sfx\其他\弓b_雾气_黄.3e	1	1	1.2				
+3	134	image\effect\sfx\其他\双刀a_雾气_黄.3e	1.4	1	1	image\effect\sfx\其他\双刀a_雾气_黄.3e	1.4	1	1
+3	135	image\effect\sfx\其他\双刀a_雾气_黄.3e	1.6	1	1	image\effect\sfx\其他\双刀a_雾气_黄.3e	1.6	1	1
+3	136	image\effect\sfx\其他\双刀d_雾气_黄.3e	1.6	1	1	image\effect\sfx\其他\双刀d_雾气_黄.3e	1.6	1	1
+3	137	image\effect\sfx\其他\双刀d_雾气_黄.3e	1.7	1	1	image\effect\sfx\其他\双刀d_雾气_黄.3e	1.7	1	1
+3	138	image\effect\sfx\其他\双刀b_雾气_黄.3e	1.6	1	1	image\effect\sfx\其他\双刀b_雾气_黄.3e	1.6	1	1
+3	139	image\effect\sfx\其他\双刀b_雾气_黄.3e	2	1	1.5	image\effect\sfx\其他\双刀b_雾气_黄.3e	2	1	1.5
+3	140	image\effect\sfx\其他\双刀c_雾气_黄.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_黄.3e	2	1.5	1.5
+3	141	image\effect\sfx\其他\双刀c_雾气_黄.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_黄.3e	2	1.5	1.5
+3	142	image\effect\sfx\其他\双刀a_雾气_黄.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_黄.3e	3	1	1
+3	143	image\effect\sfx\其他\双刀a_雾气_黄.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_黄.3e	3	1	1
+3	144	image\effect\sfx\其他\双刀a_雾气_黄.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_黄.3e	2	1	1
+3	145	image\effect\sfx\其他\双刀e_雾气_黄.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_雾气_黄.3e	2	0.5	0.5
+3	146	image\effect\sfx\其他\双刀e_雾气_黄.3e	2.3	1	1	image\effect\sfx\其他\双刀e_雾气_黄.3e	2.3	1	1
+3	147	image\effect\sfx\其他\双刀e_雾气_黄.3e	2	2	2	image\effect\sfx\其他\双刀e_雾气_黄.3e	2	2	2
+3	150	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	151	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	152	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	153	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	154	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	155	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	156	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	157	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	158	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	159	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	160	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	161	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	162	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+3	163	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_黄.3e	1	1	1
+4	0	image\effect\sfx\其他\空手a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_蓝.3e	1	1	1
+4	1	image\effect\sfx\其他\空手a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_蓝.3e	1	1	1
+4	4					image\effect\sfx\其他\刀a_水.3e	0.9	0.1	1
+4	5					image\effect\sfx\其他\刀a_水.3e	1.1	0.1	1.5
+4	6					image\effect\sfx\其他\刀a_水.3e	1.2	0.1	1.5
+4	7					image\effect\sfx\其他\刀a_水.3e	1.2	0.1	1.5
+4	8					image\effect\sfx\其他\刀a_水.3e	1.2	0.1	1.5
+4	9					image\effect\sfx\其他\刀a_水.3e	1	0.1	1
+4	10					image\effect\sfx\其他\刀b_水.3e	0.95	0.6	0.7
+4	11					image\effect\sfx\其他\刀b_水.3e	1.05	0.6	1
+4	12					image\effect\sfx\其他\刀b_水.3e	0.9	0.5	0.9
+4	13					image\effect\sfx\其他\刀b_水.3e	1	0.6	0.9
+4	14					image\effect\sfx\其他\刀c_水.3e	1.1	1	1
+4	15					image\effect\sfx\其他\刀c_水.3e	1.1	1	1
+4	16					image\effect\sfx\其他\刀c_水.3e	1	1	1
+4	17					image\effect\sfx\其他\刀d_雾气_蓝.3e	0.9	1	1
+4	19					image\effect\sfx\其他\剑a_水.3e	1	0.2	0.6
+4	20					image\effect\sfx\其他\剑a_水.3e	1	0.3	1
+4	21					image\effect\sfx\其他\剑a_水.3e	1.1	0.3	1
+4	22					image\effect\sfx\其他\剑a_水.3e	0.95	0.4	1.2
+4	23					image\effect\sfx\其他\剑a_水.3e	1	0.3	1
+4	24					image\effect\sfx\其他\剑a_水.3e	0.9	0.3	1
+4	25					image\effect\sfx\其他\剑b_水.3e	0.75	0.4	1
+4	26					image\effect\sfx\其他\剑b_水.3e	1.1	0.6	1.2
+4	27					image\effect\sfx\其他\剑b_水.3e	1.1	0.4	1.2
+4	28					image\effect\sfx\其他\剑b_水.3e	1.1	0.5	1.1
+4	29					image\effect\sfx\其他\剑c_水.3e	0.9	0.3	1
+4	30					image\effect\sfx\其他\剑c_水.3e	0.9	0.3	0.8
+4	31					image\effect\sfx\其他\剑c_水.3e	0.9	0.3	1.2
+4	32					image\effect\sfx\其他\剑c_水.3e	0.85	0.4	1
+4	33					image\effect\sfx\其他\剑c_水.3e	0.9	0.3	0.9
+4	34					image\effect\sfx\其他\剑c_水.3e	0.9	0.3	0.9
+4	37					image\effect\sfx\其他\笔b_水.3e	1.6	1.6	1.6
+4	38					image\effect\sfx\其他\笔b_水.3e	1.6	1.6	1.6
+4	39					image\effect\sfx\其他\笔b_水.3e	1.2	1.5	1.5
+4	40					image\effect\sfx\其他\笔a_水.3e	1.55	1.6	1.6
+4	41					image\effect\sfx\其他\笔a_水.3e	1.55	1.6	1.6
+4	42					image\effect\sfx\其他\笔b_水.3e	1.5	2	2
+4	43					image\effect\sfx\其他\笔b_水.3e	1.25	1.6	2
+4	44					image\effect\sfx\其他\笔b_水.3e	0.9	1.5	1.5
+4	45					image\effect\sfx\其他\笔b_水.3e	1.1	1.5	1.5
+4	46					image\effect\sfx\其他\笔b_水.3e	1.4	1.5	1.5
+4	47					image\effect\sfx\其他\笔b_水.3e	1.3	1.5	1.5
+4	48					image\effect\sfx\其他\笔b_水.3e	1.3	2	2
+4	49					image\effect\sfx\其他\笔b_水.3e	1.7	3	2
+4	50					image\effect\sfx\其他\笔b_水.3e	1.4	3	2
+4	52					image\effect\sfx\其他\棍a_水.3e	2	3	3
+4	53					image\effect\sfx\其他\棍a_水.3e	1.2	2	2
+4	54					image\effect\sfx\其他\棍a_水.3e	1.2	2.5	2.5
+4	55					image\effect\sfx\其他\棍a_水.3e	1.2	2.5	2.5
+4	56					image\effect\sfx\其他\棍a_水.3e	1.2	3	3
+4	57					image\effect\sfx\其他\棍a_水.3e	1.4	3	3
+4	58					image\effect\sfx\其他\棍a_水.3e	1.4	3	3
+4	59					image\effect\sfx\其他\棍a_水.3e	1.3	3	3
+4	60					image\effect\sfx\其他\棍a_水.3e	1.3	3	3
+4	61					image\effect\sfx\其他\棍a_水.3e	1.4	3	3
+4	62					image\effect\sfx\其他\棍a_水.3e	1.4	3	3
+4	63					image\effect\sfx\其他\棍b_水.3e	1.4	3	3
+4	64					image\effect\sfx\其他\棍b_水.3e	1.4	3	3
+4	65					image\effect\sfx\其他\棍a_水.3e	1.4	3	3
+4	66					image\effect\sfx\其他\棍a_水.3e	1.6	3	3
+4	67					image\effect\sfx\其他\棍a_水.3e	1.6	3	3
+4	70					image\effect\sfx\其他\杖a_水.3e	1	1	1
+4	71					image\effect\sfx\其他\杖a_水.3e	1	1	1
+4	72					image\effect\sfx\其他\杖a_水.3e	1.1	1	1
+4	73					image\effect\sfx\其他\杖a_水.3e	1	1	1
+4	74					image\effect\sfx\其他\杖a_水.3e	1	1	1
+4	75					image\effect\sfx\其他\杖a_水.3e	1	1	1
+4	76					image\effect\sfx\其他\杖a_水.3e	1.05	1	1
+4	77					image\effect\sfx\其他\杖a_水.3e	1.15	1	1
+4	78					image\effect\sfx\其他\杖a_水.3e	1	1	1
+4	79					image\effect\sfx\其他\杖a_水.3e	1.1	1	1
+4	80					image\effect\sfx\其他\杖a_水.3e	1.2	1	1
+4	81					image\effect\sfx\其他\杖a_水.3e	1.2	1	1
+4	82					image\effect\sfx\其他\杖a_水.3e	1.2	1	1
+4	83					image\effect\sfx\其他\杖a_水.3e	1.2	1	1
+4	86	image\effect\sfx\其他\琴a_水.3e	0.6	0.3	0.35				
+4	87	image\effect\sfx\其他\琴a_水.3e	0.65	0.4	0.55				
+4	88	image\effect\sfx\其他\琴a_水.3e	0.65	0.4	0.55				
+4	89	image\effect\sfx\其他\琴a_水.3e	0.5	0.3	0.55				
+4	90	image\effect\sfx\其他\琴a_水.3e	0.5	0.3	0.55				
+4	91	image\effect\sfx\其他\琴a_水.3e	0.65	0.3	0.55				
+4	92	image\effect\sfx\其他\琴a_水.3e	0.65	0.3	0.35				
+4	93	image\effect\sfx\其他\琴a_水.3e	0.7	0.3	0.55				
+4	94	image\effect\sfx\其他\琴a_水.3e	0.7	0.3	0.55				
+4	95	image\effect\sfx\其他\琴a_水.3e	0.7	0.35	0.35				
+4	96	image\effect\sfx\其他\琴a_水.3e	0.65	0.5	0.65				
+4	97	image\effect\sfx\其他\琴a_水.3e	0.7	0.3	0.5				
+4	98	image\effect\sfx\其他\琴a_水.3e	0.65	0.5	0.55				
+4	99	image\effect\sfx\其他\琴a_水.3e	0.8	0.7	0.7				
+4	102					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.1	1	1
+4	103					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.1	1	1
+4	104					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.1	1	1
+4	105					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.1	1	1
+4	106					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.1	1	1
+4	107					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.2	1	1
+4	108					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.2	1	1
+4	109					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.3	1	1
+4	110					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.3	1	1
+4	111					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.3	1	1
+4	112					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.4	1	1
+4	113					image\effect\sfx\其他\枪b_雾气_蓝.3e	1.2	1	1
+4	114					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.2	1	1
+4	115					image\effect\sfx\其他\枪a_雾气_蓝.3e	1.4	1	1
+4	118	image\effect\sfx\其他\弓a_雾气_蓝.3e	1	1	1				
+4	119	image\effect\sfx\其他\弓a_雾气_蓝.3e	1.2	1	1				
+4	120	image\effect\sfx\其他\弓a_雾气_蓝.3e	1.2	1	1				
+4	121	image\effect\sfx\其他\弓a_雾气_蓝.3e	1.2	1	1.2				
+4	122	image\effect\sfx\其他\弓a_雾气_蓝.3e	1.2	1	1.2				
+4	123	image\effect\sfx\其他\弓b_雾气_蓝.3e	0.7	1	1.3				
+4	124	image\effect\sfx\其他\弓b_雾气_蓝.3e	0.8	1	1.3				
+4	125	image\effect\sfx\其他\弓b_雾气_蓝.3e	0.6	1	1.3				
+4	126	image\effect\sfx\其他\弓b_雾气_蓝.3e	0.7	1	1.3				
+4	127	image\effect\sfx\其他\弓b_雾气_蓝.3e	0.7	1	1.3				
+4	128	image\effect\sfx\其他\弓b_雾气_蓝.3e	0.8	1	1.2				
+4	129	image\effect\sfx\其他\弓b_雾气_蓝.3e	0.8	1	1.2				
+4	130	image\effect\sfx\其他\弓b_雾气_蓝.3e	1	1	1.2				
+4	131	image\effect\sfx\其他\弓b_雾气_蓝.3e	1	1	1.2				
+4	134	image\effect\sfx\其他\双刀a_雾气_蓝.3e	1.4	1	1	image\effect\sfx\其他\双刀a_雾气_蓝.3e	1.4	1	1
+4	135	image\effect\sfx\其他\双刀a_雾气_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀a_雾气_蓝.3e	1.6	1	1
+4	136	image\effect\sfx\其他\双刀d_雾气_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀d_雾气_蓝.3e	1.6	1	1
+4	137	image\effect\sfx\其他\双刀d_雾气_蓝.3e	1.7	1	1	image\effect\sfx\其他\双刀d_雾气_蓝.3e	1.7	1	1
+4	138	image\effect\sfx\其他\双刀b_雾气_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀b_雾气_蓝.3e	1.6	1	1
+4	139	image\effect\sfx\其他\双刀b_雾气_蓝.3e	2	1	1.5	image\effect\sfx\其他\双刀b_雾气_蓝.3e	2	1	1.5
+4	140	image\effect\sfx\其他\双刀c_雾气_蓝.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_蓝.3e	2	1.5	1.5
+4	141	image\effect\sfx\其他\双刀c_雾气_蓝.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_蓝.3e	2	1.5	1.5
+4	142	image\effect\sfx\其他\双刀a_雾气_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_蓝.3e	3	1	1
+4	143	image\effect\sfx\其他\双刀a_雾气_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_蓝.3e	3	1	1
+4	144	image\effect\sfx\其他\双刀a_雾气_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_蓝.3e	2	1	1
+4	145	image\effect\sfx\其他\双刀e_雾气_蓝.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_雾气_蓝.3e	2	0.5	0.5
+4	146	image\effect\sfx\其他\双刀e_雾气_蓝.3e	2.3	1	1	image\effect\sfx\其他\双刀e_雾气_蓝.3e	2.3	1	1
+4	147	image\effect\sfx\其他\双刀e_雾气_蓝.3e	2	2	2	image\effect\sfx\其他\双刀e_雾气_蓝.3e	2	2	2
+4	150	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	151	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	152	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	153	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	154	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	155	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	156	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	157	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	158	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	159	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	160	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	161	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	162	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+4	163	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_蓝.3e	1	1	1
+5	0	image\effect\sfx\其他\空手a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_绿.3e	1	1	1
+5	1	image\effect\sfx\其他\空手a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_绿.3e	1	1	1
+5	4					image\effect\sfx\其他\刀a_木.3e	0.9	0.1	1
+5	5					image\effect\sfx\其他\刀a_木.3e	1.1	0.1	1.5
+5	6					image\effect\sfx\其他\刀a_木.3e	1.2	0.1	1.5
+5	7					image\effect\sfx\其他\刀a_木.3e	1.2	0.1	1.5
+5	8					image\effect\sfx\其他\刀a_木.3e	1.2	0.1	1.5
+5	9					image\effect\sfx\其他\刀a_木.3e	1	0.1	1
+5	10					image\effect\sfx\其他\刀b_木.3e	0.95	0.6	0.7
+5	11					image\effect\sfx\其他\刀b_木.3e	1.05	0.6	1
+5	12					image\effect\sfx\其他\刀b_木.3e	0.9	0.5	0.9
+5	13					image\effect\sfx\其他\刀b_木.3e	1	0.6	0.9
+5	14					image\effect\sfx\其他\刀c_木.3e	1.1	1	1
+5	15					image\effect\sfx\其他\刀c_木.3e	1.1	1	1
+5	16					image\effect\sfx\其他\刀c_木.3e	1	1	1
+5	17					image\effect\sfx\其他\刀d_雾气_绿.3e	0.9	1	1
+5	19					image\effect\sfx\其他\剑a_木.3e	1	0.2	0.6
+5	20					image\effect\sfx\其他\剑a_木.3e	1	0.3	1
+5	21					image\effect\sfx\其他\剑a_木.3e	1.1	0.3	1
+5	22					image\effect\sfx\其他\剑a_木.3e	0.95	0.4	1.2
+5	23					image\effect\sfx\其他\剑a_木.3e	1	0.3	1
+5	24					image\effect\sfx\其他\剑a_木.3e	0.9	0.3	1
+5	25					image\effect\sfx\其他\剑b_木.3e	0.75	0.4	1
+5	26					image\effect\sfx\其他\剑b_木.3e	1.1	0.6	1.2
+5	27					image\effect\sfx\其他\剑b_木.3e	1.1	0.4	1.2
+5	28					image\effect\sfx\其他\剑b_木.3e	1.1	0.5	1.1
+5	29					image\effect\sfx\其他\剑c_木.3e	0.9	0.3	1
+5	30					image\effect\sfx\其他\剑c_木.3e	0.9	0.3	0.8
+5	31					image\effect\sfx\其他\剑c_木.3e	0.9	0.3	1.2
+5	32					image\effect\sfx\其他\剑c_木.3e	0.85	0.4	1
+5	33					image\effect\sfx\其他\剑c_木.3e	0.9	0.3	0.9
+5	34					image\effect\sfx\其他\剑c_木.3e	0.9	0.3	0.9
+5	37					image\effect\sfx\其他\笔b_木.3e	1.6	1.6	1.6
+5	38					image\effect\sfx\其他\笔b_木.3e	1.6	1.6	1.6
+5	39					image\effect\sfx\其他\笔b_木.3e	1.2	1.5	1.5
+5	40					image\effect\sfx\其他\笔a_木.3e	1.55	1.6	1.6
+5	41					image\effect\sfx\其他\笔a_木.3e	1.55	1.6	1.6
+5	42					image\effect\sfx\其他\笔b_木.3e	1.5	2	2
+5	43					image\effect\sfx\其他\笔b_木.3e	1.25	1.6	2
+5	44					image\effect\sfx\其他\笔b_木.3e	0.9	1.5	1.5
+5	45					image\effect\sfx\其他\笔b_木.3e	1.1	1.5	1.5
+5	46					image\effect\sfx\其他\笔b_木.3e	1.4	1.5	1.5
+5	47					image\effect\sfx\其他\笔b_木.3e	1.3	1.5	1.5
+5	48					image\effect\sfx\其他\笔b_木.3e	1.3	2	2
+5	49					image\effect\sfx\其他\笔b_木.3e	1.7	3	2
+5	50					image\effect\sfx\其他\笔b_木.3e	1.4	3	2
+5	52					image\effect\sfx\其他\棍a_木.3e	2	3	3
+5	53					image\effect\sfx\其他\棍a_木.3e	1.2	2	2
+5	54					image\effect\sfx\其他\棍a_木.3e	1.2	2.5	2.5
+5	55					image\effect\sfx\其他\棍a_木.3e	1.2	2.5	2.5
+5	56					image\effect\sfx\其他\棍a_木.3e	1.2	3	3
+5	57					image\effect\sfx\其他\棍a_木.3e	1.4	3	3
+5	58					image\effect\sfx\其他\棍a_木.3e	1.4	3	3
+5	59					image\effect\sfx\其他\棍a_木.3e	1.3	3	3
+5	60					image\effect\sfx\其他\棍a_木.3e	1.3	3	3
+5	61					image\effect\sfx\其他\棍a_木.3e	1.4	3	3
+5	62					image\effect\sfx\其他\棍a_木.3e	1.4	3	3
+5	63					image\effect\sfx\其他\棍b_木.3e	1.4	3	3
+5	64					image\effect\sfx\其他\棍b_木.3e	1.4	3	3
+5	65					image\effect\sfx\其他\棍a_木.3e	1.4	3	3
+5	66					image\effect\sfx\其他\棍a_木.3e	1.6	3	3
+5	67					image\effect\sfx\其他\棍a_木.3e	1.6	3	3
+5	70					image\effect\sfx\其他\杖a_木.3e	1	1	1
+5	71					image\effect\sfx\其他\杖a_木.3e	1	1	1
+5	72					image\effect\sfx\其他\杖a_木.3e	1.1	1	1
+5	73					image\effect\sfx\其他\杖a_木.3e	1	1	1
+5	74					image\effect\sfx\其他\杖a_木.3e	1	1	1
+5	75					image\effect\sfx\其他\杖a_木.3e	1	1	1
+5	76					image\effect\sfx\其他\杖a_木.3e	1.05	1	1
+5	77					image\effect\sfx\其他\杖a_木.3e	1.15	1	1
+5	78					image\effect\sfx\其他\杖a_木.3e	1	1	1
+5	79					image\effect\sfx\其他\杖a_木.3e	1.1	1	1
+5	80					image\effect\sfx\其他\杖a_木.3e	1.2	1	1
+5	81					image\effect\sfx\其他\杖a_木.3e	1.2	1	1
+5	82					image\effect\sfx\其他\杖a_木.3e	1.2	1	1
+5	83					image\effect\sfx\其他\杖a_木.3e	1.2	1	1
+5	86	image\effect\sfx\其他\琴a_木.3e	0.6	0.3	0.35				
+5	87	image\effect\sfx\其他\琴a_木.3e	0.65	0.4	0.55				
+5	88	image\effect\sfx\其他\琴a_木.3e	0.65	0.4	0.55				
+5	89	image\effect\sfx\其他\琴a_木.3e	0.5	0.3	0.55				
+5	90	image\effect\sfx\其他\琴a_木.3e	0.5	0.3	0.55				
+5	91	image\effect\sfx\其他\琴a_木.3e	0.65	0.3	0.55				
+5	92	image\effect\sfx\其他\琴a_木.3e	0.65	0.3	0.35				
+5	93	image\effect\sfx\其他\琴a_木.3e	0.7	0.3	0.55				
+5	94	image\effect\sfx\其他\琴a_木.3e	0.7	0.3	0.55				
+5	95	image\effect\sfx\其他\琴a_木.3e	0.7	0.35	0.35				
+5	96	image\effect\sfx\其他\琴a_木.3e	0.65	0.5	0.65				
+5	97	image\effect\sfx\其他\琴a_木.3e	0.7	0.3	0.5				
+5	98	image\effect\sfx\其他\琴a_木.3e	0.65	0.5	0.55				
+5	99	image\effect\sfx\其他\琴a_木.3e	0.8	0.7	0.7				
+5	102					image\effect\sfx\其他\枪a_雾气_绿.3e	1.1	1	1
+5	103					image\effect\sfx\其他\枪a_雾气_绿.3e	1.1	1	1
+5	104					image\effect\sfx\其他\枪a_雾气_绿.3e	1.1	1	1
+5	105					image\effect\sfx\其他\枪a_雾气_绿.3e	1.1	1	1
+5	106					image\effect\sfx\其他\枪a_雾气_绿.3e	1.1	1	1
+5	107					image\effect\sfx\其他\枪a_雾气_绿.3e	1.2	1	1
+5	108					image\effect\sfx\其他\枪a_雾气_绿.3e	1.2	1	1
+5	109					image\effect\sfx\其他\枪a_雾气_绿.3e	1.3	1	1
+5	110					image\effect\sfx\其他\枪a_雾气_绿.3e	1.3	1	1
+5	111					image\effect\sfx\其他\枪a_雾气_绿.3e	1.3	1	1
+5	112					image\effect\sfx\其他\枪a_雾气_绿.3e	1.4	1	1
+5	113					image\effect\sfx\其他\枪b_雾气_绿.3e	1.2	1	1
+5	114					image\effect\sfx\其他\枪a_雾气_绿.3e	1.2	1	1
+5	115					image\effect\sfx\其他\枪a_雾气_绿.3e	1.4	1	1
+5	118	image\effect\sfx\其他\弓a_雾气_绿.3e	1	1	1				
+5	119	image\effect\sfx\其他\弓a_雾气_绿.3e	1.2	1	1				
+5	120	image\effect\sfx\其他\弓a_雾气_绿.3e	1.2	1	1				
+5	121	image\effect\sfx\其他\弓a_雾气_绿.3e	1.2	1	1.2				
+5	122	image\effect\sfx\其他\弓a_雾气_绿.3e	1.2	1	1.2				
+5	123	image\effect\sfx\其他\弓b_雾气_绿.3e	0.7	1	1.3				
+5	124	image\effect\sfx\其他\弓b_雾气_绿.3e	0.8	1	1.3				
+5	125	image\effect\sfx\其他\弓b_雾气_绿.3e	0.6	1	1.3				
+5	126	image\effect\sfx\其他\弓b_雾气_绿.3e	0.7	1	1.3				
+5	127	image\effect\sfx\其他\弓b_雾气_绿.3e	0.7	1	1.3				
+5	128	image\effect\sfx\其他\弓b_雾气_绿.3e	0.8	1	1.2				
+5	129	image\effect\sfx\其他\弓b_雾气_绿.3e	0.8	1	1.2				
+5	130	image\effect\sfx\其他\弓b_雾气_绿.3e	1	1	1.2				
+5	131	image\effect\sfx\其他\弓b_雾气_绿.3e	1	1	1.2				
+5	134	image\effect\sfx\其他\双刀a_雾气_绿.3e	1.4	1	1	image\effect\sfx\其他\双刀a_雾气_绿.3e	1.4	1	1
+5	135	image\effect\sfx\其他\双刀a_雾气_绿.3e	1.6	1	1	image\effect\sfx\其他\双刀a_雾气_绿.3e	1.6	1	1
+5	136	image\effect\sfx\其他\双刀d_雾气_绿.3e	1.6	1	1	image\effect\sfx\其他\双刀d_雾气_绿.3e	1.6	1	1
+5	137	image\effect\sfx\其他\双刀d_雾气_绿.3e	1.7	1	1	image\effect\sfx\其他\双刀d_雾气_绿.3e	1.7	1	1
+5	138	image\effect\sfx\其他\双刀b_雾气_绿.3e	1.6	1	1	image\effect\sfx\其他\双刀b_雾气_绿.3e	1.6	1	1
+5	139	image\effect\sfx\其他\双刀b_雾气_绿.3e	2	1	1.5	image\effect\sfx\其他\双刀b_雾气_绿.3e	2	1	1.5
+5	140	image\effect\sfx\其他\双刀c_雾气_绿.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_绿.3e	2	1.5	1.5
+5	141	image\effect\sfx\其他\双刀c_雾气_绿.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_绿.3e	2	1.5	1.5
+5	142	image\effect\sfx\其他\双刀a_雾气_绿.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_绿.3e	3	1	1
+5	143	image\effect\sfx\其他\双刀a_雾气_绿.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_绿.3e	3	1	1
+5	144	image\effect\sfx\其他\双刀a_雾气_绿.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_绿.3e	2	1	1
+5	145	image\effect\sfx\其他\双刀e_雾气_绿.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_雾气_绿.3e	2	0.5	0.5
+5	146	image\effect\sfx\其他\双刀e_雾气_绿.3e	2.3	1	1	image\effect\sfx\其他\双刀e_雾气_绿.3e	2.3	1	1
+5	147	image\effect\sfx\其他\双刀e_雾气_绿.3e	2	2	2	image\effect\sfx\其他\双刀e_雾气_绿.3e	2	2	2
+5	150	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	151	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	152	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	153	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	154	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	155	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	156	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	157	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	158	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	159	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	160	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	161	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	162	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+5	163	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_绿.3e	1	1	1
+6	0	image\effect\sfx\其他\空手a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_棕.3e	1	1	1
+6	1	image\effect\sfx\其他\空手a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_棕.3e	1	1	1
+6	4					image\effect\sfx\其他\刀a_土.3e	0.9	0.1	1
+6	5					image\effect\sfx\其他\刀a_土.3e	1.1	0.1	1.5
+6	6					image\effect\sfx\其他\刀a_土.3e	1.2	0.1	1.5
+6	7					image\effect\sfx\其他\刀a_土.3e	1.2	0.1	1.5
+6	8					image\effect\sfx\其他\刀a_土.3e	1.2	0.1	1.5
+6	9					image\effect\sfx\其他\刀a_土.3e	1	0.1	1
+6	10					image\effect\sfx\其他\刀b_土.3e	0.95	0.6	0.7
+6	11					image\effect\sfx\其他\刀b_土.3e	1.05	0.6	1
+6	12					image\effect\sfx\其他\刀b_土.3e	0.9	0.5	0.9
+6	13					image\effect\sfx\其他\刀b_土.3e	1	0.6	0.9
+6	14					image\effect\sfx\其他\刀c_土.3e	1.1	1	1
+6	15					image\effect\sfx\其他\刀c_土.3e	1.1	1	1
+6	16					image\effect\sfx\其他\刀c_土.3e	1	1	1
+6	17					image\effect\sfx\其他\刀d_雾气_棕.3e	0.9	1	1
+6	19					image\effect\sfx\其他\剑a_土.3e	1	0.2	0.6
+6	20					image\effect\sfx\其他\剑a_土.3e	1	0.3	1
+6	21					image\effect\sfx\其他\剑a_土.3e	1.1	0.3	1
+6	22					image\effect\sfx\其他\剑a_土.3e	0.95	0.4	1.2
+6	23					image\effect\sfx\其他\剑a_土.3e	1	0.3	1
+6	24					image\effect\sfx\其他\剑a_土.3e	0.9	0.3	1
+6	25					image\effect\sfx\其他\剑b_土.3e	0.75	0.4	1
+6	26					image\effect\sfx\其他\剑b_土.3e	1.1	0.6	1.2
+6	27					image\effect\sfx\其他\剑b_土.3e	1.1	0.4	1.2
+6	28					image\effect\sfx\其他\剑b_土.3e	1.1	0.5	1.1
+6	29					image\effect\sfx\其他\剑c_土.3e	0.9	0.3	1
+6	30					image\effect\sfx\其他\剑c_土.3e	0.9	0.3	0.8
+6	31					image\effect\sfx\其他\剑c_土.3e	0.9	0.3	1.2
+6	32					image\effect\sfx\其他\剑c_土.3e	0.85	0.4	1
+6	33					image\effect\sfx\其他\剑c_土.3e	0.9	0.3	0.9
+6	34					image\effect\sfx\其他\剑c_土.3e	0.9	0.3	0.9
+6	37					image\effect\sfx\其他\笔b_土.3e	1.6	1.6	1.6
+6	38					image\effect\sfx\其他\笔b_土.3e	1.6	1.6	1.6
+6	39					image\effect\sfx\其他\笔b_土.3e	1.2	1.5	1.5
+6	40					image\effect\sfx\其他\笔a_土.3e	1.55	1.6	1.6
+6	41					image\effect\sfx\其他\笔a_土.3e	1.55	1.6	1.6
+6	42					image\effect\sfx\其他\笔b_土.3e	1.5	2	2
+6	43					image\effect\sfx\其他\笔b_土.3e	1.25	1.6	2
+6	44					image\effect\sfx\其他\笔b_土.3e	0.9	1.5	1.5
+6	45					image\effect\sfx\其他\笔b_土.3e	1.1	1.5	1.5
+6	46					image\effect\sfx\其他\笔b_土.3e	1.4	1.5	1.5
+6	47					image\effect\sfx\其他\笔b_土.3e	1.3	1.5	1.5
+6	48					image\effect\sfx\其他\笔b_土.3e	1.3	2	2
+6	49					image\effect\sfx\其他\笔b_土.3e	1.7	3	2
+6	50					image\effect\sfx\其他\笔b_土.3e	1.4	3	2
+6	52					image\effect\sfx\其他\棍a_土.3e	2	3	3
+6	53					image\effect\sfx\其他\棍a_土.3e	1.2	2	2
+6	54					image\effect\sfx\其他\棍a_土.3e	1.2	2.5	2.5
+6	55					image\effect\sfx\其他\棍a_土.3e	1.2	2.5	2.5
+6	56					image\effect\sfx\其他\棍a_土.3e	1.2	3	3
+6	57					image\effect\sfx\其他\棍a_土.3e	1.4	3	3
+6	58					image\effect\sfx\其他\棍a_土.3e	1.4	3	3
+6	59					image\effect\sfx\其他\棍a_土.3e	1.3	3	3
+6	60					image\effect\sfx\其他\棍a_土.3e	1.3	3	3
+6	61					image\effect\sfx\其他\棍a_土.3e	1.4	3	3
+6	62					image\effect\sfx\其他\棍a_土.3e	1.4	3	3
+6	63					image\effect\sfx\其他\棍b_土.3e	1.4	3	3
+6	64					image\effect\sfx\其他\棍b_土.3e	1.4	3	3
+6	65					image\effect\sfx\其他\棍a_土.3e	1.4	3	3
+6	66					image\effect\sfx\其他\棍a_土.3e	1.6	3	3
+6	67					image\effect\sfx\其他\棍a_土.3e	1.6	3	3
+6	70					image\effect\sfx\其他\杖a_土.3e	1	1	1
+6	71					image\effect\sfx\其他\杖a_土.3e	1	1	1
+6	72					image\effect\sfx\其他\杖a_土.3e	1.1	1	1
+6	73					image\effect\sfx\其他\杖a_土.3e	1	1	1
+6	74					image\effect\sfx\其他\杖a_土.3e	1	1	1
+6	75					image\effect\sfx\其他\杖a_土.3e	1	1	1
+6	76					image\effect\sfx\其他\杖a_土.3e	1.05	1	1
+6	77					image\effect\sfx\其他\杖a_土.3e	1.15	1	1
+6	78					image\effect\sfx\其他\杖a_土.3e	1	1	1
+6	79					image\effect\sfx\其他\杖a_土.3e	1.1	1	1
+6	80					image\effect\sfx\其他\杖a_土.3e	1.2	1	1
+6	81					image\effect\sfx\其他\杖a_土.3e	1.2	1	1
+6	82					image\effect\sfx\其他\杖a_土.3e	1.2	1	1
+6	83					image\effect\sfx\其他\杖a_土.3e	1.2	1	1
+6	86	image\effect\sfx\其他\琴a_土.3e	0.6	0.3	0.35				
+6	87	image\effect\sfx\其他\琴a_土.3e	0.65	0.4	0.55				
+6	88	image\effect\sfx\其他\琴a_土.3e	0.65	0.4	0.55				
+6	89	image\effect\sfx\其他\琴a_土.3e	0.5	0.3	0.55				
+6	90	image\effect\sfx\其他\琴a_土.3e	0.5	0.3	0.55				
+6	91	image\effect\sfx\其他\琴a_土.3e	0.65	0.3	0.55				
+6	92	image\effect\sfx\其他\琴a_土.3e	0.65	0.3	0.35				
+6	93	image\effect\sfx\其他\琴a_土.3e	0.7	0.3	0.55				
+6	94	image\effect\sfx\其他\琴a_土.3e	0.7	0.3	0.55				
+6	95	image\effect\sfx\其他\琴a_土.3e	0.7	0.35	0.35				
+6	96	image\effect\sfx\其他\琴a_土.3e	0.65	0.5	0.65				
+6	97	image\effect\sfx\其他\琴a_土.3e	0.7	0.3	0.5				
+6	98	image\effect\sfx\其他\琴a_土.3e	0.65	0.5	0.55				
+6	99	image\effect\sfx\其他\琴a_土.3e	0.8	0.7	0.7				
+6	102					image\effect\sfx\其他\枪a_雾气_棕.3e	1.1	1	1
+6	103					image\effect\sfx\其他\枪a_雾气_棕.3e	1.1	1	1
+6	104					image\effect\sfx\其他\枪a_雾气_棕.3e	1.1	1	1
+6	105					image\effect\sfx\其他\枪a_雾气_棕.3e	1.1	1	1
+6	106					image\effect\sfx\其他\枪a_雾气_棕.3e	1.1	1	1
+6	107					image\effect\sfx\其他\枪a_雾气_棕.3e	1.2	1	1
+6	108					image\effect\sfx\其他\枪a_雾气_棕.3e	1.2	1	1
+6	109					image\effect\sfx\其他\枪a_雾气_棕.3e	1.3	1	1
+6	110					image\effect\sfx\其他\枪a_雾气_棕.3e	1.3	1	1
+6	111					image\effect\sfx\其他\枪a_雾气_棕.3e	1.3	1	1
+6	112					image\effect\sfx\其他\枪a_雾气_棕.3e	1.4	1	1
+6	113					image\effect\sfx\其他\枪b_雾气_棕.3e	1.2	1	1
+6	114					image\effect\sfx\其他\枪a_雾气_棕.3e	1.2	1	1
+6	115					image\effect\sfx\其他\枪a_雾气_棕.3e	1.4	1	1
+6	118	image\effect\sfx\其他\弓a_雾气_棕.3e	1	1	1				
+6	119	image\effect\sfx\其他\弓a_雾气_棕.3e	1.2	1	1				
+6	120	image\effect\sfx\其他\弓a_雾气_棕.3e	1.2	1	1				
+6	121	image\effect\sfx\其他\弓a_雾气_棕.3e	1.2	1	1.2				
+6	122	image\effect\sfx\其他\弓a_雾气_棕.3e	1.2	1	1.2				
+6	123	image\effect\sfx\其他\弓b_雾气_棕.3e	0.7	1	1.3				
+6	124	image\effect\sfx\其他\弓b_雾气_棕.3e	0.8	1	1.3				
+6	125	image\effect\sfx\其他\弓b_雾气_棕.3e	0.6	1	1.3				
+6	126	image\effect\sfx\其他\弓b_雾气_棕.3e	0.7	1	1.3				
+6	127	image\effect\sfx\其他\弓b_雾气_棕.3e	0.7	1	1.3				
+6	128	image\effect\sfx\其他\弓b_雾气_棕.3e	0.8	1	1.2				
+6	129	image\effect\sfx\其他\弓b_雾气_棕.3e	0.8	1	1.2				
+6	130	image\effect\sfx\其他\弓b_雾气_棕.3e	1	1	1.2				
+6	131	image\effect\sfx\其他\弓b_雾气_棕.3e	1	1	1.2				
+6	134	image\effect\sfx\其他\双刀a_雾气_棕.3e	1.4	1	1	image\effect\sfx\其他\双刀a_雾气_棕.3e	1.4	1	1
+6	135	image\effect\sfx\其他\双刀a_雾气_棕.3e	1.6	1	1	image\effect\sfx\其他\双刀a_雾气_棕.3e	1.6	1	1
+6	136	image\effect\sfx\其他\双刀d_雾气_棕.3e	1.6	1	1	image\effect\sfx\其他\双刀d_雾气_棕.3e	1.6	1	1
+6	137	image\effect\sfx\其他\双刀d_雾气_棕.3e	1.7	1	1	image\effect\sfx\其他\双刀d_雾气_棕.3e	1.7	1	1
+6	138	image\effect\sfx\其他\双刀b_雾气_棕.3e	1.6	1	1	image\effect\sfx\其他\双刀b_雾气_棕.3e	1.6	1	1
+6	139	image\effect\sfx\其他\双刀b_雾气_棕.3e	2	1	1.5	image\effect\sfx\其他\双刀b_雾气_棕.3e	2	1	1.5
+6	140	image\effect\sfx\其他\双刀c_雾气_棕.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_棕.3e	2	1.5	1.5
+6	141	image\effect\sfx\其他\双刀c_雾气_棕.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_棕.3e	2	1.5	1.5
+6	142	image\effect\sfx\其他\双刀a_雾气_棕.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_棕.3e	3	1	1
+6	143	image\effect\sfx\其他\双刀a_雾气_棕.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_棕.3e	3	1	1
+6	144	image\effect\sfx\其他\双刀a_雾气_棕.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_棕.3e	2	1	1
+6	145	image\effect\sfx\其他\双刀e_雾气_棕.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_雾气_棕.3e	2	0.5	0.5
+6	146	image\effect\sfx\其他\双刀e_雾气_棕.3e	2.3	1	1	image\effect\sfx\其他\双刀e_雾气_棕.3e	2.3	1	1
+6	147	image\effect\sfx\其他\双刀e_雾气_棕.3e	2	2	2	image\effect\sfx\其他\双刀e_雾气_棕.3e	2	2	2
+6	150	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	151	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	152	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	153	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	154	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	155	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	156	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	157	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	158	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	159	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	160	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	161	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	162	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+6	163	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_棕.3e	1	1	1
+7	0	image\effect\sfx\其他\空手a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_紫+闪光1.3e	1	1	1
+7	1	image\effect\sfx\其他\空手a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_紫+闪光1.3e	1	1	1
+7	4					image\effect\sfx\其他\刀a_强化5.3e	0.9	0.1	1
+7	5					image\effect\sfx\其他\刀a_强化5.3e	1.1	0.1	1.5
+7	6					image\effect\sfx\其他\刀a_强化5.3e	1.2	0.1	1.5
+7	7					image\effect\sfx\其他\刀a_强化5.3e	1.2	0.1	1.5
+7	8					image\effect\sfx\其他\刀a_强化5.3e	1.2	0.1	1.5
+7	9					image\effect\sfx\其他\刀a_强化5.3e	1	0.1	1
+7	10					image\effect\sfx\其他\刀b_强化5.3e	0.95	0.6	0.7
+7	11					image\effect\sfx\其他\刀b_强化5.3e	1.05	0.6	1
+7	12					image\effect\sfx\其他\刀b_强化5.3e	0.9	0.5	0.9
+7	13					image\effect\sfx\其他\刀b_强化5.3e	1	0.6	0.9
+7	14					image\effect\sfx\其他\刀c_强化5.3e	1.1	1	1
+7	15					image\effect\sfx\其他\刀c_强化5.3e	1.1	1	1
+7	16					image\effect\sfx\其他\刀c_强化5.3e	1	1	1
+7	17					image\effect\sfx\其他\刀d_雾气_紫+闪光1.3e	0.9	1	1
+7	19					image\effect\sfx\其他\剑a_强化5.3e	1	0.2	0.6
+7	20					image\effect\sfx\其他\剑a_强化5.3e	1	0.3	1
+7	21					image\effect\sfx\其他\剑a_强化5.3e	1.1	0.3	1
+7	22					image\effect\sfx\其他\剑a_强化5.3e	0.95	0.4	1.2
+7	23					image\effect\sfx\其他\剑a_强化5.3e	1	0.3	1
+7	24					image\effect\sfx\其他\剑a_强化5.3e	0.9	0.3	1
+7	25					image\effect\sfx\其他\剑b_强化5.3e	0.75	0.4	1
+7	26					image\effect\sfx\其他\剑b_强化5.3e	1.1	0.6	1.2
+7	27					image\effect\sfx\其他\剑b_强化5.3e	1.1	0.4	1.2
+7	28					image\effect\sfx\其他\剑b_强化5.3e	1.1	0.5	1.1
+7	29					image\effect\sfx\其他\剑c_强化5.3e	0.9	0.3	1
+7	30					image\effect\sfx\其他\剑c_强化5.3e	0.9	0.3	0.8
+7	31					image\effect\sfx\其他\剑c_强化5.3e	0.9	0.3	1.2
+7	32					image\effect\sfx\其他\剑c_强化5.3e	0.85	0.4	1
+7	33					image\effect\sfx\其他\剑c_强化5.3e	0.9	0.3	0.9
+7	34					image\effect\sfx\其他\剑c_强化5.3e	0.9	0.3	0.9
+7	37					image\effect\sfx\其他\笔b_强化5.3e	1.6	1.6	1.6
+7	38					image\effect\sfx\其他\笔b_强化5.3e	1.6	1.6	1.6
+7	39					image\effect\sfx\其他\笔b_强化5.3e	1.2	1.5	1.5
+7	40					image\effect\sfx\其他\笔a_强化5.3e	1.55	1.6	1.6
+7	41					image\effect\sfx\其他\笔a_强化5.3e	1.55	1.6	1.6
+7	42					image\effect\sfx\其他\笔b_强化5.3e	1.5	2	2
+7	43					image\effect\sfx\其他\笔b_强化5.3e	1.25	1.6	2
+7	44					image\effect\sfx\其他\笔b_强化5.3e	0.9	1.5	1.5
+7	45					image\effect\sfx\其他\笔b_强化5.3e	1.1	1.5	1.5
+7	46					image\effect\sfx\其他\笔b_强化5.3e	1.4	1.5	1.5
+7	47					image\effect\sfx\其他\笔b_强化5.3e	1.3	1.5	1.5
+7	48					image\effect\sfx\其他\笔b_强化5.3e	1.3	2	2
+7	49					image\effect\sfx\其他\笔b_强化5.3e	1.7	3	2
+7	50					image\effect\sfx\其他\笔b_强化5.3e	1.4	3	2
+7	52					image\effect\sfx\其他\棍a_强化5.3e	2	3	3
+7	53					image\effect\sfx\其他\棍a_强化5.3e	1.2	2	2
+7	54					image\effect\sfx\其他\棍a_强化5.3e	1.2	2.5	2.5
+7	55					image\effect\sfx\其他\棍a_强化5.3e	1.2	2.5	2.5
+7	56					image\effect\sfx\其他\棍a_强化5.3e	1.2	3	3
+7	57					image\effect\sfx\其他\棍a_强化5.3e	1.4	3	3
+7	58					image\effect\sfx\其他\棍a_强化5.3e	1.4	3	3
+7	59					image\effect\sfx\其他\棍a_强化5.3e	1.3	3	3
+7	60					image\effect\sfx\其他\棍a_强化5.3e	1.3	3	3
+7	61					image\effect\sfx\其他\棍a_强化5.3e	1.4	3	3
+7	62					image\effect\sfx\其他\棍a_强化5.3e	1.4	3	3
+7	63					image\effect\sfx\其他\棍b_强化5.3e	1.4	3	3
+7	64					image\effect\sfx\其他\棍b_强化5.3e	1.4	3	3
+7	65					image\effect\sfx\其他\棍a_强化5.3e	1	1	1
+7	66					image\effect\sfx\其他\棍a_强化5.3e	1	1	1
+7	67					image\effect\sfx\其他\棍a_强化5.3e	1	1	1
+7	70					image\effect\sfx\其他\杖a_强化5.3e	1	1	1
+7	71					image\effect\sfx\其他\杖a_强化5.3e	1	1	1
+7	72					image\effect\sfx\其他\杖a_强化5.3e	1.1	1	1
+7	73					image\effect\sfx\其他\杖a_强化5.3e	1	1	1
+7	74					image\effect\sfx\其他\杖a_强化5.3e	1	1	1
+7	75					image\effect\sfx\其他\杖a_强化5.3e	1	1	1
+7	76					image\effect\sfx\其他\杖a_强化5.3e	1.05	1	1
+7	77					image\effect\sfx\其他\杖a_强化5.3e	1.15	1	1
+7	78					image\effect\sfx\其他\杖a_强化5.3e	1	1	1
+7	79					image\effect\sfx\其他\杖a_强化5.3e	1.1	1	1
+7	80					image\effect\sfx\其他\杖a_强化5.3e	1.2	1	1
+7	81					image\effect\sfx\其他\杖a_强化5.3e	1.2	1	1
+7	82					image\effect\sfx\其他\杖a_强化5.3e	1.2	1	1
+7	83					image\effect\sfx\其他\杖a_强化5.3e	1.2	1	1
+7	86	image\effect\sfx\其他\琴a_强化5.3e	0.6	0.3	0.35				
+7	87	image\effect\sfx\其他\琴a_强化5.3e	0.65	0.4	0.55				
+7	88	image\effect\sfx\其他\琴a_强化5.3e	0.65	0.4	0.55				
+7	89	image\effect\sfx\其他\琴a_强化5.3e	0.5	0.3	0.55				
+7	90	image\effect\sfx\其他\琴a_强化5.3e	0.5	0.3	0.55				
+7	91	image\effect\sfx\其他\琴a_强化5.3e	0.65	0.3	0.55				
+7	92	image\effect\sfx\其他\琴a_强化5.3e	0.65	0.3	0.35				
+7	93	image\effect\sfx\其他\琴a_强化5.3e	0.7	0.3	0.55				
+7	94	image\effect\sfx\其他\琴a_强化5.3e	0.7	0.3	0.55				
+7	95	image\effect\sfx\其他\琴a_强化5.3e	0.7	0.35	0.35				
+7	96	image\effect\sfx\其他\琴a_强化5.3e	0.65	0.5	0.65				
+7	97	image\effect\sfx\其他\琴a_强化5.3e	0.7	0.3	0.5				
+7	98	image\effect\sfx\其他\琴a_强化5.3e	0.65	0.5	0.55				
+7	99	image\effect\sfx\其他\琴a_强化5.3e	0.8	0.7	0.7				
+7	102					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.1	1	1
+7	103					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.1	1	1
+7	104					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.1	1	1
+7	105					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.1	1	1
+7	106					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.1	1	1
+7	107					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.2	1	1
+7	108					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.2	1	1
+7	109					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.3	1	1
+7	110					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.3	1	1
+7	111					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.3	1	1
+7	112					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.4	1	1
+7	113					image\effect\sfx\其他\枪b_雾气_紫+闪光1.3e	1.2	1	1
+7	114					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.2	1	1
+7	115					image\effect\sfx\其他\枪a_雾气_紫+闪光1.3e	1.4	1	1
+7	118	image\effect\sfx\其他\弓a_雾气_紫+闪光1.3e	1	1	1				
+7	119	image\effect\sfx\其他\弓a_雾气_紫+闪光1.3e	1.2	1	1				
+7	120	image\effect\sfx\其他\弓a_雾气_紫+闪光1.3e	1.2	1	1				
+7	121	image\effect\sfx\其他\弓a_雾气_紫+闪光1.3e	1.2	1	1.2				
+7	122	image\effect\sfx\其他\弓a_雾气_紫+闪光1.3e	1.2	1	1.2				
+7	123	image\effect\sfx\其他\弓b_雾气_紫+闪光1.3e	0.7	1	1.3				
+7	124	image\effect\sfx\其他\弓b_雾气_紫+闪光1.3e	0.8	1	1.3				
+7	125	image\effect\sfx\其他\弓b_雾气_紫+闪光1.3e	0.6	1	1.3				
+7	126	image\effect\sfx\其他\弓b_雾气_紫+闪光1.3e	0.7	1	1.3				
+7	127	image\effect\sfx\其他\弓b_雾气_紫+闪光1.3e	0.7	1	1.3				
+7	128	image\effect\sfx\其他\弓b_雾气_紫+闪光1.3e	0.8	1	1.2				
+7	129	image\effect\sfx\其他\弓b_雾气_紫+闪光1.3e	0.8	1	1.2				
+7	130	image\effect\sfx\其他\弓b_雾气_紫+闪光1.3e	1	1	1.2				
+7	131	image\effect\sfx\其他\弓b_雾气_紫+闪光1.3e	1	1	1.2				
+7	134	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	1.4	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	1.4	1	1
+7	135	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	1.6	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	1.6	1	1
+7	136	image\effect\sfx\其他\双刀d_雾气_紫+闪光1.3e	1.6	1	1	image\effect\sfx\其他\双刀d_雾气_紫+闪光1.3e	1.6	1	1
+7	137	image\effect\sfx\其他\双刀d_雾气_紫+闪光1.3e	1.7	1	1	image\effect\sfx\其他\双刀d_雾气_紫+闪光1.3e	1.7	1	1
+7	138	image\effect\sfx\其他\双刀b_雾气_紫+闪光1.3e	1.6	1	1	image\effect\sfx\其他\双刀b_雾气_紫+闪光1.3e	1.6	1	1
+7	139	image\effect\sfx\其他\双刀b_雾气_紫+闪光1.3e	2	1	1.5	image\effect\sfx\其他\双刀b_雾气_紫+闪光1.3e	2	1	1.5
+7	140	image\effect\sfx\其他\双刀c_雾气_紫+闪光1.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_紫+闪光1.3e	2	1.5	1.5
+7	141	image\effect\sfx\其他\双刀c_雾气_紫+闪光1.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_紫+闪光1.3e	2	1.5	1.5
+7	142	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	3	1	1
+7	143	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	3	1	1
+7	144	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光1.3e	2	1	1
+7	145	image\effect\sfx\其他\双刀e_雾气_紫+闪光1.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_雾气_紫+闪光1.3e	2	0.5	0.5
+7	146	image\effect\sfx\其他\双刀e_雾气_紫+闪光1.3e	2.3	1	1	image\effect\sfx\其他\双刀e_雾气_紫+闪光1.3e	2.3	1	1
+7	147	image\effect\sfx\其他\双刀e_雾气_紫+闪光1.3e	2	2	2	image\effect\sfx\其他\双刀e_雾气_紫+闪光1.3e	2	2	2
+7	150	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	151	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	152	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	153	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	154	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	155	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	156	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	157	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	158	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	159	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	160	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	161	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	162	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+7	163	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光1.3e	1	1	1
+8	0	image\effect\sfx\其他\空手a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_紫+闪光2.3e	1	1	1
+8	1	image\effect\sfx\其他\空手a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_紫+闪光2.3e	1	1	1
+8	4					image\effect\sfx\其他\刀a_强化6.3e	0.9	0.1	1
+8	5					image\effect\sfx\其他\刀a_强化6.3e	1.1	0.1	1.5
+8	6					image\effect\sfx\其他\刀a_强化6.3e	1.2	0.1	1.5
+8	7					image\effect\sfx\其他\刀a_强化6.3e	1.2	0.1	1.5
+8	8					image\effect\sfx\其他\刀a_强化6.3e	1.2	0.1	1.5
+8	9					image\effect\sfx\其他\刀a_强化6.3e	1	0.1	1
+8	10					image\effect\sfx\其他\刀b_强化6.3e	0.95	0.6	0.7
+8	11					image\effect\sfx\其他\刀b_强化6.3e	1.05	0.6	1
+8	12					image\effect\sfx\其他\刀b_强化6.3e	0.9	0.5	0.9
+8	13					image\effect\sfx\其他\刀b_强化6.3e	1	0.6	0.9
+8	14					image\effect\sfx\其他\刀c_强化6.3e	1.1	1	1
+8	15					image\effect\sfx\其他\刀c_强化6.3e	1.1	1	1
+8	16					image\effect\sfx\其他\刀c_强化6.3e	1	1	1
+8	17					image\effect\sfx\其他\刀d_雾气_紫+闪光2.3e	0.9	1	1
+8	19					image\effect\sfx\其他\剑a_强化6.3e	1	0.2	0.6
+8	20					image\effect\sfx\其他\剑a_强化6.3e	1	0.3	1
+8	21					image\effect\sfx\其他\剑a_强化6.3e	1.1	0.3	1
+8	22					image\effect\sfx\其他\剑a_强化6.3e	0.95	0.4	1.2
+8	23					image\effect\sfx\其他\剑a_强化6.3e	1	0.3	1
+8	24					image\effect\sfx\其他\剑a_强化6.3e	0.9	0.3	1
+8	25					image\effect\sfx\其他\剑b_强化6.3e	0.75	0.4	1
+8	26					image\effect\sfx\其他\剑b_强化6.3e	1.1	0.6	1.2
+8	27					image\effect\sfx\其他\剑b_强化6.3e	1.1	0.4	1.2
+8	28					image\effect\sfx\其他\剑b_强化6.3e	1.1	0.5	1.1
+8	29					image\effect\sfx\其他\剑c_强化6.3e	0.9	0.3	1
+8	30					image\effect\sfx\其他\剑c_强化6.3e	0.9	0.3	0.8
+8	31					image\effect\sfx\其他\剑c_强化6.3e	0.9	0.3	1.2
+8	32					image\effect\sfx\其他\剑c_强化6.3e	0.85	0.4	1
+8	33					image\effect\sfx\其他\剑c_强化6.3e	0.9	0.3	0.9
+8	34					image\effect\sfx\其他\剑c_强化6.3e	0.9	0.3	0.9
+8	37					image\effect\sfx\其他\笔b_强化6.3e	1.6	1.6	1.6
+8	38					image\effect\sfx\其他\笔b_强化6.3e	1.6	1.6	1.6
+8	39					image\effect\sfx\其他\笔b_强化6.3e	1.2	1.5	1.5
+8	40					image\effect\sfx\其他\笔a_强化6.3e	1.55	1.6	1.6
+8	41					image\effect\sfx\其他\笔a_强化6.3e	1.55	1.6	1.6
+8	42					image\effect\sfx\其他\笔b_强化6.3e	1.5	2	2
+8	43					image\effect\sfx\其他\笔b_强化6.3e	1.25	1.6	2
+8	44					image\effect\sfx\其他\笔b_强化6.3e	0.9	1.5	1.5
+8	45					image\effect\sfx\其他\笔b_强化6.3e	1.1	1.5	1.5
+8	46					image\effect\sfx\其他\笔b_强化6.3e	1.4	1.5	1.5
+8	47					image\effect\sfx\其他\笔b_强化6.3e	1.3	1.5	1.5
+8	48					image\effect\sfx\其他\笔b_强化6.3e	1.3	2	2
+8	49					image\effect\sfx\其他\笔b_强化6.3e	1.7	3	2
+8	50					image\effect\sfx\其他\笔b_强化6.3e	1.4	3	2
+8	52					image\effect\sfx\其他\棍a_强化6.3e	2	3	3
+8	53					image\effect\sfx\其他\棍a_强化6.3e	1.2	2	2
+8	54					image\effect\sfx\其他\棍a_强化6.3e	1.2	2.5	2.5
+8	55					image\effect\sfx\其他\棍a_强化6.3e	1.2	2.5	2.5
+8	56					image\effect\sfx\其他\棍a_强化6.3e	1.2	3	3
+8	57					image\effect\sfx\其他\棍a_强化6.3e	1.4	3	3
+8	58					image\effect\sfx\其他\棍a_强化6.3e	1.4	3	3
+8	59					image\effect\sfx\其他\棍a_强化6.3e	1.3	3	3
+8	60					image\effect\sfx\其他\棍a_强化6.3e	1.3	3	3
+8	61					image\effect\sfx\其他\棍a_强化6.3e	1.4	3	3
+8	62					image\effect\sfx\其他\棍a_强化6.3e	1.4	3	3
+8	63					image\effect\sfx\其他\棍b_强化6.3e	1.4	3	3
+8	64					image\effect\sfx\其他\棍b_强化6.3e	1.4	3	3
+8	65					image\effect\sfx\其他\棍a_强化6.3e	1	1	1
+8	66					image\effect\sfx\其他\棍a_强化6.3e	1	1	1
+8	67					image\effect\sfx\其他\棍a_强化6.3e	1	1	1
+8	70					image\effect\sfx\其他\杖a_强化6.3e	1	1	1
+8	71					image\effect\sfx\其他\杖a_强化6.3e	1	1	1
+8	72					image\effect\sfx\其他\杖a_强化6.3e	1.1	1	1
+8	73					image\effect\sfx\其他\杖a_强化6.3e	1	1	1
+8	74					image\effect\sfx\其他\杖a_强化6.3e	1	1	1
+8	75					image\effect\sfx\其他\杖a_强化6.3e	1	1	1
+8	76					image\effect\sfx\其他\杖a_强化6.3e	1.05	1	1
+8	77					image\effect\sfx\其他\杖a_强化6.3e	1.15	1	1
+8	78					image\effect\sfx\其他\杖a_强化6.3e	1	1	1
+8	79					image\effect\sfx\其他\杖a_强化6.3e	1.1	1	1
+8	80					image\effect\sfx\其他\杖a_强化6.3e	1.2	1	1
+8	81					image\effect\sfx\其他\杖a_强化6.3e	1.2	1	1
+8	82					image\effect\sfx\其他\杖a_强化6.3e	1.2	1	1
+8	83					image\effect\sfx\其他\杖a_强化6.3e	1.2	1	1
+8	86	image\effect\sfx\其他\琴a_强化6.3e	0.6	0.3	0.35				
+8	87	image\effect\sfx\其他\琴a_强化6.3e	0.65	0.4	0.55				
+8	88	image\effect\sfx\其他\琴a_强化6.3e	0.65	0.4	0.55				
+8	89	image\effect\sfx\其他\琴a_强化6.3e	0.5	0.3	0.55				
+8	90	image\effect\sfx\其他\琴a_强化6.3e	0.5	0.3	0.55				
+8	91	image\effect\sfx\其他\琴a_强化6.3e	0.65	0.3	0.55				
+8	92	image\effect\sfx\其他\琴a_强化6.3e	0.65	0.3	0.35				
+8	93	image\effect\sfx\其他\琴a_强化6.3e	0.7	0.3	0.55				
+8	94	image\effect\sfx\其他\琴a_强化6.3e	0.7	0.3	0.55				
+8	95	image\effect\sfx\其他\琴a_强化6.3e	0.7	0.35	0.35				
+8	96	image\effect\sfx\其他\琴a_强化6.3e	0.65	0.5	0.65				
+8	97	image\effect\sfx\其他\琴a_强化6.3e	0.7	0.3	0.5				
+8	98	image\effect\sfx\其他\琴a_强化6.3e	0.65	0.5	0.55				
+8	99	image\effect\sfx\其他\琴a_强化6.3e	0.8	0.7	0.7				
+8	102					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.1	1	1
+8	103					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.1	1	1
+8	104					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.1	1	1
+8	105					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.1	1	1
+8	106					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.1	1	1
+8	107					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.2	1	1
+8	108					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.2	1	1
+8	109					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.3	1	1
+8	110					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.3	1	1
+8	111					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.3	1	1
+8	112					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.4	1	1
+8	113					image\effect\sfx\其他\枪b_雾气_紫+闪光2.3e	1.2	1	1
+8	114					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.2	1	1
+8	115					image\effect\sfx\其他\枪a_雾气_紫+闪光2.3e	1.4	1	1
+8	118	image\effect\sfx\其他\弓a_雾气_紫+闪光2.3e	1	1	1				
+8	119	image\effect\sfx\其他\弓a_雾气_紫+闪光2.3e	1.2	1	1				
+8	120	image\effect\sfx\其他\弓a_雾气_紫+闪光2.3e	1.2	1	1				
+8	121	image\effect\sfx\其他\弓a_雾气_紫+闪光2.3e	1.2	1	1.2				
+8	122	image\effect\sfx\其他\弓a_雾气_紫+闪光2.3e	1.2	1	1.2				
+8	123	image\effect\sfx\其他\弓b_雾气_紫+闪光2.3e	0.7	1	1.3				
+8	124	image\effect\sfx\其他\弓b_雾气_紫+闪光2.3e	0.8	1	1.3				
+8	125	image\effect\sfx\其他\弓b_雾气_紫+闪光2.3e	0.6	1	1.3				
+8	126	image\effect\sfx\其他\弓b_雾气_紫+闪光2.3e	0.7	1	1.3				
+8	127	image\effect\sfx\其他\弓b_雾气_紫+闪光2.3e	0.7	1	1.3				
+8	128	image\effect\sfx\其他\弓b_雾气_紫+闪光2.3e	0.8	1	1.2				
+8	129	image\effect\sfx\其他\弓b_雾气_紫+闪光2.3e	0.8	1	1.2				
+8	130	image\effect\sfx\其他\弓b_雾气_紫+闪光2.3e	1	1	1.2				
+8	131	image\effect\sfx\其他\弓b_雾气_紫+闪光2.3e	1	1	1.2				
+8	134	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	1.4	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	1.4	1	1
+8	135	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	1.6	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	1.6	1	1
+8	136	image\effect\sfx\其他\双刀d_雾气_紫+闪光2.3e	1.6	1	1	image\effect\sfx\其他\双刀d_雾气_紫+闪光2.3e	1.6	1	1
+8	137	image\effect\sfx\其他\双刀d_雾气_紫+闪光2.3e	1.7	1	1	image\effect\sfx\其他\双刀d_雾气_紫+闪光2.3e	1.7	1	1
+8	138	image\effect\sfx\其他\双刀b_雾气_紫+闪光2.3e	1.6	1	1	image\effect\sfx\其他\双刀b_雾气_紫+闪光2.3e	1.6	1	1
+8	139	image\effect\sfx\其他\双刀b_雾气_紫+闪光2.3e	2	1	1.5	image\effect\sfx\其他\双刀b_雾气_紫+闪光2.3e	2	1	1.5
+8	140	image\effect\sfx\其他\双刀c_雾气_紫+闪光2.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_紫+闪光2.3e	2	1.5	1.5
+8	141	image\effect\sfx\其他\双刀c_雾气_紫+闪光2.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_紫+闪光2.3e	2	1.5	1.5
+8	142	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	3	1	1
+8	143	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	3	1	1
+8	144	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光2.3e	2	1	1
+8	145	image\effect\sfx\其他\双刀e_雾气_紫+闪光2.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_雾气_紫+闪光2.3e	2	0.5	0.5
+8	146	image\effect\sfx\其他\双刀e_雾气_紫+闪光2.3e	2.3	1	1	image\effect\sfx\其他\双刀e_雾气_紫+闪光2.3e	2.3	1	1
+8	147	image\effect\sfx\其他\双刀e_雾气_紫+闪光2.3e	2	2	2	image\effect\sfx\其他\双刀e_雾气_紫+闪光2.3e	2	2	2
+8	150	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	151	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	152	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	153	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	154	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	155	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	156	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	157	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	158	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	159	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	160	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	161	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	162	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+8	163	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光2.3e	1	1	1
+9	0	image\effect\sfx\其他\空手a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_紫+闪光3.3e	1	1	1
+9	1	image\effect\sfx\其他\空手a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\空手a_雾气_紫+闪光3.3e	1	1	1
+9	4					image\effect\sfx\其他\刀a_强化7.3e	0.9	0.1	1
+9	5					image\effect\sfx\其他\刀a_强化7.3e	1.1	0.1	1.5
+9	6					image\effect\sfx\其他\刀a_强化7.3e	1.2	0.1	1.5
+9	7					image\effect\sfx\其他\刀a_强化7.3e	1.2	0.1	1.5
+9	8					image\effect\sfx\其他\刀a_强化7.3e	1.2	0.1	1.5
+9	9					image\effect\sfx\其他\刀a_强化7.3e	1	0.1	1
+9	10					image\effect\sfx\其他\刀b_强化7.3e	0.95	0.6	0.7
+9	11					image\effect\sfx\其他\刀b_强化7.3e	1.05	0.6	1
+9	12					image\effect\sfx\其他\刀b_强化7.3e	0.9	0.5	0.9
+9	13					image\effect\sfx\其他\刀b_强化7.3e	1	0.6	0.9
+9	14					image\effect\sfx\其他\刀c_强化7.3e	1.1	1	1
+9	15					image\effect\sfx\其他\刀c_强化7.3e	1.1	1	1
+9	16					image\effect\sfx\其他\刀c_强化7.3e	1	1	1
+9	17					image\effect\sfx\其他\刀d_雾气_紫+闪光3.3e	0.9	1	1
+9	19					image\effect\sfx\其他\剑a_强化7.3e	1	0.2	0.6
+9	20					image\effect\sfx\其他\剑a_强化7.3e	1	0.3	1
+9	21					image\effect\sfx\其他\剑a_强化7.3e	1.1	0.3	1
+9	22					image\effect\sfx\其他\剑a_强化7.3e	0.95	0.4	1.2
+9	23					image\effect\sfx\其他\剑a_强化7.3e	1	0.3	1
+9	24					image\effect\sfx\其他\剑a_强化7.3e	0.9	0.3	1
+9	25					image\effect\sfx\其他\剑b_强化7.3e	0.75	0.4	1
+9	26					image\effect\sfx\其他\剑b_强化7.3e	1.1	0.6	1.2
+9	27					image\effect\sfx\其他\剑b_强化7.3e	1.1	0.4	1.2
+9	28					image\effect\sfx\其他\剑b_强化7.3e	1.1	0.5	1.1
+9	29					image\effect\sfx\其他\剑c_强化7.3e	0.9	0.3	1
+9	30					image\effect\sfx\其他\剑c_强化7.3e	0.9	0.3	0.8
+9	31					image\effect\sfx\其他\剑c_强化7.3e	0.9	0.3	1.2
+9	32					image\effect\sfx\其他\剑c_强化7.3e	0.85	0.4	1
+9	33					image\effect\sfx\其他\剑c_强化7.3e	0.9	0.3	0.9
+9	34					image\effect\sfx\其他\剑c_强化7.3e	0.9	0.3	0.9
+9	37					image\effect\sfx\其他\笔b_强化7.3e	1.6	1.6	1.6
+9	38					image\effect\sfx\其他\笔b_强化7.3e	1.6	1.6	1.6
+9	39					image\effect\sfx\其他\笔b_强化7.3e	1.2	1.5	1.5
+9	40					image\effect\sfx\其他\笔a_强化7.3e	1.55	1.6	1.6
+9	41					image\effect\sfx\其他\笔a_强化7.3e	1.55	1.6	1.6
+9	42					image\effect\sfx\其他\笔b_强化7.3e	1.5	2	2
+9	43					image\effect\sfx\其他\笔b_强化7.3e	1.25	1.6	2
+9	44					image\effect\sfx\其他\笔b_强化7.3e	0.9	1.5	1.5
+9	45					image\effect\sfx\其他\笔b_强化7.3e	1.1	1.5	1.5
+9	46					image\effect\sfx\其他\笔b_强化7.3e	1.4	1.5	1.5
+9	47					image\effect\sfx\其他\笔b_强化7.3e	1.3	1.5	1.5
+9	48					image\effect\sfx\其他\笔b_强化7.3e	1.3	2	2
+9	49					image\effect\sfx\其他\笔b_强化7.3e	1.7	3	2
+9	50					image\effect\sfx\其他\笔b_强化7.3e	1.4	3	2
+9	52					image\effect\sfx\其他\棍a_强化7.3e	2	3	3
+9	53					image\effect\sfx\其他\棍a_强化7.3e	1.2	2	2
+9	54					image\effect\sfx\其他\棍a_强化7.3e	1.2	2.5	2.5
+9	55					image\effect\sfx\其他\棍a_强化7.3e	1.2	2.5	2.5
+9	56					image\effect\sfx\其他\棍a_强化7.3e	1.2	3	3
+9	57					image\effect\sfx\其他\棍a_强化7.3e	1.4	3	3
+9	58					image\effect\sfx\其他\棍a_强化7.3e	1.4	3	3
+9	59					image\effect\sfx\其他\棍a_强化7.3e	1.3	3	3
+9	60					image\effect\sfx\其他\棍a_强化7.3e	1.3	3	3
+9	61					image\effect\sfx\其他\棍a_强化7.3e	1.4	3	3
+9	62					image\effect\sfx\其他\棍a_强化7.3e	1.4	3	3
+9	63					image\effect\sfx\其他\棍b_强化7.3e	1.4	3	3
+9	64					image\effect\sfx\其他\棍b_强化7.3e	1.4	3	3
+9	65					image\effect\sfx\其他\棍a_强化7.3e	1	1	1
+9	66					image\effect\sfx\其他\棍a_强化7.3e	1	1	1
+9	67					image\effect\sfx\其他\棍a_强化7.3e	1	1	1
+9	70					image\effect\sfx\其他\杖a_强化7.3e	1	1	1
+9	71					image\effect\sfx\其他\杖a_强化7.3e	1	1	1
+9	72					image\effect\sfx\其他\杖a_强化7.3e	1.1	1	1
+9	73					image\effect\sfx\其他\杖a_强化7.3e	1	1	1
+9	74					image\effect\sfx\其他\杖a_强化7.3e	1	1	1
+9	75					image\effect\sfx\其他\杖a_强化7.3e	1	1	1
+9	76					image\effect\sfx\其他\杖a_强化7.3e	1.05	1	1
+9	77					image\effect\sfx\其他\杖a_强化7.3e	1.15	1	1
+9	78					image\effect\sfx\其他\杖a_强化7.3e	1	1	1
+9	79					image\effect\sfx\其他\杖a_强化7.3e	1.1	1	1
+9	80					image\effect\sfx\其他\杖a_强化7.3e	1.2	1	1
+9	81					image\effect\sfx\其他\杖a_强化7.3e	1.2	1	1
+9	82					image\effect\sfx\其他\杖a_强化7.3e	1.2	1	1
+9	83					image\effect\sfx\其他\杖a_强化7.3e	1.2	1	1
+9	86	image\effect\sfx\其他\琴a_强化7.3e	0.6	0.3	0.35				
+9	87	image\effect\sfx\其他\琴a_强化7.3e	0.65	0.4	0.55				
+9	88	image\effect\sfx\其他\琴a_强化7.3e	0.65	0.4	0.55				
+9	89	image\effect\sfx\其他\琴a_强化7.3e	0.5	0.3	0.55				
+9	90	image\effect\sfx\其他\琴a_强化7.3e	0.5	0.3	0.55				
+9	91	image\effect\sfx\其他\琴a_强化7.3e	0.65	0.3	0.55				
+9	92	image\effect\sfx\其他\琴a_强化7.3e	0.65	0.3	0.35				
+9	93	image\effect\sfx\其他\琴a_强化7.3e	0.7	0.3	0.55				
+9	94	image\effect\sfx\其他\琴a_强化7.3e	0.7	0.3	0.55				
+9	95	image\effect\sfx\其他\琴a_强化7.3e	0.7	0.35	0.35				
+9	96	image\effect\sfx\其他\琴a_强化7.3e	0.65	0.5	0.65				
+9	97	image\effect\sfx\其他\琴a_强化7.3e	0.7	0.3	0.5				
+9	98	image\effect\sfx\其他\琴a_强化7.3e	0.65	0.5	0.55				
+9	99	image\effect\sfx\其他\琴a_强化7.3e	0.8	0.7	0.7				
+9	102					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.1	1	1
+9	103					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.1	1	1
+9	104					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.1	1	1
+9	105					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.1	1	1
+9	106					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.1	1	1
+9	107					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.2	1	1
+9	108					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.2	1	1
+9	109					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.3	1	1
+9	110					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.3	1	1
+9	111					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.3	1	1
+9	112					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.4	1	1
+9	113					image\effect\sfx\其他\枪b_雾气_紫+闪光3.3e	1.2	1	1
+9	114					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.2	1	1
+9	115					image\effect\sfx\其他\枪a_雾气_紫+闪光3.3e	1.4	1	1
+9	118	image\effect\sfx\其他\弓a_雾气_紫+闪光3.3e	1	1	1				
+9	119	image\effect\sfx\其他\弓a_雾气_紫+闪光3.3e	1.2	1	1				
+9	120	image\effect\sfx\其他\弓a_雾气_紫+闪光3.3e	1.2	1	1				
+9	121	image\effect\sfx\其他\弓a_雾气_紫+闪光3.3e	1.2	1	1.2				
+9	122	image\effect\sfx\其他\弓a_雾气_紫+闪光3.3e	1.2	1	1.2				
+9	123	image\effect\sfx\其他\弓b_雾气_紫+闪光3.3e	0.7	1	1.3				
+9	124	image\effect\sfx\其他\弓b_雾气_紫+闪光3.3e	0.8	1	1.3				
+9	125	image\effect\sfx\其他\弓b_雾气_紫+闪光3.3e	0.6	1	1.3				
+9	126	image\effect\sfx\其他\弓b_雾气_紫+闪光3.3e	0.7	1	1.3				
+9	127	image\effect\sfx\其他\弓b_雾气_紫+闪光3.3e	0.7	1	1.3				
+9	128	image\effect\sfx\其他\弓b_雾气_紫+闪光3.3e	0.8	1	1.2				
+9	129	image\effect\sfx\其他\弓b_雾气_紫+闪光3.3e	0.8	1	1.2				
+9	130	image\effect\sfx\其他\弓b_雾气_紫+闪光3.3e	1	1	1.2				
+9	131	image\effect\sfx\其他\弓b_雾气_紫+闪光3.3e	1	1	1.2				
+9	134	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	1.4	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	1.4	1	1
+9	135	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	1.6	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	1.6	1	1
+9	136	image\effect\sfx\其他\双刀d_雾气_紫+闪光3.3e	1.6	1	1	image\effect\sfx\其他\双刀d_雾气_紫+闪光3.3e	1.6	1	1
+9	137	image\effect\sfx\其他\双刀d_雾气_紫+闪光3.3e	1.7	1	1	image\effect\sfx\其他\双刀d_雾气_紫+闪光3.3e	1.7	1	1
+9	138	image\effect\sfx\其他\双刀b_雾气_紫+闪光3.3e	1.6	1	1	image\effect\sfx\其他\双刀b_雾气_紫+闪光3.3e	1.6	1	1
+9	139	image\effect\sfx\其他\双刀b_雾气_紫+闪光3.3e	2	1	1.5	image\effect\sfx\其他\双刀b_雾气_紫+闪光3.3e	2	1	1.5
+9	140	image\effect\sfx\其他\双刀c_雾气_紫+闪光3.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_紫+闪光3.3e	2	1.5	1.5
+9	141	image\effect\sfx\其他\双刀c_雾气_紫+闪光3.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_雾气_紫+闪光3.3e	2	1.5	1.5
+9	142	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	3	1	1
+9	143	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	3	1	1
+9	144	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	2	1	1	image\effect\sfx\其他\双刀a_雾气_紫+闪光3.3e	2	1	1
+9	145	image\effect\sfx\其他\双刀e_雾气_紫+闪光3.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_雾气_紫+闪光3.3e	2	0.5	0.5
+9	146	image\effect\sfx\其他\双刀e_雾气_紫+闪光3.3e	2.3	1	1	image\effect\sfx\其他\双刀e_雾气_紫+闪光3.3e	2.3	1	1
+9	147	image\effect\sfx\其他\双刀e_雾气_紫+闪光3.3e	2	2	2	image\effect\sfx\其他\双刀e_雾气_紫+闪光3.3e	2	2	2
+9	150	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	151	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	152	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	153	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	154	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	155	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	156	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	157	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	158	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	159	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	160	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	161	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	162	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+9	163	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1	image\effect\sfx\其他\爪a_雾气_紫+闪光3.3e	1	1	1
+10	0	image\effect\sfx\其他\空手a_发散_红.3e	1	1	1	image\effect\sfx\其他\空手a_发散_红.3e	1	1	1
+10	1	image\effect\sfx\其他\空手a_发散_红.3e	1	1	1	image\effect\sfx\其他\空手a_发散_红.3e	1	1	1
+10	4					image\effect\sfx\其他\刀a_发散_红.3e	1	1	1
+10	5					image\effect\sfx\其他\刀a_发散_红.3e	1.3	1	1
+10	6					image\effect\sfx\其他\刀a_发散_红.3e	1.3	1	1
+10	7					image\effect\sfx\其他\刀a_发散_红.3e	1.4	1	1
+10	8					image\effect\sfx\其他\刀a_发散_红.3e	1.4	1	1
+10	9					image\effect\sfx\其他\刀a_发散_红.3e	1.4	1	1
+10	10					image\effect\sfx\其他\刀b_发散_红.3e	1.4	1	1
+10	11					image\effect\sfx\其他\刀b_发散_红.3e	1.5	1	1
+10	12					image\effect\sfx\其他\刀b_发散_红.3e	1.1	1	1
+10	13					image\effect\sfx\其他\刀b_发散_红.3e	1.4	1	1
+10	14					image\effect\sfx\其他\刀c_发散_红.3e	1.2	1	1
+10	15					image\effect\sfx\其他\刀c_发散_红.3e	1.2	1	1
+10	16					image\effect\sfx\其他\刀c_发散_红.3e	1.1	1	1
+10	17					image\effect\sfx\其他\刀d_发散_红.3e	1	1	1
+10	19					image\effect\sfx\其他\剑a_发散_红.3e	1.2	1	1
+10	20					image\effect\sfx\其他\剑a_发散_红.3e	1.3	1	1
+10	21					image\effect\sfx\其他\剑a_发散_红.3e	1.2	1	1
+10	22					image\effect\sfx\其他\剑a_发散_红.3e	1.3	1	1
+10	23					image\effect\sfx\其他\剑a_发散_红.3e	1.3	1	1
+10	24					image\effect\sfx\其他\剑a_发散_红.3e	1.3	1	1
+10	25					image\effect\sfx\其他\剑b_发散_红.3e	1	1	1
+10	26					image\effect\sfx\其他\剑b_发散_红.3e	1.3	1	1
+10	27					image\effect\sfx\其他\剑b_发散_红.3e	1.4	1	1
+10	28					image\effect\sfx\其他\剑b_发散_红.3e	1.3	1	1
+10	29					image\effect\sfx\其他\剑c_发散_红.3e	0.9	1	1
+10	30					image\effect\sfx\其他\剑c_发散_红.3e	0.9	1	1
+10	31					image\effect\sfx\其他\剑c_发散_红.3e	0.9	1	1
+10	32					image\effect\sfx\其他\剑c_发散_红.3e	0.9	1	1
+10	33					image\effect\sfx\其他\剑c_发散_红.3e	0.9	1	1
+10	34					image\effect\sfx\其他\剑c_发散_红.3e	0.9	1	1
+10	37					image\effect\sfx\其他\笔b_发散_红.3e	1.5	1	1
+10	38					image\effect\sfx\其他\笔b_发散_红.3e	1.5	1	1
+10	39					image\effect\sfx\其他\笔b_发散_红.3e	1.5	1	1
+10	40					image\effect\sfx\其他\笔a_发散_红.3e	2	1	1
+10	41					image\effect\sfx\其他\笔a_发散_红.3e	2	1	1
+10	42					image\effect\sfx\其他\笔b_发散_红.3e	1.5	1	1
+10	43					image\effect\sfx\其他\笔b_发散_红.3e	1.5	1	1
+10	44					image\effect\sfx\其他\笔b_发散_红.3e	1.6	1	1
+10	45					image\effect\sfx\其他\笔b_发散_红.3e	1.6	1	1
+10	46					image\effect\sfx\其他\笔b_发散_红.3e	1.6	1	1
+10	47					image\effect\sfx\其他\笔b_发散_红.3e	1.1	1	1
+10	48					image\effect\sfx\其他\笔b_发散_红.3e	1.4	1	1
+10	49					image\effect\sfx\其他\笔b_发散_红.3e	1.8	1	1
+10	50					image\effect\sfx\其他\笔b_发散_红.3e	1.4	1	1
+10	52					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	53					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	54					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	55					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	56					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	57					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	58					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	59					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	60					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	61					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	62					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	63					image\effect\sfx\其他\棍b_发散_红.3e	1	1	1
+10	64					image\effect\sfx\其他\棍b_发散_红.3e	1.1	1	1
+10	65					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	66					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	67					image\effect\sfx\其他\棍a_发散_红.3e	1.4	1	1
+10	70					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	71					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	72					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	73					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	74					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	75					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	76					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	77					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	78					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	79					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	80					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	81					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	82					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	83					image\effect\sfx\其他\杖a_发散_红.3e	1.2	0.6	0.6
+10	86	image\effect\sfx\其他\琴a_发散_红.3e	0.9	1	1				
+10	87	image\effect\sfx\其他\琴a_发散_红.3e	0.9	1	1				
+10	88	image\effect\sfx\其他\琴a_发散_红.3e	0.9	1	1				
+10	89	image\effect\sfx\其他\琴a_发散_红.3e	1.1	1	1				
+10	90	image\effect\sfx\其他\琴a_发散_红.3e	0.9	1	1				
+10	91	image\effect\sfx\其他\琴a_发散_红.3e	1	1	1				
+10	92	image\effect\sfx\其他\琴a_发散_红.3e	1	1	1				
+10	93	image\effect\sfx\其他\琴a_发散_红.3e	1	1	1				
+10	94	image\effect\sfx\其他\琴a_发散_红.3e	1	1	1				
+10	95	image\effect\sfx\其他\琴a_发散_红.3e	1	1	1				
+10	96	image\effect\sfx\其他\琴a_发散_红.3e	1	1	1				
+10	97	image\effect\sfx\其他\琴a_发散_红.3e	1	1	1				
+10	98	image\effect\sfx\其他\琴a_发散_红.3e	1.2	1	1				
+10	99	image\effect\sfx\其他\琴a_发散_红.3e	1.2	1	1				
+10	102					image\effect\sfx\其他\枪a_发散_红.3e	1.1	1	1
+10	103					image\effect\sfx\其他\枪a_发散_红.3e	1.1	1	1
+10	104					image\effect\sfx\其他\枪a_发散_红.3e	1.1	1	1
+10	105					image\effect\sfx\其他\枪a_发散_红.3e	1.1	1	1
+10	106					image\effect\sfx\其他\枪a_发散_红.3e	1.1	1	1
+10	107					image\effect\sfx\其他\枪a_发散_红.3e	1.2	1	1
+10	108					image\effect\sfx\其他\枪a_发散_红.3e	1.2	1	1
+10	109					image\effect\sfx\其他\枪a_发散_红.3e	1.3	1	1
+10	110					image\effect\sfx\其他\枪a_发散_红.3e	1.3	1	1
+10	111					image\effect\sfx\其他\枪a_发散_红.3e	1.3	1	1
+10	112					image\effect\sfx\其他\枪a_发散_红.3e	1.4	1	1
+10	113					image\effect\sfx\其他\枪b_发散_红.3e	1.2	1	1
+10	114					image\effect\sfx\其他\枪a_发散_红.3e	1.2	1	1
+10	115					image\effect\sfx\其他\枪a_发散_红.3e	1.4	1	1
+10	118	image\effect\sfx\其他\弓a_发散_红.3e	1	1	1				
+10	119	image\effect\sfx\其他\弓a_发散_红.3e	1.2	1	1				
+10	120	image\effect\sfx\其他\弓a_发散_红.3e	1.2	1	1				
+10	121	image\effect\sfx\其他\弓a_发散_红.3e	1.2	1	1.2				
+10	122	image\effect\sfx\其他\弓a_发散_红.3e	1.2	1	1.2				
+10	123	image\effect\sfx\其他\弓b_发散_红.3e	0.7	1	1.3				
+10	124	image\effect\sfx\其他\弓b_发散_红.3e	0.8	1	1.3				
+10	125	image\effect\sfx\其他\弓b_发散_红.3e	0.6	1	1.3				
+10	126	image\effect\sfx\其他\弓b_发散_红.3e	0.7	1	1.3				
+10	127	image\effect\sfx\其他\弓b_发散_红.3e	0.7	1	1.3				
+10	128	image\effect\sfx\其他\弓b_发散_红.3e	0.8	1	1.2				
+10	129	image\effect\sfx\其他\弓b_发散_红.3e	0.8	1	1.2				
+10	130	image\effect\sfx\其他\弓b_发散_红.3e	1	1	1.2				
+10	131	image\effect\sfx\其他\弓b_发散_红.3e	1	1	1.2				
+10	134	image\effect\sfx\其他\双刀a_发散_红.3e	1.4	1	1	image\effect\sfx\其他\双刀a_发散_红.3e	1.4	1	1
+10	135	image\effect\sfx\其他\双刀a_发散_红.3e	1.6	1	1	image\effect\sfx\其他\双刀a_发散_红.3e	1.6	1	1
+10	136	image\effect\sfx\其他\双刀d_发散_红.3e	1.6	1	1	image\effect\sfx\其他\双刀d_发散_红.3e	1.6	1	1
+10	137	image\effect\sfx\其他\双刀d_发散_红.3e	1.7	1	1	image\effect\sfx\其他\双刀d_发散_红.3e	1.7	1	1
+10	138	image\effect\sfx\其他\双刀b_发散_红.3e	1.6	1	1	image\effect\sfx\其他\双刀b_发散_红.3e	1.6	1	1
+10	139	image\effect\sfx\其他\双刀b_发散_红.3e	2	1	1.5	image\effect\sfx\其他\双刀b_发散_红.3e	2	1	1.5
+10	140	image\effect\sfx\其他\双刀c_发散_红.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_发散_红.3e	2	1.5	1.5
+10	141	image\effect\sfx\其他\双刀c_发散_红.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_发散_红.3e	2	1.5	1.5
+10	142	image\effect\sfx\其他\双刀a_发散_红.3e	2	1	1	image\effect\sfx\其他\双刀a_发散_红.3e	3	1	1
+10	143	image\effect\sfx\其他\双刀a_发散_红.3e	2	1	1	image\effect\sfx\其他\双刀a_发散_红.3e	3	1	1
+10	144	image\effect\sfx\其他\双刀a_发散_红.3e	2	1	1	image\effect\sfx\其他\双刀a_发散_红.3e	2	1	1
+10	145	image\effect\sfx\其他\双刀e_发散_红.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_发散_红.3e	2	0.5	0.5
+10	146	image\effect\sfx\其他\双刀e_发散_红.3e	2.3	1	1	image\effect\sfx\其他\双刀e_发散_红.3e	2.3	1	1
+10	147	image\effect\sfx\其他\双刀e_发散_红.3e	2	2	2	image\effect\sfx\其他\双刀e_发散_红.3e	2	2	2
+10	150	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	151	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	152	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	153	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	154	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	155	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	156	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	157	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	158	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	159	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	160	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	161	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	162	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+10	163	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1	image\effect\sfx\其他\爪a_发散_红.3e	1	1	1
+11	0	image\effect\sfx\其他\空手a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\空手a_发散_蓝.3e	1	1	1
+11	1	image\effect\sfx\其他\空手a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\空手a_发散_蓝.3e	1	1	1
+11	4					image\effect\sfx\其他\刀a_发散_蓝.3e	1	1	1
+11	5					image\effect\sfx\其他\刀a_发散_蓝.3e	1.3	1	1
+11	6					image\effect\sfx\其他\刀a_发散_蓝.3e	1.3	1	1
+11	7					image\effect\sfx\其他\刀a_发散_蓝.3e	1.4	1	1
+11	8					image\effect\sfx\其他\刀a_发散_蓝.3e	1.4	1	1
+11	9					image\effect\sfx\其他\刀a_发散_蓝.3e	1.1	1	1
+11	10					image\effect\sfx\其他\刀b_发散_蓝.3e	1.4	1	1
+11	11					image\effect\sfx\其他\刀b_发散_蓝.3e	1.5	1	1
+11	12					image\effect\sfx\其他\刀b_发散_蓝.3e	1.1	1	1
+11	13					image\effect\sfx\其他\刀b_发散_蓝.3e	1.4	1	1
+11	14					image\effect\sfx\其他\刀c_发散_蓝.3e	1.2	1	1
+11	15					image\effect\sfx\其他\刀c_发散_蓝.3e	1.2	1	1
+11	16					image\effect\sfx\其他\刀c_发散_蓝.3e	1.1	1	1
+11	17					image\effect\sfx\其他\刀d_发散_蓝.3e	1	1	1
+11	19					image\effect\sfx\其他\剑a_发散_蓝.3e	1.2	1	1
+11	20					image\effect\sfx\其他\剑a_发散_蓝.3e	1.3	1	1
+11	21					image\effect\sfx\其他\剑a_发散_蓝.3e	1.2	1	1
+11	22					image\effect\sfx\其他\剑a_发散_蓝.3e	1.3	1	1
+11	23					image\effect\sfx\其他\剑a_发散_蓝.3e	1.3	1	1
+11	24					image\effect\sfx\其他\剑a_发散_蓝.3e	1.3	1	1
+11	25					image\effect\sfx\其他\剑b_发散_蓝.3e	1	1	1
+11	26					image\effect\sfx\其他\剑b_发散_蓝.3e	1.3	1	1
+11	27					image\effect\sfx\其他\剑b_发散_蓝.3e	1.4	1	1
+11	28					image\effect\sfx\其他\剑b_发散_蓝.3e	1.3	1	1
+11	29					image\effect\sfx\其他\剑c_发散_蓝.3e	0.9	1	1
+11	30					image\effect\sfx\其他\剑c_发散_蓝.3e	0.9	1	1
+11	31					image\effect\sfx\其他\剑c_发散_蓝.3e	0.9	1	1
+11	32					image\effect\sfx\其他\剑c_发散_蓝.3e	0.9	1	1
+11	33					image\effect\sfx\其他\剑c_发散_蓝.3e	0.9	1	1
+11	34					image\effect\sfx\其他\剑c_发散_蓝.3e	0.9	1	1
+11	37					image\effect\sfx\其他\笔b_发散_蓝.3e	1.5	1	1
+11	38					image\effect\sfx\其他\笔b_发散_蓝.3e	1.5	1	1
+11	39					image\effect\sfx\其他\笔b_发散_蓝.3e	1.5	1	1
+11	40					image\effect\sfx\其他\笔a_发散_蓝.3e	2	1	1
+11	41					image\effect\sfx\其他\笔a_发散_蓝.3e	2	1	1
+11	42					image\effect\sfx\其他\笔b_发散_蓝.3e	1.5	1	1
+11	43					image\effect\sfx\其他\笔b_发散_蓝.3e	1.5	1	1
+11	44					image\effect\sfx\其他\笔b_发散_蓝.3e	1.6	1	1
+11	45					image\effect\sfx\其他\笔b_发散_蓝.3e	1.6	1	1
+11	46					image\effect\sfx\其他\笔b_发散_蓝.3e	1.6	1	1
+11	47					image\effect\sfx\其他\笔b_发散_蓝.3e	1.1	1	1
+11	48					image\effect\sfx\其他\笔b_发散_蓝.3e	1.4	1	1
+11	49					image\effect\sfx\其他\笔b_发散_蓝.3e	1.8	1	1
+11	50					image\effect\sfx\其他\笔b_发散_蓝.3e	1.4	1	1
+11	52					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	53					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	54					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	55					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	56					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	57					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	58					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	59					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	60					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	61					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	62					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	63					image\effect\sfx\其他\棍b_发散_蓝.3e	1	1	1
+11	64					image\effect\sfx\其他\棍b_发散_蓝.3e	1.1	1	1
+11	65					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	66					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	67					image\effect\sfx\其他\棍a_发散_蓝.3e	1.4	1	1
+11	70					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	71					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	72					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	73					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	74					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	75					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	76					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	77					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	78					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	79					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	80					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	81					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	82					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	83					image\effect\sfx\其他\杖a_发散_蓝.3e	1.2	0.6	0.6
+11	86	image\effect\sfx\其他\琴a_发散_蓝.3e	0.9	1	1				
+11	87	image\effect\sfx\其他\琴a_发散_蓝.3e	0.9	1	1				
+11	88	image\effect\sfx\其他\琴a_发散_蓝.3e	0.9	1	1				
+11	89	image\effect\sfx\其他\琴a_发散_蓝.3e	1.1	1	1				
+11	90	image\effect\sfx\其他\琴a_发散_蓝.3e	0.9	1	1				
+11	91	image\effect\sfx\其他\琴a_发散_蓝.3e	1	1	1				
+11	92	image\effect\sfx\其他\琴a_发散_蓝.3e	1	1	1				
+11	93	image\effect\sfx\其他\琴a_发散_蓝.3e	1	1	1				
+11	94	image\effect\sfx\其他\琴a_发散_蓝.3e	1	1	1				
+11	95	image\effect\sfx\其他\琴a_发散_蓝.3e	1	1	1				
+11	96	image\effect\sfx\其他\琴a_发散_蓝.3e	1	1	1				
+11	97	image\effect\sfx\其他\琴a_发散_蓝.3e	1	1	1				
+11	98	image\effect\sfx\其他\琴a_发散_蓝.3e	1.2	1	1				
+11	99	image\effect\sfx\其他\琴a_发散_蓝.3e	1.2	1	1				
+11	102					image\effect\sfx\其他\枪a_发散_蓝.3e	1.1	1	1
+11	103					image\effect\sfx\其他\枪a_发散_蓝.3e	1.1	1	1
+11	104					image\effect\sfx\其他\枪a_发散_蓝.3e	1.1	1	1
+11	105					image\effect\sfx\其他\枪a_发散_蓝.3e	1.1	1	1
+11	106					image\effect\sfx\其他\枪a_发散_蓝.3e	1.1	1	1
+11	107					image\effect\sfx\其他\枪a_发散_蓝.3e	1.2	1	1
+11	108					image\effect\sfx\其他\枪a_发散_蓝.3e	1.2	1	1
+11	109					image\effect\sfx\其他\枪a_发散_蓝.3e	1.3	1	1
+11	110					image\effect\sfx\其他\枪a_发散_蓝.3e	1.3	1	1
+11	111					image\effect\sfx\其他\枪a_发散_蓝.3e	1.3	1	1
+11	112					image\effect\sfx\其他\枪a_发散_蓝.3e	1.4	1	1
+11	113					image\effect\sfx\其他\枪b_发散_蓝.3e	1.2	1	1
+11	114					image\effect\sfx\其他\枪a_发散_蓝.3e	1.2	1	1
+11	115					image\effect\sfx\其他\枪a_发散_蓝.3e	1.4	1	1
+11	118	image\effect\sfx\其他\弓a_发散_蓝.3e	1	1	1				
+11	119	image\effect\sfx\其他\弓a_发散_蓝.3e	1.2	1	1				
+11	120	image\effect\sfx\其他\弓a_发散_蓝.3e	1.2	1	1				
+11	121	image\effect\sfx\其他\弓a_发散_蓝.3e	1.2	1	1.2				
+11	122	image\effect\sfx\其他\弓a_发散_蓝.3e	1.2	1	1.2				
+11	123	image\effect\sfx\其他\弓b_发散_蓝.3e	0.7	1	1.3				
+11	124	image\effect\sfx\其他\弓b_发散_蓝.3e	0.8	1	1.3				
+11	125	image\effect\sfx\其他\弓b_发散_蓝.3e	0.6	1	1.3				
+11	126	image\effect\sfx\其他\弓b_发散_蓝.3e	0.7	1	1.3				
+11	127	image\effect\sfx\其他\弓b_发散_蓝.3e	0.7	1	1.3				
+11	128	image\effect\sfx\其他\弓b_发散_蓝.3e	0.8	1	1.2				
+11	129	image\effect\sfx\其他\弓b_发散_蓝.3e	0.8	1	1.2				
+11	130	image\effect\sfx\其他\弓b_发散_蓝.3e	1	1	1.2				
+11	131	image\effect\sfx\其他\弓b_发散_蓝.3e	1	1	1.2				
+11	134	image\effect\sfx\其他\双刀a_发散_蓝.3e	1.4	1	1	image\effect\sfx\其他\双刀a_发散_蓝.3e	1.4	1	1
+11	135	image\effect\sfx\其他\双刀a_发散_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀a_发散_蓝.3e	1.6	1	1
+11	136	image\effect\sfx\其他\双刀d_发散_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀d_发散_蓝.3e	1.6	1	1
+11	137	image\effect\sfx\其他\双刀d_发散_蓝.3e	1.7	1	1	image\effect\sfx\其他\双刀d_发散_蓝.3e	1.7	1	1
+11	138	image\effect\sfx\其他\双刀b_发散_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀b_发散_蓝.3e	1.6	1	1
+11	139	image\effect\sfx\其他\双刀b_发散_蓝.3e	2	1	1.5	image\effect\sfx\其他\双刀b_发散_蓝.3e	2	1	1.5
+11	140	image\effect\sfx\其他\双刀c_发散_蓝.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_发散_蓝.3e	2	1.5	1.5
+11	141	image\effect\sfx\其他\双刀c_发散_蓝.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_发散_蓝.3e	2	1.5	1.5
+11	142	image\effect\sfx\其他\双刀a_发散_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_发散_蓝.3e	3	1	1
+11	143	image\effect\sfx\其他\双刀a_发散_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_发散_蓝.3e	3	1	1
+11	144	image\effect\sfx\其他\双刀a_发散_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_发散_蓝.3e	2	1	1
+11	145	image\effect\sfx\其他\双刀e_发散_蓝.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_发散_蓝.3e	2	0.5	0.5
+11	146	image\effect\sfx\其他\双刀e_发散_蓝.3e	2.3	1	1	image\effect\sfx\其他\双刀e_发散_蓝.3e	2.3	1	1
+11	147	image\effect\sfx\其他\双刀e_发散_蓝.3e	2	2	2	image\effect\sfx\其他\双刀e_发散_蓝.3e	2	2	2
+11	150	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	151	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	152	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	153	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	154	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	155	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	156	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	157	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	158	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	159	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	160	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	161	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	162	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+11	163	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1	image\effect\sfx\其他\爪a_发散_蓝.3e	1	1	1
+12	0	image\effect\sfx\其他\空手a_聚拢_紫.3e	1	1	1	image\effect\sfx\其他\空手a_聚拢_紫.3e	1	1	1
+12	1	image\effect\sfx\其他\空手a_聚拢_紫.3e	1	1	1	image\effect\sfx\其他\空手a_聚拢_紫.3e	1	1	1
+12	4					image\effect\sfx\其他\刀a_聚拢_紫.3e	1	1	1
+12	5					image\effect\sfx\其他\刀a_聚拢_紫.3e	1.3	1	1
+12	6					image\effect\sfx\其他\刀a_聚拢_紫.3e	1.3	1	1
+12	7					image\effect\sfx\其他\刀a_聚拢_紫.3e	1.4	1	1
+12	8					image\effect\sfx\其他\刀a_聚拢_紫.3e	1.4	1	1
+12	9					image\effect\sfx\其他\刀a_聚拢_紫.3e	1.1	1	1
+12	10					image\effect\sfx\其他\刀b_聚拢_紫.3e	1	1	1
+12	11					image\effect\sfx\其他\刀b_聚拢_紫.3e	1.1	1	1
+12	12					image\effect\sfx\其他\刀b_聚拢_紫.3e	0.9	1	1
+12	13					image\effect\sfx\其他\刀b_聚拢_紫.3e	1.4	1	1
+12	14					image\effect\sfx\其他\刀c_聚拢_紫.3e	1.2	1	1
+12	15					image\effect\sfx\其他\刀c_聚拢_紫.3e	1.2	1	1
+12	16					image\effect\sfx\其他\刀c_聚拢_紫.3e	1.1	1	1
+12	17					image\effect\sfx\其他\刀d_聚拢_紫.3e	1	1	1
+12	19					image\effect\sfx\其他\剑a_聚拢_紫.3e	1.2	1	1
+12	20					image\effect\sfx\其他\剑a_聚拢_紫.3e	1.3	1	1
+12	21					image\effect\sfx\其他\剑a_聚拢_紫.3e	1.2	1	1
+12	22					image\effect\sfx\其他\剑a_聚拢_紫.3e	1.3	1	1
+12	23					image\effect\sfx\其他\剑a_聚拢_紫.3e	1.3	1	1
+12	24					image\effect\sfx\其他\剑a_聚拢_紫.3e	1.3	1	1
+12	25					image\effect\sfx\其他\剑b_聚拢_紫.3e	1	1	1
+12	26					image\effect\sfx\其他\剑b_聚拢_紫.3e	1.3	1	1
+12	27					image\effect\sfx\其他\剑b_聚拢_紫.3e	1.4	1	1
+12	28					image\effect\sfx\其他\剑b_聚拢_紫.3e	1.3	1	1
+12	29					image\effect\sfx\其他\剑c_聚拢_紫.3e	1	1	1
+12	30					image\effect\sfx\其他\剑c_聚拢_紫.3e	1	1	1
+12	31					image\effect\sfx\其他\剑c_聚拢_紫.3e	1	1	1
+12	32					image\effect\sfx\其他\剑c_聚拢_紫.3e	1	1	1
+12	33					image\effect\sfx\其他\剑c_聚拢_紫.3e	0.9	1	1
+12	34					image\effect\sfx\其他\剑c_聚拢_紫.3e	1	1	1
+12	37					image\effect\sfx\其他\笔b_聚拢_紫.3e	1	1	1
+12	38					image\effect\sfx\其他\笔b_聚拢_紫.3e	1	1	1
+12	39					image\effect\sfx\其他\笔b_聚拢_紫.3e	1	1	1
+12	40					image\effect\sfx\其他\笔a_聚拢_紫.3e	1.6	1	1
+12	41					image\effect\sfx\其他\笔a_聚拢_紫.3e	1.6	1	1
+12	42					image\effect\sfx\其他\笔b_聚拢_紫.3e	1	1	1
+12	43					image\effect\sfx\其他\笔b_聚拢_紫.3e	1	1	1
+12	44					image\effect\sfx\其他\笔b_聚拢_紫.3e	0.9	1	1
+12	45					image\effect\sfx\其他\笔b_聚拢_紫.3e	1	1	1
+12	46					image\effect\sfx\其他\笔b_聚拢_紫.3e	1	1	1
+12	47					image\effect\sfx\其他\笔b_聚拢_紫.3e	0.7	1	1
+12	48					image\effect\sfx\其他\笔b_聚拢_紫.3e	0.8	1	1
+12	49					image\effect\sfx\其他\笔b_聚拢_紫.3e	1	1	1
+12	50					image\effect\sfx\其他\笔b_聚拢_紫.3e	0.8	1	1
+12	52					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	53					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	54					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	55					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	56					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	57					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	58					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	59					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	60					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	61					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	62					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	63					image\effect\sfx\其他\棍b_聚拢_紫.3e	1	1	1
+12	64					image\effect\sfx\其他\棍b_聚拢_紫.3e	1.1	1	1
+12	65					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	66					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	67					image\effect\sfx\其他\棍a_聚拢_紫.3e	1.4	1	1
+12	70					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	71					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	72					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	73					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	74					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	75					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	76					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	77					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	78					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	79					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	80					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	81					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	82					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	83					image\effect\sfx\其他\杖a_聚拢_紫.3e	1	1	1
+12	86	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.7	1	1				
+12	87	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.7	1	1				
+12	88	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.7	1	1				
+12	89	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.9	1	1				
+12	90	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.7	1	1				
+12	91	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.8	1	1				
+12	92	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.8	1	1				
+12	93	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.8	1	1				
+12	94	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.8	1	1				
+12	95	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.8	1	1				
+12	96	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.8	1	1				
+12	97	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.8	1	1				
+12	98	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.9	1	1				
+12	99	image\effect\sfx\其他\琴a_聚拢_紫.3e	0.9	1	1				
+12	102					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.1	1	1
+12	103					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.1	1	1
+12	104					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.1	1	1
+12	105					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.1	1	1
+12	106					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.1	1	1
+12	107					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.2	1	1
+12	108					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.2	1	1
+12	109					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.3	1	1
+12	110					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.3	1	1
+12	111					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.3	1	1
+12	112					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.4	1	1
+12	113					image\effect\sfx\其他\枪b_聚拢_紫.3e	1	1	1
+12	114					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.2	1	1
+12	115					image\effect\sfx\其他\枪a_聚拢_紫.3e	1.4	1	1
+12	118	image\effect\sfx\其他\弓a_聚拢_紫.3e	1	1	1				
+12	119	image\effect\sfx\其他\弓a_聚拢_紫.3e	1.2	1	1				
+12	120	image\effect\sfx\其他\弓a_聚拢_紫.3e	1.2	1	1				
+12	121	image\effect\sfx\其他\弓a_聚拢_紫.3e	1.2	1	1.2				
+12	122	image\effect\sfx\其他\弓a_聚拢_紫.3e	1.2	1	1.2				
+12	123	image\effect\sfx\其他\弓a_聚拢_紫.3e	0.7	1	1.3				
+12	124	image\effect\sfx\其他\弓a_聚拢_紫.3e	0.8	1	1.3				
+12	125	image\effect\sfx\其他\弓a_聚拢_紫.3e	0.6	1	1.3				
+12	126	image\effect\sfx\其他\弓a_聚拢_紫.3e	0.7	1	1.3				
+12	127	image\effect\sfx\其他\弓b_聚拢_紫.3e	0.7	1	1.3				
+12	128	image\effect\sfx\其他\弓b_聚拢_紫.3e	0.8	1	1.2				
+12	129	image\effect\sfx\其他\弓b_聚拢_紫.3e	0.8	1	1.2				
+12	130	image\effect\sfx\其他\弓b_聚拢_紫.3e	1	1	1.2				
+12	131	image\effect\sfx\其他\弓b_聚拢_紫.3e	1	1	1.2				
+12	134	image\effect\sfx\其他\双刀a_聚拢_紫.3e	1.4	1	1	image\effect\sfx\其他\双刀a_聚拢_紫.3e	1.4	1	1
+12	135	image\effect\sfx\其他\双刀a_聚拢_紫.3e	1.6	1	1	image\effect\sfx\其他\双刀a_聚拢_紫.3e	1.6	1	1
+12	136	image\effect\sfx\其他\双刀d_聚拢_紫.3e	1.6	1	1	image\effect\sfx\其他\双刀d_聚拢_紫.3e	1.6	1	1
+12	137	image\effect\sfx\其他\双刀d_聚拢_紫.3e	1.7	1	1	image\effect\sfx\其他\双刀d_聚拢_紫.3e	1.7	1	1
+12	138	image\effect\sfx\其他\双刀b_聚拢_紫.3e	1.6	1	1	image\effect\sfx\其他\双刀b_聚拢_紫.3e	1.6	1	1
+12	139	image\effect\sfx\其他\双刀b_聚拢_紫.3e	2	1	1.5	image\effect\sfx\其他\双刀b_聚拢_紫.3e	2	1	1.5
+12	140	image\effect\sfx\其他\双刀c_聚拢_紫.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_聚拢_紫.3e	2	1.5	1.5
+12	141	image\effect\sfx\其他\双刀c_聚拢_紫.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_聚拢_紫.3e	2	1.5	1.5
+12	142	image\effect\sfx\其他\双刀a_聚拢_紫.3e	2	1	1	image\effect\sfx\其他\双刀a_聚拢_紫.3e	3	1	1
+12	143	image\effect\sfx\其他\双刀a_聚拢_紫.3e	2	1	1	image\effect\sfx\其他\双刀a_聚拢_紫.3e	3	1	1
+12	144	image\effect\sfx\其他\双刀a_聚拢_紫.3e	2	1	1	image\effect\sfx\其他\双刀a_聚拢_紫.3e	2	1	1
+12	145	image\effect\sfx\其他\双刀e_聚拢_紫.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_聚拢_紫.3e	2	0.5	0.5
+12	146	image\effect\sfx\其他\双刀e_聚拢_紫.3e	2.3	1	1	image\effect\sfx\其他\双刀e_聚拢_紫.3e	2.3	1	1
+12	147	image\effect\sfx\其他\双刀e_聚拢_紫.3e	2	2	2	image\effect\sfx\其他\双刀e_聚拢_紫.3e	2	2	2
+12	150	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	151	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	152	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	153	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	154	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	155	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	156	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	157	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	158	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	159	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	160	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	161	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	162	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+12	163	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_紫.3e	0.8	0.5	1
+13	0	image\effect\sfx\其他\空手a_聚拢_金.3e	1	1	1	image\effect\sfx\其他\空手a_聚拢_金.3e	1	1	1
+13	1	image\effect\sfx\其他\空手a_聚拢_金.3e	1	1	1	image\effect\sfx\其他\空手a_聚拢_金.3e	1	1	1
+13	4					image\effect\sfx\其他\刀a_聚拢_金.3e	1	1	1
+13	5					image\effect\sfx\其他\刀a_聚拢_金.3e	1.3	1	1
+13	6					image\effect\sfx\其他\刀a_聚拢_金.3e	1.3	1	1
+13	7					image\effect\sfx\其他\刀a_聚拢_金.3e	1.4	1	1
+13	8					image\effect\sfx\其他\刀a_聚拢_金.3e	1.4	1	1
+13	9					image\effect\sfx\其他\刀a_聚拢_金.3e	1.1	1	1
+13	10					image\effect\sfx\其他\刀b_聚拢_金.3e	1	1	1
+13	11					image\effect\sfx\其他\刀b_聚拢_金.3e	1.1	1	1
+13	12					image\effect\sfx\其他\刀b_聚拢_金.3e	0.9	1	1
+13	13					image\effect\sfx\其他\刀b_聚拢_金.3e	1.1	1	1
+13	14					image\effect\sfx\其他\刀c_聚拢_金.3e	1.2	1	1
+13	15					image\effect\sfx\其他\刀c_聚拢_金.3e	1.2	1	1
+13	16					image\effect\sfx\其他\刀c_聚拢_金.3e	1.1	1	1
+13	17					image\effect\sfx\其他\刀d_聚拢_金.3e	1	1	1
+13	19					image\effect\sfx\其他\剑a_聚拢_金.3e	1.2	1	1
+13	20					image\effect\sfx\其他\剑a_聚拢_金.3e	1.3	1	1
+13	21					image\effect\sfx\其他\剑a_聚拢_金.3e	1.2	1	1
+13	22					image\effect\sfx\其他\剑a_聚拢_金.3e	1.3	1	1
+13	23					image\effect\sfx\其他\剑a_聚拢_金.3e	1.3	1	1
+13	24					image\effect\sfx\其他\剑a_聚拢_金.3e	1.3	1	1
+13	25					image\effect\sfx\其他\剑b_聚拢_金.3e	1	1	1
+13	26					image\effect\sfx\其他\剑b_聚拢_金.3e	1.3	1	1
+13	27					image\effect\sfx\其他\剑b_聚拢_金.3e	1.4	1	1
+13	28					image\effect\sfx\其他\剑b_聚拢_金.3e	1.3	1	1
+13	29					image\effect\sfx\其他\剑c_聚拢_金.3e	1	1	1
+13	30					image\effect\sfx\其他\剑c_聚拢_金.3e	1	1	1
+13	31					image\effect\sfx\其他\剑c_聚拢_金.3e	1	1	1
+13	32					image\effect\sfx\其他\剑c_聚拢_金.3e	1	1	1
+13	33					image\effect\sfx\其他\剑c_聚拢_金.3e	0.9	1	1
+13	34					image\effect\sfx\其他\剑c_聚拢_金.3e	1	1	1
+13	37					image\effect\sfx\其他\笔b_聚拢_金.3e	1	1	1
+13	38					image\effect\sfx\其他\笔b_聚拢_金.3e	1	1	1
+13	39					image\effect\sfx\其他\笔b_聚拢_金.3e	1	1	1
+13	40					image\effect\sfx\其他\笔a_聚拢_金.3e	1.6	1	1
+13	41					image\effect\sfx\其他\笔a_聚拢_金.3e	1.6	1	1
+13	42					image\effect\sfx\其他\笔b_聚拢_金.3e	1	1	1
+13	43					image\effect\sfx\其他\笔b_聚拢_金.3e	1	1	1
+13	44					image\effect\sfx\其他\笔b_聚拢_金.3e	0.9	1	1
+13	45					image\effect\sfx\其他\笔b_聚拢_金.3e	1	1	1
+13	46					image\effect\sfx\其他\笔b_聚拢_金.3e	1	1	1
+13	47					image\effect\sfx\其他\笔b_聚拢_金.3e	0.7	1	1
+13	48					image\effect\sfx\其他\笔b_聚拢_金.3e	0.8	1	1
+13	49					image\effect\sfx\其他\笔b_聚拢_金.3e	1	1	1
+13	50					image\effect\sfx\其他\笔b_聚拢_金.3e	0.8	1	1
+13	52					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	53					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	54					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	55					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	56					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	57					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	58					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	59					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	60					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	61					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	62					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	63					image\effect\sfx\其他\棍b_聚拢_金.3e	1	1	1
+13	64					image\effect\sfx\其他\棍b_聚拢_金.3e	1.1	1	1
+13	65					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	66					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	67					image\effect\sfx\其他\棍a_聚拢_金.3e	1.4	1	1
+13	70					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	71					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	72					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	73					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	74					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	75					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	76					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	77					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	78					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	79					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	80					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	81					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	82					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	83					image\effect\sfx\其他\杖a_聚拢_金.3e	1	1	1
+13	86	image\effect\sfx\其他\琴a_聚拢_金.3e	0.7	1	1				
+13	87	image\effect\sfx\其他\琴a_聚拢_金.3e	0.7	1	1				
+13	88	image\effect\sfx\其他\琴a_聚拢_金.3e	0.7	1	1				
+13	89	image\effect\sfx\其他\琴a_聚拢_金.3e	0.9	1	1				
+13	90	image\effect\sfx\其他\琴a_聚拢_金.3e	0.7	1	1				
+13	91	image\effect\sfx\其他\琴a_聚拢_金.3e	0.8	1	1				
+13	92	image\effect\sfx\其他\琴a_聚拢_金.3e	0.8	1	1				
+13	93	image\effect\sfx\其他\琴a_聚拢_金.3e	0.8	1	1				
+13	94	image\effect\sfx\其他\琴a_聚拢_金.3e	0.8	1	1				
+13	95	image\effect\sfx\其他\琴a_聚拢_金.3e	0.8	1	1				
+13	96	image\effect\sfx\其他\琴a_聚拢_金.3e	0.8	1	1				
+13	97	image\effect\sfx\其他\琴a_聚拢_金.3e	0.8	1	1				
+13	98	image\effect\sfx\其他\琴a_聚拢_金.3e	0.9	1	1				
+13	99	image\effect\sfx\其他\琴a_聚拢_金.3e	0.9	1	1				
+13	102					image\effect\sfx\其他\枪a_聚拢_金.3e	1.1	1	1
+13	103					image\effect\sfx\其他\枪a_聚拢_金.3e	1.1	1	1
+13	104					image\effect\sfx\其他\枪a_聚拢_金.3e	1.1	1	1
+13	105					image\effect\sfx\其他\枪a_聚拢_金.3e	1.1	1	1
+13	106					image\effect\sfx\其他\枪a_聚拢_金.3e	1.1	1	1
+13	107					image\effect\sfx\其他\枪a_聚拢_金.3e	1.2	1	1
+13	108					image\effect\sfx\其他\枪a_聚拢_金.3e	1.2	1	1
+13	109					image\effect\sfx\其他\枪a_聚拢_金.3e	1.3	1	1
+13	110					image\effect\sfx\其他\枪a_聚拢_金.3e	1.3	1	1
+13	111					image\effect\sfx\其他\枪a_聚拢_金.3e	1.3	1	1
+13	112					image\effect\sfx\其他\枪a_聚拢_金.3e	1.4	1	1
+13	113					image\effect\sfx\其他\枪b_聚拢_金.3e	1	1	1
+13	114					image\effect\sfx\其他\枪a_聚拢_金.3e	1.2	1	1
+13	115					image\effect\sfx\其他\枪a_聚拢_金.3e	1.4	1	1
+13	118	image\effect\sfx\其他\弓a_聚拢_金.3e	1	1	1				
+13	119	image\effect\sfx\其他\弓a_聚拢_金.3e	1.2	1	1				
+13	120	image\effect\sfx\其他\弓a_聚拢_金.3e	1.2	1	1				
+13	121	image\effect\sfx\其他\弓a_聚拢_金.3e	1.2	1	1.2				
+13	122	image\effect\sfx\其他\弓a_聚拢_金.3e	1.2	1	1.2				
+13	123	image\effect\sfx\其他\弓a_聚拢_金.3e	0.7	1	1.3				
+13	124	image\effect\sfx\其他\弓a_聚拢_金.3e	0.8	1	1.3				
+13	125	image\effect\sfx\其他\弓a_聚拢_金.3e	0.6	1	1.3				
+13	126	image\effect\sfx\其他\弓a_聚拢_金.3e	0.7	1	1.3				
+13	127	image\effect\sfx\其他\弓b_聚拢_金.3e	0.7	1	1.3				
+13	128	image\effect\sfx\其他\弓b_聚拢_金.3e	0.8	1	1.2				
+13	129	image\effect\sfx\其他\弓b_聚拢_金.3e	0.8	1	1.2				
+13	130	image\effect\sfx\其他\弓b_聚拢_金.3e	1	1	1.2				
+13	131	image\effect\sfx\其他\弓b_聚拢_金.3e	1	1	1.2				
+13	134	image\effect\sfx\其他\双刀a_聚拢_金.3e	1.4	1	1	image\effect\sfx\其他\双刀a_聚拢_金.3e	1.4	1	1
+13	135	image\effect\sfx\其他\双刀a_聚拢_金.3e	1.6	1	1	image\effect\sfx\其他\双刀a_聚拢_金.3e	1.6	1	1
+13	136	image\effect\sfx\其他\双刀d_聚拢_金.3e	1.6	1	1	image\effect\sfx\其他\双刀d_聚拢_金.3e	1.6	1	1
+13	137	image\effect\sfx\其他\双刀d_聚拢_金.3e	1.7	1	1	image\effect\sfx\其他\双刀d_聚拢_金.3e	1.7	1	1
+13	138	image\effect\sfx\其他\双刀b_聚拢_金.3e	1.6	1	1	image\effect\sfx\其他\双刀b_聚拢_金.3e	1.6	1	1
+13	139	image\effect\sfx\其他\双刀b_聚拢_金.3e	2	1	1.5	image\effect\sfx\其他\双刀b_聚拢_金.3e	2	1	1.5
+13	140	image\effect\sfx\其他\双刀c_聚拢_金.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_聚拢_金.3e	2	1.5	1.5
+13	141	image\effect\sfx\其他\双刀c_聚拢_金.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_聚拢_金.3e	2	1.5	1.5
+13	142	image\effect\sfx\其他\双刀a_聚拢_金.3e	2	1	1	image\effect\sfx\其他\双刀a_聚拢_金.3e	3	1	1
+13	143	image\effect\sfx\其他\双刀a_聚拢_金.3e	2	1	1	image\effect\sfx\其他\双刀a_聚拢_金.3e	3	1	1
+13	144	image\effect\sfx\其他\双刀a_聚拢_金.3e	2	1	1	image\effect\sfx\其他\双刀a_聚拢_金.3e	2	1	1
+13	145	image\effect\sfx\其他\双刀e_聚拢_金.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_聚拢_金.3e	2	0.5	0.5
+13	146	image\effect\sfx\其他\双刀e_聚拢_金.3e	2.3	1	1	image\effect\sfx\其他\双刀e_聚拢_金.3e	2.3	1	1
+13	147	image\effect\sfx\其他\双刀e_聚拢_金.3e	2	2	2	image\effect\sfx\其他\双刀e_聚拢_金.3e	2	2	2
+13	150	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	151	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	152	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	153	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	154	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	155	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	156	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	157	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	158	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	159	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	160	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	161	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	162	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+13	163	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_聚拢_金.3e	0.8	0.5	1
+14	0	image\effect\sfx\其他\空手a_闪电_蓝.3e	1	1	1	image\effect\sfx\其他\空手a_闪电_蓝.3e	1	1	1
+14	1	image\effect\sfx\其他\空手a_闪电_蓝.3e	1	1	1	image\effect\sfx\其他\空手a_闪电_蓝.3e	1	1	1
+14	4					image\effect\sfx\其他\刀a_闪电_蓝.3e	1	1	1
+14	5					image\effect\sfx\其他\刀a_闪电_蓝.3e	1.3	1	1
+14	6					image\effect\sfx\其他\刀a_闪电_蓝.3e	1.3	1	1
+14	7					image\effect\sfx\其他\刀a_闪电_蓝.3e	1.4	1	1
+14	8					image\effect\sfx\其他\刀a_闪电_蓝.3e	1.4	1	1
+14	9					image\effect\sfx\其他\刀a_闪电_蓝.3e	1.1	1	1
+14	10					image\effect\sfx\其他\刀b_闪电_蓝.3e	1.4	1	1
+14	11					image\effect\sfx\其他\刀b_闪电_蓝.3e	1.5	1	1
+14	12					image\effect\sfx\其他\刀b_闪电_蓝.3e	1.1	1	1
+14	13					image\effect\sfx\其他\刀b_闪电_蓝.3e	1.1	1	1
+14	14					image\effect\sfx\其他\刀c_闪电_蓝.3e	1.2	1	1
+14	15					image\effect\sfx\其他\刀c_闪电_蓝.3e	1.2	1	1
+14	16					image\effect\sfx\其他\刀c_闪电_蓝.3e	1.1	1	1
+14	17					image\effect\sfx\其他\刀d_闪电_蓝.3e	1	1	1
+14	19					image\effect\sfx\其他\剑a_闪电_蓝.3e	1.2	1	1
+14	20					image\effect\sfx\其他\剑a_闪电_蓝.3e	1.3	1	1
+14	21					image\effect\sfx\其他\剑a_闪电_蓝.3e	1.2	1	1
+14	22					image\effect\sfx\其他\剑a_闪电_蓝.3e	1.3	1	1
+14	23					image\effect\sfx\其他\剑a_闪电_蓝.3e	1.3	1	1
+14	24					image\effect\sfx\其他\剑a_闪电_蓝.3e	1.3	1	1
+14	25					image\effect\sfx\其他\剑b_闪电_蓝.3e	1	1	1
+14	26					image\effect\sfx\其他\剑b_闪电_蓝.3e	1.3	1	1
+14	27					image\effect\sfx\其他\剑b_闪电_蓝.3e	1.4	1	1
+14	28					image\effect\sfx\其他\剑b_闪电_蓝.3e	1.3	1	1
+14	29					image\effect\sfx\其他\剑c_闪电_蓝.3e	1	1	1
+14	30					image\effect\sfx\其他\剑c_闪电_蓝.3e	1	1	1
+14	31					image\effect\sfx\其他\剑c_闪电_蓝.3e	1	1	1
+14	32					image\effect\sfx\其他\剑c_闪电_蓝.3e	1	1	1
+14	33					image\effect\sfx\其他\剑c_闪电_蓝.3e	0.9	1	1
+14	34					image\effect\sfx\其他\剑c_闪电_蓝.3e	1	1	1
+14	37					image\effect\sfx\其他\笔b_闪电_蓝.3e	1.2	1	1
+14	38					image\effect\sfx\其他\笔b_闪电_蓝.3e	1.2	1	1
+14	39					image\effect\sfx\其他\笔b_闪电_蓝.3e	1.2	1	1
+14	40					image\effect\sfx\其他\笔a_闪电_蓝.3e	1.8	1	1
+14	41					image\effect\sfx\其他\笔a_闪电_蓝.3e	1.8	1	1
+14	42					image\effect\sfx\其他\笔b_闪电_蓝.3e	1	1	1
+14	43					image\effect\sfx\其他\笔b_闪电_蓝.3e	1	1	1
+14	44					image\effect\sfx\其他\笔b_闪电_蓝.3e	1.2	1	1
+14	45					image\effect\sfx\其他\笔b_闪电_蓝.3e	1.2	1	1
+14	46					image\effect\sfx\其他\笔b_闪电_蓝.3e	1	1	1
+14	47					image\effect\sfx\其他\笔b_闪电_蓝.3e	0.8	1	1
+14	48					image\effect\sfx\其他\笔b_闪电_蓝.3e	1.4	1	1
+14	49					image\effect\sfx\其他\笔b_闪电_蓝.3e	1.3	1	1
+14	50					image\effect\sfx\其他\笔b_闪电_蓝.3e	1	1	1
+14	52					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	53					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	54					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	55					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	56					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	57					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	58					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	59					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	60					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	61					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	62					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	63					image\effect\sfx\其他\棍b_闪电_蓝.3e	1	1	1
+14	64					image\effect\sfx\其他\棍b_闪电_蓝.3e	1.1	1	1
+14	65					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	66					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	67					image\effect\sfx\其他\棍a_闪电_蓝.3e	1.4	1	1
+14	70					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	71					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	72					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	73					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	74					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	75					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	76					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	77					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	78					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	79					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	80					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	81					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	82					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	83					image\effect\sfx\其他\杖a_闪电_蓝.3e	1.2	0.6	0.6
+14	86	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.7	1	1				
+14	87	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.7	1	1				
+14	88	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.7	1	1				
+14	89	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.9	1	1				
+14	90	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.7	1	1				
+14	91	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.8	1	1				
+14	92	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.8	1	1				
+14	93	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.8	1	1				
+14	94	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.8	1	1				
+14	95	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.8	1	1				
+14	96	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.8	1	1				
+14	97	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.8	1	1				
+14	98	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.9	1	1				
+14	99	image\effect\sfx\其他\琴a_闪电_蓝.3e	0.9	1	1				
+14	102					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.1	1	1
+14	103					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.1	1	1
+14	104					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.1	1	1
+14	105					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.1	1	1
+14	106					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.1	1	1
+14	107					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.2	1	1
+14	108					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.2	1	1
+14	109					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.3	1	1
+14	110					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.3	1	1
+14	111					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.3	1	1
+14	112					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.4	1	1
+14	113					image\effect\sfx\其他\枪b_闪电_蓝.3e	1.2	1	1
+14	114					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.2	1	1
+14	115					image\effect\sfx\其他\枪a_闪电_蓝.3e	1.4	1	1
+14	118	image\effect\sfx\其他\弓a_闪电_蓝.3e	1	1	1				
+14	119	image\effect\sfx\其他\弓a_闪电_蓝.3e	1.2	1	1				
+14	120	image\effect\sfx\其他\弓a_闪电_蓝.3e	1.2	1	1				
+14	121	image\effect\sfx\其他\弓a_闪电_蓝.3e	1.2	1	1.2				
+14	122	image\effect\sfx\其他\弓a_闪电_蓝.3e	1.2	1	1.2				
+14	123	image\effect\sfx\其他\弓a_闪电_蓝.3e	0.7	1	1.3				
+14	124	image\effect\sfx\其他\弓a_闪电_蓝.3e	0.8	1	1.3				
+14	125	image\effect\sfx\其他\弓a_闪电_蓝.3e	0.6	1	1.3				
+14	126	image\effect\sfx\其他\弓a_闪电_蓝.3e	0.7	1	1.3				
+14	127	image\effect\sfx\其他\弓b_闪电_蓝.3e	0.7	1	1.3				
+14	128	image\effect\sfx\其他\弓b_闪电_蓝.3e	0.8	1	1.2				
+14	129	image\effect\sfx\其他\弓b_闪电_蓝.3e	0.8	1	1.2				
+14	130	image\effect\sfx\其他\弓b_闪电_蓝.3e	1	1	1.2				
+14	131	image\effect\sfx\其他\弓b_闪电_蓝.3e	1	1	1.2				
+14	134	image\effect\sfx\其他\双刀a_闪电_蓝.3e	1.4	1	1	image\effect\sfx\其他\双刀a_闪电_蓝.3e	1.4	1	1
+14	135	image\effect\sfx\其他\双刀a_闪电_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀a_闪电_蓝.3e	1.6	1	1
+14	136	image\effect\sfx\其他\双刀d_闪电_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀d_闪电_蓝.3e	1.6	1	1
+14	137	image\effect\sfx\其他\双刀d_闪电_蓝.3e	1.7	1	1	image\effect\sfx\其他\双刀d_闪电_蓝.3e	1.7	1	1
+14	138	image\effect\sfx\其他\双刀b_闪电_蓝.3e	1.6	1	1	image\effect\sfx\其他\双刀b_闪电_蓝.3e	1.6	1	1
+14	139	image\effect\sfx\其他\双刀b_闪电_蓝.3e	2	1	1.5	image\effect\sfx\其他\双刀b_闪电_蓝.3e	2	1	1.5
+14	140	image\effect\sfx\其他\双刀c_闪电_蓝.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_闪电_蓝.3e	2	1.5	1.5
+14	141	image\effect\sfx\其他\双刀c_闪电_蓝.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_闪电_蓝.3e	2	1.5	1.5
+14	142	image\effect\sfx\其他\双刀a_闪电_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_闪电_蓝.3e	3	1	1
+14	143	image\effect\sfx\其他\双刀a_闪电_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_闪电_蓝.3e	3	1	1
+14	144	image\effect\sfx\其他\双刀a_闪电_蓝.3e	2	1	1	image\effect\sfx\其他\双刀a_闪电_蓝.3e	2	1	1
+14	145	image\effect\sfx\其他\双刀e_闪电_蓝.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_闪电_蓝.3e	2	0.5	0.5
+14	146	image\effect\sfx\其他\双刀e_闪电_蓝.3e	2.3	1	1	image\effect\sfx\其他\双刀e_闪电_蓝.3e	2.3	1	1
+14	147	image\effect\sfx\其他\双刀e_闪电_蓝.3e	2	2	2	image\effect\sfx\其他\双刀e_闪电_蓝.3e	2	2	2
+14	150	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	151	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	152	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	153	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	154	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	155	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	156	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	157	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	158	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	159	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	160	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	161	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	162	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+14	163	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1	image\effect\sfx\其他\爪a_闪电_蓝.3e	0.8	0.5	1
+15	0	image\effect\sfx\其他\空手a_发散_紫.3e	1	1	1	image\effect\sfx\其他\空手a_发散_紫.3e	1	1	1
+15	1	image\effect\sfx\其他\空手a_发散_紫.3e	1	1	1	image\effect\sfx\其他\空手a_发散_紫.3e	1	1	1
+15	4					image\effect\sfx\其他\刀a_发散_紫.3e	1	1	1
+15	5					image\effect\sfx\其他\刀a_发散_紫.3e	1.3	1	1
+15	6					image\effect\sfx\其他\刀a_发散_紫.3e	1.3	1	1
+15	7					image\effect\sfx\其他\刀a_发散_紫.3e	1.4	1	1
+15	8					image\effect\sfx\其他\刀a_发散_紫.3e	1.4	1	1
+15	9					image\effect\sfx\其他\刀a_发散_紫.3e	1.4	1	1
+15	10					image\effect\sfx\其他\刀b_发散_紫.3e	1.4	1	1
+15	11					image\effect\sfx\其他\刀b_发散_紫.3e	1.5	1	1
+15	12					image\effect\sfx\其他\刀b_发散_紫.3e	1.1	1	1
+15	13					image\effect\sfx\其他\刀b_发散_紫.3e	1.4	1	1
+15	14					image\effect\sfx\其他\刀c_发散_紫.3e	1.2	1	1
+15	15					image\effect\sfx\其他\刀c_发散_紫.3e	1.2	1	1
+15	16					image\effect\sfx\其他\刀c_发散_紫.3e	1.1	1	1
+15	17					image\effect\sfx\其他\刀d_发散_紫.3e	1	1	1
+15	19					image\effect\sfx\其他\剑a_发散_紫.3e	1.2	1	1
+15	20					image\effect\sfx\其他\剑a_发散_紫.3e	1.3	1	1
+15	21					image\effect\sfx\其他\剑a_发散_紫.3e	1.2	1	1
+15	22					image\effect\sfx\其他\剑a_发散_紫.3e	1.3	1	1
+15	23					image\effect\sfx\其他\剑a_发散_紫.3e	1.3	1	1
+15	24					image\effect\sfx\其他\剑a_发散_紫.3e	1.3	1	1
+15	25					image\effect\sfx\其他\剑b_发散_紫.3e	1	1	1
+15	26					image\effect\sfx\其他\剑b_发散_紫.3e	1.3	1	1
+15	27					image\effect\sfx\其他\剑b_发散_紫.3e	1.4	1	1
+15	28					image\effect\sfx\其他\剑b_发散_紫.3e	1.3	1	1
+15	29					image\effect\sfx\其他\剑c_发散_紫.3e	0.9	1	1
+15	30					image\effect\sfx\其他\剑c_发散_紫.3e	0.9	1	1
+15	31					image\effect\sfx\其他\剑c_发散_紫.3e	0.9	1	1
+15	32					image\effect\sfx\其他\剑c_发散_紫.3e	0.9	1	1
+15	33					image\effect\sfx\其他\剑c_发散_紫.3e	0.9	1	1
+15	34					image\effect\sfx\其他\剑c_发散_紫.3e	0.9	1	1
+15	37					image\effect\sfx\其他\笔b_发散_紫.3e	1.5	1	1
+15	38					image\effect\sfx\其他\笔b_发散_紫.3e	1.5	1	1
+15	39					image\effect\sfx\其他\笔b_发散_紫.3e	1.5	1	1
+15	40					image\effect\sfx\其他\笔a_发散_紫.3e	2	1	1
+15	41					image\effect\sfx\其他\笔a_发散_紫.3e	2	1	1
+15	42					image\effect\sfx\其他\笔b_发散_紫.3e	1.5	1	1
+15	43					image\effect\sfx\其他\笔b_发散_紫.3e	1.5	1	1
+15	44					image\effect\sfx\其他\笔b_发散_紫.3e	1.6	1	1
+15	45					image\effect\sfx\其他\笔b_发散_紫.3e	1.6	1	1
+15	46					image\effect\sfx\其他\笔b_发散_紫.3e	1.6	1	1
+15	47					image\effect\sfx\其他\笔b_发散_紫.3e	1.1	1	1
+15	48					image\effect\sfx\其他\笔b_发散_紫.3e	1.4	1	1
+15	49					image\effect\sfx\其他\笔b_发散_紫.3e	1.8	1	1
+15	50					image\effect\sfx\其他\笔b_发散_紫.3e	1.4	1	1
+15	52					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	53					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	54					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	55					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	56					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	57					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	58					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	59					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	60					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	61					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	62					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	63					image\effect\sfx\其他\棍b_发散_紫.3e	1	1	1
+15	64					image\effect\sfx\其他\棍b_发散_紫.3e	1.1	1	1
+15	65					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	66					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	67					image\effect\sfx\其他\棍a_发散_紫.3e	1.4	1	1
+15	70					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	71					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	72					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	73					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	74					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	75					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	76					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	77					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	78					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	79					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	80					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	81					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	82					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	83					image\effect\sfx\其他\杖a_发散_紫.3e	1.2	0.6	0.6
+15	86	image\effect\sfx\其他\琴a_发散_紫.3e	0.9	1	1				
+15	87	image\effect\sfx\其他\琴a_发散_紫.3e	0.9	1	1				
+15	88	image\effect\sfx\其他\琴a_发散_紫.3e	0.9	1	1				
+15	89	image\effect\sfx\其他\琴a_发散_紫.3e	1.1	1	1				
+15	90	image\effect\sfx\其他\琴a_发散_紫.3e	0.9	1	1				
+15	91	image\effect\sfx\其他\琴a_发散_紫.3e	1	1	1				
+15	92	image\effect\sfx\其他\琴a_发散_紫.3e	1	1	1				
+15	93	image\effect\sfx\其他\琴a_发散_紫.3e	1	1	1				
+15	94	image\effect\sfx\其他\琴a_发散_紫.3e	1	1	1				
+15	95	image\effect\sfx\其他\琴a_发散_紫.3e	1	1	1				
+15	96	image\effect\sfx\其他\琴a_发散_紫.3e	1	1	1				
+15	97	image\effect\sfx\其他\琴a_发散_紫.3e	1	1	1				
+15	98	image\effect\sfx\其他\琴a_发散_紫.3e	1.2	1	1				
+15	99	image\effect\sfx\其他\琴a_发散_紫.3e	1.2	1	1				
+15	102					image\effect\sfx\其他\枪a_发散_紫.3e	1.1	1	1
+15	103					image\effect\sfx\其他\枪a_发散_紫.3e	1.1	1	1
+15	104					image\effect\sfx\其他\枪a_发散_紫.3e	1.1	1	1
+15	105					image\effect\sfx\其他\枪a_发散_紫.3e	1.1	1	1
+15	106					image\effect\sfx\其他\枪a_发散_紫.3e	1.1	1	1
+15	107					image\effect\sfx\其他\枪a_发散_紫.3e	1.2	1	1
+15	108					image\effect\sfx\其他\枪a_发散_紫.3e	1.2	1	1
+15	109					image\effect\sfx\其他\枪a_发散_紫.3e	1.3	1	1
+15	110					image\effect\sfx\其他\枪a_发散_紫.3e	1.3	1	1
+15	111					image\effect\sfx\其他\枪a_发散_紫.3e	1.3	1	1
+15	112					image\effect\sfx\其他\枪a_发散_紫.3e	1.4	1	1
+15	113					image\effect\sfx\其他\枪b_发散_紫.3e	1.2	1	1
+15	114					image\effect\sfx\其他\枪a_发散_紫.3e	1.2	1	1
+15	115					image\effect\sfx\其他\枪a_发散_紫.3e	1.4	1	1
+15	118	image\effect\sfx\其他\弓a_发散_紫.3e	1	1	1				
+15	119	image\effect\sfx\其他\弓a_发散_紫.3e	1.2	1	1				
+15	120	image\effect\sfx\其他\弓a_发散_紫.3e	1.2	1	1				
+15	121	image\effect\sfx\其他\弓a_发散_紫.3e	1.2	1	1.2				
+15	122	image\effect\sfx\其他\弓a_发散_紫.3e	1.2	1	1.2				
+15	123	image\effect\sfx\其他\弓b_发散_紫.3e	0.7	1	1.3				
+15	124	image\effect\sfx\其他\弓b_发散_紫.3e	0.8	1	1.3				
+15	125	image\effect\sfx\其他\弓b_发散_紫.3e	0.6	1	1.3				
+15	126	image\effect\sfx\其他\弓b_发散_紫.3e	0.7	1	1.3				
+15	127	image\effect\sfx\其他\弓b_发散_紫.3e	0.7	1	1.3				
+15	128	image\effect\sfx\其他\弓b_发散_紫.3e	0.8	1	1.2				
+15	129	image\effect\sfx\其他\弓b_发散_紫.3e	0.8	1	1.2				
+15	130	image\effect\sfx\其他\弓b_发散_紫.3e	1	1	1.2				
+15	131	image\effect\sfx\其他\弓b_发散_紫.3e	1	1	1.2				
+15	134	image\effect\sfx\其他\双刀a_发散_紫.3e	1.4	1	1	image\effect\sfx\其他\双刀a_发散_紫.3e	1.4	1	1
+15	135	image\effect\sfx\其他\双刀a_发散_紫.3e	1.6	1	1	image\effect\sfx\其他\双刀a_发散_紫.3e	1.6	1	1
+15	136	image\effect\sfx\其他\双刀d_发散_紫.3e	1.6	1	1	image\effect\sfx\其他\双刀d_发散_紫.3e	1.6	1	1
+15	137	image\effect\sfx\其他\双刀d_发散_紫.3e	1.7	1	1	image\effect\sfx\其他\双刀d_发散_紫.3e	1.7	1	1
+15	138	image\effect\sfx\其他\双刀b_发散_紫.3e	1.6	1	1	image\effect\sfx\其他\双刀b_发散_紫.3e	1.6	1	1
+15	139	image\effect\sfx\其他\双刀b_发散_紫.3e	2	1	1.5	image\effect\sfx\其他\双刀b_发散_紫.3e	2	1	1.5
+15	140	image\effect\sfx\其他\双刀c_发散_紫.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_发散_紫.3e	2	1.5	1.5
+15	141	image\effect\sfx\其他\双刀c_发散_紫.3e	2	1.5	1.5	image\effect\sfx\其他\双刀c_发散_紫.3e	2	1.5	1.5
+15	142	image\effect\sfx\其他\双刀a_发散_紫.3e	2	1	1	image\effect\sfx\其他\双刀a_发散_紫.3e	3	1	1
+15	143	image\effect\sfx\其他\双刀a_发散_紫.3e	2	1	1	image\effect\sfx\其他\双刀a_发散_紫.3e	3	1	1
+15	144	image\effect\sfx\其他\双刀a_发散_紫.3e	2	1	1	image\effect\sfx\其他\双刀a_发散_紫.3e	2	1	1
+15	145	image\effect\sfx\其他\双刀e_发散_紫.3e	2	0.5	0.5	image\effect\sfx\其他\双刀e_发散_紫.3e	2	0.5	0.5
+15	146	image\effect\sfx\其他\双刀e_发散_紫.3e	2.3	1	1	image\effect\sfx\其他\双刀e_发散_紫.3e	2.3	1	1
+15	147	image\effect\sfx\其他\双刀e_发散_紫.3e	2	2	2	image\effect\sfx\其他\双刀e_发散_紫.3e	2	2	2
+15	150	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	151	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	152	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	153	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	154	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	155	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	156	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	157	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	158	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	159	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	160	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	161	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	162	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1
+15	163	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1	image\effect\sfx\其他\爪a_发散_紫.3e	1	1	1

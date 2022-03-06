@@ -1,0 +1,63 @@
+MaxLevel	Attribute_1	Event_1	LastTime_1	Value_1	Rate_1	Attribute_2	Event_2	LastTime_2	Value_2	Rate_2	Attribute_3	Event_3	LastTime_3	Value_3	Rate_3	ActiveTime	Description
+7	state_life_max_point_add			5000,35000													生命上限增加/1
+7	state_add_vitality			60,420													根骨增加/1
+7	state_add_strength			60,420													力量增加/1
+7	state_add_dexterity			60,420													身法增加/1
+7	state_add_observe			60,420													洞察增加/1
+7	state_add_energy			60,420													内功增加/1
+7	state_add_allability			30,210													所有属性增加/1
+1	state_npc_event_2_magic			65536580,65536580		state_diffuse_skill_effect			1741291570,1741291570		state_diffuse_skill_effect			1740636210,1740636210			被攻击时有6%概率每半秒回复3%生命,持续5秒<enter>周围友军生命上限提高5%<enter>周围友军施展速度提高5%
+1	state_npc_event_2_magic			65536610,65536610													被攻击时有5%概率每半秒回复2.5%生命,持续5秒
+1	state_npc_event_2_magic			65536640,65536640													被攻击时有4%概率每半秒回复2%生命,持续5秒
+1	state_npc_event_2_magic			65536670,65536670													被攻击时有3%概率每半秒回复1.5%生命,持续5秒
+1	state_npc_event_2_magic			65536700,65536700													被攻击时有2%概率每半秒回复1%生命,持续5秒
+1	state_npc_event_2_magic			65536730,65536730													被攻击时有1%概率每半秒回复0.5%生命,持续5秒
+1	state_npc_event_2_magic			65536590,65536590		state_diffuse_skill_effect			1741291570,1741291570		state_diffuse_skill_effect			1740636210,1740636210			被攻击时有12%概率提高傲骨点数100点,持续5秒<enter>周围友军生命上限提高5%<enter>周围友军施展速度提高5%
+1	state_npc_event_2_magic			65536620,65536620													被攻击时有10%概率提高傲骨点数100点,持续5秒
+1	state_npc_event_2_magic			65536650,65536650													被攻击时有8%概率提高傲骨点数100点,持续5秒
+1	state_npc_event_2_magic			65536680,65536680													被攻击时有6%概率提高傲骨点数100点,持续5秒
+1	state_npc_event_2_magic			65536710,65536710													被攻击时有4%概率提高傲骨点数100点,持续5秒
+1	state_npc_event_2_magic			65536740,65536740													被攻击时有2%概率提高傲骨点数100点,持续5秒
+1	state_npc_event_2_magic			65536600,65536600		state_diffuse_skill_effect			1741291570,1741291570		state_diffuse_skill_effect			1740636210,1740636210			攻击时有12%减少目标40点护甲,持续5秒<enter>周围友军生命上限提高5%<enter>周围友军施展速度提高5%
+1	state_npc_event_2_magic			65536630,65536630													攻击时有10%减少目标40点护甲,持续5秒
+1	state_npc_event_2_magic			65536660,65536660													攻击时有8%减少目标40点护甲,持续5秒
+1	state_npc_event_2_magic			65536690,65536690													攻击时有6%减少目标40点护甲,持续5秒
+1	state_npc_event_2_magic			65536620,65536620													攻击时有4%减少目标40点护甲,持续5秒
+1	state_npc_event_2_magic			65536650,65536650													攻击时有2%减少目标40点护甲,持续5秒
+1	state_aogu_point_add			400,400		state_element_all_attack_point_add			200,200		state_element_all_defend_point_add			200,200			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			360,360		state_element_all_attack_point_add			150,150		state_element_all_defend_point_add			150,150			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			320,320		state_element_all_attack_point_add			120,120		state_element_all_defend_point_add			120,120			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			300,300		state_element_all_attack_point_add			120,120		state_element_all_defend_point_add			120,120			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			280,280		state_element_all_attack_point_add			100,100		state_element_all_defend_point_add			100,100			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			260,260		state_element_all_attack_point_add			100,100		state_element_all_defend_point_add			100,100			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			240,240		state_element_all_attack_point_add			80,80		state_element_all_defend_point_add			80,80			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			220,220		state_element_all_attack_point_add			80,80		state_element_all_defend_point_add			80,80			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			200,200		state_element_all_attack_point_add			60,60		state_element_all_defend_point_add			60,60			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			180,180		state_element_all_attack_point_add			60,60		state_element_all_defend_point_add			60,60			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			160,160		state_element_all_attack_point_add			40,40		state_element_all_defend_point_add			40,40			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			140,140		state_element_all_attack_point_add			40,40		state_element_all_defend_point_add			40,40			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			120,120		state_element_all_attack_point_add			30,30		state_element_all_defend_point_add			30,30			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			100,100		state_element_all_attack_point_add			30,30		state_element_all_defend_point_add			30,30			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			80,80		state_element_all_attack_point_add			20,20		state_element_all_defend_point_add			20,20			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			60,60		state_element_all_attack_point_add			20,20		state_element_all_defend_point_add			20,20			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			40,40		state_element_all_attack_point_add			10,10		state_element_all_defend_point_add			10,10			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			20,20		state_element_all_attack_point_add			10,10		state_element_all_defend_point_add			10,10			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_m_attack_percent_add			50,50		state_p_attack_percent_add			50,50		state_damage_point			1000,1000			内外攻伤害提高/1%<enter>伤害增加/3
+4	state_m_attack_percent_add			10,40		state_p_attack_percent_add			10,40		state_damage_point			200,800			内外攻伤害提高/1%<enter>伤害增加/3
+1	state_aogu_point_add			320,320		state_element_all_attack_point_add			100,100		state_element_all_defend_point_add			100,100			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			280,280		state_element_all_attack_point_add			80,80		state_element_all_defend_point_add			80,80			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			260,260		state_element_all_attack_point_add			80,80		state_element_all_defend_point_add			80,80			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			240,240		state_element_all_attack_point_add			80,80		state_element_all_defend_point_add			80,80			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			220,220		state_element_all_attack_point_add			60,60		state_element_all_defend_point_add			60,60			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			200,200		state_element_all_attack_point_add			60,60		state_element_all_defend_point_add			60,60			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			180,180		state_element_all_attack_point_add			40,40		state_element_all_defend_point_add			40,40			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			160,160		state_element_all_attack_point_add			40,40		state_element_all_defend_point_add			40,40			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			140,140		state_element_all_attack_point_add			30,30		state_element_all_defend_point_add			30,30			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			120,120		state_element_all_attack_point_add			30,30		state_element_all_defend_point_add			30,30			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			100,100		state_element_all_attack_point_add			20,20		state_element_all_defend_point_add			20,20			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			80,80		state_element_all_attack_point_add			20,20		state_element_all_defend_point_add			20,20			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			60,60		state_element_all_attack_point_add			10,10		state_element_all_defend_point_add			10,10			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			40,40		state_element_all_attack_point_add			10,10		state_element_all_defend_point_add			10,10			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			30,30		state_element_all_attack_point_add			10,10		state_element_all_defend_point_add			10,10			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			20,20		state_element_all_attack_point_add			10,10		state_element_all_defend_point_add			10,10			傲骨点数增加/1<enter>全五行攻防属性增加/2
+1	state_aogu_point_add			10,10		state_element_all_attack_point_add			10,10		state_element_all_defend_point_add			10,10			傲骨点数增加/1<enter>全五行攻防属性增加/2

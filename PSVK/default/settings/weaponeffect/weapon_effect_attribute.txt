@@ -1,0 +1,8 @@
+MaxLevel	Attribute_1	Event_1	LastTime_1	Value_1	Rate_1	Attribute_2	Event_2	LastTime_2	Value_2	Rate_2	Attribute_3	Event_3	LastTime_3	Value_3	Rate_3	ActiveTime	Description
+7	state_life_max_point_add			5000,35000													T¨ng Sinh lùc /1
+7	state_add_vitality			60,420													G©n cèt t¨ng: /1 
+7	state_add_strength			60,420													Søc m¹nh t¨ng /1 
+7	state_add_dexterity			60,420													Th©n ph¸p t¨ng: /1 
+7	state_add_observe			60,420													Linh ho¹t t¨ng /1 
+7	state_add_energy			60,420													Néi c«ng t¨ng /1 
+7	state_add_allability			30,210													Kh¸ng tÊt c¶ t¨ng: /1 

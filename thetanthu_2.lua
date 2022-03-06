@@ -18,37 +18,31 @@ function OnUse(nItem)
     local tSay = {}
     local nRoute = GetPlayerRoute();
     if nRoute <= 0 then
-        tSay = {
-            "Gia NhËp m«n ph¸i (ChuyÓn sinh 0 cÊp 90)/JoinRoute_UpdateLevel",
-            format("%s/UpdateLevel_55", "\nT¨ng ChuyÓn sinh 0 cÊp 55"),
-            format("%s/ThuKho_Meow", "\nMë r­¬ng Meow ¬i")
-        }
+        tSay = {"Gia NhËp m«n ph¸i (ChuyÓn sinh 0 cÊp 90)/JoinRoute_UpdateLevel",
+                format("%s/UpdateLevel_55", "\nT¨ng ChuyÓn sinh 0 cÊp 55"),
+                format("%s/ThuKho_Meow", "\nMë r­¬ng Meow ¬i")}
     else
-        tSay = {
-            ----------------------------------------
-            "++ NhËp Giftcode\n/Enter_Giftcode",
-            ----------------------------------------
-            "ChuyÓn sinh/player_chuyen_sinh",
-            ----------------------------------------
-            "\nNhËn MËt tÞch vµ yÕu quyÕt/Get_Book",
-            ----------------------------------------
-            format("%s/Get_TB", "NhËn trang bÞ"), -- trang bi
-            format("%s/Get_QuanHam", "NhËn Qu©n hµm"), -- Qu©n hµm
-            format("%s/Get_HoTroDauGame", "NhËn hç trî ®Çu game"), -- ho tro nhan vat
-            format("%s/Get_VP", "NhËn vËt phÈm"), -- vat pham
-            format("%s/Get_NL", "NhËn nguyªn liÖu"), -- nguyen lieu 
-            format("%s/Get_Danh_Hieu", "NhËn danh hiÖu"), -- danh hieu
-            format("%s/GetJingMai", "Thao t¸c kinh m¹ch"), -- kinh mach
-            format("%s/TongOperation", "Bang héi"), -- bang hoi
-            format("%s/Pet_OP", "Phôc sinh Thó C­ng"), -- thu nuoi
-            format("%s/Get_VPNV", "NhËn vËt phÈm nhiÖm vô"), -- vat pham nhiem vu   
-            format("%s/ThuKho_Meow", "Meow ¬i më r­¬ng"), -- Ruong chua do
-            format("%s/Mo_Shop_TapHoa", "Meow ¬i, tui muèn B¸n vËt phÈm"), -- ban do
-            format("%s/Mo_Shop_ByID", "Më shop theo ID") -- mo shop
+        tSay = { ----------------------------------------
+        format("%s/weapon_effect_setting", "HiÖu øng vò khÝ\n"), ----
+        "++ NhËp Giftcode\n/Enter_Giftcode", ----------------------------------------
+        "ChuyÓn sinh/player_chuyen_sinh", ----------------------------------------
+        "\nNhËn MËt tÞch vµ yÕu quyÕt/Get_Book", ----------------------------------------
+        format("%s/Get_TB", "NhËn trang bÞ"), -- trang bi
+        format("%s/Get_QuanHam", "NhËn Qu©n hµm"), -- Qu©n hµm
+        format("%s/Get_HoTroDauGame", "NhËn hç trî ®Çu game"), -- ho tro nhan vat
+        format("%s/Get_VP", "NhËn vËt phÈm"), -- vat pham
+        format("%s/Get_NL", "NhËn nguyªn liÖu"), -- nguyen lieu 
+        format("%s/Get_Danh_Hieu", "NhËn danh hiÖu"), -- danh hieu
+        format("%s/GetJingMai", "Thao t¸c kinh m¹ch"), -- kinh mach
+        format("%s/TongOperation", "Bang héi"), -- bang hoi
+        format("%s/Pet_OP", "Phôc sinh Thó C­ng"), -- thu nuoi
+        format("%s/Get_VPNV", "NhËn vËt phÈm nhiÖm vô"), -- vat pham nhiem vu   
+        format("%s/ThuKho_Meow", "Meow ¬i më r­¬ng"), -- Ruong chua do
+        format("%s/Mo_Shop_TapHoa", "Meow ¬i, tui muèn B¸n vËt phÈm"), -- ban do
+        format("%s/Mo_Shop_ByID", "Më shop theo ID") -- mo shop
         }
         if 3 == nRoute then
-            tinsert(tSay,
-                "NhËn Thiªn PhËt Ch©u vµ Phôc Ma Chó/Give_ZhuzhuZhouzhou")
+            tinsert(tSay, "NhËn Thiªn PhËt Ch©u vµ Phôc Ma Chó/Give_ZhuzhuZhouzhou")
         end
         if 6 == nRoute then
             tinsert(tSay, "NhËn ¸m khÝ vµ c¬ quan/Give_JiguanAnqi")
@@ -75,6 +69,32 @@ function OnUse(nItem)
     tinsert(tSay, "\nThanh lÝ tói/ClearBagAllItem");
     tinsert(tSay, "\nExit/nothing");
     Say(g_szTitle .. "What do you want?", getn(tSay), tSay);
+end
+function weapon_effect_setting()
+    AskClientForString("choose_weapon_effect", "", 1, 9999, "NhËp sè (1 - 42)")
+end
+function choose_weapon_effect(nVar)
+    local local_Key_Effect_1 = {"ThiÕt Cèt", "B¸ch ChiÕn", "Ch­íc NhËt", "TuÊn DËt", "§µo Lý", "Danh Tóc",
+                                "L¹c Hµ", "L¨ng Tiªu", "PhÇn V©n", "§o¹n Giao", "C¸i ThÕ", "Ph¸ Qu©n",
+                                "Hµo m«n", "H¸m Thiªn", "Tinh Di"}
+    local local_Key_Effect_2 = "eff"
+    local num = tonumber(nVar)
+    if num < 16 then
+        for i = 1, 15, 1 do
+            if num == i then
+                BindWeaponEffect(local_Key_Effect_1[i], 7 * 24 * 3600)
+                return
+            end
+        end
+    else
+        for i = 16, 42, 1 do
+            if num == i then
+                BindWeaponEffect(local_Key_Effect_2..tostring(i), 7 * 24 * 3600)
+                return
+            end
+        end
+    end
+
 end
 function Enter_Giftcode()
     AskClientForString("CODECHECK1", "", 1, 9999, "NhËp GiftCode")
@@ -133,71 +153,65 @@ function SHOPCODE1(nVar)
 end
 -- ChuyÓn sinh ----------------------------------------------------------------------------------------------------
 function player_chuyen_sinh()
-    local tSay = {
-        "\nChuyÓn sinh 7 cÊp 90/player_reborn", -- chuyen sinh 7 cap 90
-        "\nThay ®æi h­íng Phôc Sinh (Level 90)/change_PhucSinh", -- thay doi huong phuc sinh
-        "\nNhËn l¹i Ên/confirm_get_translife_item" -- NhËn lï¿½iï¿½ï¿½n 
+    local tSay = {"\nChuyÓn sinh 7 cÊp 90/player_reborn", -- chuyen sinh 7 cap 90
+    "\nThay ®æi h­íng Phôc Sinh (Level 90)/change_PhucSinh", -- thay doi huong phuc sinh
+    "\nNhËn l¹i Ên/confirm_get_translife_item" -- NhËn lï¿½iï¿½ï¿½n 
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "ChuyÓn sinh", getn(tSay), tSay)
 end
 -- Trang bÞ ----------------------------------------------------------------------------------------------------
 function Get_TB()
-    local tSay = {
-        format("%s/Get_YaoYang_10", "Trang bÞ DiÖu d­¬ng +15"), --
-        format("%s/GetCT", "NhËn Trang bÞ chiÕn tr­êng +15"),
-        format("%s/Process_Equip_LingTu", "NhËn Linh ®å +15"),
-        format("%s/Get_JinShe", "Trang bÞ Êm chÕ +15/"), --
-        format("%s/Process_SanJianTao", "NhËn trang Kim xµ ngÉu nhiªn 4 sao"), --
-        format("%s/Get_UL10", "NhËn uÈn linh 10") --
+    local tSay = {format("%s/Get_YaoYang_10", "Trang bÞ DiÖu d­¬ng +15"), --
+    format("%s/GetCT", "NhËn Trang bÞ chiÕn tr­êng +15"), format("%s/Process_Equip_LingTu", "NhËn Linh ®å +15"),
+                  format("%s/Get_JinShe", "Trang bÞ Êm chÕ +15"), --
+    format("%s/Process_SanJianTao", "NhËn trang Kim xµ ngÉu nhiªn 4 sao"), --
+    format("%s/Get_UL10", "NhËn uÈn linh 10") --
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "Chän trang bÞ", getn(tSay), tSay)
 end
 -- HÃ§ trï¿½ ----------------------------------------------------------------------------------------------------
 function Get_HoTroDauGame()
-    local tSay = {
-        "NhËn 4000 vµng/Get_Money", --- Vang
-        "NhËn 100.000 kim phiÕu/Get_Kimphieu", -- kim phieu
-        "NhËn 10.000 vËt phÈm xu/Get_VPXu", -- VP Xu
-        "NhËn 1.000.000.000 kinh nghiÖm/Get_exp", -- kim nghiem
-        "NhËn DV + SM/Get_SMDV", -- su mon, danh vong
-        "NhËn CT + TLCT/Get_DiemCT", -- CT, TL
-        "NhËn tinh lôc/Get_Energy", ------ tinh luc
-        format("%s/getTiLi", "NhËn thÓ lùc") -- the luc        
+    local tSay = {"NhËn 4000 vµng/Get_Money", --- Vang
+    "NhËn 100.000 kim phiÕu/Get_Kimphieu", -- kim phieu
+    "NhËn 10.000 vËt phÈm xu/Get_VPXu", -- VP Xu
+    "NhËn 1.000.000.000 kinh nghiÖm/Get_exp", -- kim nghiem
+    "NhËn DV + SM/Get_SMDV", -- su mon, danh vong
+    "NhËn CT + TLCT/Get_DiemCT", -- CT, TL
+    "NhËn tinh lôc/Get_Energy", ------ tinh luc
+    format("%s/getTiLi", "NhËn thÓ lùc") -- the luc        
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "NhËn hç trî ®Çu game", getn(tSay), tSay)
 end
 --- VÃ‹t phÈm ----------------------------------------------------------------------------------------------------
 function Get_VP()
-    local tSay = {
-        "NhËn ThÇn hµnh b¶o ®iÓn/Get_Thanhanh", -- than hanh 
-        "NhËn D­îc phÈm th­êng/Get_DuocPham", -- duoc pham  
-        "NhËn D­îc phÈm xÞn/Get_DuocPham2", -- duoc pham xÃžn 
-        "NhËn QCVD/Get_QCVD", -- QCVD
-        "NhËn §Êu hån/Get_DauHon", -- dau hon 
-        "NhËn Thó c­ìi/Get_ThuCuoi" -- thu cuoi
+    local tSay = {"NhËn ThÇn hµnh b¶o ®iÓn/Get_Thanhanh", -- than hanh 
+    "NhËn D­îc phÈm th­êng/Get_DuocPham", -- duoc pham  
+    "NhËn D­îc phÈm xÞn/Get_DuocPham2", -- duoc pham xÃžn 
+    "NhËn QCVD/Get_QCVD", -- QCVD
+    "NhËn §Êu hån/Get_DauHon", -- dau hon 
+    "NhËn Thó c­ìi/Get_ThuCuoi" -- thu cuoi
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "Chän vËt phÈm", getn(tSay), tSay)
 end
 -- danh hiÖu ----------------------------------------------------------------------------------------------------
 function Get_Danh_Hieu()
-    local tSay = {
-        "NhËn danh hiÖu Du Hiep/Get_DuHiep", -- du hiep  
-        "NhËn danh hiÖu Ung Duong/Get_UngDuong", -- ung duong
-        "NhËn danh hiÖu Chien Cuong/Get_ChienCuong", -- chien cuong
-        "NhËn danh hiÖu VLBHS/Get_VLBHS", -- vo lam bach hieu sinh
-        "NhËn danh hiÖu Ngao the vo song/Get_NgaoTheVoSong", -- ngao the vo song
-        "NhËn danh hiÖu Ba Vuong/Get_BaVuong", -- ba vuong
-        "NhËn danh hiÖu Dai Hiep/Get_DaiHiep", -- dai hiep 
-        "NhËn danh hiÖu Tinh Anh DoGet_TinhAnhDo", -- tinh anh do
-        "NhËn danh hiÖu Tinh Anh Tim/Get_TinhAnhTim", -- tinh anh tim
-        "NhËn danh hiÖu bang/Get_DHB", -- danh hieu bang    
-        "NhËn danh hiÖu NEW/Get_DHNew", -- danh hieu moi   
-        "------------------------------/nothing", -- danh hieu moi   
-        "\nNhËn tat ca danh hieu/Get_AllDH" -- nhan het danh hieu
+    local tSay = {"NhËn danh hiÖu Du Hiep/Get_DuHiep", -- du hiep  
+    "NhËn danh hiÖu Ung Duong/Get_UngDuong", -- ung duong
+    "NhËn danh hiÖu Chien Cuong/Get_ChienCuong", -- chien cuong
+    "NhËn danh hiÖu VLBHS/Get_VLBHS", -- vo lam bach hieu sinh
+    "NhËn danh hiÖu Ngao the vo song/Get_NgaoTheVoSong", -- ngao the vo song
+    "NhËn danh hiÖu Ba Vuong/Get_BaVuong", -- ba vuong
+    "NhËn danh hiÖu Dai Hiep/Get_DaiHiep", -- dai hiep 
+    "NhËn danh hiÖu Tinh Anh DoGet_TinhAnhDo", -- tinh anh do
+    "NhËn danh hiÖu Tinh Anh Tim/Get_TinhAnhTim", -- tinh anh tim
+    "NhËn danh hiÖu bang/Get_DHB", -- danh hieu bang    
+    "NhËn danh hiÖu NEW/Get_DHNew", -- danh hieu moi   
+    "------------------------------/nothing", -- danh hieu moi   
+    "\nNhËn tat ca danh hieu/Get_AllDH" -- nhan het danh hieu
     };
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "Chän danh hiÖu", getn(tSay), tSay)
@@ -300,13 +314,12 @@ function Get_NgaoTheVoSong()
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_NL()
-    local tSay = {
-        "NhËn nguyªn liÖu c­êng ho¸/Get_Enhance", -- nguyen lieu cuong hoa
-        "NhËn ®¸ quý/Get_Gem", -- nhan da quy
-        "NhËn TCL + TMKL/Get_TCL_TMKL", --- TCL TMKL
-        "NhËn TKL/getTianJiaoLing", --- TKL
-        "Trång c©y tø linh/Plant_TuLinh", -- cay tu linh
-        "Ky nang sèng/Life_Skill" -- lifeskill
+    local tSay = {"NhËn nguyªn liÖu c­êng ho¸/Get_Enhance", -- nguyen lieu cuong hoa
+    "NhËn ®¸ quý/Get_Gem", -- nhan da quy
+    "NhËn TCL + TMKL/Get_TCL_TMKL", --- TCL TMKL
+    "NhËn TKL/getTianJiaoLing", --- TKL
+    "Trång c©y tø linh/Plant_TuLinh", -- cay tu linh
+    "Ky nang sèng/Life_Skill" -- lifeskill
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "Chän nguyªn liÖu", getn(tSay), tSay)
@@ -322,8 +335,7 @@ function Get_TCL_TMKL()
     AddItem(2, 1, 30370, 99) -- TMKL
 end
 function Get_VPNV()
-    local tSay = {
-        "10 §u«i Thá/Get_DuoiTho" -- Duoi tho
+    local tSay = {"10 §u«i Thá/Get_DuoiTho" -- Duoi tho
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "Chän vËt phÈm nhiÖm vô", getn(tSay), tSay)
@@ -332,11 +344,10 @@ function Get_DuoiTho()
     AddItem(2, 1, 2, 10)
 end
 function Get_QuanHam()
-    local tSay = {
-        "\nTèng Nguyªn So¸i/Get_QuanHamTongNS", -- tong nguyen soai
-        "\nTèng §¹i T­íng/Get_QuanHamTongTQ", -- tong tuong quan
-        "\nLiªu Nguyªn So¸i/Get_QuanHamLieuNS", -- lieu nguyen soai
-        "\nLiªu §¹i T­íng/Get_QuanHamLieuTQ" -- lieu tuong quan
+    local tSay = {"\nTèng Nguyªn So¸i/Get_QuanHamTongNS", -- tong nguyen soai
+    "\nTèng §¹i T­íng/Get_QuanHamTongTQ", -- tong tuong quan
+    "\nLiªu Nguyªn So¸i/Get_QuanHamLieuNS", -- lieu nguyen soai
+    "\nLiªu §¹i T­íng/Get_QuanHamLieuTQ" -- lieu tuong quan
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "NhËn Qu©n hµm", getn(tSay), tSay)
@@ -409,14 +420,11 @@ function Process_SanJianTao()
         return 0;
     end
     for i = 26, 28 do
-        local pifeng, pIndex = AddItem(0, 154, i, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, 15)
+        local pifeng, pIndex = AddItem(0, 154, i, 1, 1, -1, -1, -1, -1, -1, -1, 0, 15)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, i, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, 15)
+        local huizhang, hIndex = AddItem(0, 153, i, 1, 1, -1, -1, -1, -1, -1, -1, 0, 15)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 152, i, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            15)
+        local xie, xIndex = AddItem(0, 152, i, 1, 1, -1, -1, -1, -1, -1, -1, 0, 15)
         FeedItem(xIndex, 1000000)
     end
 end
@@ -530,122 +538,88 @@ end
 --------------------------------------------------Ã‘Â¡Ã”Ã±ÃƒÃ…Ã…Ã‰Â¿ÂªÃŠÂ¼--------------------------------------
 -- Gia nhËp Ph¸i
 function JoinRoute_UpdateLevel()
-    local tMenu = {
-        "ThiÕu L©m/join_sl", --
-        "Vâ §ang/join_wd", --
-        "Nga My/join_em", --
-        "C¸i Bang/join_gb", --
-        "§­êng M«n/join_tm", --
-        "D­¬ng M«n/join_ym", --
-        "Ngò §éc/join_wdu", --
-        "C«n L«n/join_kl", --
-        "Thóy Yªn/join_cy", --
-        "Minh Gi¸o/join_mgb", --
-        "\nRa khái/nothing"
-    };
+    local tMenu = {"ThiÕu L©m/join_sl", --
+    "Vâ §ang/join_wd", --
+    "Nga My/join_em", --
+    "C¸i Bang/join_gb", --
+    "§­êng M«n/join_tm", --
+    "D­¬ng M«n/join_ym", --
+    "Ngò §éc/join_wdu", --
+    "C«n L«n/join_kl", --
+    "Thóy Yªn/join_cy", --
+    "Minh Gi¸o/join_mgb", --
+    "\nRa khái/nothing"};
     Say("Ng­¬i muèn gia nhËp l­u ph¸i g×?", getn(tMenu), tMenu);
 end
 
 function join_mgb()
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "Minh Gi¸o Th¸nh ChiÕn/#enter_mp(25)",
-        "Minh Gi¸o TrËn Binh/#enter_mp(26)",
-        "Minh Gi¸o HuyÕt Nh©n/#enter_mp(27)", "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "Minh Gi¸o Th¸nh ChiÕn/#enter_mp(25)",
+                   "Minh Gi¸o TrËn Binh/#enter_mp(26)", "Minh Gi¸o HuyÕt Nh©n/#enter_mp(27)", "\nRa khái/nothing"};
 
     SelectSay(szSay);
 end
 
 function join_sl()
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "ThiÕu L©m vâ t«ng/#enter_mp(4)",
-        "ThiÕu L©m thiÒn t«ng/#enter_mp(3)",
-        "ThiÕu L©m tôc gia/#enter_mp(2)", "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "ThiÕu L©m vâ t«ng/#enter_mp(4)",
+                   "ThiÕu L©m thiÒn t«ng/#enter_mp(3)", "ThiÕu L©m tôc gia/#enter_mp(2)", "\nRa khái/nothing"};
 
     SelectSay(szSay);
 end
 
 function join_wd()
 
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "Vâ §ang ®¹o gia/#enter_mp(14)", "Vâ §ang tôc gia/#enter_mp(15)",
-        "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "Vâ §ang ®¹o gia/#enter_mp(14)",
+                   "Vâ §ang tôc gia/#enter_mp(15)", "\nRa khái/nothing"};
 
     SelectSay(szSay);
 end
 
 function join_em()
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "Nga My phËt gia/#enter_mp(8)", "Nga My tôc gia/#enter_mp(9)",
-        "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "Nga My phËt gia/#enter_mp(8)",
+                   "Nga My tôc gia/#enter_mp(9)", "\nRa khái/nothing"};
 
     SelectSay(szSay);
 end
 
 function join_gb()
 
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "C¸i Bang TÜnh y/#enter_mp(11)", "C¸i Bang ¤ Y/#enter_mp(12)",
-        "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "C¸i Bang TÜnh y/#enter_mp(11)",
+                   "C¸i Bang ¤ Y/#enter_mp(12)", "\nRa khái/nothing"};
     SelectSay(szSay);
 end
 
 function join_tm()
 
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "§­êng M«n Ch©m/#enter_mp(6)",
-        -- "§­êng M«n NhËm HiÖp/#enter_mp(31)",
-        "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "§­êng M«n Ch©m/#enter_mp(6)",
+    -- "§­êng M«n NhËm HiÖp/#enter_mp(31)",
+                   "\nRa khái/nothing"};
     SelectSay(szSay);
 end
 
 function join_ym()
 
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "D­¬ng M«n th­¬ng Kþ/#enter_mp(17)",
-        "D­¬ng M«n Cung Kþ/#enter_mp(18)", "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "D­¬ng M«n th­¬ng Kþ/#enter_mp(17)",
+                   "D­¬ng M«n Cung Kþ/#enter_mp(18)", "\nRa khái/nothing"};
     SelectSay(szSay);
 end
 
 function join_wdu()
 
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "HiÖp §éc/#enter_mp(20)", "Tµ §éc/#enter_mp(21)",
-        "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "HiÖp §éc/#enter_mp(20)",
+                   "Tµ §éc/#enter_mp(21)", "\nRa khái/nothing"};
     SelectSay(szSay);
 end
 
 function join_kl()
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "C«n L«n Thiªn S­/#enter_mp(23)",
-        -- "C«n L«n KiÕm T«n/#enter_mp(32)", 
-        "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "C«n L«n Thiªn S­/#enter_mp(23)",
+    -- "C«n L«n KiÕm T«n/#enter_mp(32)", 
+                   "\nRa khái/nothing"};
     SelectSay(szSay);
 end
 
 function join_cy()
-    local szSay = {
-        g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
-        "Thóy Yªn Vò Tiªn/#enter_mp(29)",
-        "Thóy Yªn Linh N÷/#enter_mp(30)", "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "Thóy Yªn Vò Tiªn/#enter_mp(29)",
+                   "Thóy Yªn Linh N÷/#enter_mp(30)", "\nRa khái/nothing"};
     SelectSay(szSay);
 end
 
@@ -857,15 +831,14 @@ function Maxtranphai()
     end
 end
 function Get_UL10()
-    local tSay = {
-        -- Long  ---
-        format("%s/#UL10_Option(1)", "Long"), --
-        -- Ho ---
-        format("%s/#UL10_Option(2)", "Hæ"), --
-        -- Ung ---
-        format("%s/#UL10_Option(3)", "¦ng"), --
-        -- Phung ---
-        format("%s/#UL10_Option(4)", "Phông") --
+    local tSay = { -- Long  ---
+    format("%s/#UL10_Option(1)", "Long"), --
+    -- Ho ---
+    format("%s/#UL10_Option(2)", "Hæ"), --
+    -- Ung ---
+    format("%s/#UL10_Option(3)", "¦ng"), --
+    -- Phung ---
+    format("%s/#UL10_Option(4)", "Phông") --
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "Chän trang bÞ", getn(tSay), tSay)
@@ -1254,270 +1227,217 @@ function Get_JinShe()
     local nBody = GetBody();
     local nLevel = 15;
     if nRoute == 2 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 186, 164, 182, 759, 771, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 186, 164, 182, 759, 771, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 186, 164, 182, 759, 771, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 3 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 165, 182, 759, 771, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 165, 182, 759, 771, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 165, 182, 759, 771, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 4 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 165, 182, 759, 771, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 165, 182, 759, 771, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 165, 182, 759, 771, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 6 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 162, 178, 757, 754, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 162, 178, 757, 754, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 162, 178, 757, 754, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 8 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 165, 182, 759, 771, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 165, 182, 759, 771, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 165, 182, 759, 771, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 9 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 165, 182, 759, 771, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 165, 182, 759, 771, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 165, 182, 759, 771, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 11 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 183, 181, 757, 770, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 183, 181, 757, 770, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 183, 181, 757, 770, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 12 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 163, 178, 758, 754, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 163, 178, 758, 754, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 163, 178, 758, 754, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 14 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 165, 182, 759, 771, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 165, 182, 759, 771, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 165, 182, 759, 771, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 15 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 164, 178, 760, 754, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 164, 178, 760, 754, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 164, 178, 760, 754, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 17 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 183, 181, 757, 770, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 183, 181, 757, 770, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 183, 181, 757, 770, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 18 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 162, 178, 757, 754, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 162, 178, 757, 754, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 162, 178, 757, 754, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 20 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 163, 179, 758, 755, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 163, 179, 758, 755, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 163, 179, 758, 755, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 21 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 165, 180, 760, 756, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 165, 180, 760, 756, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 165, 180, 760, 756, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 23 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 165, 182, 759, 771, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 165, 182, 759, 771, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 165, 182, 759, 771, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 29 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 162, 178, 757, 754, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 162, 178, 757, 754, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 162, 178, 757, 754, 1004)
         FeedItem(xIndex, 1000000)
     end
 
     if nRoute == 30 then
-        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1,
-            0, nLevel)
+        local pifeng, pIndex = AddItem(0, 152, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(pIndex, 188, 164, 178, 760, 754, 825)
         FeedItem(pIndex, 1000000)
-        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1,
-            -1, 0, nLevel)
+        local huizhang, hIndex = AddItem(0, 153, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(hIndex, 188, 164, 178, 760, 754, 630)
         FeedItem(hIndex, 1000000)
-        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0,
-            nLevel)
+        local xie, xIndex = AddItem(0, 154, 9, 1, 1, -1, -1, -1, -1, -1, -1, 0, nLevel)
         SetItemFeedUpAttrs(xIndex, 188, 164, 178, 760, 754, 1004)
         FeedItem(xIndex, 1000000)
     end
 
 end
 function Get_Book()
-    local tSay = {
-        -- "NhËn MËt tÞch/Get_Book_ZhenJuan",
-        "NhËn m¶nh M¹t tÞch/Get_Fragment_Book", --
-        "----------------------------------/nothing", --
-        "NhËn YÕu QuyÕt/Get_Book_JueYao", --
-        "----------------------------------/nothing", --
-        "\nLuyÖn mËt tÞch nhanh/Get_Book_Update"
-    };
+    local tSay = { -- "NhËn MËt tÞch/Get_Book_ZhenJuan",
+    "NhËn m¶nh M¹t tÞch/Get_Fragment_Book", --
+    "----------------------------------/nothing", --
+    "NhËn YÕu QuyÕt/Get_Book_JueYao", --
+    "----------------------------------/nothing", --
+    "\nLuyÖn mËt tÞch nhanh/Get_Book_Update"};
     tinsert(tSay, "\nExit/nothing");
     Say(g_szTitle .. "MËt tÞch vµ yÕu quyÕt", getn(tSay), tSay);
     -- local szSay = {
@@ -1657,9 +1577,7 @@ function Get_Book_JueYao()
         return 0;
     end
 
-    if 1 ~=
-        gf_Judge_Room_Weight((tJue[nRoute][2] - tJue[nRoute][1] + 1), 1,
-            g_szTitle) then
+    if 1 ~= gf_Judge_Room_Weight((tJue[nRoute][2] - tJue[nRoute][1] + 1), 1, g_szTitle) then
         return 0;
     end
 
@@ -1774,7 +1692,7 @@ function Give_Dandan()
     if gf_Judge_Room_Weight(1, 1) ~= 1 then
         return 0;
     end
-    AddItem(2, 3, 7, 999); 
+    AddItem(2, 3, 7, 999);
 end
 
 function Give_ZhanMa()
@@ -1782,7 +1700,7 @@ function Give_ZhanMa()
         return 0;
     end
     -- AddItem(0, 105, 38, 1, 1, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
-    AddItem(0,105,51,1,1,-1,-1,-1,-1,-1,-1)
+    AddItem(0, 105, 51, 1, 1, -1, -1, -1, -1, -1, -1)
 end
 
 function Give_Jiancu()
@@ -1791,7 +1709,7 @@ function Give_Jiancu()
     end
     AddItem(2, 15, 10, 2000);
     -- AddItem(0, 105, 38, 1, 3, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
-    AddItem(0,105,51,1,1,-1,-1,-1,-1,-1,-1)
+    AddItem(0, 105, 51, 1, 1, -1, -1, -1, -1, -1, -1)
 end
 
 function Give_Fengshifu()
@@ -1852,16 +1770,12 @@ end
 function Feed_XiaoDiao()
     local nPetItemIndex = GetPlayerEquipIndex(12);
     if (nPetItemIndex == nil or nPetItemIndex <= 0) then
-        Msg2Player(
-            "C¸c h¹ ch­a cã thó c­ng, kh«ng thÓ tiÕn hµnh huÊn luyÖn!");
+        Msg2Player("C¸c h¹ ch­a cã thó c­ng, kh«ng thÓ tiÕn hµnh huÊn luyÖn!");
         return
     end
-    local ItemGen, ItemDetail, ItemParticular =
-        GetItemInfoByIndex(nPetItemIndex);
-    if (ItemGen == nil or ItemDetail == nil or ItemParticular == nil) or
-        (ItemGen ~= 2 or ItemDetail ~= 20) then
-        Msg2Player(
-            "C¸c h¹ ch­a cã thó c­ng, kh«ng thÓ tiÕn hµnh huÊn luyÖn!");
+    local ItemGen, ItemDetail, ItemParticular = GetItemInfoByIndex(nPetItemIndex);
+    if (ItemGen == nil or ItemDetail == nil or ItemParticular == nil) or (ItemGen ~= 2 or ItemDetail ~= 20) then
+        Msg2Player("C¸c h¹ ch­a cã thó c­ng, kh«ng thÓ tiÕn hµnh huÊn luyÖn!");
         return
     end
 
@@ -1872,8 +1786,7 @@ end
 
 function ClearBagAllItem(bTag)
     if not bTag or tonumber(bTag) ~= 1 then
-        Say(g_szTitle .. "Ng­¬i muèn thanh lý tói?", 2,
-            "§ång ý/#ClearBagAllItem(1)", "Ra khái/nothing")
+        Say(g_szTitle .. "Ng­¬i muèn thanh lý tói?", 2, "§ång ý/#ClearBagAllItem(1)", "Ra khái/nothing")
         return
     end
     ClearItemInPos();
@@ -1882,21 +1795,17 @@ function ClearBagAllItem(bTag)
     end
     -- if GetItemCount(2,1,30644) < 1 and GetFreeItemRoom() > 0 then
     --     -- AddItem(2, 1, 30644, 1) GM
-	-- 	AddItem(2,1,30644,1)
-	-- end
-	if GetItemCount(2,1,30045) < 1 and GetFreeItemRoom() > 0 then
-		AddItem(2,1,30045,1) -- cam nang su kien
-	end
+    -- 	AddItem(2,1,30644,1)
+    -- end
+    if GetItemCount(2, 1, 30045) < 1 and GetFreeItemRoom() > 0 then
+        AddItem(2, 1, 30045, 1) -- cam nang su kien
+    end
 end
 
 function TongOperation()
-    local szSay = {
-        g_szTitle .. "Thao t¸c bang héi",
-        "Ta muèn nhËn vËt phÈm bang héi/TongOperation_Create",
-        "Ta muèn t¹o bang héi/CreateTongDialog",
-        "Ta muèn th¨ng cÊp bang héi/TongOperation_update",
-        "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Thao t¸c bang héi", "Ta muèn nhËn vËt phÈm bang héi/TongOperation_Create",
+                   "Ta muèn t¹o bang héi/CreateTongDialog", "Ta muèn th¨ng cÊp bang héi/TongOperation_update",
+                   "\nRa khái/nothing"};
     SelectSay(szSay);
 end
 
@@ -1932,13 +1841,9 @@ function TongOperation_update()
 end
 
 function GetJingMai()
-    local szSay = {
-        g_szTitle .. "Thao th¸c kinh m¹ch",
-        "TÈy ®iÓm kinh m¹ch/GetJingMai_Reset",
-        format("%s/getZhenqi", "NhËn ch©n khÝ"),
-        format("%s/getJingMaiTongRen", "NhËn Kinh M¹ch §ång Nh©n"),
-        "\nRa khái/nothing"
-    };
+    local szSay = {g_szTitle .. "Thao th¸c kinh m¹ch", "TÈy ®iÓm kinh m¹ch/GetJingMai_Reset",
+                   format("%s/getZhenqi", "NhËn ch©n khÝ"),
+                   format("%s/getJingMaiTongRen", "NhËn Kinh M¹ch §ång Nh©n"), "\nRa khái/nothing"};
     if MeridianGetLevel() < 6 then
         tinsert(szSay, 2, "Th¨ng cÊp c¶nh giíi Vâ Th¸nh/GetJingMai_Update")
     end
@@ -1981,8 +1886,7 @@ end
 
 function GetJingMai_Reset(bTag)
     if not bTag or tonumber(bTag) ~= 1 then
-        Say(g_szTitle .. "Thao th¸c kinh m¹ch", 2,
-            "§ång ý/#GetJingMai_Reset(1)", "Hñy bá/nothing")
+        Say(g_szTitle .. "Thao th¸c kinh m¹ch", 2, "§ång ý/#GetJingMai_Reset(1)", "Hñy bá/nothing")
         return 0;
     end
     MeridianRestore(-1);
@@ -2046,12 +1950,10 @@ function Get_Energy()
 end
 
 function Life_Skill()
-    local tSay = {
-        "Muèn t¨ng cÊp kü n¨ng thu thËp/upgrade_gather_skill",
-        "Muèn t¨ng cÊp kü n¨ng s¶n xuÊt/upgrade_compose_skill",
-        "NhËn nguyªn liÖu chÕ trang bÞ Linh §å/get_lingtu_equip_material",
-        "T¹i h¹ chØ xem qua th«i/nothing"
-    }
+    local tSay = {"Muèn t¨ng cÊp kü n¨ng thu thËp/upgrade_gather_skill",
+                  "Muèn t¨ng cÊp kü n¨ng s¶n xuÊt/upgrade_compose_skill",
+                  "NhËn nguyªn liÖu chÕ trang bÞ Linh §å/get_lingtu_equip_material",
+                  "T¹i h¹ chØ xem qua th«i/nothing"}
     Say(g_szTitle .. "T¨ng cÊp kü n¨ng sèng", getn(tSay), tSay);
 end
 
@@ -2069,9 +1971,7 @@ function upgrade_gather_skill()
             local msg = g_szTitle .. format(
                 "HiÖn t¹i chØ cã thÓ th¨ng cÊp kü n¨ng %s, <color=gold>%s<color> ®ang ®¹t cÊp <color=green>%d<color>, muèn th¨ng cÊp <color=gold>%s<color> ®Õn cÊp <color=green>%d<color> kh«ng?",
                 str, tName[k], nCur, tName[k], nMax);
-            Say(msg, 2,
-                format("§ång ý/#upgrade_gather_skill_do(%d, %d)", v, nMax),
-                "Hñy bá/nothing")
+            Say(msg, 2, format("§ång ý/#upgrade_gather_skill_do(%d, %d)", v, nMax), "Hñy bá/nothing")
             return 0;
         end
     end
@@ -2094,11 +1994,8 @@ end
 
 function upgrade_compose_skill()
     local tGather = {2, 3, 4, 5, 9, 10};
-    local tName = {
-        "ChÕ t¹o binh khÝ dµi", "ChÕ t¹o binh khÝ ng¾n",
-        "ChÕ t¹o kú m«n binh khÝ", "Lµm hé gi¸p", "H¹ trang",
-        "§Çu qu¸n"
-    };
+    local tName = {"ChÕ t¹o binh khÝ dµi", "ChÕ t¹o binh khÝ ng¾n", "ChÕ t¹o kú m«n binh khÝ",
+                   "Lµm hé gi¸p", "H¹ trang", "§Çu qu¸n"};
     local str = ""
     for k, v in tName do
         str = str .. "<color=gold>" .. v .. "<color>,"
@@ -2110,9 +2007,7 @@ function upgrade_compose_skill()
             local msg = g_szTitle .. format(
                 "HiÖn t¹i chØ cã thÓ th¨ng cÊp kü n¨ng %s, <color=gold>%s<color> ®ang ®¹t cÊp <color=green>%d<color>, muèn th¨ng cÊp <color=gold>%s<color> ®Õn cÊp <color=green>%d<color> kh«ng?",
                 str, tName[k], nCur, tName[k], nMax);
-            Say(msg, 2,
-                format("§ång ý/#upgrade_compose_skill_do(%d, %d)", v, nMax),
-                "Hñy bá/nothing")
+            Say(msg, 2, format("§ång ý/#upgrade_compose_skill_do(%d, %d)", v, nMax), "Hñy bá/nothing")
             return 0;
         end
     end
@@ -2159,11 +2054,8 @@ function get_lingtu_equip_material()
 end
 
 function Get_Enhance()
-    local tSay = {
-        "NhËn ThÇn Th¹ch §Þnh Hån/Get_Enhance_1",
-        "NhËn Tinh th¹ch Thiªn Th¹ch/Get_Enhance_2",
-        "T¹i h¹ chØ xem qua th«i/nothing"
-    }
+    local tSay = {"NhËn ThÇn Th¹ch §Þnh Hån/Get_Enhance_1", "NhËn Tinh th¹ch Thiªn Th¹ch/Get_Enhance_2",
+                  "T¹i h¹ chØ xem qua th«i/nothing"}
     Say(g_szTitle .. "T¨ng cÊp kü n¨ng sèng", getn(tSay), tSay);
 end
 
@@ -2171,10 +2063,8 @@ function Get_Enhance_1()
     if gf_Judge_Room_Weight(2, 10, " ") ~= 1 then
         return 0;
     end
-    gf_AddItemEx2({2, 1, 1068, 1}, "Thiªn Th¹ch linh th¹ch", "Get_Enhance_1",
-        "NhËn ThÇn Th¹ch §Þnh Hån", 0, 1);
-    gf_AddItemEx2({2, 1, 1067, 1}, "Thiªn Th¹ch linh th¹ch", "Get_Enhance_1",
-        "NhËn ThÇn Th¹ch §Þnh Hån", 0, 1);
+    gf_AddItemEx2({2, 1, 1068, 1}, "Thiªn Th¹ch linh th¹ch", "Get_Enhance_1", "NhËn ThÇn Th¹ch §Þnh Hån", 0, 1);
+    gf_AddItemEx2({2, 1, 1067, 1}, "Thiªn Th¹ch linh th¹ch", "Get_Enhance_1", "NhËn ThÇn Th¹ch §Þnh Hån", 0, 1);
 end
 
 function Get_Enhance_2()
@@ -2182,8 +2072,7 @@ function Get_Enhance_2()
         return 0;
     end
     AddItem(2, 1, 1009, 999);
-    WriteLogEx("Get_Enhance_2", "NhËn Tinh th¹ch Thiªn Th¹ch", 100,
-        "Thiªn Th¹ch Tinh Th¹ch");
+    WriteLogEx("Get_Enhance_2", "NhËn Tinh th¹ch Thiªn Th¹ch", 100, "Thiªn Th¹ch Tinh Th¹ch");
 end
 function Get_Gem()
     if gf_Judge_Room_Weight(24, 100, " ") ~= 1 then
@@ -2266,50 +2155,35 @@ end
 -- end
 -- TRANG BI CHIEN TRUONG
 function GetCT()
-    local szSay = {
-        g_szTitle .. "Chän", "NhËn trang bÞ Ho¶ Phông/Get_CT_HP",
-        "NhËn trang bÞ Thanh Long/Get_CT_TL",
-        "NhËn trang bÞ Uy Hæ/Get_CT_UH", "\nExit/nothing"
-    };
+    local szSay = {g_szTitle .. "Chän", "NhËn trang bÞ Ho¶ Phông/Get_CT_HP",
+                   "NhËn trang bÞ Thanh Long/Get_CT_TL", "NhËn trang bÞ Uy Hæ/Get_CT_UH", "\nExit/nothing"};
     SelectSay(szSay);
 end
 
 -- Trang bi UY HO
 function Get_CT_UH()
-    local szSay = {
-        g_szTitle .. "Chän trang bÞ",
-        "Trang Phôc Uy Hæ T­íng Phe Tèng/#Get_TP_CT_UH(1,1)",
-        "Trang Phôc Uy Hæ So¸i Phe Tèng/#Get_TP_CT_UH(1,2)",
-        "Trang Phôc Uy Hæ T­íng Phe Liªu/#Get_TP_CT_UH(2,1)",
-        "Trang Phôc Uy Hæ So¸i Phe Liªu/#Get_TP_CT_UH(2,2)",
-        "\nExit/nothing"
-    };
+    local szSay = {g_szTitle .. "Chän trang bÞ", "Trang Phôc Uy Hæ T­íng Phe Tèng/#Get_TP_CT_UH(1,1)",
+                   "Trang Phôc Uy Hæ So¸i Phe Tèng/#Get_TP_CT_UH(1,2)",
+                   "Trang Phôc Uy Hæ T­íng Phe Liªu/#Get_TP_CT_UH(2,1)",
+                   "Trang Phôc Uy Hæ So¸i Phe Liªu/#Get_TP_CT_UH(2,2)", "\nExit/nothing"};
     SelectSay(szSay);
 end
 
 -- Trang bi THANH LONG
 function Get_CT_TL()
-    local szSay = {
-        g_szTitle .. "Chän trang bÞ",
-        "Trang Phôc Thanh Long T­íng Phe Tèng/#Get_TP_CT_TL(1,1)",
-        "Trang Phôc Thanh Long So¸i Phe Tèng/#Get_TP_CT_TL(1,2)",
-        "Trang Phôc Thanh Long T­íng Phe Liªu/#Get_TP_CT_TL(2,1)",
-        "Trang Phôc Thanh Long So¸i Phe Liªu/#Get_TP_CT_TL(2,2)",
-        "\nExit/nothing"
-    };
+    local szSay = {g_szTitle .. "Chän trang bÞ", "Trang Phôc Thanh Long T­íng Phe Tèng/#Get_TP_CT_TL(1,1)",
+                   "Trang Phôc Thanh Long So¸i Phe Tèng/#Get_TP_CT_TL(1,2)",
+                   "Trang Phôc Thanh Long T­íng Phe Liªu/#Get_TP_CT_TL(2,1)",
+                   "Trang Phôc Thanh Long So¸i Phe Liªu/#Get_TP_CT_TL(2,2)", "\nExit/nothing"};
     SelectSay(szSay);
 end
 
 -- Trang bi Hoa Phung
 function Get_CT_HP()
-    local szSay = {
-        g_szTitle .. "Chän trang bÞ",
-        "Trang Phôc Ho¶ Phông T­íng Phe Tèng/#Get_TP_CT_HP(1,1)",
-        "Trang Phôc Ho¶ Phông So¸i Phe Tèng/#Get_TP_CT_HP(1,2)",
-        "Trang Phôc Ho¶ Phông T­íng Phe Liªu/#Get_TP_CT_HP(2,1)",
-        "Trang Phôc Ho¶ Phông So¸i Phe Liªu/#Get_TP_CT_HP(2,2)",
-        "\nExit/nothing"
-    };
+    local szSay = {g_szTitle .. "Chän trang bÞ", "Trang Phôc Ho¶ Phông T­íng Phe Tèng/#Get_TP_CT_HP(1,1)",
+                   "Trang Phôc Ho¶ Phông So¸i Phe Tèng/#Get_TP_CT_HP(1,2)",
+                   "Trang Phôc Ho¶ Phông T­íng Phe Liªu/#Get_TP_CT_HP(2,1)",
+                   "Trang Phôc Ho¶ Phông So¸i Phe Liªu/#Get_TP_CT_HP(2,2)", "\nExit/nothing"};
     SelectSay(szSay);
 end
 
@@ -2451,8 +2325,8 @@ function GetTranslifeFaction()
 end
 
 function CheckSeal()
-    if BigGetItemCount(2, 0, 30002) < 1 and BigGetItemCount(2, 0, 30003) < 1 and
-        BigGetItemCount(2, 0, 30005) < 1 and BigGetItemCount(2, 0, 30006) < 1 then
+    if BigGetItemCount(2, 0, 30002) < 1 and BigGetItemCount(2, 0, 30003) < 1 and BigGetItemCount(2, 0, 30005) < 1 and
+        BigGetItemCount(2, 0, 30006) < 1 then
         return 0
     end
     return 1
@@ -2476,18 +2350,14 @@ function confirm_get_translife_item()
     local TRANSLIFE_EXP = 2000000000
     local TRANSLIFE_BOX_COUNT = 4
 
-    tb_translife_seal = {
-        {"Long Tö Ên", {2, 0, 30002, 1, 1}, "Long Tö"},
-        {"Hæ Tö Ên", {2, 0, 30003, 1, 1}, "Hæ Tö"},
-        {"¦ng Tö Ên", {2, 0, 30006, 1, 1}, "¦ng Tö"},
-        {"Phông Tö Ên", {2, 0, 30005, 1, 1}, "Phông Tö"}
-    }
-    tb_translife_seal_cs6 = {
-        {"Long Tö Ên", {2, 0, 30002, 1, 1}, "Long Tö"},
-        {"Hæ Tö Ên", {2, 0, 30003, 1, 1}, "Hæ Tö"},
-        {"¦ng Tö Ên", {2, 0, 30006, 1, 1}, "¦ng Tö"},
-        {"Phông Tö Ên", {2, 0, 30005, 1, 1}, "Phông Tö"}
-    }
+    tb_translife_seal = {{"Long Tö Ên", {2, 0, 30002, 1, 1}, "Long Tö"},
+                         {"Hæ Tö Ên", {2, 0, 30003, 1, 1}, "Hæ Tö"},
+                         {"¦ng Tö Ên", {2, 0, 30006, 1, 1}, "¦ng Tö"},
+                         {"Phông Tö Ên", {2, 0, 30005, 1, 1}, "Phông Tö"}}
+    tb_translife_seal_cs6 = {{"Long Tö Ên", {2, 0, 30002, 1, 1}, "Long Tö"},
+                             {"Hæ Tö Ên", {2, 0, 30003, 1, 1}, "Hæ Tö"},
+                             {"¦ng Tö Ên", {2, 0, 30006, 1, 1}, "¦ng Tö"},
+                             {"Phông Tö Ên", {2, 0, 30005, 1, 1}, "Phông Tö"}}
     tb_translife_tittle = {
         [1] = {
             [2] = {"Hçn Nguyªn T¨ng", 24, 1},
@@ -2599,439 +2469,245 @@ function confirm_get_translife_item()
         [7] = {"LiÖt Nhan Li Long", TSK_CS6_LiLong_HoaHo, 1},
         [8] = {"XÝch LuyÖn Háa Hå", TSK_CS6_LiLong_HoaHo, 2}
     }
-    tb_translife_weapon_effect = {
-        "Hµo m«n", "PhÇn V©n", "§o¹n Giao", "Ph¸ Qu©n"
-    }
+    tb_translife_weapon_effect = {"Hµo m«n", "PhÇn V©n", "§o¹n Giao", "Ph¸ Qu©n"}
     tb_translife_cloth_cs6_nhanlai = {
         [1] = {
-            [1] = {
-                {0, 108, 30005, 1, 4, 5, 639, 6, 102},
-                {0, 109, 30005, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30005, 1, 4, 6, 306, 6, 102}
-            },
-            [2] = {
-                {0, 108, 30006, 1, 4, 5, 639, 6, 102},
-                {0, 109, 30006, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30006, 1, 4, 6, 306, 6, 102}
-            },
-            [3] = {
-                {0, 108, 30007, 1, 4, 5, 639, 6, 102},
-                {0, 109, 30007, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30007, 1, 4, 6, 306, 6, 102}
-            },
-            [4] = {
-                {0, 108, 30008, 1, 4, 5, 639, 6, 102},
-                {0, 109, 30008, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30008, 1, 4, 6, 306, 6, 102}
-            }
+            [1] = {{0, 108, 30005, 1, 4, 5, 639, 6, 102}, {0, 109, 30005, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30005, 1, 4, 6, 306, 6, 102}},
+            [2] = {{0, 108, 30006, 1, 4, 5, 639, 6, 102}, {0, 109, 30006, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30006, 1, 4, 6, 306, 6, 102}},
+            [3] = {{0, 108, 30007, 1, 4, 5, 639, 6, 102}, {0, 109, 30007, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30007, 1, 4, 6, 306, 6, 102}},
+            [4] = {{0, 108, 30008, 1, 4, 5, 639, 6, 102}, {0, 109, 30008, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30008, 1, 4, 6, 306, 6, 102}}
         },
         [2] = {
-            [1] = {
-                {0, 108, 30005, 1, 4, 6, 302, 6, 102},
-                {0, 109, 30005, 1, 4, 5, 409, 6, 102},
-                {0, 110, 30005, 1, 4, 5, 79, 5, 80, 6, 102}
-            },
-            [2] = {
-                {0, 108, 30006, 1, 4, 6, 302, 6, 102},
-                {0, 109, 30006, 1, 4, 5, 409, 6, 102},
-                {0, 110, 30006, 1, 4, 5, 79, 5, 80, 6, 102}
-            },
-            [3] = {
-                {0, 108, 30007, 1, 4, 6, 302, 6, 102},
-                {0, 109, 30007, 1, 4, 5, 409, 6, 102},
-                {0, 110, 30007, 1, 4, 5, 79, 5, 80, 6, 102}
-            },
-            [4] = {
-                {0, 108, 30008, 1, 4, 6, 302, 6, 102},
-                {0, 109, 30008, 1, 4, 5, 409, 6, 102},
-                {0, 110, 30008, 1, 4, 5, 79, 5, 80, 6, 102}
-            }
+            [1] = {{0, 108, 30005, 1, 4, 6, 302, 6, 102}, {0, 109, 30005, 1, 4, 5, 409, 6, 102},
+                   {0, 110, 30005, 1, 4, 5, 79, 5, 80, 6, 102}},
+            [2] = {{0, 108, 30006, 1, 4, 6, 302, 6, 102}, {0, 109, 30006, 1, 4, 5, 409, 6, 102},
+                   {0, 110, 30006, 1, 4, 5, 79, 5, 80, 6, 102}},
+            [3] = {{0, 108, 30007, 1, 4, 6, 302, 6, 102}, {0, 109, 30007, 1, 4, 5, 409, 6, 102},
+                   {0, 110, 30007, 1, 4, 5, 79, 5, 80, 6, 102}},
+            [4] = {{0, 108, 30008, 1, 4, 6, 302, 6, 102}, {0, 109, 30008, 1, 4, 5, 409, 6, 102},
+                   {0, 110, 30008, 1, 4, 5, 79, 5, 80, 6, 102}}
         },
         [3] = {
-            [1] = {
-                {0, 108, 30005, 1, 4, 2, 13075, 6, 102},
-                {0, 109, 30005, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30005, 1, 4, 6, 306, 6, 102}
-            },
-            [2] = {
-                {0, 108, 30006, 1, 4, 2, 13075, 6, 102},
-                {0, 109, 30006, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30006, 1, 4, 6, 306, 6, 102}
-            },
-            [3] = {
-                {0, 108, 30007, 1, 4, 2, 13075, 6, 102},
-                {0, 109, 30007, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30007, 1, 4, 6, 306, 6, 102}
-            },
-            [4] = {
-                {0, 108, 30008, 1, 4, 2, 13075, 6, 102},
-                {0, 109, 30008, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30008, 1, 4, 6, 306, 6, 102}
-            }
+            [1] = {{0, 108, 30005, 1, 4, 2, 13075, 6, 102}, {0, 109, 30005, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30005, 1, 4, 6, 306, 6, 102}},
+            [2] = {{0, 108, 30006, 1, 4, 2, 13075, 6, 102}, {0, 109, 30006, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30006, 1, 4, 6, 306, 6, 102}},
+            [3] = {{0, 108, 30007, 1, 4, 2, 13075, 6, 102}, {0, 109, 30007, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30007, 1, 4, 6, 306, 6, 102}},
+            [4] = {{0, 108, 30008, 1, 4, 2, 13075, 6, 102}, {0, 109, 30008, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30008, 1, 4, 6, 306, 6, 102}}
         },
         [4] = {
-            [1] = {
-                {0, 108, 30005, 1, 4, 5, 27, 6, 102},
-                {0, 109, 30005, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30005, 1, 4, 4, 292, 4, 293, 6, 102}
-            },
-            [2] = {
-                {0, 108, 30006, 1, 4, 5, 27, 6, 102},
-                {0, 109, 30006, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30006, 1, 4, 4, 292, 4, 293, 6, 102}
-            },
-            [3] = {
-                {0, 108, 30007, 1, 4, 5, 27, 6, 102},
-                {0, 109, 30007, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30007, 1, 4, 4, 292, 4, 293, 6, 102}
-            },
-            [4] = {
-                {0, 108, 30008, 1, 4, 5, 27, 6, 102},
-                {0, 109, 30008, 1, 4, 5, 342, 6, 102},
-                {0, 110, 30008, 1, 4, 4, 292, 4, 293, 6, 102}
-            }
+            [1] = {{0, 108, 30005, 1, 4, 5, 27, 6, 102}, {0, 109, 30005, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30005, 1, 4, 4, 292, 4, 293, 6, 102}},
+            [2] = {{0, 108, 30006, 1, 4, 5, 27, 6, 102}, {0, 109, 30006, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30006, 1, 4, 4, 292, 4, 293, 6, 102}},
+            [3] = {{0, 108, 30007, 1, 4, 5, 27, 6, 102}, {0, 109, 30007, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30007, 1, 4, 4, 292, 4, 293, 6, 102}},
+            [4] = {{0, 108, 30008, 1, 4, 5, 27, 6, 102}, {0, 109, 30008, 1, 4, 5, 342, 6, 102},
+                   {0, 110, 30008, 1, 4, 4, 292, 4, 293, 6, 102}}
         }
     }
     tb_translife_cloth_cs7_nhanlai = {
         [1] = {
-            [1] = {
-                {0, 108, 30029, 1, 4, 7, 639, 3, 371, 7, 102},
-                {0, 109, 30029, 1, 4, 5, 342, 7, 102},
-                {0, 110, 30029, 1, 4, 4, 282, 7, 250, 7, 102}
-            },
-            [2] = {
-                {0, 108, 30030, 1, 4, 7, 639, 3, 371, 7, 102},
-                {0, 109, 30030, 1, 4, 5, 342, 7, 102},
-                {0, 110, 30030, 1, 4, 4, 282, 7, 250, 7, 102}
-            },
-            [3] = {
-                {0, 108, 30031, 1, 4, 7, 639, 3, 371, 7, 102},
-                {0, 109, 30031, 1, 4, 5, 342, 7, 102},
-                {0, 110, 30031, 1, 4, 4, 282, 7, 250, 7, 102}
-            },
-            [4] = {
-                {0, 108, 30032, 1, 4, 7, 639, 3, 371, 7, 102},
-                {0, 109, 30032, 1, 4, 5, 342, 7, 102},
-                {0, 110, 30032, 1, 4, 4, 282, 7, 250, 7, 102}
-            }
+            [1] = {{0, 108, 30029, 1, 4, 7, 639, 3, 371, 7, 102}, {0, 109, 30029, 1, 4, 5, 342, 7, 102},
+                   {0, 110, 30029, 1, 4, 4, 282, 7, 250, 7, 102}},
+            [2] = {{0, 108, 30030, 1, 4, 7, 639, 3, 371, 7, 102}, {0, 109, 30030, 1, 4, 5, 342, 7, 102},
+                   {0, 110, 30030, 1, 4, 4, 282, 7, 250, 7, 102}},
+            [3] = {{0, 108, 30031, 1, 4, 7, 639, 3, 371, 7, 102}, {0, 109, 30031, 1, 4, 5, 342, 7, 102},
+                   {0, 110, 30031, 1, 4, 4, 282, 7, 250, 7, 102}},
+            [4] = {{0, 108, 30032, 1, 4, 7, 639, 3, 371, 7, 102}, {0, 109, 30032, 1, 4, 5, 342, 7, 102},
+                   {0, 110, 30032, 1, 4, 4, 282, 7, 250, 7, 102}}
         },
         [4] = {
-            [1] = {
-                {0, 108, 30029, 1, 4, 7, 27, 7, 102},
-                {0, 109, 30029, 1, 4, 5, 342, 4, 409, 7, 102},
-                {0, 110, 30029, 1, 4, 5, 292, 5, 293, 7, 102}
-            },
-            [2] = {
-                {0, 108, 30030, 1, 4, 7, 27, 7, 102},
-                {0, 109, 30030, 1, 4, 5, 342, 4, 409, 7, 102},
-                {0, 110, 30030, 1, 4, 5, 292, 5, 293, 7, 102}
-            },
-            [3] = {
-                {0, 108, 30031, 1, 4, 7, 27, 7, 102},
-                {0, 109, 30031, 1, 4, 5, 342, 4, 409, 7, 102},
-                {0, 110, 30031, 1, 4, 5, 292, 5, 293, 7, 102}
-            },
-            [4] = {
-                {0, 108, 30032, 1, 4, 7, 27, 7, 102},
-                {0, 109, 30032, 1, 4, 5, 342, 4, 409, 7, 102},
-                {0, 110, 30032, 1, 4, 5, 292, 5, 293, 7, 102}
-            }
+            [1] = {{0, 108, 30029, 1, 4, 7, 27, 7, 102}, {0, 109, 30029, 1, 4, 5, 342, 4, 409, 7, 102},
+                   {0, 110, 30029, 1, 4, 5, 292, 5, 293, 7, 102}},
+            [2] = {{0, 108, 30030, 1, 4, 7, 27, 7, 102}, {0, 109, 30030, 1, 4, 5, 342, 4, 409, 7, 102},
+                   {0, 110, 30030, 1, 4, 5, 292, 5, 293, 7, 102}},
+            [3] = {{0, 108, 30031, 1, 4, 7, 27, 7, 102}, {0, 109, 30031, 1, 4, 5, 342, 4, 409, 7, 102},
+                   {0, 110, 30031, 1, 4, 5, 292, 5, 293, 7, 102}},
+            [4] = {{0, 108, 30032, 1, 4, 7, 27, 7, 102}, {0, 109, 30032, 1, 4, 5, 342, 4, 409, 7, 102},
+                   {0, 110, 30032, 1, 4, 5, 292, 5, 293, 7, 102}}
         },
         [3] = {
-            [1] = {
-                {0, 108, 30029, 1, 4, 3, 13075, 7, 102},
-                {0, 109, 30029, 1, 4, 5, 342, 2, 346, 7, 102},
-                {0, 110, 30029, 1, 4, 4, 282, 7, 250, 7, 102}
-            },
-            [2] = {
-                {0, 108, 30030, 1, 4, 3, 13075, 7, 102},
-                {0, 109, 30030, 1, 4, 5, 342, 2, 346, 7, 102},
-                {0, 110, 30030, 1, 4, 4, 282, 7, 250, 7, 102}
-            },
-            [3] = {
-                {0, 108, 30031, 1, 4, 3, 13075, 7, 102},
-                {0, 109, 30031, 1, 4, 5, 342, 2, 346, 7, 102},
-                {0, 110, 30031, 1, 4, 4, 282, 7, 250, 7, 102}
-            },
-            [4] = {
-                {0, 108, 30032, 1, 4, 3, 13075, 7, 102},
-                {0, 109, 30032, 1, 4, 5, 342, 2, 346, 7, 102},
-                {0, 110, 30032, 1, 4, 4, 282, 7, 250, 7, 102}
-            }
+            [1] = {{0, 108, 30029, 1, 4, 3, 13075, 7, 102}, {0, 109, 30029, 1, 4, 5, 342, 2, 346, 7, 102},
+                   {0, 110, 30029, 1, 4, 4, 282, 7, 250, 7, 102}},
+            [2] = {{0, 108, 30030, 1, 4, 3, 13075, 7, 102}, {0, 109, 30030, 1, 4, 5, 342, 2, 346, 7, 102},
+                   {0, 110, 30030, 1, 4, 4, 282, 7, 250, 7, 102}},
+            [3] = {{0, 108, 30031, 1, 4, 3, 13075, 7, 102}, {0, 109, 30031, 1, 4, 5, 342, 2, 346, 7, 102},
+                   {0, 110, 30031, 1, 4, 4, 282, 7, 250, 7, 102}},
+            [4] = {{0, 108, 30032, 1, 4, 3, 13075, 7, 102}, {0, 109, 30032, 1, 4, 5, 342, 2, 346, 7, 102},
+                   {0, 110, 30032, 1, 4, 4, 282, 7, 250, 7, 102}}
         },
         [2] = {
-            [1] = {
-                {0, 108, 30029, 1, 4, 6, 302, 7, 409, 7, 102},
-                {0, 109, 30029, 1, 4, 5, 13219, 5, 13220, 7, 102},
-                {0, 110, 30029, 1, 4, 4, 290, 7, 250, 7, 102}
-            },
-            [2] = {
-                {0, 108, 30030, 1, 4, 6, 302, 7, 409, 7, 102},
-                {0, 109, 30030, 1, 4, 5, 13219, 5, 13220, 7, 102},
-                {0, 110, 30030, 1, 4, 4, 290, 7, 250, 7, 102}
-            },
-            [3] = {
-                {0, 108, 30031, 1, 4, 6, 302, 7, 409, 7, 102},
-                {0, 109, 30031, 1, 4, 5, 13219, 5, 13220, 7, 102},
-                {0, 110, 30031, 1, 4, 4, 290, 7, 250, 7, 102}
-            },
-            [4] = {
-                {0, 108, 30032, 1, 4, 6, 302, 7, 409, 7, 102},
-                {0, 109, 30032, 1, 4, 5, 13219, 5, 13220, 7, 102},
-                {0, 110, 30032, 1, 4, 4, 290, 7, 250, 7, 102}
-            }
+            [1] = {{0, 108, 30029, 1, 4, 6, 302, 7, 409, 7, 102}, {0, 109, 30029, 1, 4, 5, 13219, 5, 13220, 7, 102},
+                   {0, 110, 30029, 1, 4, 4, 290, 7, 250, 7, 102}},
+            [2] = {{0, 108, 30030, 1, 4, 6, 302, 7, 409, 7, 102}, {0, 109, 30030, 1, 4, 5, 13219, 5, 13220, 7, 102},
+                   {0, 110, 30030, 1, 4, 4, 290, 7, 250, 7, 102}},
+            [3] = {{0, 108, 30031, 1, 4, 6, 302, 7, 409, 7, 102}, {0, 109, 30031, 1, 4, 5, 13219, 5, 13220, 7, 102},
+                   {0, 110, 30031, 1, 4, 4, 290, 7, 250, 7, 102}},
+            [4] = {{0, 108, 30032, 1, 4, 6, 302, 7, 409, 7, 102}, {0, 109, 30032, 1, 4, 5, 13219, 5, 13220, 7, 102},
+                   {0, 110, 30032, 1, 4, 4, 290, 7, 250, 7, 102}}
         }
     }
     tb_translife_cloth = {
         [1] = {
-            [1] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 3, 389, 1, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 1, 306, 1, 102}}
-            },
+            [1] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 3, 389, 1, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 1, 306, 1, 102}}},
 
-            [2] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 389, 2, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 2, 306, 2, 102}}
-            },
+            [2] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 389, 2, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 2, 306, 2, 102}}},
 
-            [3] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 5, 389, 3, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 3, 306, 3, 102}}
-            },
+            [3] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 5, 389, 3, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 3, 306, 3, 102}}},
 
-            [4] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 6, 389, 4, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 4, 306, 4, 102}}
-            },
-            [5] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 6, 389, 3, 329}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 6, 306, 3, 329}}
-            }
+            [4] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 6, 389, 4, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 4, 306, 4, 102}}},
+            [5] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 6, 389, 3, 329}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 6, 306, 3, 329}}}
         },
 
         [2] = {
-            [1] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 1, 107, 1, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 1, 409, 1, 102}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 1, 79, 1, 80, 1, 102}
-                }
-            },
+            [1] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 1, 107, 1, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 1, 409, 1, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 1, 79, 1, 80, 1, 102}}},
 
-            [2] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 2, 107, 2, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 2, 409, 2, 102}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 2, 79, 2, 80, 2, 102}
-                }
-            },
+            [2] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 2, 107, 2, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 2, 409, 2, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 2, 79, 2, 80, 2, 102}}},
 
-            [3] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 3, 107, 3, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 3, 409, 3, 102}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 3, 79, 3, 80, 3, 102}
-                }
-            },
+            [3] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 3, 107, 3, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 3, 409, 3, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 3, 79, 3, 80, 3, 102}}},
 
-            [4] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 107, 4, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 4, 409, 4, 102}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 4, 79, 4, 80, 4, 102}
-                }
-            },
-            [5] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 107, 3, 329}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 409, 3, 329}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 5, 79, 5, 80, 3, 329}
-                }
-            }
+            [4] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 107, 4, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 4, 409, 4, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 4, 79, 4, 80, 4, 102}}},
+            [5] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 107, 3, 329}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 409, 3, 329}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 5, 79, 5, 80, 3, 329}}}
         },
 
         [4] = {
-            [1] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 1, 27, 1, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 3, 41, 3, 42, 1, 102}
-                }
-            },
+            [1] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 1, 27, 1, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 3, 41, 3, 42, 1, 102}}},
 
-            [2] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 2, 27, 2, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 4, 41, 4, 42, 2, 102}
-                }
-            },
+            [2] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 2, 27, 2, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 4, 41, 4, 42, 2, 102}}},
 
-            [3] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 3, 27, 3, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 5, 41, 5, 42, 3, 102}
-                }
-            },
+            [3] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 3, 27, 3, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 5, 41, 5, 42, 3, 102}}},
 
-            [4] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 27, 4, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 6, 41, 6, 42, 4, 102}
-                }
-            },
-            [5] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 27, 3, 329}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
-                {
-                    "ChuyÓn Sinh Trang",
-                    {0, 110, 514, 1, 1, 4, 292, 4, 293, 3, 329}
-                }
-            }
+            [4] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 27, 4, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 6, 41, 6, 42, 4, 102}}},
+            [5] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 4, 27, 3, 329}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 4, 292, 4, 293, 3, 329}}}
         },
 
         [3] = {
-            [1] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 5, 50, 1, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 1, 306, 1, 102}}
-            },
+            [1] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 5, 50, 1, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 4, 111, 1, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 1, 306, 1, 102}}},
 
-            [2] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 1, 252, 2, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 2, 306, 2, 102}}
-            },
+            [2] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 1, 252, 2, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 111, 2, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 2, 306, 2, 102}}},
 
-            [3] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 6, 50, 3, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 3, 306, 3, 102}}
-            },
+            [3] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 6, 50, 3, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 6, 111, 3, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 3, 306, 3, 102}}},
 
-            [4] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 2, 252, 4, 102}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 4, 306, 4, 102}}
-            },
-            [5] = {
-                {"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 2, 252, 3, 329}},
-                {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
-                {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 6, 306, 3, 329}}
-            }
+            [4] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 2, 252, 4, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 7, 111, 4, 102}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 4, 306, 4, 102}}},
+            [5] = {{"ChuyÓn Sinh Trang", {0, 108, 514, 1, 1, 2, 252, 3, 329}},
+                   {"ChuyÓn Sinh Trang", {0, 109, 514, 1, 1, 5, 342, 3, 329}},
+                   {"ChuyÓn Sinh Trang", {0, 110, 514, 1, 1, 6, 306, 3, 329}}}
         }
     }
 
-    tb_option_cloth = {
-        {0, 108, 510}, {0, 109, 510}, {0, 110, 510}, {0, 108, 511},
-        {0, 109, 511}, {0, 110, 511}, {0, 108, 513}, {0, 109, 513},
-        {0, 110, 513}, {0, 108, 512}, {0, 109, 512}, {0, 110, 512},
-        {0, 108, 207}, {0, 108, 208}, {0, 108, 209}, {0, 108, 210},
-        {0, 108, 211}, {0, 108, 212}, {0, 108, 213}, {0, 108, 214},
-        {0, 108, 215}, {0, 108, 216}, {0, 108, 217}, {0, 108, 218},
-        {0, 109, 281}, {0, 109, 282}, {0, 109, 283}, {0, 109, 284},
-        {0, 109, 285}, {0, 109, 286}, {0, 109, 287}, {0, 109, 288},
-        {0, 109, 289}, {0, 109, 290}, {0, 109, 291}, {0, 109, 292},
-        {0, 110, 281}, {0, 110, 282}, {0, 110, 283}, {0, 110, 284},
-        {0, 110, 285}, {0, 110, 286}, {0, 110, 287}, {0, 110, 288},
-        {0, 110, 289}, {0, 110, 290}, {0, 110, 291}, {0, 110, 292},
-        {0, 108, 199}, {0, 108, 200}, {0, 108, 201}, {0, 108, 202},
-        {0, 109, 277}, {0, 109, 278}, {0, 109, 279}, {0, 109, 280},
-        {0, 110, 89}, {0, 110, 90}, {0, 110, 91}, {0, 110, 92}, {0, 108, 195},
-        {0, 108, 196}, {0, 108, 197}, {0, 108, 198}, {0, 109, 255},
-        {0, 109, 256}, {0, 109, 257}, {0, 109, 258}, {0, 110, 85}, {0, 110, 86},
-        {0, 110, 87}, {0, 110, 88}, {0, 108, 139}, {0, 109, 185}, {0, 110, 81},
-        {0, 108, 140}, {0, 109, 186}, {0, 110, 82}, {0, 108, 141},
-        {0, 109, 187}, {0, 110, 83}, {0, 108, 142}, {0, 109, 188}, {0, 110, 84},
-        {0, 108, 570}, {0, 109, 570}, {0, 110, 570}, {0, 108, 571},
-        {0, 109, 571}, {0, 110, 571}, {0, 108, 572}, {0, 109, 572},
-        {0, 110, 572}, {0, 108, 573}, {0, 109, 573}, {0, 110, 573},
-        {0, 108, 562}, {0, 109, 562}, {0, 110, 562}, {0, 108, 563},
-        {0, 109, 563}, {0, 110, 563}, {0, 108, 564}, {0, 109, 564},
-        {0, 110, 564}, {0, 108, 565}, {0, 109, 565}, {0, 110, 565},
-        {0, 108, 566}, {0, 109, 566}, {0, 110, 566}, {0, 108, 567},
-        {0, 109, 567}, {0, 110, 567}, {0, 108, 568}, {0, 109, 568},
-        {0, 110, 568}, {0, 108, 569}, {0, 109, 569}, {0, 110, 569},
-        {0, 108, 30001}, {0, 108, 30002}, {0, 108, 30003}, {0, 108, 30004},
-        {0, 108, 30005}, {0, 108, 30006}, {0, 108, 30007}, {0, 108, 30008},
-        {0, 108, 30009}, {0, 108, 30010}, {0, 108, 30011}, {0, 108, 30012},
-        {0, 109, 30001}, {0, 109, 30002}, {0, 109, 30003}, {0, 109, 30004},
-        {0, 109, 30005}, {0, 109, 30006}, {0, 109, 30007}, {0, 109, 30008},
-        {0, 109, 30009}, {0, 109, 30010}, {0, 109, 30011}, {0, 109, 30012},
-        {0, 110, 30001}, {0, 110, 30002}, {0, 110, 30003}, {0, 110, 30004},
-        {0, 110, 30005}, {0, 110, 30006}, {0, 110, 30007}, {0, 110, 30008},
-        {0, 110, 30009}, {0, 110, 30010}, {0, 110, 30011}, {0, 110, 30012},
-        {0, 108, 109}, {0, 108, 110}, {0, 108, 111}, {0, 108, 112},
-        {0, 109, 109}, {0, 109, 110}, {0, 109, 111}, {0, 109, 112},
-        {0, 110, 73}, {0, 110, 74}, {0, 110, 75}, {0, 110, 76}, {0, 108, 1},
-        {0, 108, 2}, {0, 108, 3}, {0, 108, 4}, {0, 108, 5}, {0, 108, 6},
-        {0, 108, 7}, {0, 108, 8}, {0, 108, 9}, {0, 108, 10}, {0, 108, 11},
-        {0, 108, 12}, {0, 108, 13}, {0, 108, 14}, {0, 108, 15}, {0, 108, 16},
-        {0, 108, 17}, {0, 108, 18}, {0, 108, 518}, {0, 108, 522}, {0, 108, 526},
-        {0, 108, 19}, {0, 108, 20}, {0, 108, 21}, {0, 108, 22}, {0, 108, 23},
-        {0, 108, 24}, {0, 108, 25}, {0, 108, 26}, {0, 108, 27}, {0, 108, 28},
-        {0, 108, 29}, {0, 108, 30}, {0, 108, 31}, {0, 108, 32}, {0, 108, 33},
-        {0, 108, 34}, {0, 108, 35}, {0, 108, 36}, {0, 108, 519}, {0, 108, 523},
-        {0, 108, 527}, {0, 108, 37}, {0, 108, 38}, {0, 108, 39}, {0, 108, 40},
-        {0, 108, 41}, {0, 108, 42}, {0, 108, 43}, {0, 108, 44}, {0, 108, 45},
-        {0, 108, 46}, {0, 108, 47}, {0, 108, 48}, {0, 108, 49}, {0, 108, 50},
-        {0, 108, 51}, {0, 108, 52}, {0, 108, 53}, {0, 108, 54}, {0, 108, 520},
-        {0, 108, 524}, {0, 108, 528}, {0, 108, 55}, {0, 108, 56}, {0, 108, 57},
-        {0, 108, 58}, {0, 108, 59}, {0, 108, 60}, {0, 108, 61}, {0, 108, 62},
-        {0, 108, 63}, {0, 108, 64}, {0, 108, 65}, {0, 108, 66}, {0, 108, 67},
-        {0, 108, 68}, {0, 108, 69}, {0, 108, 70}, {0, 108, 71}, {0, 108, 72},
-        {0, 108, 521}, {0, 108, 525}, {0, 108, 529}, {0, 109, 1}, {0, 109, 2},
-        {0, 109, 3}, {0, 109, 4}, {0, 109, 5}, {0, 109, 6}, {0, 109, 7},
-        {0, 109, 8}, {0, 109, 9}, {0, 109, 10}, {0, 109, 11}, {0, 109, 12},
-        {0, 109, 13}, {0, 109, 14}, {0, 109, 15}, {0, 109, 16}, {0, 109, 17},
-        {0, 109, 18}, {0, 109, 518}, {0, 109, 522}, {0, 109, 526}, {0, 109, 19},
-        {0, 109, 20}, {0, 109, 21}, {0, 109, 22}, {0, 109, 23}, {0, 109, 24},
-        {0, 109, 25}, {0, 109, 26}, {0, 109, 27}, {0, 109, 28}, {0, 109, 29},
-        {0, 109, 30}, {0, 109, 31}, {0, 109, 32}, {0, 109, 33}, {0, 109, 34},
-        {0, 109, 35}, {0, 109, 36}, {0, 109, 519}, {0, 109, 523}, {0, 109, 527},
-        {0, 109, 37}, {0, 109, 38}, {0, 109, 39}, {0, 109, 40}, {0, 109, 41},
-        {0, 109, 42}, {0, 109, 43}, {0, 109, 44}, {0, 109, 45}, {0, 109, 46},
-        {0, 109, 47}, {0, 109, 48}, {0, 109, 49}, {0, 109, 50}, {0, 109, 51},
-        {0, 109, 52}, {0, 109, 53}, {0, 109, 54}, {0, 109, 520}, {0, 109, 524},
-        {0, 109, 528}, {0, 109, 55}, {0, 109, 56}, {0, 109, 57}, {0, 109, 58},
-        {0, 109, 59}, {0, 109, 60}, {0, 109, 61}, {0, 109, 62}, {0, 109, 63},
-        {0, 109, 64}, {0, 109, 65}, {0, 109, 66}, {0, 109, 67}, {0, 109, 68},
-        {0, 109, 69}, {0, 109, 70}, {0, 109, 71}, {0, 109, 72}, {0, 109, 521},
-        {0, 109, 525}, {0, 109, 529}, {0, 110, 1}, {0, 110, 2}, {0, 110, 3},
-        {0, 110, 4}, {0, 110, 5}, {0, 110, 6}, {0, 110, 7}, {0, 110, 8},
-        {0, 110, 9}, {0, 110, 10}, {0, 110, 11}, {0, 110, 12}, {0, 110, 13},
-        {0, 110, 14}, {0, 110, 15}, {0, 110, 16}, {0, 110, 17}, {0, 110, 18},
-        {0, 110, 518}, {0, 110, 522}, {0, 110, 526}, {0, 110, 19}, {0, 110, 20},
-        {0, 110, 21}, {0, 110, 22}, {0, 110, 23}, {0, 110, 24}, {0, 110, 25},
-        {0, 110, 26}, {0, 110, 27}, {0, 110, 28}, {0, 110, 29}, {0, 110, 30},
-        {0, 110, 31}, {0, 110, 32}, {0, 110, 33}, {0, 110, 34}, {0, 110, 35},
-        {0, 110, 36}, {0, 110, 519}, {0, 110, 523}, {0, 110, 527}, {0, 110, 37},
-        {0, 110, 38}, {0, 110, 39}, {0, 110, 40}, {0, 110, 41}, {0, 110, 42},
-        {0, 110, 43}, {0, 110, 44}, {0, 110, 45}, {0, 110, 46}, {0, 110, 47},
-        {0, 110, 48}, {0, 110, 49}, {0, 110, 50}, {0, 110, 51}, {0, 110, 52},
-        {0, 110, 53}, {0, 110, 54}, {0, 110, 520}, {0, 110, 524}, {0, 110, 528},
-        {0, 110, 55}, {0, 110, 56}, {0, 110, 57}, {0, 110, 58}, {0, 110, 59},
-        {0, 110, 60}, {0, 110, 61}, {0, 110, 62}, {0, 110, 63}, {0, 110, 64},
-        {0, 110, 65}, {0, 110, 66}, {0, 110, 67}, {0, 110, 68}, {0, 110, 69},
-        {0, 110, 70}, {0, 110, 71}, {0, 110, 72}, {0, 110, 521}, {0, 110, 525},
-        {0, 110, 529}
-    }
+    tb_option_cloth = {{0, 108, 510}, {0, 109, 510}, {0, 110, 510}, {0, 108, 511}, {0, 109, 511}, {0, 110, 511},
+                       {0, 108, 513}, {0, 109, 513}, {0, 110, 513}, {0, 108, 512}, {0, 109, 512}, {0, 110, 512},
+                       {0, 108, 207}, {0, 108, 208}, {0, 108, 209}, {0, 108, 210}, {0, 108, 211}, {0, 108, 212},
+                       {0, 108, 213}, {0, 108, 214}, {0, 108, 215}, {0, 108, 216}, {0, 108, 217}, {0, 108, 218},
+                       {0, 109, 281}, {0, 109, 282}, {0, 109, 283}, {0, 109, 284}, {0, 109, 285}, {0, 109, 286},
+                       {0, 109, 287}, {0, 109, 288}, {0, 109, 289}, {0, 109, 290}, {0, 109, 291}, {0, 109, 292},
+                       {0, 110, 281}, {0, 110, 282}, {0, 110, 283}, {0, 110, 284}, {0, 110, 285}, {0, 110, 286},
+                       {0, 110, 287}, {0, 110, 288}, {0, 110, 289}, {0, 110, 290}, {0, 110, 291}, {0, 110, 292},
+                       {0, 108, 199}, {0, 108, 200}, {0, 108, 201}, {0, 108, 202}, {0, 109, 277}, {0, 109, 278},
+                       {0, 109, 279}, {0, 109, 280}, {0, 110, 89}, {0, 110, 90}, {0, 110, 91}, {0, 110, 92},
+                       {0, 108, 195}, {0, 108, 196}, {0, 108, 197}, {0, 108, 198}, {0, 109, 255}, {0, 109, 256},
+                       {0, 109, 257}, {0, 109, 258}, {0, 110, 85}, {0, 110, 86}, {0, 110, 87}, {0, 110, 88},
+                       {0, 108, 139}, {0, 109, 185}, {0, 110, 81}, {0, 108, 140}, {0, 109, 186}, {0, 110, 82},
+                       {0, 108, 141}, {0, 109, 187}, {0, 110, 83}, {0, 108, 142}, {0, 109, 188}, {0, 110, 84},
+                       {0, 108, 570}, {0, 109, 570}, {0, 110, 570}, {0, 108, 571}, {0, 109, 571}, {0, 110, 571},
+                       {0, 108, 572}, {0, 109, 572}, {0, 110, 572}, {0, 108, 573}, {0, 109, 573}, {0, 110, 573},
+                       {0, 108, 562}, {0, 109, 562}, {0, 110, 562}, {0, 108, 563}, {0, 109, 563}, {0, 110, 563},
+                       {0, 108, 564}, {0, 109, 564}, {0, 110, 564}, {0, 108, 565}, {0, 109, 565}, {0, 110, 565},
+                       {0, 108, 566}, {0, 109, 566}, {0, 110, 566}, {0, 108, 567}, {0, 109, 567}, {0, 110, 567},
+                       {0, 108, 568}, {0, 109, 568}, {0, 110, 568}, {0, 108, 569}, {0, 109, 569}, {0, 110, 569},
+                       {0, 108, 30001}, {0, 108, 30002}, {0, 108, 30003}, {0, 108, 30004}, {0, 108, 30005},
+                       {0, 108, 30006}, {0, 108, 30007}, {0, 108, 30008}, {0, 108, 30009}, {0, 108, 30010},
+                       {0, 108, 30011}, {0, 108, 30012}, {0, 109, 30001}, {0, 109, 30002}, {0, 109, 30003},
+                       {0, 109, 30004}, {0, 109, 30005}, {0, 109, 30006}, {0, 109, 30007}, {0, 109, 30008},
+                       {0, 109, 30009}, {0, 109, 30010}, {0, 109, 30011}, {0, 109, 30012}, {0, 110, 30001},
+                       {0, 110, 30002}, {0, 110, 30003}, {0, 110, 30004}, {0, 110, 30005}, {0, 110, 30006},
+                       {0, 110, 30007}, {0, 110, 30008}, {0, 110, 30009}, {0, 110, 30010}, {0, 110, 30011},
+                       {0, 110, 30012}, {0, 108, 109}, {0, 108, 110}, {0, 108, 111}, {0, 108, 112}, {0, 109, 109},
+                       {0, 109, 110}, {0, 109, 111}, {0, 109, 112}, {0, 110, 73}, {0, 110, 74}, {0, 110, 75},
+                       {0, 110, 76}, {0, 108, 1}, {0, 108, 2}, {0, 108, 3}, {0, 108, 4}, {0, 108, 5}, {0, 108, 6},
+                       {0, 108, 7}, {0, 108, 8}, {0, 108, 9}, {0, 108, 10}, {0, 108, 11}, {0, 108, 12}, {0, 108, 13},
+                       {0, 108, 14}, {0, 108, 15}, {0, 108, 16}, {0, 108, 17}, {0, 108, 18}, {0, 108, 518},
+                       {0, 108, 522}, {0, 108, 526}, {0, 108, 19}, {0, 108, 20}, {0, 108, 21}, {0, 108, 22},
+                       {0, 108, 23}, {0, 108, 24}, {0, 108, 25}, {0, 108, 26}, {0, 108, 27}, {0, 108, 28}, {0, 108, 29},
+                       {0, 108, 30}, {0, 108, 31}, {0, 108, 32}, {0, 108, 33}, {0, 108, 34}, {0, 108, 35}, {0, 108, 36},
+                       {0, 108, 519}, {0, 108, 523}, {0, 108, 527}, {0, 108, 37}, {0, 108, 38}, {0, 108, 39},
+                       {0, 108, 40}, {0, 108, 41}, {0, 108, 42}, {0, 108, 43}, {0, 108, 44}, {0, 108, 45}, {0, 108, 46},
+                       {0, 108, 47}, {0, 108, 48}, {0, 108, 49}, {0, 108, 50}, {0, 108, 51}, {0, 108, 52}, {0, 108, 53},
+                       {0, 108, 54}, {0, 108, 520}, {0, 108, 524}, {0, 108, 528}, {0, 108, 55}, {0, 108, 56},
+                       {0, 108, 57}, {0, 108, 58}, {0, 108, 59}, {0, 108, 60}, {0, 108, 61}, {0, 108, 62}, {0, 108, 63},
+                       {0, 108, 64}, {0, 108, 65}, {0, 108, 66}, {0, 108, 67}, {0, 108, 68}, {0, 108, 69}, {0, 108, 70},
+                       {0, 108, 71}, {0, 108, 72}, {0, 108, 521}, {0, 108, 525}, {0, 108, 529}, {0, 109, 1},
+                       {0, 109, 2}, {0, 109, 3}, {0, 109, 4}, {0, 109, 5}, {0, 109, 6}, {0, 109, 7}, {0, 109, 8},
+                       {0, 109, 9}, {0, 109, 10}, {0, 109, 11}, {0, 109, 12}, {0, 109, 13}, {0, 109, 14}, {0, 109, 15},
+                       {0, 109, 16}, {0, 109, 17}, {0, 109, 18}, {0, 109, 518}, {0, 109, 522}, {0, 109, 526},
+                       {0, 109, 19}, {0, 109, 20}, {0, 109, 21}, {0, 109, 22}, {0, 109, 23}, {0, 109, 24}, {0, 109, 25},
+                       {0, 109, 26}, {0, 109, 27}, {0, 109, 28}, {0, 109, 29}, {0, 109, 30}, {0, 109, 31}, {0, 109, 32},
+                       {0, 109, 33}, {0, 109, 34}, {0, 109, 35}, {0, 109, 36}, {0, 109, 519}, {0, 109, 523},
+                       {0, 109, 527}, {0, 109, 37}, {0, 109, 38}, {0, 109, 39}, {0, 109, 40}, {0, 109, 41},
+                       {0, 109, 42}, {0, 109, 43}, {0, 109, 44}, {0, 109, 45}, {0, 109, 46}, {0, 109, 47}, {0, 109, 48},
+                       {0, 109, 49}, {0, 109, 50}, {0, 109, 51}, {0, 109, 52}, {0, 109, 53}, {0, 109, 54},
+                       {0, 109, 520}, {0, 109, 524}, {0, 109, 528}, {0, 109, 55}, {0, 109, 56}, {0, 109, 57},
+                       {0, 109, 58}, {0, 109, 59}, {0, 109, 60}, {0, 109, 61}, {0, 109, 62}, {0, 109, 63}, {0, 109, 64},
+                       {0, 109, 65}, {0, 109, 66}, {0, 109, 67}, {0, 109, 68}, {0, 109, 69}, {0, 109, 70}, {0, 109, 71},
+                       {0, 109, 72}, {0, 109, 521}, {0, 109, 525}, {0, 109, 529}, {0, 110, 1}, {0, 110, 2}, {0, 110, 3},
+                       {0, 110, 4}, {0, 110, 5}, {0, 110, 6}, {0, 110, 7}, {0, 110, 8}, {0, 110, 9}, {0, 110, 10},
+                       {0, 110, 11}, {0, 110, 12}, {0, 110, 13}, {0, 110, 14}, {0, 110, 15}, {0, 110, 16}, {0, 110, 17},
+                       {0, 110, 18}, {0, 110, 518}, {0, 110, 522}, {0, 110, 526}, {0, 110, 19}, {0, 110, 20},
+                       {0, 110, 21}, {0, 110, 22}, {0, 110, 23}, {0, 110, 24}, {0, 110, 25}, {0, 110, 26}, {0, 110, 27},
+                       {0, 110, 28}, {0, 110, 29}, {0, 110, 30}, {0, 110, 31}, {0, 110, 32}, {0, 110, 33}, {0, 110, 34},
+                       {0, 110, 35}, {0, 110, 36}, {0, 110, 519}, {0, 110, 523}, {0, 110, 527}, {0, 110, 37},
+                       {0, 110, 38}, {0, 110, 39}, {0, 110, 40}, {0, 110, 41}, {0, 110, 42}, {0, 110, 43}, {0, 110, 44},
+                       {0, 110, 45}, {0, 110, 46}, {0, 110, 47}, {0, 110, 48}, {0, 110, 49}, {0, 110, 50}, {0, 110, 51},
+                       {0, 110, 52}, {0, 110, 53}, {0, 110, 54}, {0, 110, 520}, {0, 110, 524}, {0, 110, 528},
+                       {0, 110, 55}, {0, 110, 56}, {0, 110, 57}, {0, 110, 58}, {0, 110, 59}, {0, 110, 60}, {0, 110, 61},
+                       {0, 110, 62}, {0, 110, 63}, {0, 110, 64}, {0, 110, 65}, {0, 110, 66}, {0, 110, 67}, {0, 110, 68},
+                       {0, 110, 69}, {0, 110, 70}, {0, 110, 71}, {0, 110, 72}, {0, 110, 521}, {0, 110, 525},
+                       {0, 110, 529}}
 
     --------------------------------
     if GetTranslifeCount() <= 0 then
@@ -3057,8 +2733,7 @@ function confirm_get_translife_item()
     if GetPlayerRebornParam(0) == 1 then
         local nType_cs6 = GetPlayerRebornParam(1)
         local nBody = GetBody()
-        gf_AddItemEx(tb_translife_seal_cs6[nType_cs6][2],
-            tb_translife_seal_cs6[nType_cs6][1])
+        gf_AddItemEx(tb_translife_seal_cs6[nType_cs6][2], tb_translife_seal_cs6[nType_cs6][1])
         -- if GetLevel() < 79 then
         --   Talk(1, "",
         --      "ï¿½ï¿½i hiÃ–p chÂ­a Â®Ã± yÂªu cÃ‡u Â®Ã“ nhÃ‹n lï¿½itrang bÞ")
@@ -3069,42 +2744,37 @@ function confirm_get_translife_item()
         --	local nType_cs6 = GetPlayerRebornParam(1) -- xÃ£a trang bi CS6
         --	local nBody_cs6 = GetBody()
         for i = 1, getn(tb_translife_cloth_cs6_nhanlai[nType_cs6][nBody]) do
-            local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 =
-                gf_UnPack(tb_translife_cloth_cs6_nhanlai[nType_cs6][nBody][i])
+            local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 = gf_UnPack(
+                tb_translife_cloth_cs6_nhanlai[nType_cs6][nBody][i])
             -- P = P + GetBody() - 1
             lvatt3 = lvatt3 or 0
             att3 = att3 or 0
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
         end
         for i = 1, 3 do
-            gf_AddItemEx(tb_translife_cloth_cs6_nhanlai[nType_cs6][nBody][i],
-                "NhËn l¹i trang bÞ")
+            gf_AddItemEx(tb_translife_cloth_cs6_nhanlai[nType_cs6][nBody][i], "NhËn l¹i trang bÞ")
         end
         for i = 1, getn(tb_translife_cloth[nType][nTransCount]) do
-            local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 =
-                gf_UnPack(tb_translife_cloth[nType][nTransCount][i][2])
+            local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 = gf_UnPack(
+                tb_translife_cloth[nType][nTransCount][i][2])
             P = P + GetBody() - 1
             lvatt3 = lvatt3 or 0
             att3 = att3 or 0
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
             --	gf_AddItemEx({G, D, P, nCount,1, lvatt1, att1, lvatt2, att2, lvatt3, att3},tb_translife_cloth[nType][nTransCount][i][1])
         end
-        Talk(1, "",
-            "§©y lµ nh÷ng vËy quý gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")
+        Talk(1, "", "§©y lµ nh÷ng vËy quý gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")
         WriteLogEx("Chuyen Sinh",
-            "nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh theo h­íng " ..
-                tb_translife_seal[nType_cs6][3])
+            "nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh theo h­íng " .. tb_translife_seal[nType_cs6][3])
         return
     end
     ---------chuyÃ“n sinh 7
     if GetPlayerRebornParam(0) == 2 then
         local nType_cs7 = GetPlayerRebornParam(1)
         local nBody = GetBody()
-        gf_AddItemEx(tb_translife_seal_cs6[nType_cs7][2],
-            tb_translife_seal_cs6[nType_cs7][1])
+        gf_AddItemEx(tb_translife_seal_cs6[nType_cs7][2], tb_translife_seal_cs6[nType_cs7][1])
         if GetLevel() < 79 then
-            Talk(1, "",
-                "§¹i hiÖp ch­a ®ñ yªu cÇu ®Ó nhËn l¹i trang bÞ")
+            Talk(1, "", "§¹i hiÖp ch­a ®ñ yªu cÇu ®Ó nhËn l¹i trang bÞ")
             return
         end
         -- SetTask(336, GetTask(336) - 100)
@@ -3112,53 +2782,47 @@ function confirm_get_translife_item()
         --	local nType_cs6 = GetPlayerRebornParam(1) -- xÃ£a trang bi CS6
         --	local nBody_cs6 = GetBody()
         for i = 1, getn(tb_translife_cloth_cs7_nhanlai[nType_cs7][nBody]) do
-            local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 =
-                gf_UnPack(tb_translife_cloth_cs7_nhanlai[nType_cs7][nBody][i])
+            local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 = gf_UnPack(
+                tb_translife_cloth_cs7_nhanlai[nType_cs7][nBody][i])
             -- P = P + GetBody() - 1
             lvatt3 = lvatt3 or 0
             att3 = att3 or 0
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
         end
         for i = 1, 3 do
-            gf_AddItemEx(tb_translife_cloth_cs7_nhanlai[nType_cs7][nBody][i],
-                "NhËn l¹i trang bÞ")
+            gf_AddItemEx(tb_translife_cloth_cs7_nhanlai[nType_cs7][nBody][i], "NhËn l¹i trang bÞ")
         end
         for i = 1, getn(tb_translife_cloth[nType][nTransCount]) do
-            local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 =
-                gf_UnPack(tb_translife_cloth[nType][nTransCount][i][2])
+            local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 = gf_UnPack(
+                tb_translife_cloth[nType][nTransCount][i][2])
             P = P + GetBody() - 1
             lvatt3 = lvatt3 or 0
             att3 = att3 or 0
             BigDelItem(G, D, P, BigGetItemCount(G, D, P))
             --	gf_AddItemEx({G, D, P, nCount,1, lvatt1, att1, lvatt2, att2, lvatt3, att3},tb_translife_cloth[nType][nTransCount][i][1])
         end
-        Talk(1, "",
-            "§©y lµ nh÷ng vËy quý gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")
+        Talk(1, "", "§©y lµ nh÷ng vËy quý gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")
         WriteLogEx("Chuyen Sinh",
-            "nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh 7 theo h­íng " ..
-                tb_translife_seal[nType_cs6][3])
+            "nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh 7 theo h­íng " .. tb_translife_seal[nType_cs6][3])
         return
     end
     ---------------
     gf_AddItemEx(tb_translife_seal[nType][2], tb_translife_seal[nType][1])
     for i = 1, getn(tb_translife_cloth[nType][nTransCount]) do
-        local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 =
-            gf_UnPack(tb_translife_cloth[nType][nTransCount][i][2])
+        local G, D, P, nCount, _, lvatt1, att1, lvatt2, att2, lvatt3, att3 = gf_UnPack(
+            tb_translife_cloth[nType][nTransCount][i][2])
         P = P + GetBody() - 1
         lvatt3 = lvatt3 or 0
         att3 = att3 or 0
         BigDelItem(G, D, P, BigGetItemCount(G, D, P))
-        gf_AddItemEx({
-            G, D, P, nCount, 1, lvatt1, att1, lvatt2, att2, lvatt3, att3
-        }, tb_translife_cloth[nType][nTransCount][i][1])
+        gf_AddItemEx({G, D, P, nCount, 1, lvatt1, att1, lvatt2, att2, lvatt3, att3},
+            tb_translife_cloth[nType][nTransCount][i][1])
     end
     -- SetTask(336, GetTask(336) - 100)
     -- Msg2Player("BÂ¹n bÞ trÃµ 100 Â®iÃ“m sÂ­ mÂ«n.")
-    Talk(1, "", szNpcName ..
-        "§©y lµ nh÷ng vËy quý gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")
-    WriteLogEx("Chuyen Sinh",
-        "nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh lÇn " .. nTransCount ..
-            " theo h­íng " .. tb_translife_seal[nType][3])
+    Talk(1, "", szNpcName .. "§©y lµ nh÷ng vËy quý gi¸, lÇn sau cÈn thËn ko ®Ó mÊt n÷a ®Êy!")
+    WriteLogEx("Chuyen Sinh", "nhËn l¹i Ên vµ ngo¹i trang chuyÓn sinh lÇn " .. nTransCount .. " theo h­íng " ..
+        tb_translife_seal[nType][3])
 end
 function go_exit()
     ExitGame()

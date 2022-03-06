@@ -1,0 +1,13 @@
+WeaponDetailType	ActiveAniOnHorse	ActiveAniNotOnHorse	ActiveSoundDelay	ActiveEffectDelay
+0		特效开启_空手	36	36
+1		特效开启_空手	36	36
+2		特效开启_剑	36	36
+3		特效开启_刀	36	36
+4	特效开启_弓		36	36
+5		特效开启_棍	36	36
+6	特效开启_枪		36	36
+7		特效开启_双刀	36	36
+8		特效开启_杖	36	36
+9		特效开启_笔	36	36
+10		特效开启_琴	36	36
+11		特效开启_爪	36	36

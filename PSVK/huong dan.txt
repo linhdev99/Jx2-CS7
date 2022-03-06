@@ -1,0 +1,5 @@
+?gm ds BindWeaponEffect("eff16", 7 * 24 * 3600)
+
+??i phát sáng khác thay eff16 , ??n s? 42
+
+copy file b? vào sever + client

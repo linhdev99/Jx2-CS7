@@ -1,0 +1,16 @@
+EnhanceNum	OutEnhance	InterEnhance	SucessOdd1	SucessOdd2	NeedItem1Num	NeedItem2Num	NeedItem1Gene	NeedItem1Sub	NeedItem1Detail	NeedItem2Gene	NeedItem2Sub	NeedItem2Detail	NeedFee	SafeItemGene	SafeItemSub	SafeItemDetail	SafeItemNum
+1	2	2	100	100	1	1	2	2	7	2	2	7	80				0
+2	3	3	70	70	1	1	2	2	7	2	2	7	80				0
+3	3	3	60	60	1	1	2	2	7	2	2	7	80				0
+4	6	6	50	50	1	1	2	2	7	2	2	7	80				0
+5	8	8	40	40	1	1	2	2	8	2	2	8	80				0
+6	12	12	30	30	1	1	2	2	8	2	2	8	80				0
+7	16	16	30	30	1	1	2	2	8	2	2	8	80				0
+8	5	5	30	30	1	1	2	1	1009	2	1	1009	100				0
+9	5	5	70	70	1	1	2	1	1009	2	1	1009	100				0
+10	5	5	20	20	1	1	2	1	1009	2	1	1009	100				0
+11	4	4	20	20	1	1	2	1	1009	2	1	1009	100				0
+12	4	4	20	20	1	1	2	1	1009	2	1	1009	100	2	1	30424	1
+13	4	4	10	10	1	1	2	1	1009	2	1	1009	100	2	1	30425	1
+14	3	3	5	5	1	1	2	1	1009	2	1	1009	100	2	1	30426	1
+15	3	3	1	1	1	1	2	1	1009	2	1	1009	100	2	1	30427	1

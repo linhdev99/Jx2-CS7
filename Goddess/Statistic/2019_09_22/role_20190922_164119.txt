@@ -1,0 +1,5 @@
+Account	Name	Route	TransLife	Level	IBCost	Money	A	B	C	D	E	F	Exp	Last_IP	CreateDate	LastLoginDate
+bapcaile	helloae	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-22 16:40:52	1970-01-01 08:00:00
+quandtu	MANHHO	ThiÕu L©m vâ t¨ng  	0	99	0	1000000	0	0	0	0	0	0	0	118.68.55.250	2019-09-22 16:40:25	2019-09-22 16:40:47
+0942946246qt	ManhKhoi	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-22 16:41:09	1970-01-01 08:00:00
+XuÊt d÷ liÖu hoµn tÊt

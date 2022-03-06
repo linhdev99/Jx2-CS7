@@ -1,0 +1,2065 @@
+StatTime	Account	Role	ItemName	G	D	P	Cnt
+2019_09_28 21:21:32	chiton222	111111	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton222	111111	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	loangianghotlq	111111111111aa11	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	loangianghotlq	111111111111aa11	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton222	111111111zz	C©y b∏t nh∑ to	2	0	398	6
+2019_09_28 21:21:32	chiton222	111111111zz	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton222	111111111zz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl666	111111d	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	bnl666	111111d	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl666	111111d	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl222	111111q	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl222	111111q	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl999	111111ss	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	bnl999	111111ss	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl999	111111ss	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	bnl999	111111ss	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl888	111111∏a	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	bnl888	111111∏a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl888	111111∏a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton222	11111a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton222	11111a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl777	11111d	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	bnl777	11111d	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl777	11111d	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	bnl777	11111d	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	loangianghotlt	1222111111111111	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	loangianghotlt	1222111111111111	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tieutamhn90	123123	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	chaistingvodau1	12312344a	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyenkhang1113	123123qwe	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	nguyenkhang1113	123123qwe	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyenkhang1113	123123qwe	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	nguyenkhang1113	123123qwe	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyenkhang1113	123123qwe	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chaistingvodau1	1232ffa	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nsnl13021	1233321	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyenkhang1112	123asd1	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyenkhang1112	123asd1	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	nguyenkhang1112	123asd1	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nsnl13022	123ewgf	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	clone23	123qweasd	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	clone23	123qweasd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	clone23	123qweasd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nsnl13025	124sddfs	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	sangvh10	12ewqe	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	sangvh10	12ewqe	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	sangvh10	12ewqe	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	zhaduchanh7	1j2hg31j2h	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	zhaduchanh7	1j2hg31j2h	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	zhaduchanh7	1j2hg31j2h	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	zhaduchanh7	1j2hg31j2h	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	volamtrk3	1st5docvip	C©y b∏t nh∑ nh·	2	0	504	7
+2019_09_28 21:21:32	volamtrk3	1st5docvip	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	volamtrk3	1st5docvip	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	volamtrk	1stChanflyonmat	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	volamtrk	1stChanflyonmat	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	volamtrk2	1stDGCvip	C©y b∏t nh∑ nh·	2	0	504	7
+2019_09_28 21:21:32	volamtrk2	1stDGCvip	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	volamtrk4	1stDGTvip	C©y b∏t nh∑ nh·	2	0	504	7
+2019_09_28 21:21:32	volamtrk4	1stDGTvip	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	volamtrk5	1stDuongmonvip	C©y b∏t nh∑ nh·	2	0	504	7
+2019_09_28 21:21:32	volamtrk5	1stDuongmonvip	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	volamtrk1	1stHauNghe	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	volamtrk1	1stHauNghe	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	hinodongfeng1	1Stkhongnoi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lamchidua	1StMyLoVeTram	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	lamchidua	1StMyLoVeTram	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lamchidua	1StMyLoVeTram	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	lamchidua	1StMyLoVeTram	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	volamtrk7	1stNMCvip	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	volamtrk7	1stNMCvip	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	aspirinef	1StS2Kem	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hinodongfeng2	1StTaoLaAi	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	hinodongfeng2	1StTaoLaAi	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	hinodongfeng2	1StTaoLaAi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hinodongfeng2	1StTaoLaAi	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hinodongfeng2	1StTLQ	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	hinodongfeng2	1StTLQ	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	hinodongfeng2	1StTLQ	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	hinodongfeng2	1StTLQ	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hinodongfeng3	1StTlqNo1	Tu Ch©n Y’u Quy’t	2	0	554	7
+2019_09_28 21:21:32	hinodongfeng1	1StTlquyen	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	volamtrk6	1stVDKvip	C©y b∏t nh∑ nh·	2	0	504	7
+2019_09_28 21:21:32	volamtrk6	1stVDKvip	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	n2702199711	1X231X23	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	n2702199711	1X231X23	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	n2702199711	1X231X23	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	n2702199711	1X231X23	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	langphe1	2121121212	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	langphe1	2121121212	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	langphe2	2121121313	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	langphe2	2121121313	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	gameviet24h7x2	2121212	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x2	2121212	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	langphe1	212121212	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chosoihtam5	2222222	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	bnl333	222222222q	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	bnl333	222222222q	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl333	222222222q	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton444	2222222a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton444	2222222a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton444	2222222Æd	C©y b∏t nh∑ to	2	0	398	6
+2019_09_28 21:21:32	chiton444	2222222Æd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton444	2222222Æd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	loangianghotlq	2222dfd222222221	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	loangianghotlt	2222dfd222222222	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	loangianghotlt	2222dfd222222222	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	loangianghotlt	2222dfd222222222	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	loangianghotlt	2222dfd222222222	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x1	23123123	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x1	23123123	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x3	231231234	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	gameviet24h7x3	231231234	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x3	231231234	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x2	231234234	C©y b∏t nh∑ to	2	0	398	6
+2019_09_28 21:21:32	gameviet24h7x2	231234234	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x2	231234234	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nsnl13022	234tsrg	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nsnl13023	23rÃg344	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kazamaqn9	2KgGπo	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	gameviet24h7x8	3123123	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	gameviet24h7x8	3123123	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x8	3123123	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x6	3123123123	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	gameviet24h7x6	3123123123	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x6	3123123123	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x10	312312323111	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	gameviet24h7x10	312312323111	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x10	312312323111	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x5	312323123	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	gameviet24h7x5	312323123	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x5	312323123	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x9	31232312331	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	gameviet24h7x9	31232312331	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x9	31232312331	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dong115	313131	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dong115	313131	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dong115	313131	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	longvanle430	32www22	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chiton555	33333a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton555	33333a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl444	33333©a	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	bnl444	33333©a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl444	33333©a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dinhnghia39	35xDGCx	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	dinhnghia39	35xDGCx	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dinhnghia39	35xDGCx	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dinhnghia36	35xGaiNghanh	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	dinhnghia36	35xGaiNghanh	Tu Ch©n Y’u Quy’t	2	0	554	6
+2019_09_28 21:21:32	dinhnghia35	35xLinhNghanh	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	dinhnghia35	35xLinhNghanh	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	dinhnghia38	35xTLTx	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	dinhnghia38	35xTLTx	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dinhnghia38	35xTLTx	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dinhnghia38	35xTLTx	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dinhnghia37	35xVDB	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	dinhnghia37	35xVDB	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dinhnghia37	35xVDB	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x7	43242343	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	gameviet24h7x7	43242343	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x7	43242343	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton666	4444444a	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	chiton666	4444444a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton666	4444444a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x4	453534	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	gameviet24h7x4	453534	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x4	453534	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	0866719462	45454545	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	0866719462	45454545	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gameviet24h7x1	53478523	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	gameviet24h7x1	53478523	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gameviet24h7x1	53478523	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton777	555555555©a	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	chiton777	555555555©a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton777	555555555©a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	40dadaa	5DocJx2	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranchuong95	5rertert	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	tranchuong95	5rertert	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chiton888	666666a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton888	666666a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	zhaduchanh2	6a5sd46a	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	zhaduchanh2	6a5sd46a	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tld1102	77777777©a	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	tld1102	77777777©a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tld1102	77777777©a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	n270219971	78xTr©uP	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	n270219971	78xTr©uP	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	n270219971	78xTr©uP	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	n270219971	78xTr©uP	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	n27021997111	78XXXXXXXXXX	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	n27021997111	78XXXXXXXXXX	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	n27021997111	78XXXXXXXXXX	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	n27021997111	78XXXXXXXXXX	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	n270219972	78ZZZZZZZZZZ	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	vdb1102	888888a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	vdb1102	888888a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl111	9999999a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl111	9999999a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	realcher6	9xJx2BachLong9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher96	9xJx2ChauLong9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd1	9xJx2DeThien9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd5	9xJx2DieuThuyen	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	asdasd5	9xJx2DieuThuyen	Chi’n Th«n hoµn	2	1	1005	13
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	realcher69	9xJx2HacHo9x	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	realcher69	9xJx2HacLong9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd5	9xJx2HangNga9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher123	9xJx2HoaPhung	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	realcher123	9xJx2HoaPhung	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher123	9xJx2HoaPhung	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher123	9xJx2HoaPhung	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	asdasd1	9xJx2HoaSuong9x	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	asdasd3	9xJx2HoaThan9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd3	9xJx2HoaVuong9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher6	9xJx2HuyetLong9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher123	9xJx2LoiHo	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher2	9xJx2LyCaTieu	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher2	9xJx2LyCaTieu	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	asdasd4	9xJx2NgaoThe9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd4	9xJx2QuanBao9x	Tu Ch©n Y’u Quy’t	2	0	554	66
+2019_09_28 21:21:32	asdasd4	9xJx2QuanBao9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher69	9xJx2SongHo9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd7	9xJx2SwordMaster	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd1	9xJx2TaoPhi9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd3	9xJx2ThichDeThie	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher6	9xJx2ThienDe9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher3	9xJx2TieuLong	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher3	9xJx2TieuLong	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	realcher96	9xJx2TieuPhung9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher1	9xJx2TKATLQ	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher1	9xJx2TKATLQ	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	realcher2	9xJX2TLQ2k9x	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher2	9xJX2TLQ2k9x	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	realcher1	9xJx2TLQPK2	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher1	9xJx2TLQPK2	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	realcher4	9xJx2TrieuTuLong	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher4	9xJx2TrieuTuLong	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	realcher4	9xJx2TrieuVan	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher4	9xJx2TrieuVan	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	realcher4	9xJx2TrieuVan9x	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	realcher4	9xJx2TrieuVan9x	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher4	9xJx2TrieuVan9x	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	realcher123	9xJx2UyHo	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher96	9xJx2UyHo9x	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd4	9xJx2Vinh47	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	realcher1	9xJx2VinhEas	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher1	9xJx2VinhEas	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	realcher3	9xJx2VoThan9x	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher3	9xJx2VoThan9x	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	jetemdja	aaadsdfs	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	jetemdja	aaadsdfs	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	quandtu	AAQUANDA	Tu Ch©n Y’u Quy’t	2	0	554	30
+2019_09_28 21:21:32	tranchuongtattoo	adkkhkhk	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	saodung1	AEizKi’mBuff	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	saodung1	AEizKi’mBuff	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	saodung1	AEizKi’mBuff	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	saodung12	AEizNgÚßÈc	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	saodung12	AEizNgÚßÈc	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	saodung	AEizTµnTho∏i	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	saodung	AEizTµnTho∏i	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	saodung	AEizTµnTho∏i	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	saodung	AEizßÀpCh„z	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	saodung	AEizßÀpCh„z	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	saodung	AEizßÀpCh„z	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	caubai1986	AEzß´ngLµoNo1	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lethanhduong1	akjbfjafa	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	lethanhduong1	akjbfjafa	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lethanhduong1	akjbfjafa	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	arenayb1	AlabasTa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl777	alo123	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	bnl777	alo123	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl777	alo123	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl888	alo321	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl888	alo321	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	anhtrong	AnhTrong	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	anhtrong	AnhTrong	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	anhtrong	AnhTrong	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nghiachaua2	AnXin2019	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dolozmon0	asdasd	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	dolozmon0	asdasd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dolozmon0	asdasd	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	dolozmon0	asdasd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dolozmon0	asdasd	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	dolozmon0	asdasd	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	mjkjmjkj4	asdasdsad	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ohbiendi1	asdsa321	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	anhnam	ATieuPhu	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	anhnam	ATieuPhu	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ethangkia19893	Axawswzs	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	ethangkia19893	Axawswzs	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ethangkia19893	Axawswzs	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tieutamhn9x	B52BlackDragod	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	tieutamhn9x	B52HoangDung	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	tieutamhn9x	B52HoangDung	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tieutamhn9x	B52HoangDung	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieutamhn9x	B52HoangDung	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tieutamhn98	B52xBlackDraGon9	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	tieutamhn97	B52xWhiteDragon	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	acctrang1997	BaByC«mBÊng	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	acctrang1997	BaByC«mBÊng	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	acctrang1997	BaByC«mBÊng	Tu Ch©n Y’u Quy’t	2	0	554	39
+2019_09_28 21:21:32	acctrang1997	BaByC«mBÊng	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lvducht1	BanChanVang	C©y b∏t nh∑ to	2	0	398	6
+2019_09_28 21:21:32	lvducht1	BanChanVang	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lvducht1	BanChanVang	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lvducht1	BanChanVang	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	xeomcongtu2	B„pVuCAve	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	xeomcongtu2	B„pVuCAve	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	xeomcongtu2	B„pVuCAve	Tu Ch©n Y’u Quy’t	2	0	554	11
+2019_09_28 21:21:32	xeomcongtu2	B„pVuCAve	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Tu Ch©n Y’u Quy’t	2	0	554	11
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	namkislkey14	BeastNAm	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	nobita	BeKhoe	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	ethangkia184	BemBem	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia184	BemBem	Huyet Trich Thach 4	2	22	104	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Huyet Trich Thach 5	2	22	105	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Huyet Trich Thach 6	2	22	106	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Ho Phach Thach 4	2	22	304	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Ho Phach Thach 5	2	22	305	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Ho Phach Thach 6	2	22	306	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Nguyet Bach Thach 4	2	22	204	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Nguyet Bach Thach 5	2	22	205	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Nguyet Bach Thach 6	2	22	206	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Hac Dieu Thach 4	2	22	404	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Hac Dieu Thach 5	2	22	405	200
+2019_09_28 21:21:32	ethangkia184	BemBem	Hac Dieu Thach 6	2	22	406	200
+2019_09_28 21:21:32	ynhonnie33	Bhujjgg	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thoidenho2	BÓß›tTaoßi	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	thoidenho2	BÓß›tTaoßi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	xeomcongtu89	BÛL´nCaVe	C©y b∏t nh∑ to	2	0	398	6
+2019_09_28 21:21:32	xeomcongtu89	BÛL´nCaVe	Tu Ch©n Y’u Quy’t	2	0	554	49
+2019_09_28 21:21:32	vonhuttan1999	BooHanCOk	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	vonhuttan1999	BooHancook	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	clone3s	BÛtVi’tRaCh˜LOL	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	clone3s	BÛtVi’tRaCh˜LOL	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	bnl333	Broken1	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl333	Broken1	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl444	Broken12	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	bnl444	Broken12	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl444	Broken12	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl999	Broken12321	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl999	Broken12321	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl666	Broken142	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	bnl666	Broken142	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl666	Broken142	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyenkhang11234	BuffConCax	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	nguyenkhang11234	BuffConCax	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nholkbill1	BuffDao	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	nholkbill1	BuffDao	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nholkbill1	BuffDao	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	nholkbill1	BuffDao	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	lvducht	Buffffffff	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	lvducht	Buffffffff	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	nghiachaua1	bufffudd	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	toolest3	BuffLumia	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	mjkjmjkj2	BUFFpRO	C©y b∏t nh∑ to	2	0	398	9
+2019_09_28 21:21:32	mjkjmjkj2	BUFFpRO	C©y b∏t nh∑ nh·	2	0	504	11
+2019_09_28 21:21:32	mjkjmjkj2	BUFFpRO	Tu Ch©n Y’u Quy’t	2	0	554	13
+2019_09_28 21:21:32	mjkjmjkj2	BUFFpRO	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyenkhang11234	BuffTutChym	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	yeuvocon1	BuffVaoChym	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	yeuvocon1	BuffVaoChym	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dong113	BufßuBai	C©y b∏t nh∑ nh·	2	0	504	4
+2019_09_28 21:21:32	chochoimeo194	butxagachet	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tuankien333hm	BxGauLuuManh	Tu Ch©n Y’u Quy’t	2	0	554	12
+2019_09_28 21:21:32	mrsaiyuk69	BxGµHamSÛt	Tu Ch©n Y’u Quy’t	2	0	554	24
+2019_09_28 21:21:32	dakmilno1	B´L“nh	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	dakmilno1	B´L“nh	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	dakmilno1	B´L“nh	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	zhaduchanh	B≠ÌngTh◊Sao	Qu©n c´ng ch≠¨ng	2	1	9999	2
+2019_09_28 21:21:32	zhaduchanh	B≠ÌngTh◊Sao	Qu©n C´ng ßπi	2	1	9998	2
+2019_09_28 21:21:32	zhaduchanh	B≠ÌngTh◊Sao	Xu	2	1	30230	50
+2019_09_28 21:21:32	chiton333	B∑oT∏p	C©y b∏t nh∑ nh·	2	0	504	6
+2019_09_28 21:21:32	chiton333	B∑oT∏p	Bπch Kim HÂng Bao	2	1	30229	6
+2019_09_28 21:21:32	chiton333	B∑oT∏p	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	chiton333	B∑oT∏p	Bach Kim Hong Bao	2	1	30228	2
+2019_09_28 21:21:32	bobo1234	C0nCuToBu	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	langphe2	caijthenhi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	langphe3	CanLam1CaiTen	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	langphe3	CanLam1CaiTen	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyenkhang1113	casd123as	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	nguyenkhang1113	casd123as	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	phongvuong5	CASJDAJSD	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kkunghia2	cavechua	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	nobita1	Cavexxx	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	langphe1	cayzinoi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco4	cdqwcqwcqwdqw	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	huyco4	cdqwcqwcqwdqw	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco4	cdqwcqwcqwdqw	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranviet5	c…vzrag	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thanhtru2k1	changame	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	thanhtru2k1	changame	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thanhtru2k1	changame	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thanhtru2k1	changame	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	langphe4	ChanLamRoi4	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	vdb1102	Chi’nBinhTh–p	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	vdb1102	Chi’nBinhTh–p	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gavangdeptrai4	chotta	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gavangdeptrai4	chotta	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	emteo1992	chuoihat	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	teo1992	chuoitieu	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	balame2	Ckisds	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	balame2	Ckisds	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno1	clone1	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno1	clone1	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno4	clone12	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno4	clone12	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thai123	Clone123	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thai123	Clone123	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tungduong998	clone1234	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	tungduong998	clone1234	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tungduong998	clone1234	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tungduong998	clone1234	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tungduong1998	clone12345	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	tungduong1998	clone12345	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tungduong1998	clone12345	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tungduong1998	clone12345	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	skyzno5	clone13	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno5	clone13	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno1	clone2	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno1	clone2	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	clone20	clone20	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	clone20	clone20	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	clone21	clone21	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	clone21	clone21	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	clone22	clone22	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	clone22	clone22	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	skyzno1	clone3	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno1	clone3	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno2	clone4	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno2	clone4	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno2	clone6	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno2	clone6	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno	clonne	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	skyzno	clonne	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno4	clonne10	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno4	clonne10	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno4	clonne11	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno4	clonne11	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno5	clonne14	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno5	clonne14	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno5	clonne15	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno5	clonne15	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno2	clonne5	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno2	clonne5	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno3	clonne7	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno3	clonne7	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno3	clonne8	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno3	clonne8	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	skyzno3	clonne9	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	skyzno3	clonne9	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kimtuyet2zz	colenzzz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thoidenho1	Coler1111	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	jx2vietchamcom2	ComPuTer	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	thoidenho1	CÙTÊT™nDuy	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco5	cqwdwqdqw	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	huyco5	cqwdwqdqw	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco5	cqwdwqdqw	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	huyco7	cqwqwdc	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	huyco7	cqwqwdc	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco7	cqwqwdc	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	huyco2	cqwwqcqwd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	huyco2	cqwwqcqwd	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco2	cqwwqcqwd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	cumnum9x	CumNum9x	C©y b∏t nh∑ to	2	0	398	6
+2019_09_28 21:21:32	cumnum9x	CumNum9x	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	cumnum9x	CumNum9x	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	mackeno	CuongLong	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	mackeno	CuongLong	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	mackeno	CuongLong	Tu Ch©n Y’u Quy’t	2	0	554	8
+2019_09_28 21:21:32	mackeno	CuongLong	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dancaygame	Cuop1111	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	dancaygame	Cuop1111	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dancaygame	Cuop1111	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame2	Cuop111111	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	dancaygame2	Cuop111111	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dancaygame2	Cuop111111	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame2222	Cuop123	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	dancaygame2222	Cuop123	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dancaygame2222	Cuop123	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame2222	Cuop2222	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	dancaygame2222	Cuop2222	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dancaygame2222	Cuop2222	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame1	Cuop333333	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	dancaygame1	Cuop333333	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dancaygame1	Cuop333333	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame3	Cuop3443	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	dancaygame3	Cuop3443	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dancaygame3	Cuop3443	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame2222	cuop4444	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	dancaygame2222	cuop4444	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dancaygame2222	cuop4444	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame	Cuop5555	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	dancaygame	Cuop5555	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dancaygame	Cuop5555	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame4	Cuop6544	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	dancaygame4	Cuop6544	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	dancaygame4	Cuop6544	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame	Cuophhhh	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	dancaygame	Cuophhhh	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	dancaygame	Cuophhhh	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	phongvuong5	C≠ÌpB∏tNh∑LÌn	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	phongvuong5	C≠ÌpB∏tNh∑LÌn1	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco8	d1c1cwdq	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	huyco8	d1c1cwdq	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco8	d1c1cwdq	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyenkhang1111	dasd1231qds	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	nguyenkhang1111	dasd1231qds	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyenkhang1111	dasd1231qds	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyenkhang1111	dasd1231qds	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranvietz	d dadadas	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tranvietz	d dadadas	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranvietz	d dadadas	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranviet4	d dadasda	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	buonnguqua123456	dfffffff	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	buonnguqua123456	dfffffff	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	buonnguqua123456	dfffffff	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	quanghai666vn	dgdfhfgj	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	quanghai777vn	dhsgsdgsh	C©y b∏t nh∑ to	2	0	398	14
+2019_09_28 21:21:32	quanghai777vn	dhsgsdgsh	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	quanghai777vn	dhsgsdgsh	Thi™n Thπch Tinh Thπ	2	1	1009	93
+2019_09_28 21:21:32	quanghai777vn	dhsgsdgsh	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	langphe3	Dienaem	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thanhtru2k5	DNzTru	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	sockkuga123	DNzTruuu	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	sockkuga123	DNzTruuu	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dungnguyen22993	DÚngJr	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	dungnguyen22993	DÚngJr	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dungnguyen22993	DÚngJr	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	trongcay1226	dqwd12225	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	tranviet1	dsadasd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tranviet1	dsadasd	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet1	dsadasd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	jetemdjaa	dsadasdas	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	jetemdjaa	dsadasdas	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	quanghai999vn	dsfdsfgsdh	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	quanghai999vn	dsfdsfgsdh	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	jetemdja	dsfsfdfs	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	jetemdja	dsfsfdfs	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	jetemdja	dsfsfdfs	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	jetemdja	dsfsfdfs	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	jetemdja	dsfsfdfs	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	quanghai555vn	dsgdlhldhds	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	quanghai1111vn	dsgdsfhgd	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	quanghai1111vn	dsgdsfhgd	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieuthien4	DSxKenji	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	tieuthien4	DSxKenji	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tieuthien4	DSxKenji	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieuthien4	DSxKenji	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	C©y b∏t nh∑ nh·	2	0	504	7
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	tieuthien	DSxTi’uThi™n	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	sangvh007	DubaiReTien	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranchuong	DuongQua	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	tranchuong	DuongQua	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	balame1	DuuuBai	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	sangvh007	DuuuBaiii	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	mjkjmjkj4	edwewewer	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	mjkjmjkj4	edwewewer	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	mjkjmjkj4	edwewewer	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranchuongtattoo	edwrfsdfsd	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	gavangdeptrai2	eeeeeeeeeeeedsa	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	gavangdeptrai2	eeeeeeeeeeeedsa	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gavangdeptrai2	eeeeeeeeeeeedsa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranviet6	eqweqeqe	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet6	eqweqweqwe	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet7	eqweq∏dadas	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet5	eqwewqeqeqe	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende	ewqewaed	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	nguyende	ewqewaed	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyende	ewqewaed	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende	ewqewaed	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranviet7	fafaah	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tranviet7	fafaah	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet7	fafaah	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranviet1	fafagag	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet4	fafagvc	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet2	fagaga	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet3	fasagh	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	loangianghotld	fdgrew1111111111	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	loangianghotld	fdgrew1111111111	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	loangianghotld	fdgrew1111111111	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyende4	fdrsfsfdgfg	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	nguyende4	fdrsfsfdgfg	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyende4	fdrsfsfdgfg	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende4	fdrsfsfdgfg	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	jetemdja	fdsfsdfs	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	jetemdja	fdsfsdfs	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende5	fgdgggfd	C©y b∏t nh∑ to	2	0	398	9
+2019_09_28 21:21:32	nguyende5	fgdgggfd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyende5	fgdgggfd	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende5	fgdgggfd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	saodung12	fghgfhfgh	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	saodung12	fghgfhfgh	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	saodung12	fghgfhfgh	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	saodung12	fghgfhfgh	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	quangvuha90	FMLquang	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	dong115	fssfsdsad	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ynhonnie22	FvvFFFFF	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	ynhonnie22	FvvFFFFF	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	sangvh10	fwjrf23	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	sangvh10	fwjrf23	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	sangvh10	fwjrf23	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	sangvh10	fwjrf23	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	sangvh10	fwjrf23	Huyet Trich Thach 6	2	22	106	91
+2019_09_28 21:21:32	sangvh10	fwjrf23	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	sangvh10	fwjrf23	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	sangvh10	fwjrf23	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	sangvh10	fwjrf23	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	sangvh10	fwjrf23	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	sangvh10	fwjrf23	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	sangvh10	fwjrf23	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	sangvh10	fwjrf23	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	sangvh10	fwjrf23	Hac Dieu Thach 6	2	22	406	94
+2019_09_28 21:21:32	thanhtru2k0	gamenhusit	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	thanhtru2k0	gamenhusit	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thanhtru2k0	gamenhusit	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thanhtru2k0	gamenhusit	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bigseoly2	GaSieuNac	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	bigseoly1	GauSieuBeo	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	bigseoly1	GauSieuBeo	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bigseoly1	GauSieuBeo	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	bigseoly1	GauSieuBeo	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bigseoly1	GauSieuNahn	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	bigseoly2	GauSieuNhan	C©y b∏t nh∑ to	2	0	398	9
+2019_09_28 21:21:32	bigseoly2	GauSieuNhan	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bigseoly2	GauSieuNhan	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	bigseoly2	GauSieuNhan	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bigseoly1	GauSieuSao	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia183	GCBangTia	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieuthien2	GiangTˆXuy™n	C©y b∏t nh∑ nh·	2	0	504	4
+2019_09_28 21:21:32	tieuthien2	GiangTˆXuy™n	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dinhnghia37	GOMVANGSLL	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dinhnghia38	GomVSLL	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	dinhnghia38	GomVSLL	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dinhnghia38	GomVSLL	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dinhnghia38	GomVSLL	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dinhnghia39	GOMVSLLLL	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet3	g©gagg	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	mrsaiyuk	GµHamSÛt	Tu Ch©n Y’u Quy’t	2	0	554	46
+2019_09_28 21:21:32	lethanhduong	halkdlkajd	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	lethanhduong	halkdlkajd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lethanhduong	halkdlkajd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	vanhaodno2016	Haocuto	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	vanhaodno2016	Haocutoo	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	vanhaodno2016	Haocutoo	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	vanhaodno2016	Haocutoo	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	vanhaodno2016	Haocutoo	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	haode1	haode1	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	haode1	haode1	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	haode1	haode1	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	haode1	haode1	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	haode2	haode2	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	haode2	haode2	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	haode2	haode2	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	haode2	haode2	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hienvienthanhde	HDDMMN	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti20115	HDzNoName	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	namti20115	HDzNoName	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti20115	HDzNoName	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	clone1s	HeheHahahaaaaa	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	clone1s	HeheHahahaaaaa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	clone2s	HeheHahahaaaaaaa	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	clone2s	HeheHahahaaaaaaa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bapcaile	helloae	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	bapcaile	helloae	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bapcaile	helloae	Tu Ch©n Y’u Quy’t	2	0	554	20
+2019_09_28 21:21:32	bapcaile	helloae	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gavangdeptrai3	hetsoioh	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gavangdeptrai3	hetsoioh	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyende4	hghffg	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyende4	hghffg	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende4	hghffg	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	minhtanxca1	hgvsakhat	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	minhtanxca1	hgvsakhat	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	minhtanxca1	hgvsakhat	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hienvienthanhde1	HiepDocCui	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hienvienthanhde1	HiepDocCuiM	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hienvienthanhde1	HiepDocNE	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hienvienthanhde	HiepDocVoTam	C©y b∏t nh∑ to	2	0	398	11
+2019_09_28 21:21:32	hienvienthanhde	HiepDocVoTam	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	hienvienthanhde	HiepDocVoTam	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nsnl1302	HKGDeTu	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nsnl1302	HKGDeTu	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	arenayb	HoaLonG	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	arenayb	HoaLonG	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	tieuthien4	HoaV´Khuy’t	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tieuthien4	HoaV´Khuy’t	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	vanhieulc113	H’tY™u	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	quanghai888vn	huyengtrang	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	huyenthoai5doc	Huy“nThoπi5ßÈc	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	huyenthoai5doc	Huy“nThoπi5ßÈc	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	huyenthoai5doc	Huy“nThoπi5ßÈc	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	huyenthoai5doc	Huy“nThoπi5ßÈc	Chi’n Th«n hoµn	2	1	1005	9
+2019_09_28 21:21:32	huyenthoai5doc	Huy“nThoπi5ßÈc	Thien Cang Lenh	2	95	204	2
+2019_09_28 21:21:32	huyenthoai5doc	Huy“nThoπi5ßÈc	Thien Mon Kim Lenh	2	1	30370	2
+2019_09_28 21:21:32	huyenthoainmk	Huy“nThoπiNMK	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	huyco1997	Hyperxx	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	C©y b∏t nh∑ nh·	2	0	504	13
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Huyet Trich Thach 6	2	22	106	94
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	dungnguyen2299	HµHi÷p	Hac Dieu Thach 6	2	22	406	88
+2019_09_28 21:21:32	yindo999	iAmSoHot	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	yindo999	iAmSoHot	Tu Ch©n Y’u Quy’t	2	0	554	6
+2019_09_28 21:21:32	yindo999	iAmSoHot	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	yindo2110	iAmSoLove	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	yindo2110	iAmSoLove	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	r4inyl0v3	iC„Anhß©yRÂi	Tu Ch©n Y’u Quy’t	2	0	554	40
+2019_09_28 21:21:32	r4inyl0v3	iC„Anhß©yRÂi	Xu	2	1	30230	800
+2019_09_28 21:21:32	nholkbill	iChanThui	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	nholkbill	iChanThui	C©y b∏t nh∑ nh·	2	0	504	8
+2019_09_28 21:21:32	nholkbill	iChanThui	Tu Ch©n Y’u Quy’t	2	0	554	4
+2019_09_28 21:21:32	nholkbill	iChanThui	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	topkhoaibga	iCziKhoai	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	topkhoaibga	iCziKhoai	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	topkhoaibga	iCzKhoaiBG	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	topkhoaibga	iCzKhoaix	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	topkhoaibg1	ICzKhoaixBG	Tu Ch©n Y’u Quy’t	2	0	554	25
+2019_09_28 21:21:32	topkhoaibg1	ICzKhoaixBG	Ngoi Sao May Man	2	1	30191	3
+2019_09_28 21:21:32	playcd3	iEmTraiMessi	C©y b∏t nh∑ nh·	2	0	504	4
+2019_09_28 21:21:32	playcd3	iEmTraiMessi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	playcd3	iEmTraiMessi	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	clone4s	iGi∏mßËcNhµX∏c	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	mrteo1	iHayC∏uB»n	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	jetemdj	iHPbankai	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Huyet Trich Thach 6	2	22	106	91
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Nguyet Bach Thach 6	2	22	206	94
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	jetemdj	iHPbankaii	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	jetemdj97	iHPbankaiii	Tu Ch©n Y’u Quy’t	2	0	554	30
+2019_09_28 21:21:32	loiheo	iHPshikai	C©y b∏t nh∑ to	2	0	398	9
+2019_09_28 21:21:32	loiheo	iHPshikai	C©y b∏t nh∑ nh·	2	0	504	3
+2019_09_28 21:21:32	mrteo2	iHPxC∏u	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	mrteo197	iHPxThæng	Xu	2	1	30230	223
+2019_09_28 21:21:32	phieulang93s	iIBestBÛCu	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lyhai2021	IiHLiIBuff	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	lyhai2021	IiHLiIBuff	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lyhai2021	IiHLiIBuff	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lyhai2020	IiHLiIRoya	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	lyhai2020	IiHLiIRoya	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lyhai2020	IiHLiITeamto	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	lyhai2023	IiHLiITieuChau	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	lyhai2023	IiHLiITieuChau	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lyhai2023	IiHLiITieuChau	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	lyhai2023	IiHLiITieuChau	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lyhai2020	IiHLiIVenom	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	lyhai2020	IiHLiIVenom	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lyhai2020	IiHLiIVenom	Tu Ch©n Y’u Quy’t	2	0	554	4
+2019_09_28 21:21:32	lyhai2020	IiHLiIVenom	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toolest7	iILumiaPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	phieulang93	iIuy“nL∑ngTˆIi	Thi™n Thπch Tinh Thπ	2	1	1009	70
+2019_09_28 21:21:32	huyco1	Ikeaaaa	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	huyco1	Ikeaaaa	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco1	Ikeaaaa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	C©y b∏t nh∑ to	2	0	398	11
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	dancaygame2019	iKGiShjNjChj	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	thoidenho	iL∑oPhÀtGia	Tu Ch©n Y’u Quy’t	2	0	554	28
+2019_09_28 21:21:32	bandichoi	iMonday	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Huyet Trich Thach 4	2	22	104	92
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Ho Phach Thach 4	2	22	304	92
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Ho Phach Thach 6	2	22	306	94
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Nguyet Bach Thach 4	2	22	204	92
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Hac Dieu Thach 4	2	22	404	92
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	clone11	iNMKziCh›nNg„n	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	phn2004	iNMKziConG∏i	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	phn2004	iNMKziEmG∏i	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	clone10	iNMKziGi∂NghÃo	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	phungnghi	iPhungNghi	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	phungnghi	iPhungNghi	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	vtc136484	iPxK3nz	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	vtc136484	iPxK3nz	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	vtc136484	iPxK3nz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bandichoi	iSunday	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bandichoi	iSunday	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Tu Ch©n Y’u Quy’t	2	0	554	40
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	kecodoc90vtc	ISßÈcC´C«uBπii	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	hoangdaodao1	ISß∏nhThu™Zz	Tu Ch©n Y’u Quy’t	2	0	554	15
+2019_09_28 21:21:32	hoangdaodao1	ISß∏nhThu™Zz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	playcd2	iThÛyY™nVT	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	playcd2	iThÛyY™nVT	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	playcd2	iThÛyY™nVT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	phn0304	iTLQziChÒTﬁch	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	phn0304	iTLQziChÒTﬁch	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	phn0304	iTLQziChÒTﬁch	Tu Ch©n Y’u Quy’t	2	0	554	7
+2019_09_28 21:21:32	phn0304	iTLQziChÒTﬁch	Chi’n Th«n hoµn	2	1	1005	4
+2019_09_28 21:21:32	phn0304	iTLQziChÒTﬁch	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	phn0304	iTLQziChÒTﬁch	Quan Cong Vinh Du	2	1	30642	1
+2019_09_28 21:21:32	nsnl1302	iTopTopTop	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	nsnl1302	iTopTopTop	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nsnl1302	iTopTopTop	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranvietzx	iXuy™nT©mC≠Ìc	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	playcd2	iY™uß≠ÓcKh´ng	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	playcd2	iY™uß≠ÓcKh´ng	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ohbiendi2	IzCÀuB–B∏nG„i	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	ohbiendi2	IzCÀuB–B∏nG„i	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ohbiendi2	IzCÀuB–B∏nG„i	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ohbiendi2	IzCÀuB–B∏nG„i	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ohbiendi789	IzCÀuB–B∏nM“n	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	ohbiendi789	IzCÀuB–B∏nM“n	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ohbiendi789	IzCÀuB–B∏nM“n	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	C©y b∏t nh∑ to	2	0	398	11
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Huyet Trich Thach 6	2	22	106	96
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Ho Phach Thach 6	2	22	306	98
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Nguyet Bach Thach 6	2	22	206	94
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	ohbiendi123	IzCÀuB–T›Hon	Hac Dieu Thach 6	2	22	406	97
+2019_09_28 21:21:32	nhocprotk9x14	izCuuPK	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nhocprotk9x14	izCuuPK	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	C©y b∏t nh∑ nh·	2	0	504	4
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Huyet Trich Thach 5	2	22	105	96
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Huyet Trich Thach 6	2	22	106	91
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Ho Phach Thach 6	2	22	306	91
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	ohbiendi456	IzC´B–T›Hon	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	nhocprotk9x12	izGaPK	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	tiennhuvu123	izTi‘nNh≠VÚz	Qu©n c´ng ch≠¨ng	2	1	9999	1
+2019_09_28 21:21:32	tiennhuvu123	izTi‘nNh≠VÚz	Qu©n C´ng ßπi	2	1	9998	1
+2019_09_28 21:21:32	nhocprotk9x13	izVitPK	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nhocprotk9x13	izVitPK	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	playcd1	iß™m7Ngµy3	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	playcd1	iß™m7Ngµy3	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	nguyenkhang1114	jhv76647	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	nguyenkhang1114	jhv76647	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyenkhang1114	jhv76647	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nhuthikhong999	Ji2221	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	nhuthikhong999	Ji2221	C©y b∏t nh∑ nh·	2	0	504	1
+2019_09_28 21:21:32	nhuthikhong999	Ji2221	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kkunghia1	JustpastNo1	Tu Ch©n Y’u Quy’t	2	0	554	19
+2019_09_28 21:21:32	lvducht3	Jx1iJx1	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lvducht3	Jx1iJx1	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nuhoangkim1	Jx25LaiChau	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kesitinhkg5	Jx2AcLone	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg5	Jx2AcLone	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ethangkia181	Jx2AnhBangTia	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieutamhn98	Jx2BackDragon	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia182	Jx2BanBangTia	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia184	jx2BangChuan	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia181	Jx2bangTia	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	ethangkia181	Jx2bangTia	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ethangkia181	Jx2bangTia	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ethangkia182	Jx2BebangTia	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranvietzx	Jx2BENZx	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranvietz	Jx2BenzXz	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tranvietz	Jx2BenzXz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranvietz	Jx2BenzXz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ethangkia182	Jx2BeTeen	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieutamhn97	Jx2BlackDaragon9	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieutamhn90	Jx2BlackDraGod	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest9	Jx2Bufff	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kesitinhkg2	jx2cBq	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	kesitinhkg2	jx2cBq	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg2	jx2cBq	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	kesitinhkg5	jX2clts	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	kesitinhkg5	jX2clts	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg5	jX2clts	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	C©y b∏t nh∑ to	2	0	398	9
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Tu Ch©n Y’u Quy’t	2	0	554	15
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Chi’n Th«n hoµn	2	1	1005	3
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Huyet Trich Thach 6	2	22	106	88
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Ho Phach Thach 6	2	22	306	97
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	longvanle43	Jx2CµKhﬁa	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	longhuong	Jx2DaiSuHuynhTLT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kesitinhkg6	Jx2DGC	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg6	Jx2DGC	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toolest2	Jx2DgcLumiaPT	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	toolest2	Jx2DgcLumiaPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest2	Jx2DgcLumiaPT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	kesitinhkg4	Jx2DGT	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg4	Jx2DGT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toolest6	Jx2DgtLumiaPT	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	toolest6	Jx2DgtLumiaPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest6	Jx2DgtLumiaPT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tuankien333hn	Jx2G uL≠uManh	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	tuankien333hn	Jx2G uL≠uManh	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tuankien333hn	Jx2G uL≠uManh	Tu Ch©n Y’u Quy’t	2	0	554	53
+2019_09_28 21:21:32	tuankien333hn	Jx2G uL≠uManh	Thi™n Thπch Tinh Thπ	2	1	1009	23
+2019_09_28 21:21:32	tuankien333hn	Jx2G uL≠uManh	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toolest4	Jx2HdLumiaPT	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	toolest4	Jx2HdLumiaPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest4	Jx2HdLumiaPT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hoai75411	jx2hero	Xu	2	1	30230	850
+2019_09_28 21:21:32	hoai75411	jx2hero	Quan Cong Vinh Du	2	1	30642	1
+2019_09_28 21:21:32	kesitinhkg7	Jx2HiepDoc	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg7	Jx2HiepDoc	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chosoihatam1111	Jx2iiBeoBeo	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	chosoihatam1111	Jx2iiBeoBeo	Tu Ch©n Y’u Quy’t	2	0	554	45
+2019_09_28 21:21:32	chosoihatam1111	Jx2iiBeoBeo	Thi™n Thπch Tinh Thπ	2	1	1009	1
+2019_09_28 21:21:32	chosoihatam2	Jx2iiBupi	Tu Ch©n Y’u Quy’t	2	0	554	12
+2019_09_28 21:21:32	chosoihtam5	Jx2iiDGC	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	chosoihtam5	Jx2iiDGC	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lvducht2	Jx2iJx2	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	lvducht2	Jx2iJx2	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lvducht2	Jx2iJx2	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lvducht2	Jx2iJx2	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lvducht2	Jx2Jx2Jx2	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lvducht2	Jx2Jx2Jx2	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lvducht2	Jx2Jx2Jx2	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ethangkia1989	jx2KuTezz	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	ethangkia1989	jx2KuTezz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	longts123ok1	jx2lonEm	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest	Jx2LumiaPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lvducht1	Jx2LuongThien	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tuankien333hm	Jx2MeoMuuMeo	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tuankien333hm	Jx2MeoMuuMeo	Tu Ch©n Y’u Quy’t	2	0	554	72
+2019_09_28 21:21:32	tuankien333hm	Jx2MeoMuuMeo	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tuankien333hm	Jx2MÃoXinhß—p	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Tu Ch©n Y’u Quy’t	2	0	554	21
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Huyet Trich Thach 6	2	22	106	97
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Nguyet Bach Thach 6	2	22	206	94
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	chientranlv	Jx2Nmd	Hac Dieu Thach 6	2	22	406	94
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Tu Ch©n Y’u Quy’t	2	0	554	11
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Huyet Trich Thach 4	2	22	104	88
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Huyet Trich Thach 6	2	22	106	97
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Ho Phach Thach 4	2	22	304	88
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Ho Phach Thach 6	2	22	306	88
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Nguyet Bach Thach 4	2	22	204	88
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Hac Dieu Thach 4	2	22	404	88
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	nmk0396	Jx2Nmk	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	toolest3	Jx2NmkLumiaPT	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	toolest3	Jx2NmkLumiaPT	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	toolest3	Jx2NmkLumiaPT	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	toolest3	Jx2NmkLumiaPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest3	Jx2NmkLumiaPT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toolest3	Jx2NnkBuff	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	0926502930a	Jx2NoiLaiTinhXua	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	0926502930a	Jx2NoiLaiTinhXua	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	0926502930a	Jx2NoiLaiTinhXua	Tu Ch©n Y’u Quy’t	2	0	554	11
+2019_09_28 21:21:32	kesitinhkg	Jx2OneHit	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	realcher3	JX2PTKHA	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher3	JX2PTKHA	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chientranlv91	Jx2SuSu	C©y b∏t nh∑ nh·	2	0	504	1
+2019_09_28 21:21:32	chientranlv91	Jx2SuSu	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	chientranlv91	Jx2SuSu	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	kesitinhkg2	Jx2TaDoc	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg2	Jx2TaDoc	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lethanhduong1993	jx2TaiChuTich	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lethanhduong1993	jx2TaiChuTich	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	lethanhduong1993	jx2TaiChuTich	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	40dadaa	Jx2Tesss	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	40dada	Jx2Tesst	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kesitinhkg2	Jx2TheOneTow	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg2	Jx2TheOneTow	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	kesitinhkg6	jX2tlD	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	kesitinhkg6	jX2tlD	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg6	jX2tlD	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	kesitinhkg7	jX2tLDAA	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	kesitinhkg7	jX2tLDAA	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg7	jX2tLDAA	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toolest8	Jx2TlLuMiaPT	C©y b∏t nh∑ to	2	0	398	6
+2019_09_28 21:21:32	toolest8	Jx2TlLuMiaPT	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	toolest8	Jx2TlLuMiaPT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toolest8	Jx2TlLuMiaPT	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	toolest8	Jx2TlLuMiaPT	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	toolest8	Jx2TlLuMiaPT	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	badaoba93	Jx2TLQ	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	badaoba93	Jx2TLQ	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	badaoba93	Jx2TLQ	Tu Ch©n Y’u Quy’t	2	0	554	45
+2019_09_28 21:21:32	badaoba93	Jx2TLQ	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	badaoba93	Jx2TLQ	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	realcher2	JX2TLQ9x	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	realcher2	JX2TLQ9x	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toolest	Jx2TlqLumia	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest	Jx2TlqLumiaPT	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	toolest	Jx2TlqLumiaPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest	Jx2TlqLumiaPT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	kesitinhkg4	Jx2TLQXX	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kesitinhkg4	Jx2TLQXX	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chientranlv92	Jx2TLT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kesitinhkg1	Jx2TowHit	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	toolest5	Jx2VdkLumiaPT	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	toolest5	Jx2VdkLumiaPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest5	Jx2VdkLumiaPT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lvducht1	Jx2VL2	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieutamhn96	Jx2xBlackDraGon	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nuhoangkim00	Jx99LaiChau	C©y b∏t nh∑ to	2	0	398	6
+2019_09_28 21:21:32	nuhoangkim00	Jx99LaiChau	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nuhoangkim00	Jx99LaiChau	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hungyen	JxHoµiNi÷m	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	hungyen	JxHoµiNi÷m	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	hungyen	JxHoµiNi÷m	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	hungyen	JxHoµiNi÷m	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	congtudaohoa0	JxMÍNavie	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chaistingvodau4	JxTGQuan	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Tu Ch©n Y’u Quy’t	2	0	554	4
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Xu	2	1	30230	223
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Ho Phach Thach 6	2	22	306	96
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Nguyet Bach Thach 6	2	22	206	94
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	lzkiepcodoc	JxTµoTh∏o	Hac Dieu Thach 6	2	22	406	95
+2019_09_28 21:21:32	congtudaohoa0	JxUy™nNhi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	congtudaohoa0	Jxßi™uThuy“n	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hinodongfeng1	KhongConGi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hinodongfeng2	KhongThenoi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hinodongfeng5	KhongThenoiYeu	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thanhtru2k2	khoviai	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thanhtru2k2	khoviai	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thanhtru2k2	khoviai	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	anhnam	kilema	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	anhnam	kilema	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	anhnam	kilema	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	anhnam	kilema	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tld1102	KimCangPhÙcMa	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tld1102	KimCangPhÙcMa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	arenayb2	KimLonG	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	arenayb2	KimLonG	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	ynhonnie11	KimXXDddC	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	nhatbs1	ki’mc«mca	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	chiton888	Ki’nCµng	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton888	Ki’nCµng	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	langphe2	KraziNew	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	minhtanxca2	KUsunxo®n	C©y b∏t nh∑ nh·	2	0	504	7
+2019_09_28 21:21:32	minhtanxca2	KUsunxo®n	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	minhtanxca2	KUsunxo®n	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	nhatbs	k›s˘nghi÷n	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	nhatbs	k›s˘nghi÷n	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nhatbs	k›s˘nghi÷n	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	langphe4	langphe4	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	langphe6	langphe6	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	xeomcongtu1	Li™mL´nCave	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	nsnl1302	LKJHGFDSA	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nsnl13021	LLKKAA	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	taotu111	LLLLLLLL	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	taotu111	LLLLLLLL	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	taotu111	LLLLLLLL	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	taotu111	LLLLLLLL	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	taotu11	LLLLLLLLLLLL	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	taotu11	LLLLLLLLLLLL	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	taotu11	LLLLLLLLLLLL	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	taotu11	LLLLLLLLLLLL	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	doantiep001	llvlliss	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	doantiep001	llvlliss	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	doantiep001	llvlliss	Tu Ch©n Y’u Quy’t	2	0	554	20
+2019_09_28 21:21:32	doantiep001	llvlliss	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	codegame	LnQuang	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	codegame	LnQuang	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	codegame	LnQuang	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	codegame	LnQuang	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	codegame	LnQuang	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	codegame	LnQuang	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	codegame	LnQuang	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	codegame	LnQuang	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	codegame	LnQuang	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	codegame	LnQuang	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	codegame	LnQuang	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	codegame	LnQuang	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	codegame	LnQuang	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	chochoimeo193	LoHuuCuoc	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dongdubaj1	longasd	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	dongdubaj1	longasd	C©y b∏t nh∑ nh·	2	0	504	1
+2019_09_28 21:21:32	dongdubaj1	longasd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dongdubaj1	longasd	Van Nang Phu	2	1	30470	1
+2019_09_28 21:21:32	dancaygamenmk	LucKygirl	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	dancaygamenmk	LucKygirl	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest7	LumiaTlqPT	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	toolest7	LumiaTlqPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	vanhieulc114	L˝Ti”uLong	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende2	L∑oß÷123	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	nguyende2	L∑oß÷123	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyende2	L∑oß÷123	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyende2	L∑oß÷z	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyende2	L∑oß÷z	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende2	L∑oß÷z	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyende2	L∑oß÷zz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieuthien1	LπcHoa¢m	C©y b∏t nh∑ nh·	2	0	504	4
+2019_09_28 21:21:32	tieuthien1	LπcHoa¢m	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hienvienthanhde3	MaCung	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	httoan123	MasTerYi	C©y b∏t nh∑ nh·	2	0	504	8
+2019_09_28 21:21:32	tuyenhd4	MattichNe	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thomax3012	MeoMap	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hinodongfeng4	MeoYeu	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hinodongfeng4	MeoYeuday	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hinodongfeng5	MeoYeuOi	Tu Ch©n Y’u Quy’t	2	0	554	12
+2019_09_28 21:21:32	chaistingvodau3	MinhQuanM4u	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	s2votinh1	M—TaoPhiD–p	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	s2votinh1	M—TaoPhiD–p	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	thienthien	MoiTapCuoc	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	thienthien	MoiTapCuoc	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	thienthien	MoiTapCuoc	Tu Ch©n Y’u Quy’t	2	0	554	33
+2019_09_28 21:21:32	thienthien	MoiTapCuoc	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	quanghai444vn	MrLacTroi	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	quanghai444vn	MrLacTroi	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	quanghai444vn	MrLacTroi	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	quanghai444vn	MrLacTroi	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	quanghai111vn	MrLacTroi1	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	viscafcb96	MrRobot	C©y b∏t nh∑ to	2	0	398	9
+2019_09_28 21:21:32	viscafcb96	MrRobot	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	viscafcb96	MrRobot	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	viscafcb96	MrRobot	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	minhdaits01	MrToCoi	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	minhdaits01	MrToCoi	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	minhdaits01	MrToCoi	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	thinh1	Ms27Ping	C©y b∏t nh∑ to	2	0	398	12
+2019_09_28 21:21:32	thinh1	Ms27Ping	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thinh1	Ms27Ping	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	jx2vietchamcom1	M›tT¨T—c	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	jx2vietchamcom1	M›tT¨T—c	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	jx2vietchamcom1	M›tT¨T—c	Tu Ch©n Y’u Quy’t	2	0	554	61
+2019_09_28 21:21:32	jx2vietchamcom1	M›tT¨T—c	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	jx2vietchamcom	M›tT¨TÚn	Tu Ch©n Y’u Quy’t	2	0	554	174
+2019_09_28 21:21:32	balame1	NaMiii	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	sangvh007	NaMiKa	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	acctrang1998	NÁiNhÌKh´ngT™n	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	acctrang1998	NÁiNhÌKh´ngT™n	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	acctrang1998	NÁiNhÌKh´ngT™n	Tu Ch©n Y’u Quy’t	2	0	554	33
+2019_09_28 21:21:32	acctrang1998	NÁiNhÌKh´ngT™n	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chochoimeo192	NgaCheRry	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chochoimeo192	NgaCheRry	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyende	ngamibuf	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyende	ngamibuf	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	saodung1	NgaMiKi’m	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	saodung1	NgaMiKi’m	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	vonhuttan2000	NgaMyBufff	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	vonhuttan1999	NgaMyKiem	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chochoimeo192	NgaPoTaTo	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nghiahiengia	Nghiahiengia	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	nghiahiengia	Nghiahiengia	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nghiahiengia	Nghiahiengia	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nghiahiengia	Nghiahiengia	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	vanhieulc114	Nghi÷nThuËcLæc	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	vanhieulc114	Nghi÷nThuËcLæc	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	vanhieulc111	Nghi÷nTrµS˜a	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Huyet Trich Thach 6	2	22	106	91
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	dungnguyen22992	Ng‰cHoa	Hac Dieu Thach 6	2	22	406	94
+2019_09_28 21:21:32	vanhieulc112	NgπiY™u	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	vanhieulc112	NgπiY™u	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	vanhieulc112	NgπiY™u	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Huyet Trich Thach 6	2	22	106	94
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Nguyet Bach Thach 6	2	22	206	94
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	thachamazon208	NhatCuocDoatMang	Hac Dieu Thach 6	2	22	406	97
+2019_09_28 21:21:32	thachamazon208	NhatCuocQuyTien	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	thachamazon208	NhatCuocQuyTien	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	thachamazon208	NhatCuocQuyTien	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chochoimeo191	NhatCuocQuyTienZ	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	thomax3012	NhatThien	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thomax3012	NhatThien	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	thomax3012	NhatThien	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyenkhang1123	NhokKoreA	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	nguyenkhang1123	NhokKoreA	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyenkhang1123	NhokKoreA	Tu Ch©n Y’u Quy’t	2	0	554	6
+2019_09_28 21:21:32	nguyenkhang1123	NhokKoreA	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	duykaka2019	NhﬁLangTh«n	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	40dadaa	NmdVlII	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toolest9	NmkBuffLumia	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	toolest9	NmkBuffLumia	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	toolest9	NmkBuffLumia	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	toolest9	NmkBuffLumia	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	tranchuong95	NMKcoLong	C©y b∏t nh∑ to	2	0	398	25
+2019_09_28 21:21:32	tranchuong95	NMKcoLong	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hienvienthanhde2	NMKCui	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	hienvienthanhde2	NMKCui	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	hienvienthanhde2	NMKCui	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hoai7541	nmkhero	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Xu	2	1	30230	23
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Huyet Trich Thach 4	2	22	104	88
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Huyet Trich Thach 6	2	22	106	97
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Ho Phach Thach 4	2	22	304	88
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Ho Phach Thach 6	2	22	306	94
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Nguyet Bach Thach 4	2	22	204	88
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Hac Dieu Thach 4	2	22	404	88
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	minhdaits02	nmkMrToCoi	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	kimtuyet2zz	NMkSpVoVo	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	kimtuyet2zz	NMkSpVoVo	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kimtuyet2zz	NMkSpVoVo	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kimtuyet2zz	NMkSpVoVo	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	topkhoaibgaa	NMKxxxKhoai	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	topkhoaibgaa	NMKxxxKhoai	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	topkhoaibgaa	NMKxxxKhoai	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	yeuvocon	NQHzZsUPER	Tu Ch©n Y’u Quy’t	2	0	554	31
+2019_09_28 21:21:32	yeuvocon	NQHzZsUPER	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gavangdeptrai2	nukuimnika	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gavangdeptrai2	nukuimnika	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nghiachaua	NuOcCho	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	nghiachaua	NuOcCho	Huyet Trich Thach 6	2	22	106	94
+2019_09_28 21:21:32	nghiachaua	NuOcCho	Ho Phach Thach 6	2	22	306	94
+2019_09_28 21:21:32	nghiachaua	NuOcCho	Nguyet Bach Thach 6	2	22	206	97
+2019_09_28 21:21:32	nghiachaua	NuOcCho	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	zaolong1509	oooKillooo	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	phongvuong4	oSoAliBaBa	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	phongvuong4	oSoAliBaBa	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	phongvuong2	oSoNhÀtLinh	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	phongvuong2	oSoNhÀtLinh	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	phongvuong3	oSoPh≠¨ngCa	C©y b∏t nh∑ to	2	0	398	15
+2019_09_28 21:21:32	phongvuong3	oSoPh≠¨ngCa	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	langphe7	PeCaoSu	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	langphe7	PeCoiss7	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tuyenhd1	PeHuangCui	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tuyenhd1	PeHuangHD	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	tuyenhd1	PeHuangHD	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tuyenhd1	PeHuangHD	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	tuyenhd1	PeHuangHD	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tuyenhd1	PeHuangHD	Bach Kim Hong Bao	2	1	30228	5
+2019_09_28 21:21:32	langphe5	Phelamco	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	topss11	Phi™uDu	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	topss11	Phi™uDu	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	topss11	Phi™uDu	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	topss11	Phi™uDu	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton999	Phoenix	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton999	Phoenix	Bπch Kim HÂng Bao	2	1	30229	2
+2019_09_28 21:21:32	chiton999	Phoenix	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton666	Prolem10	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton666	Prolem10	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton555	Prolem11	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton555	Prolem11	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl222	Prolem1111	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl222	Prolem1111	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bnl111	Prolem112	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bnl111	Prolem112	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton444	Prolem12	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton444	Prolem12	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chiton777	Prolem19	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chiton777	Prolem19	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	zhaduchanh6	q56we4q6w5	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	zhaduchanh6	q56we4q6w5	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	zhaduchanh6	q56we4q6w5	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lvducht4	QAZQAZ	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	lvducht4	QAZQAZ	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	lvducht4	QAZQAZ	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	huyco6	qcdwwcqdqwd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	huyco6	qcdwwcqdqwd	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco6	qcdwwcqdqwd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	huyco3	qcwdwqdqdw	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	huyco3	qcwdwqdqdw	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	huyco3	qcwdwqdqdw	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	httoan1411	QEEEEQE	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	httoan1411	QEEEEQE	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	httoan1411	QEEEEQE	Tu Ch©n Y’u Quy’t	2	0	554	45
+2019_09_28 21:21:32	httoan1411	QEEEEQE	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	denhatthieutien	QEEEQE	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	httoan547	QEWEDDDDD	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	kimtuyet2zz	qqqqqqqqqqqqqqqq	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thomax3012	QuyKaMax	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	zhaduchanh8	qwe42qwe	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	zhaduchanh8	qwe42qwe	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	zhaduchanh8	qwe42qwe	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	zhaduchanh8	qwe42qwe	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	zhaduchanh4	qwe64qwe	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	zhaduchanh4	qwe64qwe	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	zhaduchanh4	qwe64qwe	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	zhaduchanh2	qwe65qw4e	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	zhaduchanh5	qweqw45e3	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	zhaduchanh5	qweqw45e3	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	zhaduchanh5	qweqw45e3	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	zhaduchanh2	qweqwe	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	nsnl13021	Q¶EQ¶E	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet4	q≠eqeqweqe	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet5	q≠eqewqr	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet2	q≠eqweqe	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranviet6	q≠eweqeq	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hitpro	Remake	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	hitpro	Remake	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	hitpro	Remake	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	hitpro	Remake	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranviet1	rqaad«ag	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	tranviet1	rqaad«ag	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	longvanle430	rrqwqqa	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	longvanle430	rrqwqqa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Huyet Trich Thach 6	2	22	106	99
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Ho Phach Thach 6	2	22	306	94
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Nguyet Bach Thach 5	2	22	205	98
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Nguyet Bach Thach 6	2	22	206	92
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	lamdua112	s2sBachVoThuong	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Thien Cang Lenh	2	95	204	2
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Thien Mon Kim Lenh	2	1	30370	2
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Huyet Trich Thach 6	2	22	106	97
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Ho Phach Thach 6	2	22	306	97
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Nguyet Bach Thach 5	2	22	205	91
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	lamdua111	s2sPhongVan	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	buonnguqua12345	S2sTrumCLONs	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	buonnguqua12345	S2sTrumCLONs	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	buonnguqua12345	S2sTrumCLONs	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	buonnguqua1234	S2sTrumNMKsS2	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Huyet Trich Thach 6	2	22	106	98
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Ho Phach Thach 6	2	22	306	94
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Nguyet Bach Thach 6	2	22	206	99
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	buonnguqua123	S2sTrUmsS2	Hac Dieu Thach 6	2	22	406	94
+2019_09_28 21:21:32	jetemdjaa	sadadad	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	jetemdjaa	sadadad	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dong115	sadasdasdas	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	sangvh07	SangDuBai	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	sangvh07	SangDuBai	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	sangvh07	SangßuBai	Tu Ch©n Y’u Quy’t	2	0	554	74
+2019_09_28 21:21:32	sangvh07	SangßuBai	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dat1004	SaoTheNao	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	gavangdeptrai1	SaRangHe	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gavangdeptrai1	SaRangHe	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	thinh2	SatThuBNL	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	thinh2	SatThuBNL	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thinh2	SatThuBNL	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	thinh2	SatThuBNL	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tranviet3	sdasdadada	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia19894	sdazkeiwwsx	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	ethangkia19894	sdazkeiwwsx	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ethangkia19894	sdazkeiwwsx	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nhoxkon1581997	SDcaTOIDAYNAo	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	jetemdjaa	sddfsdfsdf	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	jetemdjaa	sddfsdfsdf	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dongdubaj10	sdfdsada	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	dongdubaj10	sdfdsada	C©y b∏t nh∑ nh·	2	0	504	1
+2019_09_28 21:21:32	quanghai222vn	sdgsdgsh	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyenkhang1114	sef2323ef	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	balame1	SenkAmI	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende3	sfdsfdsf	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyende3	sfdsfdsf	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende3	sfdsfdsf	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	phongvuong1	SiHPzMaCung1st	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	phongvuong1	SiHPzMaCung1st	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	cumnum0x	sml999	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	cumnum0x	sml999	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	cumnum0x	sml999	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	thanhtru2k12	sogamevcl2	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	thanhtru2k12	sogamevcl2	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thanhtru2k12	sogamevcl2	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	thanhtru2k12	sogamevcl2	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	longiunhi43	sqwerqwr	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	longiunhi43	sqwerqwr	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	longiunhi43	sqwerqwr	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	asdasd6	ssa214s	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	asdasd6	ssa214s	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	asdasd6	ssa214s	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	asdasd6	ssa214s	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	longvanle430	sssarytq	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	longvanle430	sssarytq	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nguyende3	sÆsfdfdfgd	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	nguyende3	sÆsfdfdfgd	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nguyende3	sÆsfdfdfgd	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende3	sÆsfdfdfgd	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hienvienthanhde	TaDocDocTa	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lvducht3	TaoLaSo1	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	lvducht3	TaoLaso11	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	quandtu1	TESST111	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	volam2393577	ThayTroiLamLoan	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	volam2393577	ThayTroiLamLoan	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	43017lam	Th«nßi™ußπiHi÷p	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	43017lam	Th«nßi™ußπiHi÷p	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dat1004	TheDeonao	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	dat1004	TheDeonao	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dat1004	TheDeonao	Tu Ch©n Y’u Quy’t	2	0	554	6
+2019_09_28 21:21:32	dat1004	TheDeonao	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	C©y b∏t nh∑ nh·	2	0	504	12
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Xu	2	1	30230	223
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Huyet Trich Thach 4	2	22	104	88
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Huyet Trich Thach 6	2	22	106	97
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Ho Phach Thach 4	2	22	304	88
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Ho Phach Thach 6	2	22	306	94
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Nguyet Bach Thach 4	2	22	204	88
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Hac Dieu Thach 4	2	22	404	88
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	dungnguyen22991	ThÔyChung	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	caoducdung2003	ThÒKhËG‰iT™nMµy	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	arenayb1	ThuyLonG	C©y b∏t nh∑ to	2	0	398	9
+2019_09_28 21:21:32	arenayb1	ThuyLonG	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	arenayb1	ThuyLonG	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	arenayb1	ThuyLonG	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	3666x777	Th›chT·aS∏ng	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	3666x777	Th›chT·aS∏ng	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	3666x777	Th›chT·aS∏ng	Tu Ch©n Y’u Quy’t	2	0	554	42
+2019_09_28 21:21:32	3666x777	Th›chT·aS∏ng	Thi™n Thπch Tinh Thπ	2	1	1009	53
+2019_09_28 21:21:32	3666x777	Th›chT·aS∏ng	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Tu Ch©n Y’u Quy’t	2	0	554	8
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Huyet Trich Thach 4	2	22	104	88
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Ho Phach Thach 4	2	22	304	88
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Ho Phach Thach 6	2	22	306	91
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Nguyet Bach Thach 4	2	22	204	88
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Hac Dieu Thach 4	2	22	404	88
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	thachamazon08	TieuCoCo	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	s2votinh	TieuLyPhiDao	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	s2votinh	TieuLyPhiDao	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	s2votinh	TieuLyPhiDao	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	s2votinh3	TieuLyPhiDao98	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	s2votinh3	TieuLyPhiDao98	Tu Ch©n Y’u Quy’t	2	0	554	8
+2019_09_28 21:21:32	s2votinh3	TieuLyPhiDao98	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	s2votinh3	TieuLyPhißao	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	kuphoc1997	TieuYenTu	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hoayeutham	TinoWin	C©y b∏t nh∑ nh·	2	0	504	6
+2019_09_28 21:21:32	hoayeutham	TinoWin	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	gameviet24h7xx	Ti”uBπchLong	Tu Ch©n Y’u Quy’t	2	0	554	94
+2019_09_28 21:21:32	theherosno2	Ti”uKi’mTi™n	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	theherosno2	Ti”uKi’mTi™n	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	theherosno2	Ti”uKi’mTi™n	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	s2votinh	Ti”uL˝PhiDao	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	s2votinh	Ti”uL˝PhiDao	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	s2votinh	Ti”uL˝PhiDao	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	hoangdaodao1	Ti”uL˝PhiT©m	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	s2votinh	Ti”uL˝Phißao	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	s2votinh	Ti”uL˝Phißao	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	s2votinh	Ti”uL˝Phißao	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	s2votinh	Ti”uL˝Phißao	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	vanhieulc115	Ti”uQuÀnChÛa	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	vanhieulc115	Ti”uQuÀnChÛa	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	vanhieulc115	Ti”uQuÀnChÛa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	s2votinh3	Ti™uL˝PhiDao	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tieuthien3	Ti™uNh≠MÈng	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tieuthien3	Ti™uNh≠MÈng	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toolest7	TlqLumiaPT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tuanchelsea10	TLQmrT	Tu Ch©n Y’u Quy’t	2	0	554	13
+2019_09_28 21:21:32	tuanchelsea10	TLQmrT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	anhnam9x	TlqNguyetAnh	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	anhnam9x	TlqNguyetAnh	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	anhnam9x	TlqNguyetAnh	Tu Ch©n Y’u Quy’t	2	0	554	42
+2019_09_28 21:21:32	anhnam9x	TlqNguyetAnh	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	anhnam9x	TlqNguyetAnh	Quan Cong Vinh Du	2	1	30642	1
+2019_09_28 21:21:32	topkhoaibg	TOPiKhoaixxxBG	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	tungduong98hb	TopXxXS’pTÊngJav	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	tungduong98hb	TopXxXS’pTÊngJav	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	tungduong98hb	TopXxXS’pTÊngJav	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	langphe5	Tretrau6	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	langphe5	Tretrau6	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	langphe5	Tretrau6	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	langphe5	Tretrau6	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	namti2003	TrongBNL0003	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	namti2003	TrongBNL0003	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	namti2003	TrongBNL0003	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2003	TrongBNL0003	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	namti2002	TrongBNL002	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	namti2002	TrongBNL002	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2002	TrongBNL002	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	namti2003	TrongBNL003	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	namti2003	TrongBNL003	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2003	TrongBNL003	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	namti2004	TrongBNL004	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	namti2004	TrongBNL004	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2004	TrongBNL004	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	namti2005	TrongBNL005	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	namti2005	TrongBNL005	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2005	TrongBNL005	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	namti2006	TrongBNL007	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	namti2006	TrongBNL007	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2006	TrongBNL007	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	namti2001	TrongBNL01	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	namti2001	TrongBNL01	ßπi HÂng Bao Hoµng K	2	1	539	1
+2019_09_28 21:21:32	namti2001	TrongBNL01	Bπch Kim HÂng Bao	2	1	30229	1
+2019_09_28 21:21:32	namti2001	TrongBNL01	Bach Kim Hong Bao	2	1	30228	2
+2019_09_28 21:21:32	namti2002	TrongBNL02	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2003	TrongBNL03	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2004	TrongBNL04	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2005	TrongBNL05	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2007	TrongBNL06	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	namti2007	TrongBNL06	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	namti2007	TrongBNL06	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	namti2007	TrongBNL06	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	namti2006	TrongBNL07	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thienthien1	trongcay	C©y b∏t nh∑ to	2	0	398	9
+2019_09_28 21:21:32	thienthien1	trongcay	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thienthien1	trongcay	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thienthien1	trongcay	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	yindo1	trongcay1	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	yindo1	trongcay1	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	yindo1	trongcay1	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chochoimeo194	TrongCay111	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	chochoimeo194	TrongCay111	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	yindo2	trongcay2	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	yindo2	trongcay2	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	yindo2	trongcay2	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chochoimeo191	trongcay2222	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	chochoimeo191	trongcay2222	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chochoimeo191	trongcay2222	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	yindo3	trongcay3	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	yindo3	trongcay3	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	yindo3	trongcay3	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chochoimeo192	trongcay3333	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	chochoimeo192	trongcay3333	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chochoimeo192	trongcay3333	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	yindo4	trongcay4	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	yindo4	trongcay4	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	yindo4	trongcay4	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chochoimeo193	trongcay444	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tuyensa	TTTTTTTTTTTT	C©y b∏t nh∑ nh·	2	0	504	2
+2019_09_28 21:21:32	tuyensa	TTTTTTTTTTTT	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	tuyensa	TTTTTTTTTTTT	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tuyensa	TTTTTTTTTTTT	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	anhtuan1102	TUANDN	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	anhtuan1102	TUANDN	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Ho Phach Thach 6	2	22	306	91
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	gavangdeptrai	TuanOPPA	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	dungnguyen22994	T©nThoa	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	dungnguyen22994	T©nThoa	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dungnguyen22994	T©nThoa	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nhulaidiemphap	VanDocQuyVuong	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	yanyaq	V‚Tﬂng	Tu Ch©n Y’u Quy’t	2	0	554	6
+2019_09_28 21:21:32	yanyaq	V‚Tﬂng	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ohbiendi1	VDBc≠Ìp	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	ohbiendi1	VDBc≠Ìp	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ohbiendi1	VDBc≠Ìp	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	xeomcongtu98	V–tM∏ngCaVe	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	xeomcongtu98	V–tM∏ngCaVe	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	xeomcongtu98	V–tM∏ngCaVe	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	xeomcongtu98	V–tM∏ngCaVe	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	sangvh1	vh11111	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	sangvh1	vh11111	C©y b∏t nh∑ nh·	2	0	504	1
+2019_09_28 21:21:32	sangvh4	vh4444	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	sangvh5	vh5555	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	sangvh6	vh6666	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	sangvh8	vh8888	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	sangvh9	vh9999	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	kuphoc1996	VoTong	Tu Ch©n Y’u Quy’t	2	0	554	11
+2019_09_28 21:21:32	kuphoc1996	VoTong	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	kuphoc1996	VoTong	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	kimtuyet1zz	VoVoKhongVo	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	kimtuyet1zz	VoVoKhongVo	Tu Ch©n Y’u Quy’t	2	0	554	16
+2019_09_28 21:21:32	kimtuyet1zz	VoVoKhongVo	Xu	2	1	30230	223
+2019_09_28 21:21:32	kimtuyet1zz	VoVoKhongVo	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	cukuin	VuaT«nThÒyHoµng	Tu Ch©n Y’u Quy’t	2	0	554	85
+2019_09_28 21:21:32	vonhuttan1998	VuongNguYenz	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	vonhuttan1998	VuongNguYenz	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	tieuthien	V©nTi’uThi™n	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	jetviet	V´ßﬁchTh«nT®ng	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	jetviet	V´ßﬁchTh«nT®ng	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	jetviet	V´ßﬁchTh«nT®ng	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	theherosno1	VπnCÊMaV≠¨ng	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	theherosno1	VπnCÊMaV≠¨ng	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nhatbs	vπnkimti“n	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	0866719462a	werwerw	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	0866719462a	werwerw	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	0866719462a	werwerw	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	0866719462a2	wewewe	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	0866719462a2	wewewe	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	0866719462a2	wewewe	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	zhaduchanh1	wqe456qw5	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	zhaduchanh1	wqe456qw5	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	zhaduchanh1	wqe456qw5	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	gavangdeptrai3	wwwwwwwwer	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	gavangdeptrai3	wwwwwwwwer	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	gavangdeptrai3	wwwwwwwwer	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	gavangdeptrai3	wwwwwwwwer	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	mjkjmjkj5	xgsdstgdgf	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nuhoangkim00	Xj2LaiChau25	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	vanhieulc111	xNghi÷nThuËcLµo	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	bobo1234	Xozxxxxx	Tu Ch©n Y’u Quy’t	2	0	554	22
+2019_09_28 21:21:32	tranvietzx	Xuy™nT©mC≠Ìc	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	tranvietzx	Xuy™nT©mC≠Ìc	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	tranvietzx	Xuy™nT©mC≠Ìc	Tu Ch©n Y’u Quy’t	2	0	554	63
+2019_09_28 21:21:32	tranvietzx	Xuy™nT©mC≠Ìc	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranvietzx	Xuy™nT©mC≠Ìc	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	xuanhinh90	Xu©nHinh	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	xuanhinh90	Xu©nHinh	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tutkaka	xXxTµTh«nxXx	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	tutkaka	xXxTµTh«nxXx	C©y b∏t nh∑ nh·	2	0	504	9
+2019_09_28 21:21:32	tutkaka	xXxTµTh«nxXx	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	kiencung6393	xXxWildCat93xXx	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nhoxkon1581993	XZDGCXZ	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	nhoxkon1581993	XZDGCXZ	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nhoxkon1581993	XZDGCXZ	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nhoxkon1581993	XZDGCXZ	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nhoxkon1581991	XZSC5dc	C©y b∏t nh∑ to	2	0	398	6
+2019_09_28 21:21:32	nhoxkon1581991	XZSC5dc	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nhoxkon1581991	XZSC5dc	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nhoxkon1581991	XZSC5dc	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chaistingvodau2	XzTGQuan	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	caubai1986	xzTi‘nNh≠VÚz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranchuongtattoo	yterterter	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	tranchuongtattoo	yterterter	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ohbiendi1	z15236	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	httoan789	ZAQEEAA	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	123456q	zBalkWoltOO	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	mjkjmjkj2	zCHETvIhIEPZ	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	mjkjmjkj2	zCHETvIhIEPZ	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	mjkjmjkj2	zCHETvIhIEPZ	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	httoan547	ZEDDDDD	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	httoan547	ZEDDDDD	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	denhatthieutien	ZEEADDA	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	httoan123	ZEQEDDD	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	bigseoly2	zGauSieuSao	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	llamanh68	zHaoThien	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	llamanh68	zHaoThien	Tu Ch©n Y’u Quy’t	2	0	554	17
+2019_09_28 21:21:32	llamanh68	zHaoThien	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	mjkjmjkj1	ZHiepXongGietZ	C©y b∏t nh∑ to	2	0	398	8
+2019_09_28 21:21:32	mjkjmjkj1	ZHiepXongGietZ	C©y b∏t nh∑ nh·	2	0	504	11
+2019_09_28 21:21:32	mjkjmjkj1	ZHiepXongGietZ	Tu Ch©n Y’u Quy’t	2	0	554	4
+2019_09_28 21:21:32	mjkjmjkj1	ZHiepXongGietZ	Xu	2	1	30230	2023
+2019_09_28 21:21:32	mjkjmjkj1	ZHiepXongGietZ	Thien Cang Lenh	2	95	204	2
+2019_09_28 21:21:32	mjkjmjkj1	ZHiepXongGietZ	Thien Mon Kim Lenh	2	1	30370	2
+2019_09_28 21:21:32	mjkjmjkj1	ZHiepXongGietZ	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	taducthanhst1	zIzTienDexxxx	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	taducthanhst1	zIzTienDexxxx	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	taducthanhst1	zIzTienDexxxx	Tu Ch©n Y’u Quy’t	2	0	554	11
+2019_09_28 21:21:32	taducthanhst1	zIzTienDexxxx	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	thuananh68	zLamAnh68	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	thuananh68	zLamAnh68	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	thuananh168	zllamanh09	Tu Ch©n Y’u Quy’t	2	0	554	7
+2019_09_28 21:21:32	sirxuyen	zMrKen0303	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	sirxuyen	zMrKen0303	C©y b∏t nh∑ nh·	2	0	504	8
+2019_09_28 21:21:32	toancau1	zNamQuy“nBæcC≠Ìc	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	toancau1	zNamQuy“nBæcC≠Ìc	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	toancau2	zNgaMiChi’n	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	toancau2	zNgaMiChi’n	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	C©y b∏t nh∑ to	2	0	398	9
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Huyet Trich Thach 4	2	22	104	82
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Huyet Trich Thach 6	2	22	106	97
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Ho Phach Thach 4	2	22	304	82
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Ho Phach Thach 6	2	22	306	96
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Nguyet Bach Thach 4	2	22	204	82
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Nguyet Bach Thach 6	2	22	206	92
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Hac Dieu Thach 4	2	22	404	82
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	vanhieulc110	zNghi÷nTrµS˜a	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	ethangkia19891	ZNguyenpPhanDong	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	ethangkia19891	ZNguyenpPhanDong	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ethangkia19891	ZNguyenpPhanDong	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	vanhieulc112	zNgπiY™u	Tu Ch©n Y’u Quy’t	2	0	554	3
+2019_09_28 21:21:32	chochoimeo191	zNhatCuocQuyTien	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chochoimeo191	zNhatCuocQuyTien	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	bobo1234	ZOXzzz	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	bobo1234	ZOXzzz	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	bobo1234	ZOXzzz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	bobo1234	ZOXzzz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	httoan789	ZQAEEAD	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	httoan789	ZQASEE	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	httoan1411	ZQEDDDQW	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	httoan1411	ZQEEEZZQE	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	denhatthieutien	ZQEEQD	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	httoan123	ZQERDYi	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	httoan123	ZQERDYi	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	httoan123	ZQERDYi	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	httoan123	ZQERDYi	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	mjkjmjkj1	ZthickduthuZ	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	toancau3	ZThi’uL©m	Tu Ch©n Y’u Quy’t	2	0	554	14
+2019_09_28 21:21:32	vonhuttan2000	zTieuYenTu	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thieulam	zTruongTamPhong	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	thieulam	zTruongTamPhongz	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	thieulam	zTruongTamPhongz	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	thieulam	zTruongTamPhongz	Thi™n Thπch Tinh Thπ	2	1	1009	138
+2019_09_28 21:21:32	thieulam	zTruongTamPhongz	Xu	2	1	30230	223
+2019_09_28 21:21:32	thieulam	zTruongTamPhongz	Nu Oa Bao Hap	2	1	30154	1
+2019_09_28 21:21:32	thieulam	zTruongTamPhongz	Ngoi Sao May Man	2	1	30191	1
+2019_09_28 21:21:32	mjkjmjkj3	ZtzTTzzt	C©y b∏t nh∑ to	2	0	398	2
+2019_09_28 21:21:32	mjkjmjkj3	ZtzTTzzt	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	mjkjmjkj3	ZtzTTzzt	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	mjkjmjkj3	ZtzTTzzt	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nhoxkon1581996	ZX55VC	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nhoxkon158199	ZXBaJAv10Z	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	trongcay1	zxcaa11	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chaistingvodau3	ZxMinhQuanZx	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	chaistingvodau3	ZxMinhQuanZx	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chaistingvodau3	ZxMinhQuanZx	Tui Hat Giong	2	1	30087	1
+2019_09_28 21:21:32	chaistingvodau	ZxQuanM4U	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	chaistingvodau	ZxQuanM4U	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	chaistingvodau	ZxQuanM4U	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	chaistingvodau3	ZXQuanM4Uuu	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chaistingvodau	ZxTGQuan	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chaistingvodau1	ZxTGQuannn	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chaistingvodau2	ZxTGQuannnn	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chaistingvodau2	ZxTGQuannnnn	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	chaistingvodau	ZxTGQuanZx	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	caubai1986	zxTi‘nNh≠VÚz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nhoxkon1581995	ZXTLQPTXC	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	nhoxkon1581995	ZXTLQPTXC	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nhoxkon1581995	ZXTLQPTXC	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nhoxkon1581995	ZXTLQPTXC	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	nhoxkon1581992	ZxVdkjXZ	C©y b∏t nh∑ to	2	0	398	7
+2019_09_28 21:21:32	nhoxkon1581992	ZxVdkjXZ	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	nhoxkon1581992	ZxVdkjXZ	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nhoxkon1581992	ZxVdkjXZ	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	vanhieulc113	zzH’tY™u	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	123456q	zzKingWoltoz	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	123456q	zzKingWoltoz	Tu Ch©n Y’u Quy’t	2	0	554	17
+2019_09_28 21:21:32	123456q	zzKingWoltoz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	123456w	zzKingwoltzz	C©y b∏t nh∑ to	2	0	398	5
+2019_09_28 21:21:32	123456w	zzKingwoltzz	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	123456w	zzKingwoltzz	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	123456w	zzKingwoltzz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	httoan547	ZzTinhLacLoizZ	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	hoangdaodao0	ZzTr‰cthﬁtg∏izZ	C©y b∏t nh∑ to	2	0	398	10
+2019_09_28 21:21:32	mjanljen	ZZxDevilPhong	C©y b∏t nh∑ to	2	0	398	4
+2019_09_28 21:21:32	mjanljen	ZZxDevilPhong	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	mjanljen	ZZxDevilPhong	Tu Ch©n Y’u Quy’t	2	0	554	1
+2019_09_28 21:21:32	mjanljen	ZZxDevilPhong	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ethangkia183	ZzZbangTia	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia183	ZzZbangTiaZo	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	gameviet24h7xx	zZzCHÒTﬁCHzZz	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	gameviet24h7xx	zZzCHÒTﬁCHzZz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ub0100	zZzFUNzZz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia19892	zZzgansuzZz	Tu Ch©n Y’u Quy’t	2	0	554	27
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷Z	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Tu Ch©n Y’u Quy’t	2	0	554	5
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	nguyende1	ZzZL∑oß÷ZzZ	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	chochoimeo193	zZzMaCungZzZ	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	ethangkia19892	zZzSieuBuffzZz	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia19891	zZzTieuVozZz	C©y b∏t nh∑ to	2	0	398	1
+2019_09_28 21:21:32	ethangkia19891	zZzTieuVozZz	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ethangkia19891	zZzTieuVozZz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	dta111	zzzTLQ	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	ethangkia19891	zzZzzTieuDongzz	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	ethangkia19891	zzZzzTieuDongzz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Tu Ch©n Y’u Quy’t	2	0	554	2
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Huyet Trich Thach 4	2	22	104	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Huyet Trich Thach 5	2	22	105	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Huyet Trich Thach 6	2	22	106	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Ho Phach Thach 4	2	22	304	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Ho Phach Thach 5	2	22	305	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Ho Phach Thach 6	2	22	306	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Nguyet Bach Thach 4	2	22	204	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Nguyet Bach Thach 5	2	22	205	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Nguyet Bach Thach 6	2	22	206	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Hac Dieu Thach 4	2	22	404	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Hac Dieu Thach 5	2	22	405	100
+2019_09_28 21:21:32	taotu123	zßÈcB tTˆz	Hac Dieu Thach 6	2	22	406	100
+2019_09_28 21:21:32	nsnl13022	ˆdg5r111	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	yanyaq	ßi™uThuy“n	Tu Ch©n Y’u Quy’t	2	0	554	4
+2019_09_28 21:21:32	yanyaq	ßi™uThuy“n	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	dongdubaj9	ß´ngßuBai	C©y b∏t nh∑ to	2	0	398	12
+2019_09_28 21:21:32	dongdubaj9	ß´ngßuBai	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	dongdubaj9	ß´ngßuBai	Tu Ch©n Y’u Quy’t	2	0	554	34
+2019_09_28 21:21:32	dongdubaj9	ß´ngßuBai	Cuu Thien Vo Cuc Don	2	1	1006	9
+2019_09_28 21:21:32	dongdubaj9	ß´ngßuBai	Thi™n Thπch Tinh Thπ	2	1	1009	47
+2019_09_28 21:21:32	dongdubaj9	ß´ngßuBai	Tui Hat Giong	2	1	30087	2
+2019_09_28 21:21:32	tntaoladaika	ßπiMaß«u	Tu Ch©n Y’u Quy’t	2	0	554	10
+2019_09_28 21:21:32	nsnl13023	≠4gˆgˆg	C©y b∏t nh∑ nh·	2	0	504	1
+2019_09_28 21:21:32	tranviet2	Æµajjgg	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranvietz	∏dasafas	C©y b∏t nh∑ to	2	0	398	3
+2019_09_28 21:21:32	tranvietz	∏dasafas	C©y b∏t nh∑ nh·	2	0	504	10
+2019_09_28 21:21:32	tranvietz	∏dasafas	Chi’n Th«n hoµn	2	1	1005	1
+2019_09_28 21:21:32	tranvietz	∏dasafas	Tui Hat Giong	2	1	30087	2

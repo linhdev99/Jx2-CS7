@@ -1,0 +1,4 @@
+file	md5	size	date	code	spcode	filt_flag
+/verify_up2date	9438ee41b9e3edf151b9b56b25f33143	3746592	2018-05-18 11:16:52	eea4635c97a52ca11bb3e9de8f3eed4c		0
+/verify_up2date_list.txt	***	0	***	***	d3a74be39898db13a96f94d51b540d47	1
+/verify_up2date_ver.ini	***	0	***	***	c4d123c488acd4279df7a7072e1f54bf	1

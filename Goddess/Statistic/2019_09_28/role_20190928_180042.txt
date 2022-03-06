@@ -1,0 +1,23 @@
+Account	Name	Route	TransLife	Level	IBCost	Money	A	B	C	D	E	F	Exp	Last_IP	CreateDate	LastLoginDate
+quandtu	AAQUANDA	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:04:46	1970-01-01 08:00:00
+chiton333	B·oT¸p	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 18:00:05	1970-01-01 08:00:00
+dungnguyen2299	HµHiÖp	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:22	1970-01-01 08:00:00
+jetemdj	iHPbankai	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:58:48	1970-01-01 08:00:00
+loiheo	iHPshikai	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:29	1970-01-01 08:00:00
+thoidenho	iL·oPhËtGia	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:59	1970-01-01 08:00:00
+ohbiendi123	IzCËuBÐTÝHon	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:52	1970-01-01 08:00:00
+kkunghia1	JustpastNo1	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 18:00:17	1970-01-01 08:00:00
+tuankien333hn	Jx2GÊuL­uManh	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 18:00:02	1970-01-01 08:00:00
+toolest	Jx2TlqLumiaPT	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:37	1970-01-01 08:00:00
+nghiahiengia	Nghiahiengia	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:58:52	1970-01-01 08:00:00
+vanhieulc111	NghiÖnTrµS÷a	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 18:00:14	1970-01-01 08:00:00
+quandtu	QUANDTU	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:01:48	1970-01-01 08:00:00
+3666x777	ThÝchTáaS¸ng	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 18:00:01	1970-01-01 08:00:00
+s2votinh	TiÓuLýPhi§ao	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:48	1970-01-01 08:00:00
+topkhoaibg	TOPiKhoaixxxBG	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:22	1970-01-01 08:00:00
+anhtuan1102	TUANDN	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:31	1970-01-01 08:00:00
+volamtruyenky	VuongNguYen	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:30	1970-01-01 08:00:00
+vonhuttan1998	VuongNguYenz	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 18:00:13	1970-01-01 08:00:00
+tieuthien	V©nTiÕuThiªn	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:35	1970-01-01 08:00:00
+mjkjmjkj1	ZthickduthuZ	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:59:39	1970-01-01 08:00:00
+XuÊt d÷ liÖu hoµn tÊt

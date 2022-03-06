@@ -1,0 +1,12 @@
+Lenh 1
+
+?gm ds Msg2Player(GetNpcScript(GetTargetNpc()))
+?gm ds print(GetNpcScript(GetTargetNpc()))
+
+Lenh 2
+
+?gm ds AskClientForString("", GetNpcScript(GetTargetNpc()), 1, 9999, "")
+
+
+
+

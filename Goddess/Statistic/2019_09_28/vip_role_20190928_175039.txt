@@ -1,0 +1,1 @@
+StatTime	Account	Name	Route	TransLife	Level	IBCost	Money	A	B	C	D	E	F	Exp	Last_IP	CreateDate	LastLoginDate

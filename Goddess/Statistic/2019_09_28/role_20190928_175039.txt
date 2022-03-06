@@ -1,0 +1,4 @@
+Account	Name	Route	TransLife	Level	IBCost	Money	A	B	C	D	E	F	Exp	Last_IP	CreateDate	LastLoginDate
+quandtu	AAQUANDA	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:04:46	1970-01-01 08:00:00
+quandtu	QUANDTU	V« m«n ph¸i  	0	1	0	0	0	0	0	0	0	0	0		2019-09-28 17:01:48	1970-01-01 08:00:00
+XuÊt d÷ liÖu hoµn tÊt

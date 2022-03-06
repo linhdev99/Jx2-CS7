@@ -1,0 +1,3 @@
+killall -9 KG_GoddessD
+./KG_GoddessD start --daemon
+

@@ -21,7 +21,7 @@ function OnUse(nItem)
         tSay = {
             "Gia NhËp m«n ph¸i (ChuyÓn sinh 0 cÊp 90)/JoinRoute_UpdateLevel",
             format("%s/UpdateLevel_55", "\nT¨ng ChuyÓn sinh 0 cÊp 55"),
-            format("%s/Get_DuoiTho", "\nNhËn §u«i Thá")
+            format("%s/ThuKho_Meow", "\nMë r­¬ng Meow ¬i")
         }
     else
         tSay = {
@@ -42,6 +42,8 @@ function OnUse(nItem)
             format("%s/TongOperation", "Bang héi"), -- bang hoi
             format("%s/Pet_OP", "Phôc sinh Thó C­ng"), -- thu nuoi
             format("%s/Get_VPNV", "NhËn vËt phÈm nhiÖm vô"), -- vat pham nhiem vu   
+            format("%s/ThuKho_Meow", "Meow ¬i më r­¬ng"), -- Ruong chua do
+            format("%s/Mo_Shop_TapHoa", "Meow ¬i, tui muèn B¸n vËt phÈm"), -- ban do
             format("%s/Mo_Shop_ByID", "Më shop theo ID") -- mo shop
         }
         if 3 == nRoute then
@@ -96,6 +98,21 @@ function CODECHECK1(nVar)
         Talk(1, "", "Giftcode sai!")
     end
 end
+function Mo_Ruong_TK()
+    SetTask(805, 2)
+    Msg2Player("Më r­¬ng thµnh c«ng!")
+end
+function ThuKho_Meow()
+    if GetTask(805) == 2 then
+        OpenBox()
+    else
+        Mo_Ruong_TK()
+        OpenBox()
+    end
+end
+function Mo_Shop_TapHoa()
+    Sale(30) -- mo tap hoa phung tuong
+end
 function UpdateLevel_55()
     SetLevel(55, 0)
     Say("T¨ng cÊp thµnh c«ng, ®¨ng nhËp l¹i!", 1, "Exit!/go_exit")
@@ -127,11 +144,12 @@ end
 -- Trang bÞ ----------------------------------------------------------------------------------------------------
 function Get_TB()
     local tSay = {
-        "Trang bÞ DiÖu d­¬ng +15/Get_YaoYang_10", -------
-        "Trang bÞ Êm chÕ +15/Get_JinShe", ---------
+        format("%s/Get_YaoYang_10", "Trang bÞ DiÖu d­¬ng +15"), --
         format("%s/GetCT", "NhËn Trang bÞ chiÕn tr­êng +15"),
         format("%s/Process_Equip_LingTu", "NhËn Linh ®å +15"),
-        format("%s/Process_SanJianTao", "NhËn trang Kim xµ ngÉu nhiªn 4 sao")
+        format("%s/Get_JinShe", "Trang bÞ Êm chÕ +15/"), --
+        format("%s/Process_SanJianTao", "NhËn trang Kim xµ ngÉu nhiªn 4 sao"), --
+        format("%s/Get_UL10", "NhËn uÈn linh 10") --
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "Chän trang bÞ", getn(tSay), tSay)
@@ -202,7 +220,7 @@ function Get_DHB()
     AddTitle(69, 2)
     AddTitle(72, 10)
     SetCurTitle(69, 2)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu bang héi");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu bang héi");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
@@ -214,70 +232,70 @@ function Get_DHNew()
     AddTitle(75, 1)
     AddTitle(75, 2)
     SetCurTitle(75, 2)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu NEW");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu NEW");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_DuHiep()
     AddTitle(65, 1)
     SetCurTitle(65, 1)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu Du Hiep");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu Du Hiep");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_UngDuong()
     AddTitle(65, 2)
     SetCurTitle(65, 2)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu Ung Duong");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu Ung Duong");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_ChienCuong()
     AddTitle(65, 3)
     SetCurTitle(65, 3)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu Chien Cuong");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu Chien Cuong");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_VLBHS()
     AddTitle(63, 1)
     SetCurTitle(63, 1)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu VLBHS");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu VLBHS");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
 function Get_BaVuong()
     AddTitle(66, 1)
     SetCurTitle(66, 1)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu Ba Vuong");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu Ba Vuong");
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 913, 0, 0)
 end
 function Get_DaiHiep()
     AddTitle(66, 2)
     SetCurTitle(66, 2)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu Dai Hiep");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu Dai Hiep");
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 913, 0, 0)
 end
 function Get_TinhAnhDo()
     AddTitle(66, 3)
     SetCurTitle(66, 3)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu TAD");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu TAD");
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 913, 0, 0)
 end
 function Get_TinhAnhTim()
     AddTitle(66, 4)
     SetCurTitle(66, 4)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu TAT");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu TAT");
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 913, 0, 0)
 end
 function Get_NgaoTheVoSong()
     AddTitle(61, 7)
     SetCurTitle(61, 7)
-    Msg2SubWorld("Chóc mõng b¹n nhËn ®­îc danh hiÖu NTVS");
+    Msg2Player("Chóc mõng b¹n nhËn ®­îc danh hiÖu NTVS");
     PlaySound("\\sound\\sound_i017.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 912, 0, 0)
 end
@@ -287,10 +305,17 @@ function Get_NL()
         "NhËn ®¸ quý/Get_Gem", -- nhan da quy
         "NhËn TCL + TMKL/Get_TCL_TMKL", --- TCL TMKL
         "NhËn TKL/getTianJiaoLing", --- TKL
+        "Trång c©y tø linh/Plant_TuLinh", -- cay tu linh
         "Ky nang sèng/Life_Skill" -- lifeskill
     }
     tinsert(tSay, "\nExit/nothing")
     Say(g_szTitle .. "Chän nguyªn liÖu", getn(tSay), tSay)
+end
+function Plant_TuLinh()
+    AddItem(2, 1, 30269, 10) -- cay tu linh
+    AddItem(2, 1, 30274, 100)
+    AddItem(2, 1, 30275, 100)
+    AddItem(2, 1, 30276, 100)
 end
 function Get_TCL_TMKL()
     AddItem(2, 95, 204, 99) -- TCL
@@ -321,28 +346,28 @@ function Get_QuanHamTongNS()
     SetTask(702, 250000)
     SetTask(704, 6)
     SetTask(745, 6)
-    Msg2SubWorld("Qu©n hµm Tèng Nguyªn So¸i")
+    Msg2Player("Qu©n hµm Tèng Nguyªn So¸i")
 end
 function Get_QuanHamLieuNS()
     SetTask(701, -250000)
     SetTask(703, 250000)
     SetTask(704, -6)
     SetTask(746, -6)
-    Msg2SubWorld("Qu©n hµm Liªu Nguyªn So¸i")
+    Msg2Player("Qu©n hµm Liªu Nguyªn So¸i")
 end
 function Get_QuanHamTongTQ()
     SetTask(701, 200000)
     SetTask(702, 200000)
     SetTask(704, 5)
     SetTask(745, 5)
-    Msg2SubWorld("Qu©n hµm Tèng §¹i T­íng")
+    Msg2Player("Qu©n hµm Tèng §¹i T­íng")
 end
 function Get_QuanHamLieuTQ()
     SetTask(701, -200000)
     SetTask(703, 200000)
     SetTask(704, -5)
     SetTask(746, -5)
-    Msg2SubWorld("Qu©n hµm Liªu §¹i T­íng")
+    Msg2Player("Qu©n hµm Liªu §¹i T­íng")
 end
 function getTianJiaoLing()
     AddItem(2, 97, 236, 100)
@@ -579,8 +604,8 @@ function join_tm()
     local szSay = {
         g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?",
         "§­êng M«n Ch©m/#enter_mp(6)",
-                -- "§­êng M«n NhËm HiÖp/#enter_mp(31)",
-         "\nRa khái/nothing"
+        -- "§­êng M«n NhËm HiÖp/#enter_mp(31)",
+        "\nRa khái/nothing"
     };
     SelectSay(szSay);
 end
@@ -829,6 +854,41 @@ function Maxtranphai()
         while LevelUpSkill(32) == 1 do
 
         end
+    end
+end
+function Get_UL10()
+    local tSay = {
+        -- Long  ---
+        format("%s/#UL10_Option(1)", "Long"), --
+        -- Ho ---
+        format("%s/#UL10_Option(2)", "Hæ"), --
+        -- Ung ---
+        format("%s/#UL10_Option(3)", "¦ng"), --
+        -- Phung ---
+        format("%s/#UL10_Option(4)", "Phông") --
+    }
+    tinsert(tSay, "\nExit/nothing")
+    Say(g_szTitle .. "Chän trang bÞ", getn(tSay), tSay)
+end
+function UL10_Option(nVar)
+    local num = tonumber(nVar)
+    Msg2Player(format("Number: %d", num))
+    if num == 1 then
+        AddItem(0, 148, 137, 1, 3) -- long 
+        AddItem(0, 149, 141, 1, 3) -- long 
+        AddItem(0, 150, 133, 1, 3) -- long
+    elseif num == 2 then
+        AddItem(0, 148, 139, 1, 3) -- ho
+        AddItem(0, 149, 143, 1, 3) -- ho 
+        AddItem(0, 150, 135, 1, 3) -- ho
+    elseif num == 3 then
+        AddItem(0, 148, 140, 1, 3) -- ung 
+        AddItem(0, 149, 144, 1, 3) -- ung 
+        AddItem(0, 150, 136, 1, 3) -- ung
+    else
+        AddItem(0, 148, 138, 1, 3) -- phung
+        AddItem(0, 149, 142, 1, 3) -- phung 
+        AddItem(0, 150, 134, 1, 3) -- phung
     end
 end
 function Get_YaoYang_10()
@@ -1625,20 +1685,20 @@ function Get_Money()
         Earn(local_gold - GetCash());
     end
     AddItem(2, 1, 30229, 10)
-    Msg2SubWorld("NhËn 10 Bao 4k Gold")
+    Msg2Player("NhËn 10 Bao 4k Gold")
 end
 function Get_Kimphieu()
     -- AddItem(2, 1, 30882, 100)
     ModifyJinJuan(100000, 1);
-    Msg2SubWorld("NhËn 100.000 kim phieu")
+    Msg2Player("NhËn 100.000 kim phieu")
 end
 function Get_VPXu()
     AddItem(2, 1, 30230, 10000)
-    Msg2SubWorld("NhËn 10.000 vËt phÈm xu")
+    Msg2Player("NhËn 10.000 vËt phÈm xu")
 end
 function Get_exp()
     ModifyExp(1000000000)
-    Msg2SubWorld("NhËn 1.000.000.000 (exp)")
+    Msg2Player("NhËn 1.000.000.000 (exp)")
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0)
 end
@@ -1651,20 +1711,20 @@ end
 function Get_DiemCT()
     SetTask(707, GetTask(707) + 500000) -- tich luy ct
     SetTask(701, GetTask(701) + 500000) -- cong trang 
-    Msg2SubWorld("NhËn 500k CT + 500k TLCT")
+    Msg2Player("NhËn 500k CT + 500k TLCT")
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0)
 end
 function Get_Thanhanh()
     AddItem(0, 200, 40, 1)
-    Msg2SubWorld("NhËn 1 than hanh bao dien")
+    Msg2Player("NhËn 1 than hanh bao dien")
 end
 function Get_DuocPham()
     AddItem(1, 0, 32, 200) -- cuu chuyen 
     AddItem(1, 0, 30009, 100) -- red 
     AddItem(1, 0, 30010, 100) -- blue 
     AddItem(1, 0, 30011, 100) -- yellow
-    Msg2SubWorld("NhËn duoc pham")
+    Msg2Player("NhËn duoc pham")
 end
 function Get_DuocPham2()
     AddItem(1, 0, 32, 100)
@@ -1676,20 +1736,20 @@ function Get_DuocPham2()
     for i = 261, 265 do
         AddItem(1, 0, i, 100);
     end
-    Msg2SubWorld("NhËn duoc pham xin")
+    Msg2Player("NhËn duoc pham xin")
 end
 function Get_QCVD()
     AddItem(2, 1, 30642, 100)
-    Msg2SubWorld("NhËn QCVD")
+    Msg2Player("NhËn QCVD")
 end
 function Get_DauHon()
     AddItem(2, 1, 1157, 100) -- yellow
-    Msg2SubWorld("NhËn Dau hon")
+    Msg2Player("NhËn Dau hon")
 end
 function Get_ThuCuoi()
     AddItem(0, 105, 10110, 1, 3, -1, -1, -1, -1, -1, -1, -1)
     AddItem(0, 105, 10111, 1, 3, -1, -1, -1, -1, -1, -1, -1)
-    Msg2SubWorld("NhËn Thu cuoi")
+    Msg2Player("NhËn Thu cuoi")
 end
 function Give_ZhuzhuZhouzhou()
     if gf_Judge_Room_Weight(2, 1) ~= 1 then
@@ -1714,14 +1774,15 @@ function Give_Dandan()
     if gf_Judge_Room_Weight(1, 1) ~= 1 then
         return 0;
     end
-    AddItem(2, 3, 7, 999);
+    AddItem(2, 3, 7, 999); 
 end
 
 function Give_ZhanMa()
     if gf_Judge_Room_Weight(1, 10) ~= 1 then
         return 0;
     end
-    AddItem(0, 105, 38, 1, 1, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
+    -- AddItem(0, 105, 38, 1, 1, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
+    AddItem(0,105,51,1,1,-1,-1,-1,-1,-1,-1)
 end
 
 function Give_Jiancu()
@@ -1729,7 +1790,8 @@ function Give_Jiancu()
         return 0;
     end
     AddItem(2, 15, 10, 2000);
-    AddItem(0, 105, 38, 1, 1, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
+    -- AddItem(0, 105, 38, 1, 3, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
+    AddItem(0,105,51,1,1,-1,-1,-1,-1,-1,-1)
 end
 
 function Give_Fengshifu()
@@ -1815,10 +1877,16 @@ function ClearBagAllItem(bTag)
         return
     end
     ClearItemInPos();
-    if GetItemCount(2, 1, 30644) < 1 and GetFreeItemRoom() > 0 then
-        -- AddItem(2, 1, 30644, 1) GM
+    if GetItemCount(2, 1, 50005) < 1 and GetFreeItemRoom() > 0 then
         AddItem(2, 1, 50005, 1) -- The Tan Thu
     end
+    -- if GetItemCount(2,1,30644) < 1 and GetFreeItemRoom() > 0 then
+    --     -- AddItem(2, 1, 30644, 1) GM
+	-- 	AddItem(2,1,30644,1)
+	-- end
+	if GetItemCount(2,1,30045) < 1 and GetFreeItemRoom() > 0 then
+		AddItem(2,1,30045,1) -- cam nang su kien
+	end
 end
 
 function TongOperation()

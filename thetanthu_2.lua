@@ -82,14 +82,18 @@ function choose_weapon_effect(nVar)
     if num < 16 then
         for i = 1, 15, 1 do
             if num == i then
-                BindWeaponEffect(local_Key_Effect_1[i], 7 * 24 * 3600)
+                local key_eff = local_Key_Effect_1[i]
+                print(key_eff)
+                BindWeaponEffect(key_eff, 7 * 24 * 3600)
                 return
             end
         end
     else
         for i = 16, 42, 1 do
             if num == i then
-                BindWeaponEffect(local_Key_Effect_2..tostring(i), 7 * 24 * 3600)
+                local key_eff = local_Key_Effect_2 .. tostring(i)
+                print(key_eff)
+                BindWeaponEffect(key_eff, 7 * 24 * 3600)
                 return
             end
         end
@@ -582,7 +586,6 @@ function join_em()
 end
 
 function join_gb()
-
     local szSay = {g_szTitle .. "Ng­¬i muèn gia nhËp l­u ph¸i g×?", "C¸i Bang TÜnh y/#enter_mp(11)",
                    "C¸i Bang ¤ Y/#enter_mp(12)", "\nRa khái/nothing"};
     SelectSay(szSay);

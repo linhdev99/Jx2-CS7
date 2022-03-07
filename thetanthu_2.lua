@@ -9,7 +9,7 @@ Include("\\script\\lib\\globalfunctions.lua");
 Include("\\script\\equip_shop\\equip_shop_head.lua") -- mo shop
 
 g_szTitle = "<color=green>Peter Meow:<color>"
-
+g_enterRoute_learnSkill = 0 -- 0: khong skill, 1: hoc full skill
 function OnUse(nItem)
     if 1 ~= IsExpSvrSystemOpen() then
         return
@@ -18,9 +18,11 @@ function OnUse(nItem)
     local tSay = {}
     local nRoute = GetPlayerRoute();
     if nRoute <= 0 then
-        tSay = {"Gia NhËp m«n ph¸i (ChuyÓn sinh 0 cÊp 90)/JoinRoute_UpdateLevel",
-                format("%s/UpdateLevel_55", "\nT¨ng ChuyÓn sinh 0 cÊp 55"),
-                format("%s/ThuKho_Meow", "\nMë r­¬ng Meow ¬i")}
+        tSay = { --
+        "Gia NhËp m«n ph¸i (ChuyÓn sinh 0 cÊp 90)/#JoinRoute_UpdateLevel(1)",
+        "Gia NhËp m«n ph¸i (Gi÷ nguyªn level)/#JoinRoute_UpdateLevel(0)",
+        format("%s/UpdateLevel_55", "\nT¨ng ChuyÓn sinh 0 cÊp 55"),
+        format("%s/ThuKho_Meow", "\nMë r­¬ng Meow ¬i")}
     else
         tSay = { ----------------------------------------
         format("%s/weapon_effect_setting", "HiÖu øng vò khÝ\n"), ----
@@ -541,7 +543,8 @@ function Process_Equip_LingTu()
 end
 --------------------------------------------------Ã‘Â¡Ã”Ã±ÃƒÃ…Ã…Ã‰Â¿ÂªÃŠÂ¼--------------------------------------
 -- Gia nhËp Ph¸i
-function JoinRoute_UpdateLevel()
+function JoinRoute_UpdateLevel(nVar)
+    g_enterRoute_learnSkill = tonumber(nVar)
     local tMenu = {"ThiÕu L©m/join_sl", --
     "Vâ §ang/join_wd", --
     "Nga My/join_em", --
@@ -626,7 +629,151 @@ function join_cy()
     SelectSay(szSay);
 end
 
+function enter_mp_khongskill(nRoute)
+    local nBegin = 0;
+    local nEnd = 0;
+    local nBody = GetBody(); -- 1=Õý³£ÄÐ£¬2=¿ýÎàÄÐ£¬3=ÐÔ¸ÐÅ®£¬4=½¿Ð¡Å®
+
+    SetPlayerRoute(nRoute); -- ÉèÖÃÁ÷ÅÉ
+
+    if nRoute == 2 then -- ÉÙÁÖË×¼Ò
+        LearnSkill(3);
+        LearnSkill(5);
+        -- LearnSkill(32);
+        nBegin = 21;
+        nEnd = 22;
+    elseif nRoute == 3 then -- ÉÙÁÖìøÉ®
+        LearnSkill(6);
+        -- LearnSkill(57);
+        nBegin = 45;
+        nEnd = 46;
+    elseif nRoute == 4 then -- ÉÙÁÖÎäÉ®
+        LearnSkill(2);
+        -- LearnSkill(44);
+        nBegin = 33;
+        nEnd = 34;
+    elseif nRoute == 14 then -- Îäµ±µÀ¼Ò
+        LearnSkill(4);
+        -- LearnSkill(146);
+        nBegin = 125;
+        nEnd = 126;
+    elseif nRoute == 15 then -- Îäµ±Ë×¼Ò
+        LearnSkill(5);
+        -- LearnSkill(159);
+        nBegin = 147;
+        nEnd = 148;
+    elseif nRoute == 8 then -- ¶ëáÒ·ð¼Ò
+        LearnSkill(4);
+        -- LearnSkill(89);
+        nBegin = 75
+        nEnd = 76;
+    elseif nRoute == 9 then -- ¶ëáÒË×¼Ò
+        LearnSkill(10);
+        -- LearnSkill(102);
+        nBegin = 90
+        nEnd = 91;
+    elseif nRoute == 11 then -- Ø¤°ï¾»ÒÂ
+        LearnSkill(2);
+        -- LearnSkill(113);
+        nBegin = 103
+        nEnd = 104;
+    elseif nRoute == 12 then -- Ø¤°ïÎÛÒÂ
+        LearnSkill(5);
+        -- LearnSkill(124);
+        nBegin = 114
+        nEnd = 115;
+    elseif nRoute == 6 then -- ÌÆÃÅ
+        LearnSkill(7);
+        -- LearnSkill(74);
+        nBegin = 58
+        nEnd = 59;
+    elseif nRoute == 17 then -- ÑîÃÅÇ¹Æï
+        LearnSkill(11);
+        -- LearnSkill(732);
+        nBegin = 720;
+        nEnd = 721;
+    elseif nRoute == 18 then -- ÑîÃÅ¹­Æï
+        LearnSkill(12);
+        -- LearnSkill(745);
+        nBegin = 733;
+        nEnd = 734;
+    elseif nRoute == 20 then -- Îå¶¾Ð°ÏÀ
+        LearnSkill(13);
+        -- LearnSkill(775);
+        nBegin = 364;
+        nEnd = 365;
+    elseif nRoute == 21 then -- Îå¶¾¹ÆÊ¦
+        LearnSkill(14);
+        -- LearnSkill(774);
+        nBegin = 347;
+        nEnd = 348;
+    elseif nRoute == 23 then -- À¥ÂØÌìÊ¦
+        LearnSkill(4);
+        -- LearnSkill(1032);
+        nBegin = 1017;
+        nEnd = 1018;
+    elseif nRoute == 25 then -- Ã÷½ÌÊ¥Õ½
+        LearnSkill(3);
+        -- LearnSkill(1066);
+        nBegin = 1053;
+        nEnd = 1054;
+    elseif nRoute == 26 then -- Ã÷½ÌÕó±ø
+        LearnSkill(8);
+        -- LearnSkill(1096);
+        nBegin = 1083;
+        nEnd = 1084;
+    elseif nRoute == 27 then -- Ã÷½ÌÑªÈË
+        LearnSkill(14);
+        -- LearnSkill(1213);
+        nBegin = 1131;
+        nEnd = 1132;
+    elseif nRoute == 29 then -- ´äÑÌÎèÏÉ
+        LearnSkill(15);
+        -- LearnSkill(1196);
+        nBegin = 1165;
+        nEnd = 1166;
+    elseif nRoute == 30 then -- ´äÑÌÁéÅ®
+        LearnSkill(16);
+        -- LearnSkill(1230);
+        nBegin = 1217;
+        nEnd = 1218;
+    elseif nRoute == 31 then -- ´äÑÌÎèÏÉ
+        LearnSkill(17);
+        -- LearnSkill(1883);
+        nBegin = 1872;
+        nEnd = 1873;
+    elseif nRoute == 32 then -- ´äÑÌÁéÅ®
+        LearnSkill(4);
+        -- LearnSkill(1897);
+        nBegin = 1885;
+        nEnd = 1886;
+    else
+        return
+    end
+
+    LearnSkill(20) -- khinh cong
+
+    ResetProperty()
+    if GetLevel() < 10 then
+        SetLevel(10, 0)
+    end
+    for i = nBegin, nEnd do
+        LearnSkill(i);
+        -- while LevelUpSkill(i) == 1 do
+        -- end
+    end
+    -- Maxtranphai()
+    PlaySound("\\sound\\sound_i016.wav");
+    SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0)
+    Say("Thoat", 1, "Exit!/go_exit")
+end
+
 function enter_mp(nRoute)
+    if g_enterRoute_learnSkill == 0 then
+        enter_mp_khongskill(nRoute) -- khong hoc skill
+        return
+    end
+
     local nBegin = 0;
     local nEnd = 0;
     local nBody = GetBody(); -- 1=Õý³£ÄÐ£¬2=¿ýÎàÄÐ£¬3=ÐÔ¸ÐÅ®£¬4=½¿Ð¡Å®
@@ -748,21 +895,17 @@ function enter_mp(nRoute)
         return
     end
 
-    LearnSkill(20);
+    LearnSkill(20) -- khinh cong
 
+    ResetProperty() -- tay diem tiem nang
+    if GetLevel() < 90 then
+        SetLevel(90, 0)
+    end
     for i = nBegin, nEnd do
         LearnSkill(i);
         while LevelUpSkill(i) == 1 do
         end
     end
-
-    ----------------------------Ã‰Ã¨Ã–ÃƒÃŠÃ½Ã–Âµ------------
-    -- SetTask(336, 20000);				--Ã‰Ã¨Ã–ÃƒÃŠÂ¦ÃƒÃ…Â¹Â±ÃÃ—Â¶Ãˆ
-    -- ModifyReputation(2000, 0);			--Ã‰Ã¨Ã–ÃƒÃ‰Ã¹ÃÃ»
-    -- PlayerReborn(1, random(4));			-- chuyÃ“n sinh
-    -- gf_SetTaskByte(1538, 1, 5) 			--5Ã—Âª
-    ResetProperty()
-    SetLevel(90, 1) -- Ã‰Ã¨Ã–ÃƒÂµÃˆÂ¼Â¶
     Maxtranphai()
     PlaySound("\\sound\\sound_i016.wav");
     SetCurrentNpcSFX(PIdx2NpcIdx(), 905, 0, 0)

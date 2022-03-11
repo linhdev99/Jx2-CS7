@@ -1,0 +1,29 @@
+Tªn	Lo¹i h×nh chİnh	Lo¹i h×nh phô	Ph©n lo¹i chi tiÕt	NÆng	Gi¸	SÕp chång nhiÒu nhÊt	L­u	L­u	L­u	L­u	L­u	L­u	L­u	L­u	L­u	L­u ( Ch÷ sè)	L­u ( Ch÷ sè)	HiÖn h×nh nhá trªn giao diÖn	HiÖn h×nh lín trªn giao diÖn	ThuyÕt minh	L­u (chuçi kı tù)	Khi vøt ra ngoµi sÏ hiÓn thŞ tªn	File gèc	L­u	Cã thÓ giao dŞch hay kh«ng ( 0 cã thÓ giao dŞch, cã thÓ b¸n; 1 kh«ng thÓ giao dŞch kh«ng thÓ b¸n; 2 cã thÓ b¸n, kh«ng thÓ giao dŞch; 3 kh«ng thÓ b¸n, cã thÓ giao dŞch; 4 cã thÓ b¸n, sau khi mang vµo sÏ bŞ khãa)	Cã/kh«ng thÓ vøt (0 ®­îc; 1 kh«ng ®­îc)	B¶o l­u 1	B¶o l­u 2	B¶o l­u 3	Tiªu chİ ph¸t triÓn	Biªn hiÖu ph¸t triÓn	Biªn hiÖu më khãa	Biªn hiÖu kinh nghiÖm
+HuyÕt Trİch Th¹ch Lv1	2	22	101	0	1	255												\image\item\gem\1¼¶ÑªµÎÊ¯a1.spr	\image\item\gem\1¼¶ÑªµÎÊ¯a0.spr			ThÇn bİ			2	1
+HuyÕt Trİch Th¹ch Lv2	2	22	102	0	1	255												\image\item\gem\2¼¶ÑªµÎÊ¯a1.spr	\image\item\gem\2¼¶ÑªµÎÊ¯a0.spr			ThÇn bİ			2	1
+HuyÕt Trİch Th¹ch Lv3	2	22	103	0	1	255												\image\item\gem\3¼¶ÑªµÎÊ¯a1.spr	\image\item\gem\3¼¶ÑªµÎÊ¯a0.spr			ThÇn bİ			2	1
+HuyÕt Trİch Th¹ch Lv4	2	22	104	0	1	255												\image\item\gem\4¼¶ÑªµÎÊ¯a1.spr	\image\item\gem\4¼¶ÑªµÎÊ¯a0.spr			ThÇn bİ			2	1
+HuyÕt Trİch Th¹ch Lv5	2	22	105	0	1	255												\image\item\gem\5¼¶ÑªµÎÊ¯a1.spr	\image\item\gem\5¼¶ÑªµÎÊ¯a0.spr			ThÇn bİ			2	1
+HuyÕt Trİch Th¹ch Lv6	2	22	106	0	1	255												\image\item\gem\6¼¶ÑªµÎÊ¯a1.spr	\image\item\gem\6¼¶ÑªµÎÊ¯a0.spr			ThÇn bİ			2	1
+HuyÕt Trİch Th¹ch Lv7	2	22	107	0	1	255												\image\item\gem\7¼¶ÑªµÎÊ¯a1.spr	\image\item\gem\7¼¶ÑªµÎÊ¯a0.spr			ThÇn bİ			2	1
+NguyÖt B¹ch Th¹ch Lv1	2	22	201	0	1	255												\image\item\gem\1¼¶ÔÂ°×Ê¯a1.spr	\image\item\gem\1¼¶ÔÂ°×Ê¯a0.spr			ThÇn bİ			2	1
+NguyÖt B¹ch Th¹ch Lv2	2	22	202	0	1	255												\image\item\gem\2¼¶ÔÂ°×Ê¯a1.spr	\image\item\gem\2¼¶ÔÂ°×Ê¯a0.spr			ThÇn bİ			2	1
+NguyÖt B¹ch Th¹ch Lv3	2	22	203	0	1	255												\image\item\gem\3¼¶ÔÂ°×Ê¯a1.spr	\image\item\gem\3¼¶ÔÂ°×Ê¯a0.spr			ThÇn bİ			2	1
+NguyÖt B¹ch Th¹ch Lv4	2	22	204	0	1	255												\image\item\gem\4¼¶ÔÂ°×Ê¯a1.spr	\image\item\gem\4¼¶ÔÂ°×Ê¯a0.spr			ThÇn bİ			2	1
+NguyÖt B¹ch Th¹ch Lv5	2	22	205	0	1	255												\image\item\gem\5¼¶ÔÂ°×Ê¯a1.spr	\image\item\gem\5¼¶ÔÂ°×Ê¯a0.spr			ThÇn bİ			2	1
+NguyÖt B¹ch Th¹ch Lv6	2	22	206	0	1	255												\image\item\gem\6¼¶ÔÂ°×Ê¯a1.spr	\image\item\gem\6¼¶ÔÂ°×Ê¯a0.spr			ThÇn bİ			2	1
+NguyÖt B¹ch Th¹ch Lv7	2	22	207	0	1	255												\image\item\gem\7¼¶ÔÂ°×Ê¯a1.spr	\image\item\gem\7¼¶ÔÂ°×Ê¯a0.spr			ThÇn bİ			2	1
+Hæ Ph¸ch Th¹ch CÊp 1	2	22	301	0	1	255												\image\item\gem\1¼¶çúçêÊ¯a1.spr	\image\item\gem\1¼¶çúçêÊ¯a0.spr			ThÇn bİ			2	1							
+Hæ Ph¸ch Th¹ch CÊp 2	2	22	302	0	1	255												\image\item\gem\2¼¶çúçêÊ¯a1.spr	\image\item\gem\2¼¶çúçêÊ¯a0.spr			ThÇn bİ			2	1							
+Hæ Ph¸ch Th¹ch CÊp 3	2	22	303	0	1	255												\image\item\gem\3¼¶çúçêÊ¯a1.spr	\image\item\gem\3¼¶çúçêÊ¯a0.spr			ThÇn bİ			2	1							
+Hæ Ph¸ch Th¹ch CÊp 4	2	22	304	0	1	255												\image\item\gem\4¼¶çúçêÊ¯a1.spr	\image\item\gem\4¼¶çúçêÊ¯a0.spr			ThÇn bİ			2	1							
+Hæ Ph¸ch Th¹ch CÊp 5	2	22	305	0	1	255												\image\item\gem\5¼¶çúçêÊ¯a1.spr	\image\item\gem\5¼¶çúçêÊ¯a0.spr			ThÇn bİ			2	1							
+Hæ Ph¸ch Th¹ch CÊp 6	2	22	306	0	1	255												\image\item\gem\6¼¶çúçêÊ¯a1.spr	\image\item\gem\6¼¶çúçêÊ¯a0.spr			ThÇn bİ			2	1							
+Hæ Ph¸ch Th¹ch CÊp 7	2	22	307	0	1	255												\image\item\gem\7¼¶çúçêÊ¯a1.spr	\image\item\gem\7¼¶çúçêÊ¯a0.spr			ThÇn bİ			2	1
+H¾c DiÖu Th¹ch CÊp 1	2	22	401	0	1	255												\image\item\gem\1¼¶ºÚê×Ê¯a1.spr	\image\item\gem\1¼¶ºÚê×Ê¯a0.spr			ThÇn bİ			2	1
+H¾c DiÖu Th¹ch CÊp 2	2	22	402	0	1	255												\image\item\gem\2¼¶ºÚê×Ê¯a1.spr	\image\item\gem\2¼¶ºÚê×Ê¯a0.spr			ThÇn bİ			2	1							
+H¾c DiÖu Th¹ch CÊp 3	2	22	403	0	1	255												\image\item\gem\3¼¶ºÚê×Ê¯a1.spr	\image\item\gem\3¼¶ºÚê×Ê¯a0.spr			ThÇn bİ			2	1							
+H¾c DiÖu Th¹ch CÊp 4	2	22	404	0	1	255												\image\item\gem\4¼¶ºÚê×Ê¯a1.spr	\image\item\gem\4¼¶ºÚê×Ê¯a0.spr			ThÇn bİ			2	1							
+H¾c DiÖu Th¹ch CÊp 5	2	22	405	0	1	255												\image\item\gem\5¼¶ºÚê×Ê¯a1.spr	\image\item\gem\5¼¶ºÚê×Ê¯a0.spr			ThÇn bİ			2	1							
+H¾c DiÖu Th¹ch CÊp 6	2	22	406	0	1	255												\image\item\gem\6¼¶ºÚê×Ê¯a1.spr	\image\item\gem\6¼¶ºÚê×Ê¯a0.spr			ThÇn bİ			2	1
+H¾c DiÖu Th¹ch CÊp 7	2	22	407	0	1	255												\image\item\gem\7¼¶ºÚê×Ê¯a1.spr	\image\item\gem\7¼¶ºÚê×Ê¯a0.spr			ThÇn bİ			2	1

@@ -2287,6 +2287,9 @@ function Get_Gem()
     AddItem(2, 22, 407, 100);
     WriteLogEx("Get_Gem", "Nhan da quy", 100, "H¾c DiÖu Th¹ch 7");
 
+    AddItem(2, 22, 501, 18);
+    WriteLogEx("Get_Gem", "Nhan da quy", 18, "§¸ quý siªu cÊp 1");
+
     -- AddItem(2, 22, 108, 100);
     -- WriteLogEx("Get_Gem", "Nhan da quy", 100, "HuyÕtTrÝchTh¹ch 8");
     -- AddItem(2, 22, 208, 100);

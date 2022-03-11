@@ -1,0 +1,2 @@
+Gi?i nén file ?ính kèm ???c head.lua chép ?è vào gs/script/Ì«Ðé»Ã¾³ (chú ý th? m?c có s? 3 ph?n 4 m? 3 thì ph?i )
+M? map Thái h? Tuy?n châu World_3010=1

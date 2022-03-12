@@ -1,0 +1,340 @@
+Phần 1
+72 HÀM PHỔ BIẾN CÓ UPDATE========================================================================================
+===========================================================================================================================================
+Say	--Nói chuyện có sự lựa chọn
+Talk	--Nói chuyện ko có sự lựa chọn
+GetTaskTemp & SetTaskTemp 	---Hàm đặt nhiệm vụ tức thời khi thoát nhân vật mất tác dụng
+Include		---Thêm đường dẫn đến file .lua mình muốn
+AddGlobalNews		]
+AddGlobalTimeNews	]
+AddGlobalCountNews	]	---Thêm thông báo trên màn hình
+AddLocalNews		]
+AddLocalTimeNews	]
+AddLocalCountNews	]
+AddRepute		---Thêm danh vọng
+GetRepute		---Kiểm tra danh vọng
+GetTask & SetTask	---Thiết dặt làm nhiệm vụ tồn tại mãi khi bạn SetTask nó về lại 0
+Msg2Player		---gởi tin nhắn tới người chơi đơn lẽ
+Msg2Team		---gởi tin nhắn tới người trong một đội
+Msg2SubWorld		---Gởi tin nhắn tới cả Server đang chơi
+Msg2Region		---Chưa thử nên ko bít hình như nhắn vào 1 cụm Server
+Msg2GM			---Nhắn tin tới GM
+Msg2IP			---Cái này là nhắn tin tới Ip hơi lạ phải không hướng dẫn lun cấu trúc là Msg2IP(IP, ID, StrInfo)
+DropItem		---Hàm Drop Item trong Game cũng khá mới cấu trúc đây DropItem(NpcId, tên hoặc ID item)
+AddItem			---Hàm AddItem
+AddEventItem		---Hàm Add item trong QuestKey AddEventItem(tên hoặc Id item)
+DelItem			---Xóa Item
+HaveItem		---Kiểm tra có Item không
+GetItemCount		---Đếm Item GetItemCount(tên hoặc id item)
+AddMagic		---Thêm skill (SkillID trong bang skills.txt)
+DelMagic		---Xóa skill
+HaveMagic		---Kiểm tra skill có không
+GetMagicLevel		---Kiểm tra nâng skill đc bao nhiu
+AddLeadExp		---Thêm kinh nghiệm cho quản lý tỗ đội [mức lãnh đạo]
+GetLeadLevel		---Kiểm tra kinh nghiệm của quản lý tổ đội
+SetFightState		---Thiết lập trạng thái nếu = 1 chiến đấu ngoài thành có thể thổ địa phù,nếu = 0 thì trong thành
+GetFightState		---Kiểm tra trạng thái
+AddNpc			---Thêm NPC cấu trúc cũ		]
+SetNpcScript		---thiết lập script cho NPC	] hai cái này đều có trong hàm phát triển của Akari rồi AddNPCEx
+GetFaction		---Kiểm tra môn phái
+SetFaction		---Thiết lập môn phái vào settings\faction dể xem tên môn phái
+GetExp			---kiểm tra kinh nghiệm
+AddOwnExp		---Thêm kinh nghiệm riêng 1 người
+AddExp			---Hàm này đó giờ hình như các bạn chưa rõ hoạt động của nó có 2 dạng AddExp(kinh nghiệm) --thêm kinh nghiệm
+									AddExp(kinh nghiệm,đẳng cấp cho phép,kinh nghiệm tổ đội đc hưởng)
+RestoreLife		---Bơm đầy máu lại
+RestoreMana		---Bơm đầy Mana lại
+RestoreStamina		---Bơm đầy thể lực lại
+GetSex			---Kiểm tra giới tính
+GetName			---Kiểm tra tên
+GetSeries		---Kiểm tra hệ
+GetCash			---Kiểm tra tiền trong người
+Pay			---Lấy tiền
+Earn			---Thêm tiền vào người
+PrePay			---Trả lại tiền
+ExeScript		---Chạy file script chỉ định
+OpenBox			---Mở rương
+AddTermini		---tạo điểm nhớ nhưng nơi đi qua
+GetRank			---Kiểm tra danh hiệu
+SetRank			---Đặt danh hiệu xem trong Settings\Rankings
+GetServerName		---Xem tên Server đang chạy
+AddNote			---Thêm dòng nhắc nhở 
+AddProp			---Cho thêm điểm tiềm năng
+AddMagicPoint		---Cho thêm điểm kỹ năng
+GetPlayerCount		---Đếm xem có bao nhiêu người đang chơi trong Server
+KickOutSelf		---Tự động thoát nhân vật rồi vào lại
+GetLucky		---Kiểm tra may mắn
+GetEng			---Kiểm tra nội lực
+GetDex			---Kiểm tra thân pháp
+GetStrg			---Kiểm tra sức mạnh
+GetVit			---Kiểm tra sinh lực
+Sale			---Shop
+UseTownPortal		---Biến về thành = thổ địa phù
+SetCurCamp & SetCamp	---Hàm dặt màu cho tên để đi PK
+
+## Phần 2
+SetTimer(Thời gian,thứ tự file trong TimerTask) ---thời gian tính bằng giây ví dụ : 60 giây = 6018
+---Được khởi động bằng hàm function OnTimer()StopTimer()
+---Tắt hàm SetTimer() cho vào lúc mình muốn nó sẽ dừng lại
+GetTimerId() ---Chưa xài bao giờ nhưng cho ID thời gian vào nó chạy
+GetWorldPos() ---Lấy tọa độ trong Maps đang đứng
+SubWorldID2Idx(id của Map) ---Kiểm tra xem Map có mở chưa
+DelNpc(id NPC) ---Xóa NPC đã Add thêm
+Cách làm : themNPC = AddNPC(......) muốn xóa con đó dùng
+DelNPC(themNPC) là đã đc xóa
+GetColdR() ---Kiểm tra kháng Băng của NV
+SetColdR(số) ---Cài đặt kháng cho NV
+GetFireR() lửa ]
+SetFireR() ]
+GetLightR() lôi ] ---giống hàm Băng
+SetLightR() ]
+GetPoisonR() độc ]
+SetPoisonR() ]
+GetPhyR() phòng thủ vật lý ]
+SetPhyR() ]
+GetDefend() ---Kiểm tra né tránh
+GetSex() ---kiểm tra giới tính = 0 là nam = 1 là nữ
+GetSeries() ---Kiểm tra ngũ hành
+GetUUID() ---Lấy ID của Nhân vật
+GetRestAP() ---Kiểm tra Tiềm Năng chưa nâng
+GetRestSP() ---kiểm tra điểm Kỹ năng chưa nâng
+AttackNpc() ---Hàm NPC hỗ trợ Cấu trúc hàm
+AttackNpc(ID NPC,sát thương vật lý,băng,hỏa,điện,độc)
+KillNpc(id npc) ---giết NPC xài giống cái
+DelNPCKillPlayer() ---giết chết người chơi
+SetNpcCurCamp() ---Cài đặt trạng thái của NPC = 6 là Talk, = 5 là quái
+GetCityCount() --- đếm các thành thị không nó trong file nào của
+SettingsGetCity() ---Lấy tên thành thị đang đứng
+GetWharfName() ]
+GetWharfCount() ]---Liên quan đến file WharfPrice.txt và Wharf.txt
+GetWharfPrice() ]
+GetWharf() ]
+GetWharfPos() ]
+GetSkillId() ---Kiểm tra skill trong skill list
+SetSkillLevel() ---Cài đặt điểm skill chưa xài thử
+SetChatFlag() ---Không biết
+GetMissionV() và SetMissionV() giống SetTask nhưng có tác dụng dến cả Server
+GetGlbMissionV() và SetGlbMissionV() mạnh hơn hàm
+SetMissionV()
+----------------------------Hàm dùng cho Mission------------------------------------OpenMission(thứ tự file) mở
+RunMission(thứ tự file) chạy ---Các file lua trong settings\task\mission.txt
+CloseMission(thứ tự file) đóng
+GetMSRestTime(thứ tự file,thời gian) --- dùng cho hàm Mission
+GetMSIdxGroup(thứ tự file,id Player) ---kiểm tra nhómAddMSPlayer() ---thêm người vào Mission đang diễn ra
+DelMSPlayer() ---Xóa khỏi Mission
+GetNextPlayer() ---lấy nhân vật tiếp theo
+PIdx2MSDIdx() ---kiểm tra nhân vật gì đó ko bít chưa xài
+MSDIdx2PIdx(thứ tự file,lời nhắn) ---nhắn tin tới người đang trong
+MissionNpcIdx2PIdx() ---chuyễn từ NPC sang người chơi ko bít là gì
+GetMSPlayerCount(thứ tự file,phe = 1 hoặc 2) ---đếm số người đang làm Mission
+RevivalAllNpc() ---Phục hội lại toàn bộ
+NPCSetPMParam() và
+GetPMParam() ---cài đặt tiến trinh làm
+MissionMsg2MSGroup("lời nhắn",phe = 1 hoặc 2) gởi tin nhắn tới phe lâu quá ko xài ko nhớ đúng ko
+Msg2MSAll() ---nhắn tin tới toàn bộ người đang trong
+MissionMsg2MSPlayer() ---nhắn tin tới 1 người đang làm mission
+---------------------------------------------------------------------------------------SetDeathScript() ---cài script cho nhân vật khi chết
+Death() ---giết NPC
+HideNpc(tên hay id của NPC,thời gian ẩn) ---giấu NPC
+SetLogoutRV() ---khôi phục cho nhân vật khi thoát ko chưa xài bao giờ
+SetCreateTeam() ---tạo tổ độ
+iGetPK() và SetPK(số) thiết lập PK
+ShowLadder(số ladder,ladderid,ladderid,...) ko bít tác dụng
+OpenTong() ---Mở Tống Kim
+SetPunish(số) ---- =0 có nghĩa ko làm xong nhiệm vụ đc sẽ bị phạt
+SwearBrother(số) ----tạo bằng hữu
+MakeEnemy(tên) ---tạo kẽ thù
+RollbackSkill() ---khôi phục skill dùng trong tẫy tủyU
+pdateSkill() ---cập nhật lại skill
+GetExtPoint() và PayExtPoint() ko hiểu
+StartMissionTimer(id tùy ý,thứ tự file TimerTask,thời gian18)
+
+## Phần 3
+các hàm dùng cho nhân vật:
+-GetTaskTemp(),SetTaskTemp(): giống như hàm GetTask() và SetTask() nhưng sẽ mất hiệu lực khi thoãt nhân vật
+-IsCaptain(): kiểm tra xem có là chủ PT hay ko, tương ứng với giá trị 0 và 1
+-GetTeam(): ID của đội pt
+-GetTeamSize(): số người trong đội pt
+-LeaveTeam(): Rời nhóm
+-GetWorldPos(): trả về 3 giá trị w,x,y với w : id maps ; x : toạ độ x; y toạ độ y
+-SetRevPos(x,y) : địa điểm lưu rương (x,y xem trong file RevivePos.ini)
+-SetTempRevPos(w,x,y) : khi chết sẽ quay trở lại địa điểm toạ độ w,x,y
+các hàm dùng cho xa phu:
+-GetStationCount(): số lượng thành thị thôn làng có trong file Station.txt
+-GetStationName(i): tên của thành thị hoặc thôn có id là i trong fie Station.txt
+-GetStationPos(i): toạ độ đi tới thành thị hoặc thôn có id la i trong fie Station.txt
+-GetWayPointName(i): tên của maps luyện công có id là i trong file WayPoint.txt
+-GetWayPointPos(i): toạ độ đi tới maps luyện công có id là i trong file WayPoint.txt
+Các hàm dùng trong mission:
+-GetMissionV(), SetMissionV(): giống hàm GetTask và SetTask nhưng dùng cho cả server
+-OpenMission(i) : mở mission có id là i trong file Task/missions.txt
+-SubWorldID2Idx: hàm này kiểm tra số thứ tự của maps nhân vật đang đứng, số thự tự xem trong file WorldSet.ini
+
+cac ham thoi gian
+SetTimer(a,b): cứ sau a thời gian thì chạy file có thứ tự b trong file TimerTask.txt nó sẽ chạy mãi cho đến khi gặp hàm StopTimer()
+StartMissionTimer(a,b,c): a: là id mission; cứ sau c thời gian thì chạy file có thứ tự b trong file TimerTask.txt
+## Phần 4
+----------------Các hàm về thông tin đến player, hệ thống tin nhắn--------------------------------
+Say2(Câu nói, Lựa chọn, Vẽ hình, replacename, Các hàm) Nói chuyện có hình Npc, có lựa chọn
+Say(Câu nói, Lựa chọn, Các hàm) Nói chuyện loại cũ có lựa chọn
+GotReward("Chuỗi","id/Hàm1","id/Hàm2","id/Hàm3") Khung nhận phần thưởng, hàm tương tự như Say - 3 lựa chọn
+Talk(Số câu, Hàm gọi lại, Câu 1, Câu 2, ...) Nói chuyện không lựa chọn
+Message(Chuỗi) Trả lại g_DebugLog(Chuỗi)
+PutMessage(Chuỗi) Hiện hộp thoại chứa chuỗi
+AddNews(chuỗi or số,all=1) Hiển thị dòng chữ chạy trên màn hình 3 lần,all: 1 hiện cho tất cả người chơi, 0 thì 1 player thấy
+AddTimeNews(chuỗi or số,năm,tháng,ngày,giờ,phút,all=1) Hiển thị dòng chữ chạy cho đến thông số thời gian thì ngừng
+AddCountNews(chuỗi or số,giây,all=1) Hiển thị dòng chữ chạy trong vòng số giây
+AddNews2,AddTimeNews2,AddCountNews2 tương tự như các hàm trên nhưng hiển thị dòng thứ 2
+MsgSystem(Số thứ tự) Thông báo khung system theo Warninginfo.txt
+--//////////////////////////////////////////////////////////////////////////////////////////--
+-----------------Các hàm nhiệm vụ và thời gian---------------------------------------------------
+OpenMission(id>0<3) mở nhiệm vụ của mỗi map, sau đó có thể hẹn giờ cho mỗi id, max 2 hàm cao cấp, nên cẩn trọng
+RunMission(id) Chạy hàm RunMission của số id nếu playerindex > 0 hàm cao cấp, nên cẩn trọng
+CloseMission(id) đóng nhiệm vụ số id hàm cao cấp, nên cẩn trọng
+StartMissionTimer(id,timertaskid, thời gian) Hẹn thời gian sẽ chạy script timertaskid(max 3) hàm OnMissionTimer() hàm cao cấp, nên cẩn trọng
+StopMissionTimer(id,timertaskid) Tắt hẹn giờ của mission id và timertaskid hàm cao cấp, nên cẩn trọng
+GetMSRestTime(id,timertaskid) Lấy thời gian còn lại của mission id, thứ timertaskid hàm cao cấp, nên cẩn trọng
+AddMSPlayer(MissionId, nhóm, PlayerIndex=chính mình) Thêm 1 player vào nhiệm vụ, mặc định PlayerIndex là người chạy script, trả về DataId > 0 hàm cao cấp, nên cẩn trọng
+DelMSPlayer(MissionId, nhóm, PlayerIndex=chính mình) Xóa player đã add hàm cao cấp, nên cẩn trọng
+SetPMParam(MissionId, nDataIndex, ParamId, giá trị) Đặt giá trị cho ParamId của DataIndex của 1 player trong 1 mission, ParamId từ 0->14 hàm cao cấp, nên cẩn trọng
+GetPMParam(MissionId, nDataIndex, ParamId) Check giá trị thứ ParamId hàm cao cấp, nên cẩn trọng
+GetMSIdxGroup(MissionId, nDataIndex) Check Nhóm của player trong mission hàm cao cấp, nên cẩn trọng
+PIdx2MSDIdx(MissionId, PlayerIndex) Check xem player có tên trong mission không, trả về nDataIndex hàm cao cấp, nên cẩn trọng
+MSDIdx2PIdx(MissionId, nDataIndex) Lấy PlayerIndex nếu như player có tồn tại trong mission hàm cao cấp, nên cẩn trọng
+GetMSPlayerCount(MissionId) Check tổng số lượng tên player trong mission kể cả offline hàm cao cấp, nên cẩn trọng
+GetMSGroupCount(MissionId,nGroup) Check tổng số trong 1 nhóm đang online hàm cao cấp, nên cẩn trọng
+Msg2MSGroup(MissionId,chuỗi,nhóm) Gửi tin nhắn cho 1 nhóm đang online hàm cao cấp, nên cẩn trọng
+Msg2MSAll(MissionId,chuỗi) gửi tin cho tất cả player trong mission đang online hàm cao cấp, nên cẩn trọng
+AddMSNpc(MissionId,nNpcIdx) Add ID npc vào mission, sau khi CloseMission npc tự động xóa
+SetMissionV(id, giá trị) Set giá trị mảng mission (tương tự SetTaskTemp) id max 49
+GetMissionV(id) Check giá trị mảng mission bên trên
+SetGlbMissionV(id, giá trị) Set giá trị quốc tế (tương tự SetTaskTemp) id max 49
+GetGlbMissionV(id) Check giá trị quốc tế
+SetTimer(giây18,TimerId) Hẹn giờ chạy script trong file TimerTask.txt, id từ 1 đến 10
+StopTimer() Dừng hẹn giờ đang chạy
+GetRestTime() Lấy thời gian còn lại của cuộc hẹn giờ bên trên
+GetTime() Yr,Mth,Dy,Hr,Mn,Se = GetTime() lấy thời gian hiện tại của máy tính
+SetTaskTemp(Id, giá trị) Đặt giá trị cho task Id tạm thời [Lấy: GetTaskTemp(Id)] id từ 0 -> 511
+SetTask(Id, giá trị lưu) Đặt giá trị cho task Id được lưu trong database [Lấy: GetTask(Id)]
+id từ 21 đến 255 đặt giá trị thoải mái.(Đã sử dụng với source: id 0->20)
+id từ 256->1255: giá trị chỉ được phép từ 0 đến 255
+--//////////////////////////////////////////////////////////////////////////////////////////--
+-----------------Các hàm dành cho player---------------------------------------------------
+AddRepute(Điểm) Cộng số điểm vào danh vọng [Lấy: GetRepute()]
+AddBless(Điểm) Cộng số điểm vào phúc duyên [Lấy: GetBless()]
+AddAccum(Điểm) Cộng số điểm vào tích lũy Tống Kim [Lấy: GetAccum()]
+AddHonor(Điểm) Cộng số điểm vào Vinh dự [Lấy: GetHonor()]
+AddProp(Điểm) Cộng số điểm vào tiềm năng
+AddMagicPoint(Điểm) Cộng số điểm vào kỹ năng
+IncPoint(kiểu, số Điểm) Tự động Cộng số điểm vào tiềm năng, 1:sức mạnh 2:thân pháp 3:sinh khí 4:nội công
+GetPlayerNpcIdx() Trả lại chỉ số Npc của Player
+NpcIdx2PIdx(nNpcIndex) Đổi NpcIndex thành PlayerIndex
+GetSeries() Kiểm tra ngũ hành nhân vật
+SetExBox(Số rương) Mở rộng số rương max 3 [Check: GetExBox()]
+ResetMagicPoint(bool KickOutSelf) Tẩy tủy kỹ năng, mặc định kick
+ResetProp() Tẩy tủy tiềm năng
+GetTongName() Trả về tên bang
+GetCoin() Trả lại số đồng hiện tại
+PayCoin(số đồng) Trừ số đồng
+AddCoin(số đồng) Tăng số đồng
+AddEquipExTime(số phút) Tăng hoặc giảm hạn sử dụng Túi hành trang
+BackHome() Thổ địa phù
+BackOldPlace() Quay lại địa điểm cũ
+SetRevPos(Id, Map=-1) Thiết đặt điểm phục sinh tuyệt đối
+SetTempRevPos(Id) Thiết đặt điểm phục sinh tạm thời (cách 1)
+SetTempRevPos(Map,x,y) Thiết đặt điểm phục sinh tạm thời (cách 2)
+SetLogoutRV(Kiểu) Khi log in sẽ dùng kiểu. 0:log in bình thường. 1: dùng điểm phục sinh
+SetRank(Id) Đặt danh hiệu theo file RankSetting.txt
+SetRankEx(Id,bOriginal=0) Đặt danh hiệu mở rộng theo file ExpandRank.txt, nếu bOriginal=1 là thay đổi cả giá trị gốc
+GetRankEx() Trả lại chuỗi tên danh hiệu mở rộng hiện thời
+SetCurCamp(phe) Thiết lập phe tạm thời
+GetCurCamp() check phe tạm thời
+SetCamp(phe) Thiết lập phe nguyên thủy
+GetCamp() check phe nguyên thủy
+SetPunish(bkiểu) Thiếp lập trạng thái chiến đấu trong các tính năng, bkiểu 1: bật, 0: tắt.(khi bật chết sẽ không mất gì)
+SetPKMode(kiểu, ÉpKiểu=0) Thiết lập chế độ PK, kiểu: 0 luyện công, 1 chiến đấu, 2 đồ sát. ÉpKiểu = 1 là ép player sử dụng chế độ đó.
+SetDeathScript(luafile) Đặt script cho player khi chết
+GetName() Trả lại tên người chơi
+--//////////////////////////////////////////////////////////////////////////////////////////--
+-----------------Các hàm dành cho item---------------------------------------------------
+SetItemDate(Id, Số phút) Đặt thêm hạn sử dụng cho item (cách thứ 1 - gia hạn thêm số phút)
+SetItemDate(Id, Năm,tháng,ngày,giờ,phút) Đặt hạn sử dụng cho item (cách thứ 2 - đặt thời gian hết hạn)
+FreezeItem(ItemId,bool) Đóng băng và ngưng đóng băng item trong lúc chạy script tránh giao dịch
+RemoveItem(index,booltrue, count=0) Xóa item theo Index với tùy chọn xóa vĩnh viễn hay không. Nếu count=0 sẽ xóa hết cả chồng
+GetItemCount(Detail, Genre=task) Check số lượng item trong hành trang
+DelItem(Detail,Genre=task,Count=1,room=E) Xóa vật phẩm tính năng số lần count trong room E
+AddItem(kind,genre,detail,parti,level,series,luck,MaLvl[6]) Thêm 1 item bất kỳ
+GetItemParam(pos,x,y) Trả về nIndex,kind,genre,detail,parti,level,series,row =
+AddItemAt(Index,pos,x,y) Additem vào Itemlist tại 1 vị trí cụ thể
+GetItemMagic(nIndex) Trả về 24 thông số magic var[24]=
+ItemSetAdd(kind,genre,detail,parti,level,series,luck) Add item ngầm treo trong server, không hiển thị
+AddItemID(nIndex) Khi có sẵn nIndex của Item ngầm trong server, add vào hành trang như bình thường
+SetItemRich(nIndex, nValue) Đặt trị số tài phú binh giáp
+ChangeItemMagic(index,24var or 83) Áp đặt magic var[24] cho item
+CheckRoom(Rộng, Cao,phòng=hành trang) Kiểm tra số lượng ô trống xy, mặc định kiểm tra hành trang param3
+LockItem(nIndex) Khóa bảo hiểm vĩnh viễn (cách 1) (chỉ tác dụng ở server)
+LockItem(nIndex,0) Mở khóa hoàn toàn (cách 2) (chỉ tác dụng ở server)
+--//////////////////////////////////////////////////////////////////////////////////////////--
+-----------------Các hàm dành cho npc---------------------------------------------------
+AddNpc(NpcTemplateId,Level,mapid,x,y) Add 1 npc vào mapid vị trí x,y
+SetNpcSer(NpcIndex, chuỗi ngũ hành 3 ký tự) ví dụ "014" quái random 3 hệ : Kim, Mộc, Thổ "555" quái random 5 hệ
+SetNpcExp(NpcIndex, Kinh nghiệm, bOriginal) Đặt kinh nghiệm cho quái, bOriginal = 1 thì thay đổi luôn giá trị khởi tạo của npc
+SetNpcName(NpcIndex, Tên) Đặt tên cho quái
+SetNpcLife(NpcIndex, máu,bOriginalLife) Đặt số máu cho npc, bOriginalLife = 1: đổi luôn cả máu nguyên thủy
+SetNpcReplenish(NpcIndex, điểm phục hồi máu, bOriginal) Đặt số điểm phục hồi sinh lực mỗi nửa giây
+SetNpcAR(NpcIndex, ĐCX, bOriginal) Thiếp lập độ chính xác cho npc
+SetNpcDefense(NpcIndex, né tránh, bOriginal) Thiết lập né tránh
+SetNpcDamage(NpcIndex, min, max, bDec) Thiết lập sát thương vật lý nhỏ nhất và lớn nhất cho npc, bDec = 1: trừ ra
+SetNpcResist(NpcIndex, STVL, Độc, Băng, Hỏa, Lôi, bOriginal) Thiết lập kháng tính
+SetNpcRevTime(NpcIndex,ReviveFrame) thời gian sống lại là bao lâu? vd 6018 : 1 phút sau khi chết sẽ hồi sinh
+SetNpcHitRecover(NpcIndex, TG phục hồi, bOriginal) Thiết lập thời gian phục hồi của npc (độ giật khi nhận stvl)
+SetNpcSpeed(NpcIndex, tốc độ) Thiếp lập tốc độ di chuyển
+SetNpcSkill(NpcIndex, skillid, level, thứ tự skill=1) Thiếp lập skill cho npc, skillid or level = 0 là không set giá trị đó
+SetNpcLifeTime(NpcIndex,giây18) Npc chỉ tồn tại trong số giây được thiết đặt, và tự động xóa khi hết thời gian
+SetNpcCurCamp(NpcIndex,phe phái) Thiết lập phe phái hiện thời cho npc
+SetNpcScript(NpcIndex,Script) Thiết lập file script hoạt động cho npc
+SetNpcDropScript(NpcIndex, luafile) File tỷ lệ rơi đồ
+SetBoss(NpcIndex,kiểu) 0:npc thường, 1:boss xanh, 2: boss vàng
+SetNpcDmgEx(NpcIndex, STVL, độc, băng, hỏa, lôi, bNgoạicông) + sát thương, bNgoạicông = 1 là sát thương ngoại, mặc định là nội
+SetNpcDmgRet(NpcIndex,phần trăm) Phản damage %
+GetNpcLife(NpcIndex, bOriginal) Check số máu tối đa của npc, bOriginal = 1: check máu nguyên thủy
+GetBossType(NpcIndex) Trả về kiểu của npc, 0: npc thường, 1: boss xanh, 2: boss vàng
+GetNpcSer(NpcIndex) Kiểm tra ngũ hành của quái
+GetNpcLifeTime(NpcIndex) Kiểm tra thời gian sống sót còn lại của Npc
+IsBlueBoss(NpcIndex) Check quái có phải là boss xanh hay không
+GetNpcLev(NpcIndex) Lấy level của quái
+DropNpcItem(NpcIndex, kind,genre,detail,parti,level,series,luck,MaLvl[6]) Rớt item tại vị trí Npc (NpcIndex)
+DropNpcMoney(NpcIndex, Số tiền) Rớt tiền tại vị trí Npc (NpcIndex)
+SetNpcValue(NpcIndex,var) Lưu 1 giá trị nào đó vào npc
+GetNpcValue(NpcIndex) Lấy lại giá trị đã lưu
+--//////////////////////////////////////////////////////////////////////////////////////////--
+-----------------Các hàm chuc nang---------------------------------------------------
+OpenEnchase() Mở bảng khảm nạm
+AddTrap(Mapid,x,y,LuaFile) tạo 1 trap và đặt đường dẫn LuaFile
+OpenDice() Mở trò chơi xí ngầu
+RANDOM(Min,Max) Lấy số ngẫu nhiên từ min đến max, nếu chỉ 1 thông số thì giá trị ngẫu nhiên từ 0 đến số đó
+GetRevPos(Id,Map) Trả về tọa độ x,y của điểm Id
+Sale(shopId, kiểu) Mở 1 shop và bán bằng giá trị kiểu: 0:Tiền vạn, 1: phúc duyên, 2:danh vọng, 3: tích lũy TK, 4:vinh dự. Mặc định là tiền vạn.
+--//////////////////////////////////////////////////////////////////////////////////////////--
+-----------------Các hàm skill kỹ năng---------------------------------------------------
+AddMagic(SkillId, nLevel) Thêm kỹ năng, có thể dùng để tăng giảm level
+DelMagic(SkillId) Xóa kỹ năng
+GetMagicLevel(SkillId) Kiểm tra lv skill, trả về level, nếu không tồn tại trả về -1
+GetMagicPoint() Check điểm kỹ năng còn dư
+GetSkillId(IndexList) Lấy skillid thứ IndexList trong skilllist
+ClearSkill() Xóa hết skill
+IncSkill(SkillId, điểm cộng) Tăng điểm skill
+AddSkillState(SkillId, Level, giây18) Xuất skill trạng thái lên nhân vật trong thời gian giây*18
+CastSkill(SkillId, Level) Xuất skill chủ động tại vị trí nhân vật
+--//////////////////////////////////////////////////////////////////////////////////////////--
+-----------------Các hàm tổ đội---------------------------------------------------
+GetTeam() Trả về TeamId, nếu sai trả về nil
+GetTeamSize() Cách thứ nhất, trả về số thành viên hiện tại trong đội player
+GetTeamSize(TeamId) Cách thứ hai, trả về số thành viên của đội số TeamId
+GetTeamMem(TeamId,mem thứ n) Trả về PlayerIndex của thành viên thứ n trong đội TeamId, nếu n=0 trả lại PlayerIndex đội trưởng
+IsCaptain() Check nếu == 1, thì player là đội trưởng
+LeaveTeam() Rời nhóm hoặc giải tán nhóm
+Msg2Team("Chuỗi") Gửi thông tin đến toàn đội
+--//////////////////////////////////////////////////////////////////////////////////////////--
+-----------------Các hàm obj vật thể---------------------------------------------------
+AddObj(Id,Map,x,y,Luascript,Hướng quay=0,state=0) Add vật thể, 3 param cuối có thể không

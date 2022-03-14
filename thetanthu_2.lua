@@ -1847,6 +1847,7 @@ function Give_ZhanMa()
     end
     -- AddItem(0, 105, 38, 1, 1, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
     AddItem(0, 105, 51, 1, 1, -1, -1, -1, -1, -1, -1)
+    AddItem(0, 105, 38, 1, 1, 7, 14658, 7, 14646, 7, 14647, -1, 15)
 end
 
 function Give_Jiancu()
@@ -1856,6 +1857,7 @@ function Give_Jiancu()
     AddItem(2, 15, 10, 2000);
     -- AddItem(0, 105, 38, 1, 3, 7, 101, 7, 101, 7, 101) -- ngua 70% 70% 70%
     AddItem(0, 105, 51, 1, 1, -1, -1, -1, -1, -1, -1)
+    AddItem(0, 105, 38, 1, 1, 7, 14658, 7, 14646, 7, 14647, -1, 15)
 end
 
 function Give_Fengshifu()

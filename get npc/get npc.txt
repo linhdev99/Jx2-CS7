@@ -11,3 +11,5 @@ Lenh 2
 
 
 ?gm ds NewWorld(GetWorldPos())
+
+?gm ds AddItem(2,1,1200,3)

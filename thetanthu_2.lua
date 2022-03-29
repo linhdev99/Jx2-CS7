@@ -2098,13 +2098,26 @@ function Get_Energy()
 end
 
 function Life_Skill()
-    local tSay = {"Muèn t¨ng cÊp kü n¨ng thu thËp/upgrade_gather_skill",
-                  "Muèn t¨ng cÊp kü n¨ng s¶n xuÊt/upgrade_compose_skill",
-                  "NhËn nguyªn liÖu chÕ trang bŞ Linh §å/get_lingtu_equip_material",
-                  "T¹i h¹ chØ xem qua th«i/nothing"}
+    local tSay = { --
+    "Muèn t¨ng cÊp kü n¨ng thu thËp/upgrade_gather_skill",
+    "Muèn t¨ng cÊp kü n¨ng s¶n xuÊt/upgrade_compose_skill",
+    "NhËn nguyªn liÖu chÕ trang bŞ Linh §å/get_lingtu_equip_material",
+    "NhËn nguyªn liÖu chÕ ®å/get_nguyenlieu_chedo", --
+    "T¹i h¹ chØ xem qua th«i/nothing"}
     Say(g_szTitle .. "T¨ng cÊp kü n¨ng sèng", getn(tSay), tSay);
 end
-
+function get_nguyenlieu_chedo()
+    local tSay = { --
+    "Kü n¨ng chÕ d­îc/kynang_cheduoc", --
+    "Kü n¨ng nÊu n­íng/kynang_naunuong", --
+    "Trë l¹i/Life_Skill"}
+    Say(g_szTitle .. "T¨ng cÊp kü n¨ng sèng", getn(tSay), tSay);
+end
+function kynang_cheduoc()
+    for i = 1, 12, 1 do
+        AddItem(1,2,i,999)
+    end
+end
 function upgrade_gather_skill()
     local tGather = {1, 2, 5, 6};
     local tName = {"§èn c©y", "Lµm da", "§µo kho¸ng", "KĞo t¬"};
